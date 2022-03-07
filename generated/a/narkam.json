@@ -1,0 +1,7699 @@
+[ {
+  "id" : 1,
+  "originalValue" : "about",
+  "value" : "інфармацыя; аб праграме; аб",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 2,
+  "originalValue" : "accent color",
+  "value" : "дамінуючы колер",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 3,
+  "originalValue" : "access",
+  "value" : "доступ",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 4,
+  "originalValue" : "accessibility",
+  "value" : "спецыяльныя магчымасці",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 5,
+  "originalValue" : "account",
+  "value" : "уліковы запіс, уліковага запісу, уліковым запісе",
+  "wrong" : "конт",
+  "comment" : ""
+}, {
+  "id" : 6,
+  "originalValue" : "accounts",
+  "value" : "уліковыя запісы, уліковых запісаў, уліковымі запісамі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 7,
+  "originalValue" : "action",
+  "value" : "дзеянне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 8,
+  "originalValue" : "activate",
+  "value" : "актываваць",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 9,
+  "originalValue" : "activation",
+  "value" : "актывацыя",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 10,
+  "originalValue" : "active",
+  "value" : "актыўны",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 11,
+  "originalValue" : "activities",
+  "value" : "дзеянні; дзейнасць; актыўнасць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 12,
+  "originalValue" : "add",
+  "value" : "дадаць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 13,
+  "originalValue" : "add-in",
+  "value" : "надбудова",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 14,
+  "originalValue" : "add-on",
+  "value" : "дадатковы кампанент\n",
+  "wrong" : "даданне, пашырэнне",
+  "comment" : ""
+}, {
+  "id" : 15,
+  "originalValue" : "adjust",
+  "value" : "рэгуляваць; ! дапасаваць",
+  "wrong" : "",
+  "comment" : "Samsung — рэгуляваць, дапасаваць; наладзіць\nMS — рэгуляваць"
+}, {
+  "id" : 16,
+  "originalValue" : "adjustment",
+  "value" : "рэгуліроўка",
+  "wrong" : "",
+  "comment" : "MS — рэгуліроўка; карэкціроўка, карэкцыя"
+}, {
+  "id" : 17,
+  "originalValue" : "administrator",
+  "value" : "адміністратар",
+  "wrong" : "",
+  "comment" : "трэба адрозніваць ад кіраўнікоў у ТГ."
+}, {
+  "id" : 18,
+  "originalValue" : "admit",
+  "value" : "дапусціць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 19,
+  "originalValue" : "adress",
+  "value" : "адрас",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 20,
+  "originalValue" : "adult",
+  "value" : "дарослы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 21,
+  "originalValue" : "Afghanistan",
+  "value" : "Афганістан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 22,
+  "originalValue" : "Africa",
+  "value" : "Афрыка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 23,
+  "originalValue" : "Afrikaans",
+  "value" : "афрыкаанс (мова)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 24,
+  "originalValue" : "Aghem",
+  "value" : "агем (мова)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 25,
+  "originalValue" : "airplane mode",
+  "value" : "рэжым палёту, ! рэжым «У самалёце»",
+  "wrong" : "",
+  "comment" : "рэжым палёту — Google, MS\nрэжым «У самалёце» — Samsung"
+}, {
+  "id" : 26,
+  "originalValue" : "Akan",
+  "value" : "акан (мова)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 27,
+  "originalValue" : "Aland Islands",
+  "value" : "Аландскія астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 28,
+  "originalValue" : "Åland Islands",
+  "value" : "Аландскія астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 29,
+  "originalValue" : "Albania",
+  "value" : "Албанія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 30,
+  "originalValue" : "Albanian",
+  "value" : "албанская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 31,
+  "originalValue" : "alert",
+  "value" : "абвестка; сігнал",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 32,
+  "originalValue" : "Algeria",
+  "value" : "Алжыр",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 33,
+  "originalValue" : "algorithm",
+  "value" : "алгарытм, алгарытму",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 34,
+  "originalValue" : "align",
+  "value" : "выраўнаваць",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 35,
+  "originalValue" : "alignement",
+  "value" : "выраўноўванне",
+  "wrong" : "выроўніваньне",
+  "comment" : "MS"
+}, {
+  "id" : 36,
+  "originalValue" : "all",
+  "value" : "усё",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 37,
+  "originalValue" : "allow",
+  "value" : "дазволіць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 38,
+  "originalValue" : "AM",
+  "value" : "AM",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 39,
+  "originalValue" : "amazing",
+  "value" : "цудоўна; цудоўны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 40,
+  "originalValue" : "American Samoa",
+  "value" : "Амерыканскае Самоа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 41,
+  "originalValue" : "Amharic",
+  "value" : "амхарская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 42,
+  "originalValue" : "amount",
+  "value" : "колькасць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 43,
+  "originalValue" : "Andorra",
+  "value" : "Андора",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 44,
+  "originalValue" : "angle",
+  "value" : "вугал",
+  "wrong" : "",
+  "comment" : "Англа-бел"
+}, {
+  "id" : 45,
+  "originalValue" : "Angola",
+  "value" : "Ангола",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 46,
+  "originalValue" : "Anguilla",
+  "value" : "Ангілья",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 47,
+  "originalValue" : "answer",
+  "value" : "адказаць; адказ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 48,
+  "originalValue" : "Antarctica",
+  "value" : "Антарктыка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 49,
+  "originalValue" : "Antigua",
+  "value" : "Антыгуа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 50,
+  "originalValue" : "Antigua and Barbuda",
+  "value" : "Антыгуа і Барбуда",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 51,
+  "originalValue" : "app",
+  "value" : "праграма",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 52,
+  "originalValue" : "application",
+  "value" : "праграма",
+  "wrong" : "прыкладанне, дадатак, прыстасаванне, аплікацыя і г.д.",
+  "comment" : ""
+}, {
+  "id" : 53,
+  "originalValue" : "application shortcut",
+  "value" : "ярлык праграмы",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 54,
+  "originalValue" : "apply",
+  "value" : "ужыць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 55,
+  "originalValue" : "Arabic",
+  "value" : "Арабскае (пісьмо); арабская (мова)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 56,
+  "originalValue" : "architecture",
+  "value" : "архітэктура",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 57,
+  "originalValue" : "archive",
+  "value" : "архіў",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 58,
+  "originalValue" : "area",
+  "value" : "вобласць",
+  "wrong" : "",
+  "comment" : "ms, google, samsung"
+}, {
+  "id" : 59,
+  "originalValue" : "Argentina",
+  "value" : "Аргенціна",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 60,
+  "originalValue" : "Armenia",
+  "value" : "Арменія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 61,
+  "originalValue" : "Armenian",
+  "value" : "армянская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 62,
+  "originalValue" : "Aruba",
+  "value" : "Аруба",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 63,
+  "originalValue" : "as available",
+  "value" : "паводле наяўнасці",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 64,
+  "originalValue" : "Asia",
+  "value" : "Азія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 65,
+  "originalValue" : "Assamese",
+  "value" : "асамская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 66,
+  "originalValue" : "assign",
+  "value" : "прызначыць",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 67,
+  "originalValue" : "assignment",
+  "value" : "прызначэнне",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 68,
+  "originalValue" : "associated",
+  "value" : "! звязаны",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 69,
+  "originalValue" : "Asturian",
+  "value" : "астурыйская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 70,
+  "originalValue" : "Asu",
+  "value" : "асу (мова)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 71,
+  "originalValue" : "at least",
+  "value" : "прынамсі",
+  "wrong" : "",
+  "comment" : "у гэтым сэнсе коскамі не адасабляецца"
+}, {
+  "id" : 72,
+  "originalValue" : "attach",
+  "value" : "далучыць",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 73,
+  "originalValue" : "attachment",
+  "value" : "далучэнне",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 74,
+  "originalValue" : "attribute",
+  "value" : "атрыбут",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 75,
+  "originalValue" : "audio",
+  "value" : "аўдыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 76,
+  "originalValue" : "audio player",
+  "value" : "аўдыяпрайгравальнік",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 77,
+  "originalValue" : "Australia",
+  "value" : "Аўстралія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 78,
+  "originalValue" : "Austria",
+  "value" : "Аўстрыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 79,
+  "originalValue" : "authentication",
+  "value" : "праверка сапраўднасці",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 80,
+  "originalValue" : "authorization",
+  "value" : "аўтарызацыя",
+  "wrong" : "",
+  "comment" : "MS — аўтарызацыя"
+}, {
+  "id" : 81,
+  "originalValue" : "authorize",
+  "value" : "аўтарызаваць",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 82,
+  "originalValue" : "automatic",
+  "value" : "аўтаматычна",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 83,
+  "originalValue" : "autorun",
+  "value" : "аўтазапуск\n",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 84,
+  "originalValue" : "available",
+  "value" : "даступны; у сетцы",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 85,
+  "originalValue" : "average",
+  "value" : "сярэдні",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 86,
+  "originalValue" : "axis",
+  "value" : "вось, восі",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 87,
+  "originalValue" : "Azerbaijan",
+  "value" : "Азербайджан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 88,
+  "originalValue" : "Azerbaijani",
+  "value" : "азербайджанская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 89,
+  "originalValue" : "Azeri",
+  "value" : "азербайджанская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 90,
+  "originalValue" : "B",
+  "value" : "B — Б (калі маецца на ўвазе байт); b — б (калі маецца на ўвазе біт)",
+  "wrong" : "",
+  "comment" : "няма ў CLDR"
+}, {
+  "id" : 91,
+  "originalValue" : "Back",
+  "value" : "Назад",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 92,
+  "originalValue" : "back up",
+  "value" : "рэзерваваць; рэзервовая копія; рэзервовае капіяванне",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 93,
+  "originalValue" : "background",
+  "value" : "фон; фонавы",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 94,
+  "originalValue" : "backup",
+  "value" : "рэзерваваць; рэзервовая копія; рэзервовае капіяванне",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 95,
+  "originalValue" : "bad",
+  "value" : "нестабільны; праблемны; неадпаведны; непадыходзячы; дрэнны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 96,
+  "originalValue" : "bad network",
+  "value" : "нестабільнае злучэнне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 97,
+  "originalValue" : "bad word",
+  "value" : "непрыстойнае слова",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 98,
+  "originalValue" : "badge",
+  "value" : "значок",
+  "wrong" : "",
+  "comment" : "MS — значок, эмблема\nGoogle — значок"
+}, {
+  "id" : 99,
+  "originalValue" : "Bafia",
+  "value" : "бафія (мова)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 100,
+  "originalValue" : "Bahamas",
+  "value" : "Багамскія астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 101,
+  "originalValue" : "Bahrain",
+  "value" : "Бахрэйн",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 102,
+  "originalValue" : "­Bambara",
+  "value" : "бамбара (мова)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 103,
+  "originalValue" : "bandwidth",
+  "value" : "паласа прапускання",
+  "wrong" : "",
+  "comment" : "Samsung, MS — паласа прапускання\nMS — прапускная ўласцівасць"
+}, {
+  "id" : 104,
+  "originalValue" : "Bangla",
+  "value" : "бенгальская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 105,
+  "originalValue" : "Bangladesh",
+  "value" : "Бангладэш",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 106,
+  "originalValue" : "bar",
+  "value" : "панэль",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 107,
+  "originalValue" : "Barbados",
+  "value" : "Барбадас",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 108,
+  "originalValue" : "Basaa",
+  "value" : "басаа (мова)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 109,
+  "originalValue" : "Basque",
+  "value" : "баскская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 110,
+  "originalValue" : "batch",
+  "value" : "пакет",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 111,
+  "originalValue" : "battery",
+  "value" : "акумулятар; батарэя",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 112,
+  "originalValue" : "battery level",
+  "value" : "узровень акумулятара",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 113,
+  "originalValue" : "battery life",
+  "value" : "! рэсурс акумулятара, тэрмін працы акумулятара",
+  "wrong" : "",
+  "comment" : "рэсурс акумулятара — Google\nтэрмін працы акумулятара — MS"
+}, {
+  "id" : 114,
+  "originalValue" : "battery power",
+  "value" : "зарад акумулятара",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 115,
+  "originalValue" : "Battery saving",
+  "value" : "Эканомія зараду",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 116,
+  "originalValue" : "because",
+  "value" : "бо",
+  "wrong" : "таму што",
+  "comment" : "выключна дзеля аднастайнасці"
+}, {
+  "id" : 117,
+  "originalValue" : "Belarus",
+  "value" : "Беларусь",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 118,
+  "originalValue" : "Belarusian",
+  "value" : "Беларуская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 119,
+  "originalValue" : "Belarusian (Latin)",
+  "value" : "Беларуская (Лацінка)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 120,
+  "originalValue" : "Belarussian",
+  "value" : "Беларуская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 121,
+  "originalValue" : "Belgium",
+  "value" : "Бельгія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 122,
+  "originalValue" : "Belize",
+  "value" : "Беліз",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 123,
+  "originalValue" : "below",
+  "value" : "ніжэй",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 124,
+  "originalValue" : "Bemba",
+  "value" : "бемба (мова)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 125,
+  "originalValue" : "Bena",
+  "value" : "бена(мова)\n",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 126,
+  "originalValue" : "Benin",
+  "value" : "Бенін",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 127,
+  "originalValue" : "Bermuda",
+  "value" : "Бермудскія астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 128,
+  "originalValue" : "Bhutan",
+  "value" : "Бутан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 129,
+  "originalValue" : "bit",
+  "value" : "біт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 130,
+  "originalValue" : "bits",
+  "value" : "біты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 131,
+  "originalValue" : "bitwise",
+  "value" : "пабітавы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 132,
+  "originalValue" : "black",
+  "value" : "чорны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 133,
+  "originalValue" : "block",
+  "value" : "блакіраваць, заблакіраваць; блакіраванне (працэс); блакіроўка",
+  "wrong" : "блакаваць; блакаванне; заблакаваць",
+  "comment" : ""
+}, {
+  "id" : 134,
+  "originalValue" : "blue",
+  "value" : "сіні",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 135,
+  "originalValue" : "bluetooth\n",
+  "value" : "bluetooth\n",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 136,
+  "originalValue" : "blur",
+  "value" : "размытасць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 137,
+  "originalValue" : "Bodo",
+  "value" : "бода (мова)\n",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 138,
+  "originalValue" : "body",
+  "value" : "змест (дакумента); цела",
+  "wrong" : "",
+  "comment" : "Samsung — змест (дакумента)\nMS — тэкст (паведамлення)\n\nДумаю, што тут можна лічыць паведамленне і дакумент сінонімамі"
+}, {
+  "id" : 139,
+  "originalValue" : "Bolivia",
+  "value" : "Балівія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 140,
+  "originalValue" : "bookmark",
+  "value" : "закладка",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 141,
+  "originalValue" : "Bosnia and Herzegovina",
+  "value" : "Боснія і Герцагавіна",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 142,
+  "originalValue" : "Bosnian",
+  "value" : "баснійская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 143,
+  "originalValue" : "both",
+  "value" : "абодва",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 144,
+  "originalValue" : "Botswana",
+  "value" : "Батсвана",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 145,
+  "originalValue" : "Bounce Keys",
+  "value" : "! Пругкія клавішы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 146,
+  "originalValue" : "branch",
+  "value" : "галіна; адгалінаванне; галіна (Git); стварыць галіну (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 147,
+  "originalValue" : "Brazil",
+  "value" : "Бразілія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 148,
+  "originalValue" : "Brazzaville",
+  "value" : "Бразавіль",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 149,
+  "originalValue" : "Brest",
+  "value" : "Брэст",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 150,
+  "originalValue" : "Breton",
+  "value" : "брэтонская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 151,
+  "originalValue" : "brightness",
+  "value" : "яркасць",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 152,
+  "originalValue" : "British Indian Ocean Territory",
+  "value" : "Брытанская тэрыторыя ў Індыйскім акіяне",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 153,
+  "originalValue" : "British Virgin Islands",
+  "value" : "Брытанскія Віргінскія астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 154,
+  "originalValue" : "broadband",
+  "value" : "шырокапалосны",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 155,
+  "originalValue" : "brown",
+  "value" : "карычневы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 156,
+  "originalValue" : "browser",
+  "value" : "браўзер",
+  "wrong" : "браўзар",
+  "comment" : ""
+}, {
+  "id" : 157,
+  "originalValue" : "browser history",
+  "value" : "гісторыя браўзера",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 158,
+  "originalValue" : "Brunei",
+  "value" : "Бруней",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 159,
+  "originalValue" : "brush",
+  "value" : "пэндзаль",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 160,
+  "originalValue" : "bug",
+  "value" : "памылка; bug (там, дзе ў інтэрфэйсе ёсць надпіс bug, альбо ўзнікае нейкая іншая неадназначнасць)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 161,
+  "originalValue" : "built-in",
+  "value" : "убудаваны",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 162,
+  "originalValue" : "Bulgaria",
+  "value" : "Балгарыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 163,
+  "originalValue" : "Bulgarian",
+  "value" : "балгарская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 164,
+  "originalValue" : "Burkina Faso",
+  "value" : "Буркіна-Фасо",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 165,
+  "originalValue" : "Burmese",
+  "value" : "бірманская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 166,
+  "originalValue" : "Burundi",
+  "value" : "Бурундзі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 167,
+  "originalValue" : "busy",
+  "value" : "заняты",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 168,
+  "originalValue" : "byte",
+  "value" : "байт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 169,
+  "originalValue" : "bytes",
+  "value" : "байты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 170,
+  "originalValue" : "C++ Header",
+  "value" : "Загаловачны файл C++",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 171,
+  "originalValue" : "cache",
+  "value" : "кэш",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 172,
+  "originalValue" : "calculate",
+  "value" : "вылічыць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 173,
+  "originalValue" : "calendar",
+  "value" : "каляндар, календара",
+  "wrong" : "каляндара",
+  "comment" : ""
+}, {
+  "id" : 174,
+  "originalValue" : "calendars",
+  "value" : "календары",
+  "wrong" : "каляндары",
+  "comment" : ""
+}, {
+  "id" : 175,
+  "originalValue" : "calibration",
+  "value" : "каліброўка",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 176,
+  "originalValue" : "call",
+  "value" : "выклік",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 177,
+  "originalValue" : "Cambodia",
+  "value" : "Камбоджа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 178,
+  "originalValue" : "Cameroon",
+  "value" : "Камерун",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 179,
+  "originalValue" : "can't\n",
+  "value" : "немагчыма (без займенніка); нельга, не можаце (з асобай: you cannot);",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 180,
+  "originalValue" : "Canada",
+  "value" : "Канада",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 181,
+  "originalValue" : "Canary Islands",
+  "value" : "Канарскія астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 182,
+  "originalValue" : "cancel",
+  "value" : "скасаваць",
+  "wrong" : "адмяніць, адхіліць і інш.",
+  "comment" : ""
+}, {
+  "id" : 183,
+  "originalValue" : "canceled",
+  "value" : "скасаваны, скасаваная, скасаванае (дзеепр.); скасавана",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 184,
+  "originalValue" : "cancellation",
+  "value" : "скасаванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 185,
+  "originalValue" : "cancelled",
+  "value" : "скасавана",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 186,
+  "originalValue" : "cancelling",
+  "value" : "скасаванне",
+  "wrong" : "скасоўванне, касаванне",
+  "comment" : ""
+}, {
+  "id" : 187,
+  "originalValue" : "cannot",
+  "value" : "немагчыма (без займенніка); нельга, не можаце (з асобай: you cannot);",
+  "wrong" : "",
+  "comment" : "cannot unzip the archive — немагчыма распакаваць архіў"
+}, {
+  "id" : 188,
+  "originalValue" : "cannot",
+  "value" : "немагчыма; нельга; не можаце",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 189,
+  "originalValue" : "Cantonese",
+  "value" : "кантонскі дыялект кітайскай",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 190,
+  "originalValue" : "canvas",
+  "value" : "палатно",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 191,
+  "originalValue" : "Cape Verde",
+  "value" : "Каба-Вердэ",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 192,
+  "originalValue" : "Cayman Islands",
+  "value" : "Кайманавы астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 193,
+  "originalValue" : "Central African Republic",
+  "value" : "Цэнтральна-Афрыканская Рэспубліка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 194,
+  "originalValue" : "certificate",
+  "value" : "сертыфікат",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 195,
+  "originalValue" : "Ceuta",
+  "value" : "Сеута",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 196,
+  "originalValue" : "Ceuta and Melilla",
+  "value" : "Сеута і Мелілья",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 197,
+  "originalValue" : "Chad",
+  "value" : "Чад",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 198,
+  "originalValue" : "change",
+  "value" : "змяніць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 199,
+  "originalValue" : "changes",
+  "value" : "змены",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 200,
+  "originalValue" : "charge",
+  "value" : "спаганяць плату (часцей за ўсё: можа спаганяцца плата); аплата; выдатак; зараджаць (акумулятар)",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 201,
+  "originalValue" : "chart",
+  "value" : "дыяграма",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 202,
+  "originalValue" : "chat",
+  "value" : "чат",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 203,
+  "originalValue" : "check",
+  "value" : "праверка; праверыць",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 204,
+  "originalValue" : "check box",
+  "value" : "птушка",
+  "wrong" : "сцяжок",
+  "comment" : "Google, Samsung, MS\nсцяжок — крывая калька з рускай, якую не рэкамендуецца выкарыстоўваць"
+}, {
+  "id" : 205,
+  "originalValue" : "check-box",
+  "value" : "птушка",
+  "wrong" : "",
+  "comment" : "гл. check box"
+}, {
+  "id" : 206,
+  "originalValue" : "checkbox",
+  "value" : "птушка",
+  "wrong" : "",
+  "comment" : "гл. check box"
+}, {
+  "id" : 207,
+  "originalValue" : "checking",
+  "value" : "праверка",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 208,
+  "originalValue" : "Chile",
+  "value" : "Чылі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 209,
+  "originalValue" : "China",
+  "value" : "Кітай",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 210,
+  "originalValue" : "chinese",
+  "value" : "кітайская (мова); кітайскае (пісьмо)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 211,
+  "originalValue" : "Chinese (simplified)",
+  "value" : "Кітайская (спрошчаныя іерогліфы)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 212,
+  "originalValue" : "Chinese (traditional)",
+  "value" : "Кітайская (традыцыйныя іерогліфы)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 213,
+  "originalValue" : "Chinese, Cantonese",
+  "value" : "кітайская, кантонскі дыялект",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 214,
+  "originalValue" : "Chinese, Mandarin",
+  "value" : "кітайская, паўночныя дыялекты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 215,
+  "originalValue" : "choose",
+  "value" : "выбраць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 216,
+  "originalValue" : "Christmas Island",
+  "value" : "Востраў Каляд",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 217,
+  "originalValue" : "clear",
+  "value" : "ачысціць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 218,
+  "originalValue" : "click",
+  "value" : "націскаць, націснуць, націсніце; націсканне",
+  "wrong" : "пстрык; пстрыкнуць, шчаўчок, клік",
+  "comment" : "націсканне - MS, Google, Samsung\n"
+}, {
+  "id" : 219,
+  "originalValue" : "client",
+  "value" : "кліент",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 220,
+  "originalValue" : "clipboard",
+  "value" : "буфер абмену",
+  "wrong" : "кішэня",
+  "comment" : "MS, Google, Samsung"
+}, {
+  "id" : 221,
+  "originalValue" : "close",
+  "value" : "закрыць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 222,
+  "originalValue" : "Cocos (Keeling) Islands",
+  "value" : "Какосавыя (Кілінг) астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 223,
+  "originalValue" : "code",
+  "value" : "код",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 224,
+  "originalValue" : "coil",
+  "value" : "шпуля",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 225,
+  "originalValue" : "Colombia",
+  "value" : "Калумбія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 226,
+  "originalValue" : "color",
+  "value" : "колер; колеравы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 227,
+  "originalValue" : "color scheme",
+  "value" : "колеравая схема",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 228,
+  "originalValue" : "color theme",
+  "value" : "колеравая тэма",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 229,
+  "originalValue" : "Colour picker",
+  "value" : "Выбар колеру",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 230,
+  "originalValue" : "command",
+  "value" : "каманда",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 231,
+  "originalValue" : "commit",
+  "value" : "commit (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 232,
+  "originalValue" : "community",
+  "value" : "супольнасць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 233,
+  "originalValue" : "Comoros",
+  "value" : "Каморскія астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 234,
+  "originalValue" : "compatibility",
+  "value" : "сумяшчальнасць",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 235,
+  "originalValue" : "complete",
+  "value" : "выканаць; завяршыць; завершана",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 236,
+  "originalValue" : "completed",
+  "value" : "завершана; выканана",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 237,
+  "originalValue" : "completed",
+  "value" : "завершана",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 238,
+  "originalValue" : "complex",
+  "value" : "складаны; камплексны (лік)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 239,
+  "originalValue" : "compress",
+  "value" : "сц­іскаць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 240,
+  "originalValue" : "computer",
+  "value" : "камп'ютар",
+  "wrong" : "кампутар",
+  "comment" : ""
+}, {
+  "id" : 241,
+  "originalValue" : "configuration",
+  "value" : "канфігурацыя",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 242,
+  "originalValue" : "configure",
+  "value" : "канфігураваць",
+  "wrong" : "",
+  "comment" : "MS, samsung"
+}, {
+  "id" : 243,
+  "originalValue" : "Congo (DRC)",
+  "value" : "Конга (ДРК)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 244,
+  "originalValue" : "Congo (Republic)",
+  "value" : "Рэспубліка Конга",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 245,
+  "originalValue" : "connect",
+  "value" : "злучыць; злучацца; падлучаць (дыск); падлучацца (фізычна)",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 246,
+  "originalValue" : "connected",
+  "value" : "злучаны; падлучаны (дыск)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 247,
+  "originalValue" : "connection",
+  "value" : "злучэнне; падлучэнне (фізычнае)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 248,
+  "originalValue" : "connection manager",
+  "value" : "менеджар злучэнняў; менеджар падлучэнняў (фізычных)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 249,
+  "originalValue" : "connections",
+  "value" : "злучэнні; падлучэнні (фізычныя)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 250,
+  "originalValue" : "connector",
+  "value" : "пераходнік",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 251,
+  "originalValue" : "contain",
+  "value" : "змяшчаць; утрымліваць",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 252,
+  "originalValue" : "continue",
+  "value" : "працягнуць",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 253,
+  "originalValue" : "Cook Islands",
+  "value" : "Астравы Кука",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 254,
+  "originalValue" : "copy",
+  "value" : "капіяваць; копія",
+  "wrong" : "капіраваць",
+  "comment" : "Капіяваць — гэты тэрмін больш традыцыйна-беларускі. Яго выкарыстоўвае Microsoft і прыняты ў Telegram. Само слова можна знайсці ў наркамаўскіх слоўніках, напрыклад: \"Тлумачальны слоўнік беларускай літаратурнай мовы\" 2016 г.\nКапіраваць — гэты тэрмін выкарыстоўвае Google і Samsung. Больш распаўсюджаны ў слоўніках і з ім акурат не будзе праблемаў кшталту аманіміі."
+}, {
+  "id" : 255,
+  "originalValue" : "Costa Rica",
+  "value" : "Коста-Рыка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 256,
+  "originalValue" : "Côte d'Ivoire",
+  "value" : "Кот-д’Івуар",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 257,
+  "originalValue" : "could not",
+  "value" : "не ўдалося",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 258,
+  "originalValue" : "couldn't",
+  "value" : "не ўдалося",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 259,
+  "originalValue" : "create",
+  "value" : "стварыць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 260,
+  "originalValue" : "creation",
+  "value" : "стварэнне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 261,
+  "originalValue" : "creator",
+  "value" : "стваральнік",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 262,
+  "originalValue" : "creditionals",
+  "value" : "уліковыя даныя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 263,
+  "originalValue" : "Croatia",
+  "value" : "Харватыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 264,
+  "originalValue" : "Cuba",
+  "value" : "Куба",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 265,
+  "originalValue" : "Curaçao",
+  "value" : "Кюрасаа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 266,
+  "originalValue" : "currency",
+  "value" : "валюта",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 267,
+  "originalValue" : "current",
+  "value" : "бягучы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 268,
+  "originalValue" : "cyan",
+  "value" : "блакітны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 269,
+  "originalValue" : "Cyprus",
+  "value" : "Кіпр",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 270,
+  "originalValue" : "cyrillic",
+  "value" : "кірыліца",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 271,
+  "originalValue" : "Czech Republic",
+  "value" : "Чэшская Рэспубліка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 272,
+  "originalValue" : "daily",
+  "value" : "штодня; штодзённы; за дзень\n",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 273,
+  "originalValue" : "danger",
+  "value" : "небяспека",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 274,
+  "originalValue" : "dark",
+  "value" : "цёмная (колеравая тэма)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 275,
+  "originalValue" : "dash",
+  "value" : "злучок; панэль кіравання (сін. dashboard)",
+  "wrong" : "",
+  "comment" : "Samsung\nMS — працяжнік"
+}, {
+  "id" : 276,
+  "originalValue" : "dashboard",
+  "value" : "панэль кіравання",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 277,
+  "originalValue" : "data",
+  "value" : "даныя",
+  "wrong" : "данні, дадзеныя",
+  "comment" : "Калі маецца на ўвазе information, можна «звесткі»"
+}, {
+  "id" : 278,
+  "originalValue" : "date",
+  "value" : "дата",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 279,
+  "originalValue" : "day",
+  "value" : "дзень; дзённая (колеравая тэма)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 280,
+  "originalValue" : "day classic",
+  "value" : " Класічная дзённая (колеравая тэма)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 281,
+  "originalValue" : "debug",
+  "value" : "адладка; адладзіць, адладжваць; адладачны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 282,
+  "originalValue" : "debugging",
+  "value" : "адладка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 283,
+  "originalValue" : "decline",
+  "value" : "адхіліць",
+  "wrong" : "",
+  "comment" : "Часам каб пазбегнуць блытаніцы патрэбны асобны пераклад кшталту \"выйсці, не захоўваючы\". Гл. cancel"
+}, {
+  "id" : 284,
+  "originalValue" : "decode",
+  "value" : "! раскадзіраваць(так пасляоўней), раскадаваць",
+  "wrong" : "",
+  "comment" : "Samsung — раскадаваць"
+}, {
+  "id" : 285,
+  "originalValue" : "decompress",
+  "value" : "распакаваць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 286,
+  "originalValue" : "decompressing",
+  "value" : "распакаванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 287,
+  "originalValue" : "decrease",
+  "value" : "паменшыць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 288,
+  "originalValue" : "decrypt",
+  "value" : "расшыфраваць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 289,
+  "originalValue" : "Dedicated Graphics Card",
+  "value" : "дыскрэтная відэакарта",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 290,
+  "originalValue" : "default",
+  "value" : "перадвызначаны",
+  "wrong" : "",
+  "comment" : "стандартны; перадвызначаны — Google, Samsung\nStandart <> default, таму рэкамендуецца ўжываць толькі \"перадвызначаны\""
+}, {
+  "id" : 291,
+  "originalValue" : "define",
+  "value" : "вызначаць",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 292,
+  "originalValue" : "delay",
+  "value" : "затрымліваць; адкаладанне, ! затрымка",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 293,
+  "originalValue" : "delete",
+  "value" : "выдаліць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 294,
+  "originalValue" : "Denmark",
+  "value" : "Данія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 295,
+  "originalValue" : "deny",
+  "value" : "забараніць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 296,
+  "originalValue" : "dependency\n",
+  "value" : "залежнасць",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 297,
+  "originalValue" : "dependent",
+  "value" : "залежны",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 298,
+  "originalValue" : "depending",
+  "value" : "у залежнасці ад",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 299,
+  "originalValue" : "deprecated",
+  "value" : "! недапушчальна, забаронена; састарэла",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 300,
+  "originalValue" : "description",
+  "value" : "апісанне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 301,
+  "originalValue" : "deselect",
+  "value" : "скасаваць вылучэнне",
+  "wrong" : "",
+  "comment" : "MS — скасаваць вылучэнне"
+}, {
+  "id" : 302,
+  "originalValue" : "deselect all",
+  "value" : "скасаваць выбар",
+  "wrong" : "",
+  "comment" : "MS — скасаваць выбар"
+}, {
+  "id" : 303,
+  "originalValue" : "desktop",
+  "value" : "працоўны стол; асяроддзе (desktop environment, e.g. GNOME, KDE)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 304,
+  "originalValue" : "details",
+  "value" : "падрабязнасці",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 305,
+  "originalValue" : "detect",
+  "value" : "выявіць, ! вызначыць",
+  "wrong" : "",
+  "comment" : "выявіць — MS\nвыявіць, вызначыць — Samsung"
+}, {
+  "id" : 306,
+  "originalValue" : "developer",
+  "value" : "распрацоўшчык",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 307,
+  "originalValue" : "device",
+  "value" : "прылада",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 308,
+  "originalValue" : "diagram",
+  "value" : "дыяграма, схема",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 309,
+  "originalValue" : "dialog",
+  "value" : "дыялогавае акно",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 310,
+  "originalValue" : "diameter",
+  "value" : "дыяметр",
+  "wrong" : "",
+  "comment" : "Англа-бел"
+}, {
+  "id" : 311,
+  "originalValue" : "dictionary",
+  "value" : "слоўнік",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 312,
+  "originalValue" : "different",
+  "value" : "іншы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 313,
+  "originalValue" : "digital",
+  "value" : "лічбавы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 314,
+  "originalValue" : "digital storage",
+  "value" : "лічбавае сховішча",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 315,
+  "originalValue" : "directory",
+  "value" : "каталог",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 316,
+  "originalValue" : "disable",
+  "value" : "адключыць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 317,
+  "originalValue" : "disabled",
+  "value" : "адключана",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 318,
+  "originalValue" : "discard",
+  "value" : "скасаваць; адмовіцца ад",
+  "wrong" : "адкінуць",
+  "comment" : "Samsung — скасаваць\nGoogle — скасаваць\nMS — скасаваць\n\"скасаваць\"(часта побач з cancel атрымліваем сітуацыю \"скасаваць/скасаваць\", ці \"Скасаваць? скасаваць/ОК\")\n"
+}, {
+  "id" : 319,
+  "originalValue" : "discard changes",
+  "value" : "адмовіцца ад змен",
+  "wrong" : "",
+  "comment" : "MS — адмяніць змены, скасаваць змены\nАляксандар Шумскі: \"Карацей, як варыянты: discard changes - 1) Адхіліць змены (даслоўна) 2) Адмовіцца ад змен (больш літаратурна)\""
+}, {
+  "id" : 320,
+  "originalValue" : "disconnect",
+  "value" : "адлучыць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 321,
+  "originalValue" : "discovery",
+  "value" : "выяўленне",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 322,
+  "originalValue" : "disk",
+  "value" : "дыск, дыска",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 323,
+  "originalValue" : "disk space",
+  "value" : "месца на дыску",
+  "wrong" : "",
+  "comment" : "MS — месца на дыску; прастора на дыску"
+}, {
+  "id" : 324,
+  "originalValue" : "dismiss",
+  "value" : "адхіліць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 325,
+  "originalValue" : "dismissed",
+  "value" : "адхілены",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 326,
+  "originalValue" : "display",
+  "value" : "паказваць; паказ; дысплэй; адлюстроўваць",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 327,
+  "originalValue" : "Djibouti",
+  "value" : "Джыбуці",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 328,
+  "originalValue" : "document",
+  "value" : "дакумент",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 329,
+  "originalValue" : "documentation",
+  "value" : "­дакументацыя",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 330,
+  "originalValue" : "does not",
+  "value" : "не",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 331,
+  "originalValue" : "does not Expire",
+  "value" : "не мае тэрміну",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 332,
+  "originalValue" : "Dominica",
+  "value" : "Дамініка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 333,
+  "originalValue" : "Dominican Republic",
+  "value" : "Дамініканская Рэспубліка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 334,
+  "originalValue" : "done",
+  "value" : "гатова",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 335,
+  "originalValue" : "down",
+  "value" : "уніз",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 336,
+  "originalValue" : "download",
+  "value" : "спампаваць, спампоўваць; спампоўка (аб'ект), спампоўкі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 337,
+  "originalValue" : "downloader",
+  "value" : "! менеджар спампоўвання, менеджар спамповак",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 338,
+  "originalValue" : "downloading",
+  "value" : "спамвоўванне (працэс)",
+  "wrong" : "спампаванне",
+  "comment" : ""
+}, {
+  "id" : 339,
+  "originalValue" : "downloading",
+  "value" : "спампоўванне; ідзе спампоўванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 340,
+  "originalValue" : "draft",
+  "value" : "чарнавік",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 341,
+  "originalValue" : "drag",
+  "value" : "перацягнуць; перацягніце; перацягванне",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 342,
+  "originalValue" : "drag and drop",
+  "value" : "перацягванне",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 343,
+  "originalValue" : "drawer",
+  "value" : "высоўнае меню",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 344,
+  "originalValue" : "drive",
+  "value" : "дыск; дыскавод",
+  "wrong" : "",
+  "comment" : "дыск (An area of storage that is formatted with a file system and has a drive letter. The storage can be a floppy disk, a CD or DVD, a hard disk, or another type of disk.)\nдыскавод, прывад (A hardware device that reads data from and writes data to floppy disks.)\nMS\n"
+}, {
+  "id" : 345,
+  "originalValue" : "due date",
+  "value" : "тэрмін выканання",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 346,
+  "originalValue" : "duplicate",
+  "value" : "дублікат",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 347,
+  "originalValue" : "each",
+  "value" : "кожны",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 348,
+  "originalValue" : "easy",
+  "value" : "просты; проста",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 349,
+  "originalValue" : "Ecuador",
+  "value" : "Эквадор",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 350,
+  "originalValue" : "edge",
+  "value" : "край",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 351,
+  "originalValue" : "edit",
+  "value" : "рэдагаваць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 352,
+  "originalValue" : "editor",
+  "value" : "рэдактар",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 353,
+  "originalValue" : "education",
+  "value" : "адукацыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 354,
+  "originalValue" : "Egypt",
+  "value" : "Егіпет",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 355,
+  "originalValue" : "El Salvador",
+  "value" : "Сальвадор",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 356,
+  "originalValue" : "electronics",
+  "value" : "электроніка",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 357,
+  "originalValue" : "embedded",
+  "value" : "убудаваны",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 358,
+  "originalValue" : "emit",
+  "value" : "! выдаваць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 359,
+  "originalValue" : "emoji",
+  "value" : "эмодзі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 360,
+  "originalValue" : "enable",
+  "value" : "уключыць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 361,
+  "originalValue" : "enabled",
+  "value" : "уключана",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 362,
+  "originalValue" : "encode",
+  "value" : "! кадзіраваць; закадзіраваць",
+  "wrong" : "кадаваць",
+  "comment" : "Кадаваць — няма ў слоніках. Калі прымаем кадованне, тады давайце выдумаем кадоўку.\nАле самс і гугл ва ўсю выкарыстоўваюць словы, вытворныя ад кадаваць"
+}, {
+  "id" : 363,
+  "originalValue" : "encoder",
+  "value" : "! кадавальнік, кадзіравальнік",
+  "wrong" : "",
+  "comment" : "Google — кадавальнік"
+}, {
+  "id" : 364,
+  "originalValue" : "encoding",
+  "value" : "кадзіроўка (аб'ект); кадзіраванне (працэс)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 365,
+  "originalValue" : "encrypt",
+  "value" : "шыфраваць; зашыфраваць",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 366,
+  "originalValue" : "encrypted",
+  "value" : "зашыфраваны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 367,
+  "originalValue" : "encryption",
+  "value" : "шыфраванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 368,
+  "originalValue" : "encryption",
+  "value" : "шыфраванне",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 369,
+  "originalValue" : "end call",
+  "value" : "завяршыць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 370,
+  "originalValue" : "England",
+  "value" : "Англія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 371,
+  "originalValue" : "english",
+  "value" : "англійская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 372,
+  "originalValue" : "english (US)",
+  "value" : "англійская (ЗША)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 373,
+  "originalValue" : "enlarge",
+  "value" : "павялічыць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 374,
+  "originalValue" : "enough",
+  "value" : "дастаткова",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 375,
+  "originalValue" : "enter",
+  "value" : "увядзіце",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 376,
+  "originalValue" : "enter",
+  "value" : "enter (клавіша); увесці; увод",
+  "wrong" : "",
+  "comment" : "Samsung — увесці; увод"
+}, {
+  "id" : 377,
+  "originalValue" : "Equatorial Guinea",
+  "value" : "Экватарыяльная Гвінея",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 378,
+  "originalValue" : "erase",
+  "value" : "сцерці; сцерці даныя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 379,
+  "originalValue" : "Eritrea",
+  "value" : "Эрытрэя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 380,
+  "originalValue" : "error",
+  "value" : "памылка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 381,
+  "originalValue" : "estimated",
+  "value" : "прыблізны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 382,
+  "originalValue" : "estimating",
+  "value" : "ацэньванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 383,
+  "originalValue" : "Estonia",
+  "value" : "Эстонія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 384,
+  "originalValue" : "Eswatini",
+  "value" : "Эсватыні",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 385,
+  "originalValue" : "Ethiopia",
+  "value" : "Эфіопія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 386,
+  "originalValue" : "Europe",
+  "value" : "Еўропа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 387,
+  "originalValue" : "event",
+  "value" : "падзея",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 388,
+  "originalValue" : "exception",
+  "value" : "выключэнне; выключная сітуацыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 389,
+  "originalValue" : "execution",
+  "value" : "выкананне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 390,
+  "originalValue" : "existing",
+  "value" : "існуючы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 391,
+  "originalValue" : "existing",
+  "value" : "існы",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 392,
+  "originalValue" : "exit",
+  "value" : "выхад; выходзіць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 393,
+  "originalValue" : "expand",
+  "value" : "разгарнуць; разгортванне",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 394,
+  "originalValue" : "expandable",
+  "value" : "разгортвальны",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 395,
+  "originalValue" : "expired",
+  "value" : "тэрмін дзеяння скончыўся; самазнішчылася (фота); знішчаны (файл)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 396,
+  "originalValue" : "Expiry Date",
+  "value" : "Тэрмін дзеяння",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 397,
+  "originalValue" : "extension",
+  "value" : "пашырэнне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 398,
+  "originalValue" : "external",
+  "value" : "знешні",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 399,
+  "originalValue" : "external storage",
+  "value" : "вонкавае сховішча",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 400,
+  "originalValue" : "extract",
+  "value" : "вынуць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 401,
+  "originalValue" : "failed",
+  "value" : "не ўдалося",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 402,
+  "originalValue" : "failure",
+  "value" : "збой",
+  "wrong" : "",
+  "comment" : "failure to - не ўдалося"
+}, {
+  "id" : 403,
+  "originalValue" : "Falkland Islands (Malvinas)",
+  "value" : "Фалклендскія (Мальвінскія) астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 404,
+  "originalValue" : "Faroe Islands",
+  "value" : "Фарэрскія астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 405,
+  "originalValue" : "favorite",
+  "value" : "дадаць у абраныя; абранае (калі яно адно)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 406,
+  "originalValue" : "favorites",
+  "value" : "абраныя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 407,
+  "originalValue" : "feature",
+  "value" : "функцыя",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 408,
+  "originalValue" : "feature graphic",
+  "value" : "індывідуальная графіка",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 409,
+  "originalValue" : "featured",
+  "value" : "вартае ўвагі",
+  "wrong" : "",
+  "comment" : "Google, Samsung — Вартае ўвагі\nMS — Вартае ўвагі; папулярнае"
+}, {
+  "id" : 410,
+  "originalValue" : "feed",
+  "value" : "! канал, навіны, лента навін",
+  "wrong" : "",
+  "comment" : "Samsung, Google\nУ Гугл ёсць радок channel feed — навіны канала"
+}, {
+  "id" : 411,
+  "originalValue" : "fetch",
+  "value" : "fetch (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 412,
+  "originalValue" : "Fiji",
+  "value" : "Фіджы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 413,
+  "originalValue" : "file",
+  "value" : "файл, файла",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 414,
+  "originalValue" : "file property",
+  "value" : "уласцівасці файла",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 415,
+  "originalValue" : "filesystem",
+  "value" : "файлавая сістэма",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 416,
+  "originalValue" : "fill",
+  "value" : "запаўняць; запаўненне",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 417,
+  "originalValue" : "finalize",
+  "value" : "закончыць",
+  "wrong" : "",
+  "comment" : "няма ў тэрмінах"
+}, {
+  "id" : 418,
+  "originalValue" : "find",
+  "value" : "знайсці",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 419,
+  "originalValue" : "fingerprint",
+  "value" : "адбітак пальца, лічбавы адбітак",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 420,
+  "originalValue" : "finish",
+  "value" : "скончыць; гатова",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 421,
+  "originalValue" : "finished",
+  "value" : "скончана",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 422,
+  "originalValue" : "Finland",
+  "value" : "Фінляндыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 423,
+  "originalValue" : "firmware",
+  "value" : "убудаваная праграма; убудаванае ПЗ; ! прашыўка",
+  "wrong" : "",
+  "comment" : "убудаваная праграма; убудаванае ПЗ — Samsung, Google"
+}, {
+  "id" : 424,
+  "originalValue" : "flip",
+  "value" : "адлюстраваць (image, view); адлюстраванне; перавярнуць (калі маецца на ўвазе не адлюстраванне); пераварот",
+  "wrong" : "",
+  "comment" : "перавярнуць — Samsung\nпераварот — Google\nадлюстраваць — MS"
+}, {
+  "id" : 425,
+  "originalValue" : "flipped",
+  "value" : "перавернуты",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 426,
+  "originalValue" : "focus",
+  "value" : "фокус, фокуса",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 427,
+  "originalValue" : "folder",
+  "value" : "папка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 428,
+  "originalValue" : "font",
+  "value" : "шрыфт, шрыфту",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 429,
+  "originalValue" : "force",
+  "value" : "прымусова",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 430,
+  "originalValue" : "forever",
+  "value" : "заўсёды",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 431,
+  "originalValue" : "format",
+  "value" : "фармат",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 432,
+  "originalValue" : "formatting",
+  "value" : "фармаціраванне",
+  "wrong" : "фарматаванне",
+  "comment" : ""
+}, {
+  "id" : 433,
+  "originalValue" : "former",
+  "value" : "былы; папярэдні",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 434,
+  "originalValue" : "France",
+  "value" : "Францыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 435,
+  "originalValue" : "french",
+  "value" : "французская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 436,
+  "originalValue" : "French Guiana",
+  "value" : "Французская Гвіяна",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 437,
+  "originalValue" : "French Polynesia",
+  "value" : "Французская Палінезія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 438,
+  "originalValue" : "French Southern Territories",
+  "value" : "Французскія паўднёвыя тэрыторыі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 439,
+  "originalValue" : "friends",
+  "value" : "сябры",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 440,
+  "originalValue" : "Gabon",
+  "value" : "Габон",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 441,
+  "originalValue" : "gallery",
+  "value" : "галерэя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 442,
+  "originalValue" : "Gambia",
+  "value" : "Гамбія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 443,
+  "originalValue" : "game",
+  "value" : "гульня",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 444,
+  "originalValue" : "GB",
+  "value" : "GB — ГБ; гігабайт; Gb — Гбіт; гігабіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 445,
+  "originalValue" : "Gbit",
+  "value" : "Гбіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 446,
+  "originalValue" : "GByte",
+  "value" : "ГБ",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 447,
+  "originalValue" : "general",
+  "value" : "агульныя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 448,
+  "originalValue" : "genre",
+  "value" : "жанр",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 449,
+  "originalValue" : "Georgia",
+  "value" : "Грузія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 450,
+  "originalValue" : "Germany",
+  "value" : "Германія",
+  "wrong" : "Нямеччына",
+  "comment" : "CLDR"
+}, {
+  "id" : 451,
+  "originalValue" : "Ghana",
+  "value" : "Гана",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 452,
+  "originalValue" : "Gibraltar",
+  "value" : "Гібралтар",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 453,
+  "originalValue" : "gift",
+  "value" : "падарунак",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 454,
+  "originalValue" : "gigabit",
+  "value" : "гігабіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 455,
+  "originalValue" : "gigabits",
+  "value" : "гігабіты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 456,
+  "originalValue" : "gigabyte",
+  "value" : "гігабайт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 457,
+  "originalValue" : "gigabytes",
+  "value" : "гігабайты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 458,
+  "originalValue" : "given",
+  "value" : "! дадзены, гэты",
+  "wrong" : "\n",
+  "comment" : ""
+}, {
+  "id" : 459,
+  "originalValue" : "GMT",
+  "value" : "GMT",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 460,
+  "originalValue" : "GNOME desktop",
+  "value" : "Асяроддзе GNOME",
+  "wrong" : "",
+  "comment" : "гэта desktop environment, а не працоўны стол"
+}, {
+  "id" : 461,
+  "originalValue" : "GNOME Shell",
+  "value" : "Абалонка GNOME",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 462,
+  "originalValue" : "go to",
+  "value" : "перайсці да",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 463,
+  "originalValue" : "gradient",
+  "value" : "градыент",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 464,
+  "originalValue" : "grant",
+  "value" : "дазволіць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 465,
+  "originalValue" : "gray",
+  "value" : "шэры",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 466,
+  "originalValue" : "Greece",
+  "value" : "Грэцыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 467,
+  "originalValue" : "greek",
+  "value" : "грэчаскае (пісьмо)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 468,
+  "originalValue" : "green",
+  "value" : "зялёны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 469,
+  "originalValue" : "Greenland",
+  "value" : "Грэнландыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 470,
+  "originalValue" : "Grenada",
+  "value" : "Грэнада",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 471,
+  "originalValue" : "grid view",
+  "value" : "выгляд сеткі",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 472,
+  "originalValue" : "group",
+  "value" : "група",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 473,
+  "originalValue" : "Guadeloupe",
+  "value" : "Гвадэлупа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 474,
+  "originalValue" : "Guam",
+  "value" : "Гуам",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 475,
+  "originalValue" : "Guatemala",
+  "value" : "Гватэмала",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 476,
+  "originalValue" : "Guernsey",
+  "value" : "Гернсі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 477,
+  "originalValue" : "Guinea",
+  "value" : "Гвінея",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 478,
+  "originalValue" : "Guinea-Bissau",
+  "value" : "Гвінея-Бісау",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 479,
+  "originalValue" : "Guyana",
+  "value" : "Гаяна",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 480,
+  "originalValue" : "h",
+  "value" : "гадз (гадзіна); гадзіна",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 481,
+  "originalValue" : "Haiti",
+  "value" : "Гаіці",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 482,
+  "originalValue" : "hard fail",
+  "value" : "крытычная памылка",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 483,
+  "originalValue" : "hardware",
+  "value" : "апаратны; абсталяванне, ! апаратнае забеспячэнне",
+  "wrong" : "",
+  "comment" : "апаратнае забеспячэнне; апаратны — Google\nапаратны; абсталяванне — Samsung"
+}, {
+  "id" : 484,
+  "originalValue" : "header",
+  "value" : "загаловак; загаловачны файл",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 485,
+  "originalValue" : "headphones",
+  "value" : "навушнікі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 486,
+  "originalValue" : "headset",
+  "value" : "гарнітура",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 487,
+  "originalValue" : "Hebrew",
+  "value" : "Яўрэйскае",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 488,
+  "originalValue" : "height",
+  "value" : "вышыня",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 489,
+  "originalValue" : "help",
+  "value" : "даведка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 490,
+  "originalValue" : "hide",
+  "value" : "хаваць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 491,
+  "originalValue" : "hints",
+  "value" : "падказкі",
+  "wrong" : "",
+  "comment" : "Samsung\nMS — паказальнік"
+}, {
+  "id" : 492,
+  "originalValue" : "history",
+  "value" : "гісторыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 493,
+  "originalValue" : "hold",
+  "value" : "утрымліваць; утрыманне",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 494,
+  "originalValue" : "home",
+  "value" : "хатняя папка (калі маецца на ўвазе home folder); хатняя старонка (астатнія выпадкі); дадому (кнопка навігацыі)",
+  "wrong" : "",
+  "comment" : "у выпадку з папкай, робім па аналогіі з homepage"
+}, {
+  "id" : 495,
+  "originalValue" : "home phone",
+  "value" : "дамашні тэлефон",
+  "wrong" : "хатні тэлефон",
+  "comment" : "пасля доўгіх абмеркаванняў спыніліся на тэрміне \"дамашні тэлефон\""
+}, {
+  "id" : 496,
+  "originalValue" : "homepage",
+  "value" : "хатняя старонка",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 497,
+  "originalValue" : "Homyel'",
+  "value" : "Гомель",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 498,
+  "originalValue" : "Honduras",
+  "value" : "Гандурас",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 499,
+  "originalValue" : "Hong Kong",
+  "value" : "Ганконг",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 500,
+  "originalValue" : "Hong Kong SAR",
+  "value" : "САР Ганконг",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 501,
+  "originalValue" : "horizontal",
+  "value" : "гарызантальны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 502,
+  "originalValue" : "host",
+  "value" : "хост",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 503,
+  "originalValue" : "hot corners",
+  "value" : "гарачыя куты",
+  "wrong" : "",
+  "comment" : "гэта чыста гномаўскі тэрмін, няма ў каго глядзець\nСпачатку было актыўныя куты, але вырашылі памяняць на гарачыя, каб не быо калізій кшталту hot corners are active"
+}, {
+  "id" : 504,
+  "originalValue" : "hot keys",
+  "value" : "спалучэнні клавіш",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 505,
+  "originalValue" : "hotspot",
+  "value" : "хот-спот",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 506,
+  "originalValue" : "hour",
+  "value" : "гадзіна",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 507,
+  "originalValue" : "hover",
+  "value" : "навесці",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 508,
+  "originalValue" : "How-to",
+  "value" : "Iнструкцыi",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 509,
+  "originalValue" : "Hrodna",
+  "value" : "Гродна",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 510,
+  "originalValue" : "Hungary",
+  "value" : "Венгрыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 511,
+  "originalValue" : "Iceland",
+  "value" : "Ісландыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 512,
+  "originalValue" : "icon",
+  "value" : "значок",
+  "wrong" : "іконка",
+  "comment" : ""
+}, {
+  "id" : 513,
+  "originalValue" : "ID",
+  "value" : "ідэнтыфікатар; ID",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 514,
+  "originalValue" : "identity",
+  "value" : "асоба; ідэнтычнасць",
+  "wrong" : "",
+  "comment" : "асоба; ідэнтычнасць — Samsung\nідэнтычнасць, пасведчанне — MS"
+}, {
+  "id" : 515,
+  "originalValue" : "ignore",
+  "value" : "ігнараваць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 516,
+  "originalValue" : "image",
+  "value" : "відарыс",
+  "wrong" : "выява",
+  "comment" : ""
+}, {
+  "id" : 517,
+  "originalValue" : "immediately",
+  "value" : "неадкладна",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 518,
+  "originalValue" : "implementation",
+  "value" : "рэалізацыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 519,
+  "originalValue" : "implemented",
+  "value" : "рэалізаваны",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 520,
+  "originalValue" : "imprint",
+  "value" : "штамп",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 521,
+  "originalValue" : "in a row",
+  "value" : "запар",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 522,
+  "originalValue" : "in progress",
+  "value" : "выконваецца",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 523,
+  "originalValue" : "include",
+  "value" : "уключыць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 524,
+  "originalValue" : "increase",
+  "value" : "павялічыць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 525,
+  "originalValue" : "independent",
+  "value" : "незалежны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 526,
+  "originalValue" : "index",
+  "value" : "індэкс",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 527,
+  "originalValue" : "India",
+  "value" : "Індыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 528,
+  "originalValue" : "Indonesia",
+  "value" : "Інданезія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 529,
+  "originalValue" : "info",
+  "value" : "звесткі; інфармацыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 530,
+  "originalValue" : "information",
+  "value" : "звесткі; інфармацыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 531,
+  "originalValue" : "inhibit",
+  "value" : "заблакіраваць; блакіраваць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 532,
+  "originalValue" : "initializing",
+  "value" : "ініцыялізацыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 533,
+  "originalValue" : "inline",
+  "value" : "убудаваны",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 534,
+  "originalValue" : "input",
+  "value" : "увесці; увод (працэс); уваход (фізічны раздым), аўдыяўваход (audio/sound input)",
+  "wrong" : "",
+  "comment" : "але зважаем на кантэкст, можа быць audio input - галасавы ўвод і г.д."
+}, {
+  "id" : 535,
+  "originalValue" : "insert",
+  "value" : "устаўляць, уставіць; устаўка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 536,
+  "originalValue" : "inserting",
+  "value" : "устаўка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 537,
+  "originalValue" : "install",
+  "value" : "усталяваць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 538,
+  "originalValue" : "installation",
+  "value" : "усталяванне (працэс); усталёўка (аб'ект)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 539,
+  "originalValue" : "installed",
+  "value" : "усталяваны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 540,
+  "originalValue" : "installing",
+  "value" : "усталяванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 541,
+  "originalValue" : "instance",
+  "value" : "вобраз",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 542,
+  "originalValue" : "interface",
+  "value" : "інтэрфейс",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 543,
+  "originalValue" : "internal",
+  "value" : "унутраны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 544,
+  "originalValue" : "internet",
+  "value" : "інтэрнэт, інтэрнэту",
+  "wrong" : "сеціва",
+  "comment" : ""
+}, {
+  "id" : 545,
+  "originalValue" : "Internet address",
+  "value" : "інтэрнэт-адрас",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 546,
+  "originalValue" : "Internet connection",
+  "value" : "інтэрнэт-злучэнне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 547,
+  "originalValue" : "Internet history",
+  "value" : "гісторыя браўзера",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 548,
+  "originalValue" : "Internet Protocol",
+  "value" : "інтэрнэт-пратакол",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 549,
+  "originalValue" : "Internet sharing",
+  "value" : "супольны доступ да інтэрнэту",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 550,
+  "originalValue" : "introspection",
+  "value" : "! інтраспекцыя, аналіз",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 551,
+  "originalValue" : "invalid",
+  "value" : "памылковы",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 552,
+  "originalValue" : "invite",
+  "value" : "запрашаць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 553,
+  "originalValue" : "Iran",
+  "value" : "Іран",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 554,
+  "originalValue" : "Iraq",
+  "value" : "Ірак",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 555,
+  "originalValue" : "Ireland",
+  "value" : "Ірландыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 556,
+  "originalValue" : "Isle of Man",
+  "value" : "Востраў Мэн",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 557,
+  "originalValue" : "Israel",
+  "value" : "Ізраіль",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 558,
+  "originalValue" : "issue",
+  "value" : "праблема",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 559,
+  "originalValue" : "Italy",
+  "value" : "Італія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 560,
+  "originalValue" : "item",
+  "value" : "элемент",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 561,
+  "originalValue" : "Jamaica",
+  "value" : "Ямайка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 562,
+  "originalValue" : "Japan",
+  "value" : "Японія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 563,
+  "originalValue" : "Jersey",
+  "value" : "Джэрсі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 564,
+  "originalValue" : "join",
+  "value" : "аб’яднаць; далучыць; далучыцца",
+  "wrong" : "",
+  "comment" : "аб’яднаць; далучыць — MS\nдалучыць, далучыцца — Samsung"
+}, {
+  "id" : 565,
+  "originalValue" : "Jordan",
+  "value" : "Іарданія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 566,
+  "originalValue" : "joystick",
+  "value" : "джойстык",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 567,
+  "originalValue" : "jump",
+  "value" : "перайсці",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 568,
+  "originalValue" : "Kazakhstan",
+  "value" : "Казахстан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 569,
+  "originalValue" : "kB",
+  "value" : "kB — КБ; кілабайт; kb — кбіт; кілабіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 570,
+  "originalValue" : "kbit",
+  "value" : "кбіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 571,
+  "originalValue" : "kByte",
+  "value" : "КБ",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 572,
+  "originalValue" : "keep",
+  "value" : "захаваць",
+  "wrong" : "",
+  "comment" : "гл. save"
+}, {
+  "id" : 573,
+  "originalValue" : "Kenya",
+  "value" : "Кенія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 574,
+  "originalValue" : "kernel",
+  "value" : "ядро",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 575,
+  "originalValue" : "key",
+  "value" : "ключ; клавіша",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 576,
+  "originalValue" : "keybinding",
+  "value" : "прызначэнне клавіш; прызначыць клавішы",
+  "wrong" : "",
+  "comment" : "hot key - гарачыя клавішы = спалучэнні клавіш, якія выклікаюць канкрэтнае дзеянне, часта стандартныя (напр. Сtrl+Z для скасавання)\nkeybinding — працэс ці вынік прызначэння дзеянняў на клавішы, напрыклад, тых самым hot key-яў"
+}, {
+  "id" : 577,
+  "originalValue" : "keyboard",
+  "value" : "клавіятура",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 578,
+  "originalValue" : "keyboard shortcut",
+  "value" : "спалучэнне клавіш",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 579,
+  "originalValue" : "keystroke",
+  "value" : "! спалучэнне клавіш",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 580,
+  "originalValue" : "kilobit",
+  "value" : "кілабіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 581,
+  "originalValue" : "kilobits",
+  "value" : "кілабіты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 582,
+  "originalValue" : "kilobyte",
+  "value" : "кілабайт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 583,
+  "originalValue" : "kilobytes",
+  "value" : "кілабайты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 584,
+  "originalValue" : "Kinshasa",
+  "value" : "Кіншаса",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 585,
+  "originalValue" : "Kiribati",
+  "value" : "Кірыбаці",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 586,
+  "originalValue" : "Korean",
+  "value" : "Карэйскае",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 587,
+  "originalValue" : "Kosovo",
+  "value" : "Косава",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 588,
+  "originalValue" : "Kuwait",
+  "value" : "Кувейт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 589,
+  "originalValue" : "Kyrgyzstan",
+  "value" : "Кыргызстан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 590,
+  "originalValue" : "language",
+  "value" : "мова",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 591,
+  "originalValue" : "Laos",
+  "value" : "Лаос",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 592,
+  "originalValue" : "laptop",
+  "value" : "ноўтбук",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 593,
+  "originalValue" : "large",
+  "value" : "вялікі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 594,
+  "originalValue" : "latin",
+  "value" : "лацініца; лацінка (толькі беларуская)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 595,
+  "originalValue" : "Latvia",
+  "value" : "Латвія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 596,
+  "originalValue" : "launch",
+  "value" : "запусціць; запуск",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 597,
+  "originalValue" : "launcher",
+  "value" : "праграма запуску",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 598,
+  "originalValue" : "launching",
+  "value" : "запуск",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 599,
+  "originalValue" : "layer",
+  "value" : "слой",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 600,
+  "originalValue" : "layout",
+  "value" : "макет; раскладка (клавіятуры)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 601,
+  "originalValue" : "learn more",
+  "value" : "даведацца больш",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 602,
+  "originalValue" : "Lebanon",
+  "value" : "Ліван",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 603,
+  "originalValue" : "legacy",
+  "value" : "састарэлая версія; ранейшая версія",
+  "wrong" : "",
+  "comment" : "MS — ранейшая версія; састарэлы"
+}, {
+  "id" : 604,
+  "originalValue" : "Lesotho",
+  "value" : "Лесота",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 605,
+  "originalValue" : "letter",
+  "value" : "літара; ліст",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 606,
+  "originalValue" : "Liberia",
+  "value" : "Ліберыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 607,
+  "originalValue" : "library",
+  "value" : "бібліятэка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 608,
+  "originalValue" : "Libya",
+  "value" : "Лівія",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 609,
+  "originalValue" : "license",
+  "value" : "ліцэнзія",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 610,
+  "originalValue" : "Liechtenstein",
+  "value" : "Ліхтэнштэйн",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 611,
+  "originalValue" : "light",
+  "value" : "святло; светлы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 612,
+  "originalValue" : "link",
+  "value" : "спасылка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 613,
+  "originalValue" : "linked",
+  "value" : "звязаны",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 614,
+  "originalValue" : "list",
+  "value" : "спіс",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 615,
+  "originalValue" : "Lithuania",
+  "value" : "Літва",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 616,
+  "originalValue" : "load",
+  "value" : "загружаць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 617,
+  "originalValue" : "loading",
+  "value" : "загрузка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 618,
+  "originalValue" : "location",
+  "value" : "месцазнаходжанне (геа.); размяшчэнне (файла на дыску)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 619,
+  "originalValue" : "lock",
+  "value" : "блакіраваць; блакіраванне",
+  "wrong" : "блакаваць; блакаванне",
+  "comment" : ""
+}, {
+  "id" : 620,
+  "originalValue" : "locked",
+  "value" : "заблакіраваны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 621,
+  "originalValue" : "log",
+  "value" : "журнал",
+  "wrong" : "часопіс",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 622,
+  "originalValue" : "log in",
+  "value" : "увайсці; уваход",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 623,
+  "originalValue" : "log out",
+  "value" : "выйсці",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 624,
+  "originalValue" : "login",
+  "value" : "уваход",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 625,
+  "originalValue" : "login screen",
+  "value" : "экран уваходу",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 626,
+  "originalValue" : "long",
+  "value" : "доўгі; доўга",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 627,
+  "originalValue" : "lookup",
+  "value" : "пошук; агляд",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 628,
+  "originalValue" : "Luxembourg",
+  "value" : "Люксембург",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 629,
+  "originalValue" : "m",
+  "value" : "хв (хвіліна); хвіліна",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 630,
+  "originalValue" : "Macao",
+  "value" : "Макаа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 631,
+  "originalValue" : "Macao SAR China",
+  "value" : "Макаа, САР (Кітай)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 632,
+  "originalValue" : "Macau",
+  "value" : "Макаа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 633,
+  "originalValue" : "Macedonia",
+  "value" : "Паўночная Македонія; Македонія (калі маецца на ўвазе рэгіён)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 634,
+  "originalValue" : "Madagascar",
+  "value" : "Мадагаскар",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 635,
+  "originalValue" : "magnifier",
+  "value" : "лупа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 636,
+  "originalValue" : "magnify",
+  "value" : "павялічыць\n",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 637,
+  "originalValue" : "Malawi",
+  "value" : "Малаві",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 638,
+  "originalValue" : "Malaysia",
+  "value" : "Малайзія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 639,
+  "originalValue" : "Maldives",
+  "value" : "Мальдывы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 640,
+  "originalValue" : "Mali",
+  "value" : "Малі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 641,
+  "originalValue" : "Malta",
+  "value" : "Мальта",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 642,
+  "originalValue" : "manage",
+  "value" : "кіраваць; кіраванне",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 643,
+  "originalValue" : "management",
+  "value" : "кіраванне",
+  "wrong" : "",
+  "comment" : "MS, Google"
+}, {
+  "id" : 644,
+  "originalValue" : "manager",
+  "value" : "менеджар (праграма); кіраўнік",
+  "wrong" : "",
+  "comment" : "MS, Google, Samsung"
+}, {
+  "id" : 645,
+  "originalValue" : "manipulating",
+  "value" : "кіраванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 646,
+  "originalValue" : "manual",
+  "value" : "ручны; уручную; дапаможнік",
+  "wrong" : "",
+  "comment" : "Samsung, MS, Google"
+}, {
+  "id" : 647,
+  "originalValue" : "manually",
+  "value" : "уручную",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 648,
+  "originalValue" : "mark",
+  "value" : "пазначыць; знак; пазнака",
+  "wrong" : "",
+  "comment" : "Samsung(пазначыць), MS"
+}, {
+  "id" : 649,
+  "originalValue" : "Marshall Islands",
+  "value" : "Маршалавы астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 650,
+  "originalValue" : "Martinique",
+  "value" : "Марцініка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 651,
+  "originalValue" : "math",
+  "value" : "матэматыка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 652,
+  "originalValue" : "mathematics",
+  "value" : "матэматыка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 653,
+  "originalValue" : "Mauritania",
+  "value" : "Маўрытанія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 654,
+  "originalValue" : "Mauritius",
+  "value" : "Маўрыкій",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 655,
+  "originalValue" : "maximize",
+  "value" : "! разгарнуць",
+  "wrong" : "",
+  "comment" : "MS\nгэта калі мы маленькае акно робім велічынёй на ўвесь экран"
+}, {
+  "id" : 656,
+  "originalValue" : "may",
+  "value" : "май (месяц)",
+  "wrong" : "травень",
+  "comment" : "Google, Sasung, MS\nНе будзем ісці супраць склаўшайся тэрміналогіі, паўсюль ужываюць толькі май."
+}, {
+  "id" : 657,
+  "originalValue" : "Mayotte",
+  "value" : "Маёта",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 658,
+  "originalValue" : "MB",
+  "value" : "MB — МБ; мегабайт; Mb — Мбіт; мегабіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 659,
+  "originalValue" : "Mbits",
+  "value" : "Мбіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 660,
+  "originalValue" : "MByte",
+  "value" : "МБ\n",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 661,
+  "originalValue" : "measure",
+  "value" : "вымяраць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 662,
+  "originalValue" : "media",
+  "value" : "медыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 663,
+  "originalValue" : "megabit",
+  "value" : "мегабіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 664,
+  "originalValue" : "megabits",
+  "value" : "мегабіты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 665,
+  "originalValue" : "megabyte",
+  "value" : "мегабайт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 666,
+  "originalValue" : "megabytes",
+  "value" : "мегабайты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 667,
+  "originalValue" : "Melilla",
+  "value" : "Мелілья",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 668,
+  "originalValue" : "menu",
+  "value" : "меню",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 669,
+  "originalValue" : "merge",
+  "value" : "аб'яднаць; зліццё; merge(Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 670,
+  "originalValue" : "message",
+  "value" : "паведамленне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 671,
+  "originalValue" : "metadata",
+  "value" : "метаданыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 672,
+  "originalValue" : "method",
+  "value" : "метад (праграмны); спосаб",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 673,
+  "originalValue" : "Mexico",
+  "value" : "Мексіка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 674,
+  "originalValue" : "Micronesia, Federated States of",
+  "value" : "Федэратыўныя Штаты Мікранезіі",
+  "wrong" : "",
+  "comment" : "няма ў CLDR"
+}, {
+  "id" : 675,
+  "originalValue" : "microphone",
+  "value" : "мікрафон",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 676,
+  "originalValue" : "minimise",
+  "value" : "згарнуць",
+  "wrong" : "",
+  "comment" : " = minimize"
+}, {
+  "id" : 677,
+  "originalValue" : "minimize",
+  "value" : "згарнуць",
+  "wrong" : "",
+  "comment" : "MS\nSamsung — згарнуць\nгэта калі мы хаваем акно"
+}, {
+  "id" : 678,
+  "originalValue" : "Minsk",
+  "value" : "Мінск",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 679,
+  "originalValue" : "minute",
+  "value" : "хвіліна",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 680,
+  "originalValue" : "mirror",
+  "value" : "люстра; адлюстраваць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 681,
+  "originalValue" : "missing",
+  "value" : "адсутнічае, адсутнічаюць; адсутнае, адсутныя",
+  "wrong" : "прапушчаны",
+  "comment" : "MS"
+}, {
+  "id" : 682,
+  "originalValue" : "mode",
+  "value" : "рэжым, рэжыму, рэжыме",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 683,
+  "originalValue" : "modem",
+  "value" : "мадэм",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 684,
+  "originalValue" : "moderator",
+  "value" : "мадэратар",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 685,
+  "originalValue" : "Modern Standard Arabic",
+  "value" : "сучасная стандартная арабская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 686,
+  "originalValue" : "modification",
+  "value" : "! змяненне, мадыфікацыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 687,
+  "originalValue" : "modifier",
+  "value" : "мадыфікатар",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 688,
+  "originalValue" : "modify",
+  "value" : "змяняць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 689,
+  "originalValue" : "Moldova",
+  "value" : "Малдова",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 690,
+  "originalValue" : "Monaco",
+  "value" : "Манака",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 691,
+  "originalValue" : "Mongolia",
+  "value" : "Манголія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 692,
+  "originalValue" : "Montenegro",
+  "value" : "Чарнагорыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 693,
+  "originalValue" : "monthly",
+  "value" : "штомесяц; штомесячны; за месяц",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 694,
+  "originalValue" : "Montserrat",
+  "value" : "Мантсерат",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 695,
+  "originalValue" : "more information",
+  "value" : "дадатковыя звесткі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 696,
+  "originalValue" : "Morocco",
+  "value" : "Марока",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 697,
+  "originalValue" : "mount",
+  "value" : "падключыць",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 698,
+  "originalValue" : "mouse",
+  "value" : "мыш",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 699,
+  "originalValue" : "mouse pointer",
+  "value" : "указальнік мышы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 700,
+  "originalValue" : "mouse shortcut",
+  "value" : "каманда мышы",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 701,
+  "originalValue" : "mouseover",
+  "value" : "навядзенне курсора",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 702,
+  "originalValue" : "move",
+  "value" : "перамясціць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 703,
+  "originalValue" : "Mozambique",
+  "value" : "Мазамбік",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 704,
+  "originalValue" : "multimedia",
+  "value" : "мультымедыя; мультымедыйны",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 705,
+  "originalValue" : "multiple",
+  "value" : "некалькі",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 706,
+  "originalValue" : "music",
+  "value" : "музыка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 707,
+  "originalValue" : "music player",
+  "value" : "музычны прайгравальнік",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 708,
+  "originalValue" : "mute",
+  "value" : "адключыць гук",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 709,
+  "originalValue" : "Myanmar",
+  "value" : "М’янма (Бірма)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 710,
+  "originalValue" : "Namibia",
+  "value" : "Намібія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 711,
+  "originalValue" : "Nauru",
+  "value" : "Науру",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 712,
+  "originalValue" : "need",
+  "value" : "трэба",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 713,
+  "originalValue" : "needed",
+  "value" : "неабходна; трэба",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 714,
+  "originalValue" : "negative",
+  "value" : "негатыў; негатыўны",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 715,
+  "originalValue" : "Nepal",
+  "value" : "Непал",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 716,
+  "originalValue" : "Netherlands",
+  "value" : "Нідэрланды",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 717,
+  "originalValue" : "Netherlands Antilles",
+  "value" : "Нідэрландскія Антыльскія астравы",
+  "wrong" : "",
+  "comment" : "БелЭн\nняма ў CLDR"
+}, {
+  "id" : 718,
+  "originalValue" : "network",
+  "value" : "сетка",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 719,
+  "originalValue" : "Network Manager",
+  "value" : "Менеджар сетак",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 720,
+  "originalValue" : "never",
+  "value" : "ніколі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 721,
+  "originalValue" : "new",
+  "value" : "новы, новая",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 722,
+  "originalValue" : "New Caledonia",
+  "value" : "Новая Каледонія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 723,
+  "originalValue" : "New Zealand",
+  "value" : "Новая Зеландыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 724,
+  "originalValue" : "Newest",
+  "value" : "Самае новае",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 725,
+  "originalValue" : "News",
+  "value" : "Навіны",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 726,
+  "originalValue" : "next",
+  "value" : "далей; дал.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 727,
+  "originalValue" : "Nicaragua",
+  "value" : "Нікарагуа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 728,
+  "originalValue" : "Niger",
+  "value" : "Нігер",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 729,
+  "originalValue" : "Nigeria",
+  "value" : "Нігерыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 730,
+  "originalValue" : "night blue",
+  "value" : "Сіняя начная (колеравая тэма)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 731,
+  "originalValue" : "night mode",
+  "value" : "начны рэжым",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 732,
+  "originalValue" : "Niue",
+  "value" : "Ніуэ",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 733,
+  "originalValue" : "No Repeat",
+  "value" : "Не паўтараць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 734,
+  "originalValue" : "no results found",
+  "value" : "нічога не знойдзена",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 735,
+  "originalValue" : "no.",
+  "value" : "! колькасць; нумар",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 736,
+  "originalValue" : "noise",
+  "value" : "шум",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 737,
+  "originalValue" : "none",
+  "value" : "няма; нічога; ніякі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 738,
+  "originalValue" : "Norfolk Island",
+  "value" : "Востраў Норфалк",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 739,
+  "originalValue" : "normal",
+  "value" : "звычайны",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 740,
+  "originalValue" : "North Korea",
+  "value" : "Паўночная Карэя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 741,
+  "originalValue" : "Northern Mariana Islands",
+  "value" : "Паўночныя Марыянскія астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 742,
+  "originalValue" : "Norway",
+  "value" : "Нарвегія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 743,
+  "originalValue" : "not available",
+  "value" : "недаступна",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 744,
+  "originalValue" : "not enough",
+  "value" : "недастаткова",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 745,
+  "originalValue" : "not found",
+  "value" : "не знойдзена\n",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 746,
+  "originalValue" : "not valid",
+  "value" : "несапраўдны; няправільны",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 747,
+  "originalValue" : "note",
+  "value" : "нататка",
+  "wrong" : "запіс",
+  "comment" : "Google, MS"
+}, {
+  "id" : 748,
+  "originalValue" : "notes",
+  "value" : "нататкі",
+  "wrong" : "запісы",
+  "comment" : ""
+}, {
+  "id" : 749,
+  "originalValue" : "notification",
+  "value" : "апавяшчэнне",
+  "wrong" : "абвестка",
+  "comment" : ""
+}, {
+  "id" : 750,
+  "originalValue" : "number",
+  "value" : "нумар, нумара; колькасць; лік, ліку (мат.)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 751,
+  "originalValue" : "occurred",
+  "value" : "адбылася",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 752,
+  "originalValue" : "Oceania",
+  "value" : "Акіянія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 753,
+  "originalValue" : "off",
+  "value" : "выкл.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 754,
+  "originalValue" : "offline",
+  "value" : "па-за сеткай; пазасеткавы",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 755,
+  "originalValue" : "offline area",
+  "value" : "пазасеткавая вобласць",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 756,
+  "originalValue" : "offset",
+  "value" : "зрух; зрушэнне (працэс)",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 757,
+  "originalValue" : "ok",
+  "value" : "добра",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 758,
+  "originalValue" : "Oman",
+  "value" : "Аман",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 759,
+  "originalValue" : "on",
+  "value" : "укл.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 760,
+  "originalValue" : "on-screen",
+  "value" : "экранны",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 761,
+  "originalValue" : "ongoing",
+  "value" : "бягучы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 762,
+  "originalValue" : "online",
+  "value" : "у сетцы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 763,
+  "originalValue" : "online account",
+  "value" : "уліковы запіс у сетцы",
+  "wrong" : "",
+  "comment" : "MS — уліковы запіс у сетцы; уліковы запіс інтэрнэт-сэрвісу"
+}, {
+  "id" : 764,
+  "originalValue" : "online accounts",
+  "value" : "уліковыя запісы у сетцы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 765,
+  "originalValue" : "opacity",
+  "value" : "непразрыстасць",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 766,
+  "originalValue" : "open",
+  "value" : "адкрыць (document, file, window, tab etc.)",
+  "wrong" : "",
+  "comment" : "Асобныя выпадкі кшталту «адгарнуць электронную кнігу на 20-й старонцы» прапаноўваю выносіць на абмеркаванне ў Telegram"
+}, {
+  "id" : 767,
+  "originalValue" : "open with",
+  "value" : "адкрыць праз",
+  "wrong" : "адкрыць з",
+  "comment" : ""
+}, {
+  "id" : 768,
+  "originalValue" : "operation",
+  "value" : "аперацыя",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 769,
+  "originalValue" : "option",
+  "value" : "параметр; варыянт",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 770,
+  "originalValue" : "or",
+  "value" : "або; ці",
+  "wrong" : "альбо",
+  "comment" : ""
+}, {
+  "id" : 771,
+  "originalValue" : "orange",
+  "value" : "аранжавы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 772,
+  "originalValue" : "orientation",
+  "value" : "арыентацыя",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 773,
+  "originalValue" : "original",
+  "value" : "зыходны; арыгінальны",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 774,
+  "originalValue" : "OTA",
+  "value" : "бесправадны",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 775,
+  "originalValue" : "other",
+  "value" : "іншы, іншая",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 776,
+  "originalValue" : "output",
+  "value" : "вывад; вывесці; выхад (аўдыя)",
+  "wrong" : "",
+  "comment" : "Samsung, MS\nПра выхад падказаў сп. Шумск­і"
+}, {
+  "id" : 777,
+  "originalValue" : "overlap",
+  "value" : "накладацца",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 778,
+  "originalValue" : "override",
+  "value" : "перавызначаць; перавызначэнне",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 779,
+  "originalValue" : "overview",
+  "value" : "агляд",
+  "wrong" : "",
+  "comment" : "ms, google"
+}, {
+  "id" : 780,
+  "originalValue" : "overwrite",
+  "value" : "перазапісаць; перазапіс",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 781,
+  "originalValue" : "overwriting",
+  "value" : "перазапісванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 782,
+  "originalValue" : "package",
+  "value" : "пакет",
+  "wrong" : "пакунак",
+  "comment" : ""
+}, {
+  "id" : 783,
+  "originalValue" : "packaging",
+  "value" : "упакоўка",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 784,
+  "originalValue" : "padding",
+  "value" : "водступ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 785,
+  "originalValue" : "page",
+  "value" : "старонка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 786,
+  "originalValue" : "pair",
+  "value" : "спалучыць",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 787,
+  "originalValue" : "Pakistan",
+  "value" : "Пакістан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 788,
+  "originalValue" : "Palau",
+  "value" : "Палау",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 789,
+  "originalValue" : "Palestine",
+  "value" : "Палесціна",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 790,
+  "originalValue" : "Palestinian Territory",
+  "value" : "Палесцінскія Тэрыторыі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 791,
+  "originalValue" : "palete",
+  "value" : "палітра",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 792,
+  "originalValue" : "pan",
+  "value" : "зрух; зрушваць",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 793,
+  "originalValue" : "Panama",
+  "value" : "Панама",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 794,
+  "originalValue" : "pane",
+  "value" : "панэль; вобласць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 795,
+  "originalValue" : "panning",
+  "value" : "зрух",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 796,
+  "originalValue" : "Papua New Guinea",
+  "value" : "Папуа-Новая Гвінея",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 797,
+  "originalValue" : "Paraguay",
+  "value" : "Парагвай",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 798,
+  "originalValue" : "parallel",
+  "value" : "паралельны (мат.); ! распаралельваць (плыні кіравання), рабіць паралельнымі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 799,
+  "originalValue" : "parallelism",
+  "value" : "паралелізм",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 800,
+  "originalValue" : "parallelism of algorithm",
+  "value" : "паралелізм алгарытму",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 801,
+  "originalValue" : "parse",
+  "value" : "аналіз",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 802,
+  "originalValue" : "parser",
+  "value" : "сродак аналізу",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 803,
+  "originalValue" : "password",
+  "value" : "пароль",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 804,
+  "originalValue" : "paste",
+  "value" : "уставіць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 805,
+  "originalValue" : "pause",
+  "value" : "паўза; прыпыніць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 806,
+  "originalValue" : "PB",
+  "value" : "ПБ; петабайт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 807,
+  "originalValue" : "PByte",
+  "value" : "ПБайт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 808,
+  "originalValue" : "Peer-to-Peer",
+  "value" : "P2P",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 809,
+  "originalValue" : "pending",
+  "value" : "чакаецца",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 810,
+  "originalValue" : "Peru",
+  "value" : "Перу",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 811,
+  "originalValue" : "petabyte",
+  "value" : "петабайт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 812,
+  "originalValue" : "petabytes",
+  "value" : "петабайты; петабайта",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 813,
+  "originalValue" : "Philippines",
+  "value" : "Філіпіны",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 814,
+  "originalValue" : "photo",
+  "value" : "фота",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 815,
+  "originalValue" : "picker",
+  "value" : "выбар; сродак выбару (элемент інтэрфейса)",
+  "wrong" : "",
+  "comment" : "выбар — MS, Google\nсродак выбару — MS"
+}, {
+  "id" : 816,
+  "originalValue" : "picker",
+  "value" : "сродак выбару (напр. color picker - сродак выбару колеру)",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 817,
+  "originalValue" : "picture",
+  "value" : "відарыс; фота (калі гэта фота); малюнак (калі ён намаляваны)",
+  "wrong" : "выява",
+  "comment" : ""
+}, {
+  "id" : 818,
+  "originalValue" : "picture frame",
+  "value" : "фотарамка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 819,
+  "originalValue" : "pink",
+  "value" : "ружовы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 820,
+  "originalValue" : "pinned",
+  "value" : "замацаваны, замацаваныя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 821,
+  "originalValue" : "Pitcairn",
+  "value" : "Астравы Піткэрн",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 822,
+  "originalValue" : "pixel per inch",
+  "value" : "піксель на цалю",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 823,
+  "originalValue" : "pixels per inch",
+  "value" : "пікселі на цалю",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 824,
+  "originalValue" : "placeholder color",
+  "value" : "запаўняльны колер",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 825,
+  "originalValue" : "plain text",
+  "value" : "звычайны тэкст",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 826,
+  "originalValue" : "play",
+  "value" : "іграць (музыку); гуляць (у гульню)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 827,
+  "originalValue" : "playback",
+  "value" : "прайграванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 828,
+  "originalValue" : "player",
+  "value" : "прайгравальнік (праграма)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 829,
+  "originalValue" : "playlist",
+  "value" : "плэй-ліст",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 830,
+  "originalValue" : "plug",
+  "value" : "падключыць (фізічны канэкт - як штэкер у гняздо)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 831,
+  "originalValue" : "plug-in",
+  "value" : "убудова",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 832,
+  "originalValue" : "plugin",
+  "value" : "убудова",
+  "wrong" : "",
+  "comment" : "MS, Samsung, Google"
+}, {
+  "id" : 833,
+  "originalValue" : "PM",
+  "value" : "PM",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 834,
+  "originalValue" : "pointer",
+  "value" : "указальнік; указка (лазерная)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 835,
+  "originalValue" : "Poland",
+  "value" : "Польшча",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 836,
+  "originalValue" : "portrait",
+  "value" : "кніжная",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 837,
+  "originalValue" : "Portugal",
+  "value" : "Партугалія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 838,
+  "originalValue" : "position",
+  "value" : "пазіцыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 839,
+  "originalValue" : "post",
+  "value" : "публікаваць; публікацыя; допіс",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 840,
+  "originalValue" : "power",
+  "value" : "сілкаванне",
+  "wrong" : "",
+  "comment" : "калі не зразумела - электрасілкаванне"
+}, {
+  "id" : 841,
+  "originalValue" : "Power Off",
+  "value" : "Выключыць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 842,
+  "originalValue" : "power saving",
+  "value" : "энергазберажэнне",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 843,
+  "originalValue" : "powered by",
+  "value" : "на платформе",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 844,
+  "originalValue" : "PRC",
+  "value" : "КНР",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 845,
+  "originalValue" : "pre-release",
+  "value" : "перадфінальны",
+  "wrong" : "",
+  "comment" : "тэрмін by А. Шумскі)"
+}, {
+  "id" : 846,
+  "originalValue" : "preference",
+  "value" : "параметр",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 847,
+  "originalValue" : "preset",
+  "value" : "перадвызначаная налада",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 848,
+  "originalValue" : "press",
+  "value" : "націсніце; націскаць",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 849,
+  "originalValue" : "prev",
+  "value" : "наз.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 850,
+  "originalValue" : "preview",
+  "value" : "перадпрагляд",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 851,
+  "originalValue" : "previous",
+  "value" : "папярэдні; назад (калі без назоўніка і побач з next)",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 852,
+  "originalValue" : "print",
+  "value" : "друк",
+  "wrong" : "",
+  "comment" : "MS — друк; друкаванне\nSamsung — друк\nGoogle — друк"
+}, {
+  "id" : 853,
+  "originalValue" : "print preview",
+  "value" : "прагляд вобласці друку",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 854,
+  "originalValue" : "printer",
+  "value" : "прынтар",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 855,
+  "originalValue" : "printing",
+  "value" : "друк",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 856,
+  "originalValue" : "privacy",
+  "value" : "прыватнасць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 857,
+  "originalValue" : "private",
+  "value" : "прыватны",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 858,
+  "originalValue" : "productivity",
+  "value" : "прадукцыйнасць",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 859,
+  "originalValue" : "Profile",
+  "value" : "профіль",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 860,
+  "originalValue" : "programming",
+  "value" : "праграмаванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 861,
+  "originalValue" : "programming language",
+  "value" : "мова праграмавання",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 862,
+  "originalValue" : "progress",
+  "value" : "ход выканання",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 863,
+  "originalValue" : "promotion",
+  "value" : "прома-акцыя",
+  "wrong" : "",
+  "comment" : "Google — прома-акцыі; прамоцыя, прома-ролік; прасоўванне\nSamsung — прома-акцыя\nMS — рэклама; распаўсюджванне"
+}, {
+  "id" : 864,
+  "originalValue" : "Promotions",
+  "value" : "Прома-акцыі",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 865,
+  "originalValue" : "property",
+  "value" : "уласцівасць; уласцівасці",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 866,
+  "originalValue" : "protected",
+  "value" : "абаронена; абаронены",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 867,
+  "originalValue" : "protocol",
+  "value" : "пратакол",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 868,
+  "originalValue" : "provide",
+  "value" : "пастаўляць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 869,
+  "originalValue" : "provider",
+  "value" : "пастаўшчык; ! служба",
+  "wrong" : "",
+  "comment" : "Samsung — пастаўшчык\nGoogle — служба"
+}, {
+  "id" : 870,
+  "originalValue" : "provides",
+  "value" : "забяспечвае",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 871,
+  "originalValue" : "public",
+  "value" : "публічны; агульнадаступны",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 872,
+  "originalValue" : "Puerto Rico",
+  "value" : "Пуэрта-Рыка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 873,
+  "originalValue" : "pull",
+  "value" : "pull (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 874,
+  "originalValue" : "pull request",
+  "value" : "pull request, запыт на ўнясенне змяненняў (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 875,
+  "originalValue" : "push",
+  "value" : "push (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 876,
+  "originalValue" : "Qatar",
+  "value" : "Катар",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 877,
+  "originalValue" : "question",
+  "value" : "пытанне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 878,
+  "originalValue" : "queue",
+  "value" : "чарга",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 879,
+  "originalValue" : "queuing",
+  "value" : "арганізацыя чаргі\n",
+  "wrong" : "",
+  "comment" : "Трэба правяраць кантэкст, мабыць і не падыйдзе"
+}, {
+  "id" : 880,
+  "originalValue" : "quit",
+  "value" : "выйсці з; выйсці",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 881,
+  "originalValue" : "radius",
+  "value" : "радыус",
+  "wrong" : "",
+  "comment" : "Англа-бел"
+}, {
+  "id" : 882,
+  "originalValue" : "raw",
+  "value" : "неапрацаваны",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 883,
+  "originalValue" : "read",
+  "value" : "чытанне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 884,
+  "originalValue" : "read-only",
+  "value" : "толькі для чытання",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 885,
+  "originalValue" : "reader",
+  "value" : "чытальнік",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 886,
+  "originalValue" : "ready",
+  "value" : "гатова (праграма), гатовы",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 887,
+  "originalValue" : "reboot",
+  "value" : "перазагрузка; перазагружаць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 888,
+  "originalValue" : "record",
+  "value" : "запіс; запісваць",
+  "wrong" : "",
+  "comment" : "MS, Google"
+}, {
+  "id" : 889,
+  "originalValue" : "recorder",
+  "value" : "запіс",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 890,
+  "originalValue" : "rectangle",
+  "value" : "прамавугольнік",
+  "wrong" : "",
+  "comment" : "Англа-бел"
+}, {
+  "id" : 891,
+  "originalValue" : "recurring",
+  "value" : "шматразовы; перыядычны",
+  "wrong" : "",
+  "comment" : "Samsung — шматразовы\nMS — перыядычны"
+}, {
+  "id" : 892,
+  "originalValue" : "red",
+  "value" : "чырвоны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 893,
+  "originalValue" : "redo",
+  "value" : "узнавіць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 894,
+  "originalValue" : "refresh",
+  "value" : "абнавіць",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 895,
+  "originalValue" : "refreshed",
+  "value" : "абноўлены",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 896,
+  "originalValue" : "region",
+  "value" : "рэгіён",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 897,
+  "originalValue" : "regional Formats",
+  "value" : "рэгіянальныя фарматы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 898,
+  "originalValue" : "register",
+  "value" : "зарэгістравацца",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 899,
+  "originalValue" : "registered",
+  "value" : "зарэгістраваны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 900,
+  "originalValue" : "reject",
+  "value" : "адхіліць",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 901,
+  "originalValue" : "rejected",
+  "value" : "адхілена",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 902,
+  "originalValue" : "release",
+  "value" : "выпуск, выпуску",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 903,
+  "originalValue" : "relevant",
+  "value" : "рэлевантны (выдача ў пошуку); адпаведны; важны; ! істотна",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 904,
+  "originalValue" : "remind",
+  "value" : "напамінаць; нагадаць",
+  "wrong" : "",
+  "comment" : "MS — напомніць, нагадаць"
+}, {
+  "id" : 905,
+  "originalValue" : "reminder",
+  "value" : "напамін",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 906,
+  "originalValue" : "reminders",
+  "value" : "напаміны",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 907,
+  "originalValue" : "remote",
+  "value" : "аддалены; аддалена",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 908,
+  "originalValue" : "remote control",
+  "value" : "аддаленае кіраванне",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 909,
+  "originalValue" : "removable",
+  "value" : "здымны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 910,
+  "originalValue" : "remove",
+  "value" : "выдаліць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 911,
+  "originalValue" : "removed",
+  "value" : "выдаліў(-ла); выдалены",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 912,
+  "originalValue" : "rename",
+  "value" : "перайменаваць",
+  "wrong" : "пераназваць",
+  "comment" : ""
+}, {
+  "id" : 913,
+  "originalValue" : "repeat",
+  "value" : "паўтараць; паўтарэнне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 914,
+  "originalValue" : "report",
+  "value" : "справаздача",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 915,
+  "originalValue" : "repository",
+  "value" : "рэпазіторый (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 916,
+  "originalValue" : "request",
+  "value" : "запыт",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 917,
+  "originalValue" : "require",
+  "value" : "патрабаваць",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 918,
+  "originalValue" : "required",
+  "value" : "патрабуецца; ! абавязкова",
+  "wrong" : "",
+  "comment" : "патрабуецца — Samsung"
+}, {
+  "id" : 919,
+  "originalValue" : "reset",
+  "value" : "скінуць; скід",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 920,
+  "originalValue" : "resize",
+  "value" : "змяніць памер",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 921,
+  "originalValue" : "resolving",
+  "value" : "! вырашэнне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 922,
+  "originalValue" : "response",
+  "value" : "адказ; водгук",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 923,
+  "originalValue" : "restart",
+  "value" : "перазапуск; перазапусціць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 924,
+  "originalValue" : "restart later",
+  "value" : "перазапусціць пазней",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 925,
+  "originalValue" : "restart now",
+  "value" : "перазапусціць",
+  "wrong" : "",
+  "comment" : "MS — Перазапусціць, Перазапусціць зараз"
+}, {
+  "id" : 926,
+  "originalValue" : "restore",
+  "value" : "аднавіць",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 927,
+  "originalValue" : "restoring",
+  "value" : "аднаўленне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 928,
+  "originalValue" : "restrict",
+  "value" : "абмежаваць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 929,
+  "originalValue" : "restricted",
+  "value" : "абмежавана; абмежаваны",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 930,
+  "originalValue" : "result",
+  "value" : "вынік",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 931,
+  "originalValue" : "resume",
+  "value" : "узнавіць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 932,
+  "originalValue" : "Réunion",
+  "value" : "Рэюньён",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 933,
+  "originalValue" : "revert",
+  "value" : "! ск­інуць",
+  "wrong" : "",
+  "comment" : "гл. reset"
+}, {
+  "id" : 934,
+  "originalValue" : "rights",
+  "value" : "правы",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 935,
+  "originalValue" : "Romania",
+  "value" : "Румынія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 936,
+  "originalValue" : "rotate",
+  "value" : "павярнуць",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 937,
+  "originalValue" : "rotation",
+  "value" : "паварот",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 938,
+  "originalValue" : "router",
+  "value" : "маршрутызатар",
+  "wrong" : "",
+  "comment" : "ms, samsung"
+}, {
+  "id" : 939,
+  "originalValue" : "row",
+  "value" : "радок",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 940,
+  "originalValue" : "run",
+  "value" : "выконваць; выканаць (каманду); запусціць (камп’ютар)",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 941,
+  "originalValue" : "running",
+  "value" : "выкананне; запуск",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 942,
+  "originalValue" : "Russia",
+  "value" : "Расія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 943,
+  "originalValue" : "Rwanda",
+  "value" : "Руанда",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 944,
+  "originalValue" : "s",
+  "value" : "с (секунда); секунда",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 945,
+  "originalValue" : "safe",
+  "value" : "бяспечны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 946,
+  "originalValue" : "safely",
+  "value" : "бяспечна",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 947,
+  "originalValue" : "safety\n",
+  "value" : "бяспека",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 948,
+  "originalValue" : "Saint Barthélemy",
+  "value" : "Сен-Бартэльмі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 949,
+  "originalValue" : "Saint Kitts and Nevis",
+  "value" : "Сент-Кітс і Невіс",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 950,
+  "originalValue" : "Saint Lucia",
+  "value" : "Сент-Люсія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 951,
+  "originalValue" : "Saint Martin",
+  "value" : "Сен-Мартэн",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 952,
+  "originalValue" : "Saint Pierre and Miquelon",
+  "value" : "Сен-П’ер і Мікелон",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 953,
+  "originalValue" : "Saint Vincent and the Grenadines",
+  "value" : "Сент-Вінсент і Грэнадзіны",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 954,
+  "originalValue" : "Samoa",
+  "value" : "Самоа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 955,
+  "originalValue" : "San Marino",
+  "value" : "Сан-Марына",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 956,
+  "originalValue" : "São Tomé",
+  "value" : "Сан-Тамэ",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 957,
+  "originalValue" : "Sao Tome and Principe",
+  "value" : "Сан-Тамэ і Прынсіпі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 958,
+  "originalValue" : "saturation\n",
+  "value" : "насычанасць",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 959,
+  "originalValue" : "Saudi Arabia",
+  "value" : "Саудаўская Аравія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 960,
+  "originalValue" : "save",
+  "value" : "захаваць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 961,
+  "originalValue" : "save as",
+  "value" : "захаваць як",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 962,
+  "originalValue" : "saving",
+  "value" : "захаванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 963,
+  "originalValue" : "scale",
+  "value" : "шкала; маштаб",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 964,
+  "originalValue" : "scans",
+  "value" : "сканаваныя дакументы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 965,
+  "originalValue" : "schedule",
+  "value" : "расклад; запланаваць; планаванне; графік",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 966,
+  "originalValue" : "science",
+  "value" : "навука",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 967,
+  "originalValue" : "Scotland",
+  "value" : "Шатландыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 968,
+  "originalValue" : "screen",
+  "value" : "экран",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 969,
+  "originalValue" : "screen capture",
+  "value" : "здымак экрана; здымак",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 970,
+  "originalValue" : "screen reader",
+  "value" : "чытанне з экрана",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 971,
+  "originalValue" : "screenshot",
+  "value" : "здымак экрана; здымак",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 972,
+  "originalValue" : "script",
+  "value" : "пісьмо (арабскае, кітайскае); скрыпт, ! сцэнарый",
+  "wrong" : "",
+  "comment" : "MS — скрыпт, сцэнарый\nSamsung — сцэнарый"
+}, {
+  "id" : 973,
+  "originalValue" : "scroll",
+  "value" : "прагортваць; прагортка",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 974,
+  "originalValue" : "search",
+  "value" : "шукаць; пошук",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 975,
+  "originalValue" : "search web",
+  "value" : "шукаць у інтэрнэце",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 976,
+  "originalValue" : "second",
+  "value" : "секунда (мера часу); другі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 977,
+  "originalValue" : "secure",
+  "value" : "абаронены; бяспечны",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 978,
+  "originalValue" : "security",
+  "value" : "бяспека",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 979,
+  "originalValue" : "select",
+  "value" : "выбраць; выбар",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 980,
+  "originalValue" : "selected",
+  "value" : "выбранае",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 981,
+  "originalValue" : "selected area",
+  "value" : "выбраная вобласць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 982,
+  "originalValue" : "selection",
+  "value" : "вылучэнне (працэс); вылучанае",
+  "wrong" : "",
+  "comment" : "MS — вылучанае; Samsung — вылучэнне"
+}, {
+  "id" : 983,
+  "originalValue" : "selection mode",
+  "value" : "рэжым вылучэння",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 984,
+  "originalValue" : "send",
+  "value" : "адправіць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 985,
+  "originalValue" : "sender",
+  "value" : "адпраўнік",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 986,
+  "originalValue" : "Senegal",
+  "value" : "Сенегал",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 987,
+  "originalValue" : "separate",
+  "value" : "раздзяліць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 988,
+  "originalValue" : "separation",
+  "value" : "раздзяленне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 989,
+  "originalValue" : "separator",
+  "value" : "раздзяляльнік",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 990,
+  "originalValue" : "sepia",
+  "value" : "сепія",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 991,
+  "originalValue" : "Serbia",
+  "value" : "Сербія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 992,
+  "originalValue" : "server",
+  "value" : "сервер",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 993,
+  "originalValue" : "service",
+  "value" : "сэрвіс",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 994,
+  "originalValue" : "service agreement",
+  "value" : "пагадненне на абслугоўванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 995,
+  "originalValue" : "services agreement",
+  "value" : "пагадненне аб выкарыстанні сэрвісаў",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 996,
+  "originalValue" : "session",
+  "value" : "сеанс",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 997,
+  "originalValue" : "set",
+  "value" : "задаць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 998,
+  "originalValue" : "set up",
+  "value" : "наладзіць; наладка",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 999,
+  "originalValue" : "setting",
+  "value" : "налада",
+  "wrong" : "наладка, настройка",
+  "comment" : ""
+}, {
+  "id" : 1000,
+  "originalValue" : "settings",
+  "value" : "налады, налад",
+  "wrong" : "настройкі, наладкі",
+  "comment" : ""
+}, {
+  "id" : 1001,
+  "originalValue" : "setup",
+  "value" : "наладжванне (працэс); усталяванне (app setup), усталяваць",
+  "wrong" : "наладка",
+  "comment" : ""
+}, {
+  "id" : 1002,
+  "originalValue" : "setup",
+  "value" : "наладжванне; наладка",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 1003,
+  "originalValue" : "Seychelles",
+  "value" : "Сейшэльскія астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1004,
+  "originalValue" : "share",
+  "value" : "абагуліць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1005,
+  "originalValue" : "shared",
+  "value" : "абагулены",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1006,
+  "originalValue" : "shelf",
+  "value" : "паліца",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1007,
+  "originalValue" : "shell",
+  "value" : "абалонка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1008,
+  "originalValue" : "shortcut",
+  "value" : "ярлык; спалучэнне клавіш",
+  "wrong" : "",
+  "comment" : "MS — ярлык; цэтлік\nGoogle — ярлык; спалучэнне клавіш\nSamsung — ярлык"
+}, {
+  "id" : 1009,
+  "originalValue" : "shortcut menu",
+  "value" : "кантэкстнае меню",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1010,
+  "originalValue" : "shortcuts pane",
+  "value" : "вобласць ярлыкоў",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1011,
+  "originalValue" : "show",
+  "value" : "паказаць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1012,
+  "originalValue" : "Sierra Leone",
+  "value" : "Сьера-Леонэ",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1013,
+  "originalValue" : "sign in",
+  "value" : "увайсці",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1014,
+  "originalValue" : "sign in with",
+  "value" : "увайсці праз",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1015,
+  "originalValue" : "signed",
+  "value" : "падпісаны",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1016,
+  "originalValue" : "significant",
+  "value" : "значны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1017,
+  "originalValue" : "Singapore",
+  "value" : "Сінгапур",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1018,
+  "originalValue" : "site",
+  "value" : "сайт",
+  "wrong" : "",
+  "comment" : "Samsung — вэб-сайт; сайт\nMS — сайт"
+}, {
+  "id" : 1019,
+  "originalValue" : "size",
+  "value" : "памер",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1020,
+  "originalValue" : "slide",
+  "value" : "слайд",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1021,
+  "originalValue" : "slide show",
+  "value" : "слайд-шоў",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1022,
+  "originalValue" : "slider",
+  "value" : "паўзунок",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1023,
+  "originalValue" : "sliders",
+  "value" : "паўзункі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1024,
+  "originalValue" : "slideshow",
+  "value" : "паказ слайдаў",
+  "wrong" : "",
+  "comment" : "Samsung\nGoogle — слайд-шоу"
+}, {
+  "id" : 1025,
+  "originalValue" : "Slovakia",
+  "value" : "Славакія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1026,
+  "originalValue" : "Slovenia",
+  "value" : "Славенія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1027,
+  "originalValue" : "Slow Keys",
+  "value" : "! Павольныя клавішы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1028,
+  "originalValue" : "soft fail",
+  "value" : "некрытычная памылка",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1029,
+  "originalValue" : "software",
+  "value" : "праграмнае забеспячэнне; ПЗ",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1030,
+  "originalValue" : "software update",
+  "value" : "абнаўленне ПЗ; абнаўленне праграмнага забеспячэння",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1031,
+  "originalValue" : "Software Updater",
+  "value" : "Абнаўленне праграм",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1032,
+  "originalValue" : "Solomon Islands",
+  "value" : "Саламонавы астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1033,
+  "originalValue" : "Somalia",
+  "value" : "Самалі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1034,
+  "originalValue" : "sorry",
+  "value" : "выбачайце",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1035,
+  "originalValue" : "sort",
+  "value" : "сартаваць; сартаванне",
+  "wrong" : "",
+  "comment" : "Samsung — сартаваць\nMS — сартаваць, упарадкоўваць; упарадкаванне, сартаванне, сарціроўка"
+}, {
+  "id" : 1036,
+  "originalValue" : "sort by",
+  "value" : "сартаваць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1037,
+  "originalValue" : "sound",
+  "value" : "гук",
+  "wrong" : "",
+  "comment" : "MS, Google, Samsung"
+}, {
+  "id" : 1038,
+  "originalValue" : "sound card",
+  "value" : "гукавая карта",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1039,
+  "originalValue" : "source",
+  "value" : "крыніца",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1040,
+  "originalValue" : "source file",
+  "value" : "зыходны файл",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1041,
+  "originalValue" : "South Africa",
+  "value" : "Паўднёва-Афрыканская Рэспубліка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1042,
+  "originalValue" : "South Georgia and the South Sandwich Islands",
+  "value" : "Паўднёвая Георгія і Паўднёвыя Сандвічавы астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1043,
+  "originalValue" : "South Korea",
+  "value" : "Паўднёвая Карэя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1044,
+  "originalValue" : "space",
+  "value" : "прабел; прастора",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1045,
+  "originalValue" : "spacing",
+  "value" : "інтэрвал",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 1046,
+  "originalValue" : "Spain",
+  "value" : "Іспанія",
+  "wrong" : "Гішпанія",
+  "comment" : "CLDR"
+}, {
+  "id" : 1047,
+  "originalValue" : "speed\n",
+  "value" : "хуткасць; хуткі",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1048,
+  "originalValue" : "split",
+  "value" : "раздзяліць; раздзяленне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1049,
+  "originalValue" : "split bar",
+  "value" : "раздзяляльная панэль",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1050,
+  "originalValue" : "split view",
+  "value" : "падзелены экран",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1051,
+  "originalValue" : "splitter",
+  "value" : "раздзяляльная панэль",
+  "wrong" : "",
+  "comment" : "сінонім split bar"
+}, {
+  "id" : 1052,
+  "originalValue" : "Sri Lanka",
+  "value" : "Шры-Ланка",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1053,
+  "originalValue" : "St. Helena",
+  "value" : "Востраў Святой Алены",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1054,
+  "originalValue" : "starred",
+  "value" : "! абранае (favorites)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1055,
+  "originalValue" : "start",
+  "value" : "запусціць; пуск",
+  "wrong" : "",
+  "comment" : "MS — Пуск, Запуск"
+}, {
+  "id" : 1056,
+  "originalValue" : "startup",
+  "value" : "запуск; запусціць; аўтазапуск",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1057,
+  "originalValue" : "statistics",
+  "value" : "статыстыка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1058,
+  "originalValue" : "status",
+  "value" : "стан",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1059,
+  "originalValue" : "Sticky Keys",
+  "value" : "! Ліпкія клавішы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1060,
+  "originalValue" : "storage",
+  "value" : "сховішча",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1061,
+  "originalValue" : "store",
+  "value" : "крама",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1062,
+  "originalValue" : "store page",
+  "value" : "старонка выканаўцы (муз.)",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1063,
+  "originalValue" : "storing",
+  "value" : "захоўванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1064,
+  "originalValue" : "story",
+  "value" : "гісторыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1065,
+  "originalValue" : "stream",
+  "value" : "плынь",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1066,
+  "originalValue" : "subfolder",
+  "value" : "падпапка\n",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1067,
+  "originalValue" : "subscription",
+  "value" : "падпіска",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1068,
+  "originalValue" : "subsequent",
+  "value" : "наступны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1069,
+  "originalValue" : "subsequent events",
+  "value" : "наступныя падзеі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1070,
+  "originalValue" : "subtitle",
+  "value" : "субцітр",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 1071,
+  "originalValue" : "subtitles",
+  "value" : "субцітры",
+  "wrong" : "",
+  "comment" : "MS, Google"
+}, {
+  "id" : 1072,
+  "originalValue" : "successfully",
+  "value" : "",
+  "wrong" : "",
+  "comment" : "звычайна апускаецца. Перакладайце тады, калі ў тэксце ёсць размежаванне на выкананне аперацыі з памылкамі і, уласна, паспяховае (беспамылковае) выкананне.\n"
+}, {
+  "id" : 1073,
+  "originalValue" : "Sudan",
+  "value" : "Судан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1074,
+  "originalValue" : "summary",
+  "value" : "зводка",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1075,
+  "originalValue" : "support",
+  "value" : "падтрымка, падтрымкі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1076,
+  "originalValue" : "support team",
+  "value" : "група падтрымкі",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1077,
+  "originalValue" : "supported",
+  "value" : "што падтрымліваецца",
+  "wrong" : "падтрымліваемы",
+  "comment" : "У кантэксце можна і перафармуляваць. Н-д: \"Падтрымліваюцца мовы:\""
+}, {
+  "id" : 1078,
+  "originalValue" : "Suriname",
+  "value" : "Сурынам",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1079,
+  "originalValue" : "suspend",
+  "value" : "прыпыніць [працу камп'ютара]; прыпыненне [працы камп'ютара]",
+  "wrong" : "супынак",
+  "comment" : "прыпыніць — Google, MS\nПобач з перазагрузіць і выключыць будзе натуральней выглядаць проста прыпыніць.\nДля іншых выпадкаў, дзе ўмяшчаецца пішам поўнасцю тры або два(без \"працу\") словы з перавагай у бок першай формы."
+}, {
+  "id" : 1080,
+  "originalValue" : "Svalbard and Jan Mayen",
+  "value" : "Шпіцберген і Ян-Маен",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1081,
+  "originalValue" : "Swaziland",
+  "value" : "Эсватыні (калі няма парэбы захоўваць старую назву); Свазіленд",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1082,
+  "originalValue" : "Sweden",
+  "value" : "Швецыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1083,
+  "originalValue" : "swipe",
+  "value" : "правесці пальцам; прагартаць",
+  "wrong" : "",
+  "comment" : "MS — стукнуць, выбраць, чырканне, чыркнуць, пракрутка, адзінкавае пастукванне\nGoogle — правесці пальцам, прагартаць\nSamsung — правядзенне"
+}, {
+  "id" : 1084,
+  "originalValue" : "switch",
+  "value" : "пераключыцца, пераключыць; пераключальнік",
+  "wrong" : "",
+  "comment" : "пераключыцца — Samsung\nпераключальнік — Samsung, Google, MS"
+}, {
+  "id" : 1085,
+  "originalValue" : "Switzerland",
+  "value" : "Швейцарыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1086,
+  "originalValue" : "symmetry",
+  "value" : "сіметрыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1087,
+  "originalValue" : "symmetryc",
+  "value" : "сіметрычны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1088,
+  "originalValue" : "synchronization",
+  "value" : "сінхранізацыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1089,
+  "originalValue" : "synchronize",
+  "value" : "сінхранізаваць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1090,
+  "originalValue" : "Syria",
+  "value" : "Сірыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1091,
+  "originalValue" : "system",
+  "value" : "сістэма",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1092,
+  "originalValue" : "tab",
+  "value" : "укладка (элемент інтэрфейса); табуляцыя (indent)",
+  "wrong" : "картка",
+  "comment" : ""
+}, {
+  "id" : 1093,
+  "originalValue" : "table",
+  "value" : "табліца",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1094,
+  "originalValue" : "tag",
+  "value" : "цэтлік (ключавое слова); тэг (элемент разметкі)",
+  "wrong" : "",
+  "comment" : "цэтлік — Samsung"
+}, {
+  "id" : 1095,
+  "originalValue" : "Taiwan",
+  "value" : "Тайвань",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1096,
+  "originalValue" : "Taiwan",
+  "value" : "Тайвань",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1097,
+  "originalValue" : "Tajikistan",
+  "value" : "Таджыкістан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1098,
+  "originalValue" : "Tanzania",
+  "value" : "Танзанія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1099,
+  "originalValue" : "target",
+  "value" : "мэтавы; мэта",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1100,
+  "originalValue" : "targeting",
+  "value" : "таргетынг",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1101,
+  "originalValue" : "task",
+  "value" : "! задача, заданне",
+  "wrong" : "",
+  "comment" : "Google, Samsung — заданне(задача — todo)\nMS — задача, заданне"
+}, {
+  "id" : 1102,
+  "originalValue" : "TB\n",
+  "value" : "TB — ТБ; тэрабайт; Tb — Тбіт; тэрабіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1103,
+  "originalValue" : "Tbit\n",
+  "value" : "Тбіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1104,
+  "originalValue" : "TByte",
+  "value" : "ТБ",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1105,
+  "originalValue" : "teal",
+  "value" : "сіне-зялёны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1106,
+  "originalValue" : "template",
+  "value" : "шаблон",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1107,
+  "originalValue" : "temporary",
+  "value" : "часовы; нерэгулярны",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 1108,
+  "originalValue" : "temporary error",
+  "value" : "нерэгулярная памылка",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1109,
+  "originalValue" : "terabit",
+  "value" : "тэрабіт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1110,
+  "originalValue" : "terabits",
+  "value" : "тэрабіты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1111,
+  "originalValue" : "terabyte",
+  "value" : "тэрабайт",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1112,
+  "originalValue" : "terabytes",
+  "value" : "тэрабайты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1113,
+  "originalValue" : "Thai",
+  "value" : "Тайскае",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1114,
+  "originalValue" : "Thailand",
+  "value" : "Тайланд",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1115,
+  "originalValue" : "theme",
+  "value" : "тэма",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1116,
+  "originalValue" : "third-party",
+  "value" : "старонні; старонні суб'ект",
+  "wrong" : "",
+  "comment" : "За выключыннем выпадкаў, калі ў тэксце яўна пералічваюцца першы, другі і трэці бакі"
+}, {
+  "id" : 1117,
+  "originalValue" : "this",
+  "value" : "гэтая, гэтае, гэтыя, гэты (азначэнне); гэта (частка выказніка)",
+  "wrong" : "",
+  "comment" : "Ubuntu - гэта свабодная аперацыйная сістэма. Гэтае абнаўленне патрабуе 2МБ месца на дыску. Гэтая прылада не падтрымліваецца."
+}, {
+  "id" : 1118,
+  "originalValue" : "threat",
+  "value" : "пагроза",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1119,
+  "originalValue" : "threshold",
+  "value" : "парог, парога",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1120,
+  "originalValue" : "thumbnail",
+  "value" : "мініяцюра",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 1121,
+  "originalValue" : "tilde",
+  "value" : "тыльда",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1122,
+  "originalValue" : "tile",
+  "value" : "плітка; разбіць на пліткі",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1123,
+  "originalValue" : "tiling",
+  "value" : "разбіццё на пліткі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1124,
+  "originalValue" : "Timor-Leste",
+  "value" : "Тымор-Лешці",
+  "wrong" : "",
+  "comment" : "CLDR, ТНПА"
+}, {
+  "id" : 1125,
+  "originalValue" : "tip",
+  "value" : "падказка",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1126,
+  "originalValue" : "title",
+  "value" : "загаловак; назва",
+  "wrong" : "",
+  "comment" : "MS, Google — загаловак\nSamsung — загаловак, назва"
+}, {
+  "id" : 1127,
+  "originalValue" : "to do",
+  "value" : "задача; задачы (назва праграмы To Do)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1128,
+  "originalValue" : "to-do",
+  "value" : "задача",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1129,
+  "originalValue" : "to-dos",
+  "value" : "задачы",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1130,
+  "originalValue" : "today",
+  "value" : "сёння; сённяшні",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1131,
+  "originalValue" : "todo",
+  "value" : "задача; TODO (каментарый у кодзе)",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1132,
+  "originalValue" : "toggle",
+  "value" : "пераключыць",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 1133,
+  "originalValue" : "toggle blur",
+  "value" : "пераключэнне размытасці",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1134,
+  "originalValue" : "toggle key",
+  "value" : "клавіша пераключэння",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1135,
+  "originalValue" : "Togo",
+  "value" : "Тога",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1136,
+  "originalValue" : "Tokelau",
+  "value" : "Такелау",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1137,
+  "originalValue" : "tomorrow",
+  "value" : "заўтра",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1138,
+  "originalValue" : "Tonga",
+  "value" : "Тонга",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1139,
+  "originalValue" : "tool",
+  "value" : "інструмент",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1140,
+  "originalValue" : "Top Free",
+  "value" : "Топ бясплатных",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1141,
+  "originalValue" : "Top Paid",
+  "value" : "Топ платных",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1142,
+  "originalValue" : "touchpad",
+  "value" : "! сэнсарная пляцоўка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1143,
+  "originalValue" : "track",
+  "value" : "трэк",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1144,
+  "originalValue" : "trash",
+  "value" : "сметніца",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1145,
+  "originalValue" : "Trinidad and Tobago",
+  "value" : "Трынідад і Табага",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1146,
+  "originalValue" : "try a different search",
+  "value" : "паспрабуйце пашукаць іншае",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1147,
+  "originalValue" : "Tunisia",
+  "value" : "Туніс",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1148,
+  "originalValue" : "Turkey",
+  "value" : "Турцыя",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1149,
+  "originalValue" : "Turkmenistan",
+  "value" : "Туркменістан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1150,
+  "originalValue" : "Turks and Caicos Islands",
+  "value" : "Астравы Цёркс і Кайкас",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1151,
+  "originalValue" : "turn off",
+  "value" : "выключыць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1152,
+  "originalValue" : "turn on",
+  "value" : "уключыць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1153,
+  "originalValue" : "tutorial",
+  "value" : "інструкцыя",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1154,
+  "originalValue" : "Tuvalu",
+  "value" : "Тувалу",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1155,
+  "originalValue" : "tween",
+  "value" : "! копія працэса",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1156,
+  "originalValue" : "type",
+  "value" : "тып; ! уводзіць (пароль, звесткі і да т.п.); пісаць (паведамленне); друкаваць (тэкст у рэдактары)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1157,
+  "originalValue" : "Ubuntu",
+  "value" : "Ubuntu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1158,
+  "originalValue" : "Ubuntu Software",
+  "value" : "Праграмы Ubuntu",
+  "wrong" : "",
+  "comment" : "Часам пішуць проста Software з вялікай літары як назву інструмента, тады перакладаем \"Праграмы\". software як агульнае імя так НЕ перакладаем"
+}, {
+  "id" : 1159,
+  "originalValue" : "Uganda",
+  "value" : "Уганда",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1160,
+  "originalValue" : "UK",
+  "value" : "Вялікабрытанія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1161,
+  "originalValue" : "UK English",
+  "value" : "вялікабрытанская англійская; англійская (Вялікабрытанія)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1162,
+  "originalValue" : "Ukraine",
+  "value" : "Украіна",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1163,
+  "originalValue" : "Ukrainian",
+  "value" : "Украінская",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1164,
+  "originalValue" : "unable",
+  "value" : "немагчыма",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1165,
+  "originalValue" : "unauthorized",
+  "value" : "! несанкцыянаваны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1166,
+  "originalValue" : "uncompressing",
+  "value" : "распакаванне",
+  "wrong" : "",
+  "comment" : "гл. decompressing"
+}, {
+  "id" : 1167,
+  "originalValue" : "undo",
+  "value" : "адрабіць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1168,
+  "originalValue" : "undone",
+  "value" : "адроблены",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1169,
+  "originalValue" : "unexpected",
+  "value" : "нечаканы",
+  "wrong" : "",
+  "comment" : "няма ў тэрмінах"
+}, {
+  "id" : 1170,
+  "originalValue" : "unimplimented",
+  "value" : "нерэалізаваны (прагр.)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1171,
+  "originalValue" : "unit",
+  "value" : "адзінка",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1172,
+  "originalValue" : "United Arab Emirates",
+  "value" : "Аб’яднаныя Арабскія Эміраты",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1173,
+  "originalValue" : "United Kingdom",
+  "value" : "Вялікабрытанія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1174,
+  "originalValue" : "United States",
+  "value" : "Злучаныя Штаты Амерыкі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1175,
+  "originalValue" : "United States Minor Outlying Islands",
+  "value" : "Малыя Аддаленыя астравы ЗША",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1176,
+  "originalValue" : "United States Virgin Islands",
+  "value" : "Амерыканскія Віргінскія астравы",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1177,
+  "originalValue" : "unknown",
+  "value" : "невядомы",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1178,
+  "originalValue" : "unlock",
+  "value" : "разблакіраваць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1179,
+  "originalValue" : "unmanaged",
+  "value" : "некіруемы",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1180,
+  "originalValue" : "unmaximize",
+  "value" : "! скасаваць разгортванне, паменшыць",
+  "wrong" : "",
+  "comment" : "гэта калі мы разгорнутае акно робім маленькім"
+}, {
+  "id" : 1181,
+  "originalValue" : "unmount",
+  "value" : "адключаць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1182,
+  "originalValue" : "unnamed",
+  "value" : "без назвы; неназваны (калі выкарыстоўваем замест назвы)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1183,
+  "originalValue" : "unresolvable",
+  "value" : "невырашальны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1184,
+  "originalValue" : "unsupported",
+  "value" : "не падтрымліваецца",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1185,
+  "originalValue" : "unzip",
+  "value" : "распакаваць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1186,
+  "originalValue" : "up",
+  "value" : "уверх",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1187,
+  "originalValue" : "up to date",
+  "value" : "абноўлены (калі мае месца абнаўленне); актуалізаваны (калі мае месца актуалізацыя)",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1188,
+  "originalValue" : "upcoming",
+  "value" : "будучы",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1189,
+  "originalValue" : "update",
+  "value" : "абнавіць; абнаўленне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1190,
+  "originalValue" : "updater",
+  "value" : "інструмент абнаўлення",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1191,
+  "originalValue" : "upgrade",
+  "value" : "абнавіць; абнаўленне",
+  "wrong" : "",
+  "comment" : "MS, Samsung — абнавіць\nMS, Google — абнаўленне"
+}, {
+  "id" : 1192,
+  "originalValue" : "upload",
+  "value" : "запампаваць, запампоўваць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1193,
+  "originalValue" : "uploader",
+  "value" : "запампоўшчык; ! загрузчык",
+  "wrong" : "загрузнік",
+  "comment" : "Лепш запампоўшчык, бо upload — запампаваць"
+}, {
+  "id" : 1194,
+  "originalValue" : "uploading",
+  "value" : "запампоўванне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1195,
+  "originalValue" : "Uruguay",
+  "value" : "Уругвай",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1196,
+  "originalValue" : "US",
+  "value" : "ЗША",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1197,
+  "originalValue" : "US English",
+  "value" : "англійская (ЗША)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1198,
+  "originalValue" : "usage",
+  "value" : "выкарыстанне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1199,
+  "originalValue" : "use",
+  "value" : "выкарыстоўваць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1200,
+  "originalValue" : "user",
+  "value" : "карыстальнік",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1201,
+  "originalValue" : "user account",
+  "value" : "уліковы запіс",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1202,
+  "originalValue" : "user name",
+  "value" : "імя карыстальніка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1203,
+  "originalValue" : "username",
+  "value" : "імя карыстальніка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1204,
+  "originalValue" : "utility",
+  "value" : "утыліта",
+  "wrong" : "",
+  "comment" : "утыліта — Samsung, Google\nслужбовая праграма, дапаможная праграма — MS"
+}, {
+  "id" : 1205,
+  "originalValue" : "Uzbekistan",
+  "value" : "Узбекістан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1206,
+  "originalValue" : "valid",
+  "value" : "сапраўдны; правільны",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1207,
+  "originalValue" : "validate",
+  "value" : "праверыць",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1208,
+  "originalValue" : "validation",
+  "value" : "! праверка, пацверджанне",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1209,
+  "originalValue" : "Validator",
+  "value" : "Сродак праверкі",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1210,
+  "originalValue" : "value",
+  "value" : "значэнне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1211,
+  "originalValue" : "Vanuatu",
+  "value" : "Вануату",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1212,
+  "originalValue" : "Vatican",
+  "value" : "Ватыкан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1213,
+  "originalValue" : "Vatican City",
+  "value" : "Ватыкан",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1214,
+  "originalValue" : "Venezuela",
+  "value" : "Венесуэла",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1215,
+  "originalValue" : "verified",
+  "value" : "спраўджаны",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1216,
+  "originalValue" : "verify",
+  "value" : "спраўдзіць",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1217,
+  "originalValue" : "variable",
+  "value" : "пераменная",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1218,
+  "originalValue" : "version",
+  "value" : "версія, версіі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1219,
+  "originalValue" : "vertical",
+  "value" : "вертыкальны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1220,
+  "originalValue" : "video",
+  "value" : "відэа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1221,
+  "originalValue" : "video player",
+  "value" : "відэапрайгравальнік",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1222,
+  "originalValue" : "Viet Nam",
+  "value" : "В’етнам",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1223,
+  "originalValue" : "view",
+  "value" : "рэжым; выгляд (уласцівасць, аб’ект); прагляд (дзеянне)",
+  "wrong" : "",
+  "comment" : "Samsung, Google — рэжым, выгляд, паказ, прагляд\nMS — выгляд, прагляд, праглядаць"
+}, {
+  "id" : 1224,
+  "originalValue" : "violet",
+  "value" : "ліловы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1225,
+  "originalValue" : "visible",
+  "value" : "бачны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1226,
+  "originalValue" : "visit",
+  "value" : "наведайце; наведаць; наведанне",
+  "wrong" : "",
+  "comment" : "MS — наведайце, наведаць, перайсці, наведванне\nSamsung — наведанне"
+}, {
+  "id" : 1227,
+  "originalValue" : "visitor\n",
+  "value" : "наведвальнік",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1228,
+  "originalValue" : "visitors",
+  "value" : "наведвальнікі",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1229,
+  "originalValue" : "Vitsyebsk",
+  "value" : "Віцебск",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1230,
+  "originalValue" : "Voice Recorder",
+  "value" : "Дыктафон",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1231,
+  "originalValue" : "volume",
+  "value" : "гучнасць",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 1232,
+  "originalValue" : "wait",
+  "value" : "пачакаць",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1233,
+  "originalValue" : "waiting",
+  "value" : "чаканне",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1234,
+  "originalValue" : "Wales",
+  "value" : "Уэльс",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1235,
+  "originalValue" : "Wallis and Futuna",
+  "value" : "Уоліс і Футуна",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1236,
+  "originalValue" : "wallpaper",
+  "value" : "шпалеры",
+  "wrong" : "",
+  "comment" : "Шпалер — MS, Samsung, Google"
+}, {
+  "id" : 1237,
+  "originalValue" : "want",
+  "value" : "хацець",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1238,
+  "originalValue" : "weather",
+  "value" : "надвор'е",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1239,
+  "originalValue" : "weather reports",
+  "value" : "! метэазводка",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1240,
+  "originalValue" : "web",
+  "value" : "вэб; інтэрнэт, інтэрнэту",
+  "wrong" : "",
+  "comment" : "Samsung — вэб\nMS — вэб; інтэрнэт"
+}, {
+  "id" : 1241,
+  "originalValue" : "web address",
+  "value" : "вэб-адрас",
+  "wrong" : "",
+  "comment" : "MSс"
+}, {
+  "id" : 1242,
+  "originalValue" : "Web browser",
+  "value" : "вэб-браўзер",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1243,
+  "originalValue" : "Web browsing",
+  "value" : "Прагляд вэб-старонак",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1244,
+  "originalValue" : "web feed",
+  "value" : "вэб-канал",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1245,
+  "originalValue" : "web filtering",
+  "value" : "вэб-фільтрацыя",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1246,
+  "originalValue" : "Web hosting",
+  "value" : "Вэб-хостынг",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1247,
+  "originalValue" : "web package",
+  "value" : "вэб-пакет",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1248,
+  "originalValue" : "web page",
+  "value" : "вэб-старонка",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1249,
+  "originalValue" : "web portal",
+  "value" : "вэб-партал",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1250,
+  "originalValue" : "Web query",
+  "value" : "вэб-запыт",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1251,
+  "originalValue" : "Web Runtime",
+  "value" : "Web Runtime",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1252,
+  "originalValue" : "Web server",
+  "value" : "вэб-сервер",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1253,
+  "originalValue" : "Web service",
+  "value" : "вэб-сэрвіс",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1254,
+  "originalValue" : "web services",
+  "value" : "вэб-сэрвісы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1255,
+  "originalValue" : "web site",
+  "value" : "вэб-сайт; сайт",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 1256,
+  "originalValue" : "webpage",
+  "value" : "вэб-старонка",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1257,
+  "originalValue" : "website",
+  "value" : "вэб-сайт; сайт",
+  "wrong" : "вэб-старонка",
+  "comment" : "Samsung — вэб-сайт; сайт\nMS — вэб-старонка"
+}, {
+  "id" : 1258,
+  "originalValue" : "Webview",
+  "value" : "Вэб-выгляд",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1259,
+  "originalValue" : "weekly",
+  "value" : "штотыдзень; штотыднёвы; за тыдзень",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 1260,
+  "originalValue" : "Western Sahara",
+  "value" : "Заходняя Сахара",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1261,
+  "originalValue" : "while connected to",
+  "value" : "падчас злучэння з",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1262,
+  "originalValue" : "white",
+  "value" : "белы",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1263,
+  "originalValue" : "widget",
+  "value" : "віджэт",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1264,
+  "originalValue" : "width",
+  "value" : "шырыня",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1265,
+  "originalValue" : "window",
+  "value" : "акно",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1266,
+  "originalValue" : "wired",
+  "value" : "правадны",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1267,
+  "originalValue" : "wireless",
+  "value" : "бесправадны",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 1268,
+  "originalValue" : "wishlist",
+  "value" : "спіс пажаданняў",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1269,
+  "originalValue" : "word",
+  "value" : "слова",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1270,
+  "originalValue" : "workspace",
+  "value" : "працоўная прастора",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1271,
+  "originalValue" : "world clocks",
+  "value" : "сусветныя гадзіннікі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1272,
+  "originalValue" : "WWW",
+  "value" : "WWW",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1273,
+  "originalValue" : "yearly",
+  "value" : "штогод; штогадовы; за год",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 1274,
+  "originalValue" : "yellow",
+  "value" : "жоўты",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1275,
+  "originalValue" : "Yemen",
+  "value" : "Емен",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1276,
+  "originalValue" : "yes",
+  "value" : "так",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1277,
+  "originalValue" : "yesterday",
+  "value" : "учора",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1278,
+  "originalValue" : "your",
+  "value" : "ваш, вашы",
+  "wrong" : "вашыя",
+  "comment" : ""
+}, {
+  "id" : 1279,
+  "originalValue" : "Zambia",
+  "value" : "Замбія",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1280,
+  "originalValue" : "Zimbabwe",
+  "value" : "Зімбабвэ",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1281,
+  "originalValue" : "zoom",
+  "value" : "! павелічэнне; маштаб; маштабаванне (экрана)",
+  "wrong" : "",
+  "comment" : "Samsung — зум, маштаб\nGoogle — павелічэнне, маштабаванне\nMS — павелічэнне, маштаб, маштабаванне"
+}, {
+  "id" : 1282,
+  "originalValue" : "zoom in",
+  "value" : "павялічыць",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1283,
+  "originalValue" : "zoom out",
+  "value" : "паменшыць",
+  "wrong" : "",
+  "comment" : "Samsung"
+} ]

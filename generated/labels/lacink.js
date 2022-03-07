@@ -1,0 +1,16 @@
+export const LACINK = {
+    title: "Bielaruski techničny pieraklad",
+    glossary: "Hliasaryj",
+    rules: "Pravily",
+    links: "Spasylki",
+    pg: "st. ",
+    z: " z ",
+    input_eng_term: "uviadzicie anh. termin",
+    back: "Nazad",
+    term: "Termin",
+    wrong_usage: "Niapraviĺnaje ŭzyvańnie",
+    comment: "Kamentar",
+    narkam: "narkam",
+    tarask: "tarask",
+    lacink: "lacink",
+};

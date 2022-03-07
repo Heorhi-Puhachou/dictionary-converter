@@ -10,6 +10,9 @@
 # IDEA files
 .idea/
 
+# generated files
+target/
+
 # Package Files #
 *.jar
 *.war

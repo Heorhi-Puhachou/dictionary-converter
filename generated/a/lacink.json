@@ -1,0 +1,7699 @@
+[ {
+  "id" : 1,
+  "originalValue" : "about",
+  "value" : "infarmacyja; ab prahramie; ab",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 2,
+  "originalValue" : "accent color",
+  "value" : "daminujučy kolier",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 3,
+  "originalValue" : "access",
+  "value" : "dostup",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 4,
+  "originalValue" : "accessibility",
+  "value" : "spiecyjaĺnyja mahčymaści",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 5,
+  "originalValue" : "account",
+  "value" : "ulikovy zapis, ulikovaha zapisu, ulikovym zapisie",
+  "wrong" : "kont",
+  "comment" : ""
+}, {
+  "id" : 6,
+  "originalValue" : "accounts",
+  "value" : "ulikovyja zapisy, ulikovych zapisaŭ, ulikovymi zapisami",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 7,
+  "originalValue" : "action",
+  "value" : "dziejańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 8,
+  "originalValue" : "activate",
+  "value" : "aktyvavać",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 9,
+  "originalValue" : "activation",
+  "value" : "aktyvacyja",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 10,
+  "originalValue" : "active",
+  "value" : "aktyŭny",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 11,
+  "originalValue" : "activities",
+  "value" : "dziejańni; dziejnaść; aktyŭnaść",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 12,
+  "originalValue" : "add",
+  "value" : "dadać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 13,
+  "originalValue" : "add-in",
+  "value" : "nadbudova",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 14,
+  "originalValue" : "add-on",
+  "value" : "dadatkovy kampanient\n",
+  "wrong" : "dadańnie, pašyreńnie",
+  "comment" : ""
+}, {
+  "id" : 15,
+  "originalValue" : "adjust",
+  "value" : "rehuliavać; ! dapasavać",
+  "wrong" : "",
+  "comment" : "Samsung — rehuliavać, dapasavać; naladzić\nMS — rehuliavać"
+}, {
+  "id" : 16,
+  "originalValue" : "adjustment",
+  "value" : "rehuliroŭka",
+  "wrong" : "",
+  "comment" : "MS — rehuliroŭka; karekciroŭka, karekcyja"
+}, {
+  "id" : 17,
+  "originalValue" : "administrator",
+  "value" : "administratar",
+  "wrong" : "",
+  "comment" : "treba adroźnivać ad kiraŭnikoŭ u TH."
+}, {
+  "id" : 18,
+  "originalValue" : "admit",
+  "value" : "dapuścić",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 19,
+  "originalValue" : "adress",
+  "value" : "adras",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 20,
+  "originalValue" : "adult",
+  "value" : "darosly",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 21,
+  "originalValue" : "Afghanistan",
+  "value" : "Afhanistan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 22,
+  "originalValue" : "Africa",
+  "value" : "Afryka",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 23,
+  "originalValue" : "Afrikaans",
+  "value" : "afrykaans (mova)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 24,
+  "originalValue" : "Aghem",
+  "value" : "ahiem (mova)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 25,
+  "originalValue" : "airplane mode",
+  "value" : "rezym paliotu, ! rezym «U samaliocie»",
+  "wrong" : "",
+  "comment" : "rezym paliotu — Google, MS\nrezym «U samaliocie» — Samsung"
+}, {
+  "id" : 26,
+  "originalValue" : "Akan",
+  "value" : "akan (mova)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 27,
+  "originalValue" : "Aland Islands",
+  "value" : "Alandskija astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 28,
+  "originalValue" : "Åland Islands",
+  "value" : "Alandskija astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 29,
+  "originalValue" : "Albania",
+  "value" : "Albanija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 30,
+  "originalValue" : "Albanian",
+  "value" : "albanskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 31,
+  "originalValue" : "alert",
+  "value" : "abviestka; syhnal",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 32,
+  "originalValue" : "Algeria",
+  "value" : "Alzyr",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 33,
+  "originalValue" : "algorithm",
+  "value" : "alharytm, alharytmu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 34,
+  "originalValue" : "align",
+  "value" : "vyraŭnavać",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 35,
+  "originalValue" : "alignement",
+  "value" : "vyraŭnoŭvańnie",
+  "wrong" : "vyroŭnivańnie",
+  "comment" : "MS"
+}, {
+  "id" : 36,
+  "originalValue" : "all",
+  "value" : "usio",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 37,
+  "originalValue" : "allow",
+  "value" : "dazvolić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 38,
+  "originalValue" : "AM",
+  "value" : "AM",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 39,
+  "originalValue" : "amazing",
+  "value" : "cudoŭna; cudoŭny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 40,
+  "originalValue" : "American Samoa",
+  "value" : "Amerykanskaje Samoa",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 41,
+  "originalValue" : "Amharic",
+  "value" : "amcharskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 42,
+  "originalValue" : "amount",
+  "value" : "koĺkaść",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 43,
+  "originalValue" : "Andorra",
+  "value" : "Andora",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 44,
+  "originalValue" : "angle",
+  "value" : "vuhal",
+  "wrong" : "",
+  "comment" : "Anhla-biel"
+}, {
+  "id" : 45,
+  "originalValue" : "Angola",
+  "value" : "Anhola",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 46,
+  "originalValue" : "Anguilla",
+  "value" : "Anhiĺia",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 47,
+  "originalValue" : "answer",
+  "value" : "adkazać; adkaz",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 48,
+  "originalValue" : "Antarctica",
+  "value" : "Antarktyka",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 49,
+  "originalValue" : "Antigua",
+  "value" : "Antyhua",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 50,
+  "originalValue" : "Antigua and Barbuda",
+  "value" : "Antyhua j Barbuda",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 51,
+  "originalValue" : "app",
+  "value" : "prahrama",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 52,
+  "originalValue" : "application",
+  "value" : "prahrama",
+  "wrong" : "prykladańnie, dadatak, prystasavańnie, aplikacyja j h.d.",
+  "comment" : ""
+}, {
+  "id" : 53,
+  "originalValue" : "application shortcut",
+  "value" : "jarlyk prahramy",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 54,
+  "originalValue" : "apply",
+  "value" : "uzyć",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 55,
+  "originalValue" : "Arabic",
+  "value" : "Arabskaje (piśmo); arabskaja (mova)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 56,
+  "originalValue" : "architecture",
+  "value" : "architektura",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 57,
+  "originalValue" : "archive",
+  "value" : "archiŭ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 58,
+  "originalValue" : "area",
+  "value" : "voblaść",
+  "wrong" : "",
+  "comment" : "ms, google, samsung"
+}, {
+  "id" : 59,
+  "originalValue" : "Argentina",
+  "value" : "Arhieńcina",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 60,
+  "originalValue" : "Armenia",
+  "value" : "Armienija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 61,
+  "originalValue" : "Armenian",
+  "value" : "armianskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 62,
+  "originalValue" : "Aruba",
+  "value" : "Aruba",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 63,
+  "originalValue" : "as available",
+  "value" : "pavodlie najaŭnaści",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 64,
+  "originalValue" : "Asia",
+  "value" : "Azija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 65,
+  "originalValue" : "Assamese",
+  "value" : "asamskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 66,
+  "originalValue" : "assign",
+  "value" : "pryznačyć",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 67,
+  "originalValue" : "assignment",
+  "value" : "pryznačeńnie",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 68,
+  "originalValue" : "associated",
+  "value" : "! źviazany",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 69,
+  "originalValue" : "Asturian",
+  "value" : "asturyjskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 70,
+  "originalValue" : "Asu",
+  "value" : "asu (mova)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 71,
+  "originalValue" : "at least",
+  "value" : "prynamsi",
+  "wrong" : "",
+  "comment" : "u hetym seńsie koskami nie adasabliajecca"
+}, {
+  "id" : 72,
+  "originalValue" : "attach",
+  "value" : "dalučyć",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 73,
+  "originalValue" : "attachment",
+  "value" : "dalučeńnie",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 74,
+  "originalValue" : "attribute",
+  "value" : "atrybut",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 75,
+  "originalValue" : "audio",
+  "value" : "aŭdyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 76,
+  "originalValue" : "audio player",
+  "value" : "aŭdyjaprajhravaĺnik",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 77,
+  "originalValue" : "Australia",
+  "value" : "Aŭstralija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 78,
+  "originalValue" : "Austria",
+  "value" : "Aŭstryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 79,
+  "originalValue" : "authentication",
+  "value" : "pravierka sapraŭdnaści",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 80,
+  "originalValue" : "authorization",
+  "value" : "aŭtaryzacyja",
+  "wrong" : "",
+  "comment" : "MS — aŭtaryzacyja"
+}, {
+  "id" : 81,
+  "originalValue" : "authorize",
+  "value" : "aŭtaryzavać",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 82,
+  "originalValue" : "automatic",
+  "value" : "aŭtamatyčna",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 83,
+  "originalValue" : "autorun",
+  "value" : "aŭtazapusk\n",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 84,
+  "originalValue" : "available",
+  "value" : "dastupny; u sietcy",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 85,
+  "originalValue" : "average",
+  "value" : "siaredni",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 86,
+  "originalValue" : "axis",
+  "value" : "voś, vosi",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 87,
+  "originalValue" : "Azerbaijan",
+  "value" : "Azierbajdzan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 88,
+  "originalValue" : "Azerbaijani",
+  "value" : "azierbajdzanskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 89,
+  "originalValue" : "Azeri",
+  "value" : "azierbajdzanskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 90,
+  "originalValue" : "B",
+  "value" : "B — B (kali majecca na ŭvazie bajt); b — b (kali majecca na ŭvazie bit)",
+  "wrong" : "",
+  "comment" : "niama ŭ CLDR"
+}, {
+  "id" : 91,
+  "originalValue" : "Back",
+  "value" : "Nazad",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 92,
+  "originalValue" : "back up",
+  "value" : "reziervavać; reziervovaja kopija; reziervovaje kapijavańnie",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 93,
+  "originalValue" : "background",
+  "value" : "fon; fonavy",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 94,
+  "originalValue" : "backup",
+  "value" : "reziervavać; reziervovaja kopija; reziervovaje kapijavańnie",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 95,
+  "originalValue" : "bad",
+  "value" : "niestabiĺny; prabliemny; nieadpaviedny; niepadychodziačy; drenny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 96,
+  "originalValue" : "bad network",
+  "value" : "niestabiĺnaje zlučeńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 97,
+  "originalValue" : "bad word",
+  "value" : "nieprystojnaje slova",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 98,
+  "originalValue" : "badge",
+  "value" : "značok",
+  "wrong" : "",
+  "comment" : "MS — značok, embliema\nGoogle — značok"
+}, {
+  "id" : 99,
+  "originalValue" : "Bafia",
+  "value" : "bafija (mova)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 100,
+  "originalValue" : "Bahamas",
+  "value" : "Bahamskija astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 101,
+  "originalValue" : "Bahrain",
+  "value" : "Bachrejn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 102,
+  "originalValue" : "­Bambara",
+  "value" : "bambara (mova)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 103,
+  "originalValue" : "bandwidth",
+  "value" : "palasa prapuskańnia",
+  "wrong" : "",
+  "comment" : "Samsung, MS — palasa prapuskańnia\nMS — prapusknaja ŭlaścivaść"
+}, {
+  "id" : 104,
+  "originalValue" : "Bangla",
+  "value" : "bienhaĺskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 105,
+  "originalValue" : "Bangladesh",
+  "value" : "Banhladeš",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 106,
+  "originalValue" : "bar",
+  "value" : "paneĺ",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 107,
+  "originalValue" : "Barbados",
+  "value" : "Barbadas",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 108,
+  "originalValue" : "Basaa",
+  "value" : "basaa (mova)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 109,
+  "originalValue" : "Basque",
+  "value" : "baskskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 110,
+  "originalValue" : "batch",
+  "value" : "pakiet",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 111,
+  "originalValue" : "battery",
+  "value" : "akumuliatar; batareja",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 112,
+  "originalValue" : "battery level",
+  "value" : "uzrovień akumuliatara",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 113,
+  "originalValue" : "battery life",
+  "value" : "! resurs akumuliatara, termin pracy akumuliatara",
+  "wrong" : "",
+  "comment" : "resurs akumuliatara — Google\ntermin pracy akumuliatara — MS"
+}, {
+  "id" : 114,
+  "originalValue" : "battery power",
+  "value" : "zarad akumuliatara",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 115,
+  "originalValue" : "Battery saving",
+  "value" : "Ekanomija zaradu",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 116,
+  "originalValue" : "because",
+  "value" : "bo",
+  "wrong" : "tamu što",
+  "comment" : "vykliučna dzielia adnastajnaści"
+}, {
+  "id" : 117,
+  "originalValue" : "Belarus",
+  "value" : "Bielaruś",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 118,
+  "originalValue" : "Belarusian",
+  "value" : "Bielaruskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 119,
+  "originalValue" : "Belarusian (Latin)",
+  "value" : "Bielaruskaja (Lacinka)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 120,
+  "originalValue" : "Belarussian",
+  "value" : "Bielaruskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 121,
+  "originalValue" : "Belgium",
+  "value" : "Beĺhija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 122,
+  "originalValue" : "Belize",
+  "value" : "Bieliz",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 123,
+  "originalValue" : "below",
+  "value" : "nizej",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 124,
+  "originalValue" : "Bemba",
+  "value" : "biemba (mova)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 125,
+  "originalValue" : "Bena",
+  "value" : "biena(mova)\n",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 126,
+  "originalValue" : "Benin",
+  "value" : "Bienin",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 127,
+  "originalValue" : "Bermuda",
+  "value" : "Biermudskija astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 128,
+  "originalValue" : "Bhutan",
+  "value" : "Butan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 129,
+  "originalValue" : "bit",
+  "value" : "bit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 130,
+  "originalValue" : "bits",
+  "value" : "bity",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 131,
+  "originalValue" : "bitwise",
+  "value" : "pabitavy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 132,
+  "originalValue" : "black",
+  "value" : "čorny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 133,
+  "originalValue" : "block",
+  "value" : "blakiravać, zablakiravać; blakiravańnie (praces); blakiroŭka",
+  "wrong" : "blakavać; blakavańnie; zablakavać",
+  "comment" : ""
+}, {
+  "id" : 134,
+  "originalValue" : "blue",
+  "value" : "sini",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 135,
+  "originalValue" : "bluetooth\n",
+  "value" : "bluetooth\n",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 136,
+  "originalValue" : "blur",
+  "value" : "razmytaść",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 137,
+  "originalValue" : "Bodo",
+  "value" : "boda (mova)\n",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 138,
+  "originalValue" : "body",
+  "value" : "źmiest (dakumenta); ciela",
+  "wrong" : "",
+  "comment" : "Samsung — źmiest (dakumenta)\nMS — tekst (paviedamlieńnia)\n\nDumaju, što tut mozna ličyć paviedamlieńnie j dakument sinonimami"
+}, {
+  "id" : 139,
+  "originalValue" : "Bolivia",
+  "value" : "Balivija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 140,
+  "originalValue" : "bookmark",
+  "value" : "zakladka",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 141,
+  "originalValue" : "Bosnia and Herzegovina",
+  "value" : "Bośnija j Hiercahavina",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 142,
+  "originalValue" : "Bosnian",
+  "value" : "baśnijskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 143,
+  "originalValue" : "both",
+  "value" : "abodva",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 144,
+  "originalValue" : "Botswana",
+  "value" : "Batsvana",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 145,
+  "originalValue" : "Bounce Keys",
+  "value" : "! Pruhkija klavišy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 146,
+  "originalValue" : "branch",
+  "value" : "halina; adhalinavańnie; halina (Git); stvaryć halinu (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 147,
+  "originalValue" : "Brazil",
+  "value" : "Brazilija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 148,
+  "originalValue" : "Brazzaville",
+  "value" : "Brazaviĺ",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 149,
+  "originalValue" : "Brest",
+  "value" : "Brest",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 150,
+  "originalValue" : "Breton",
+  "value" : "bretonskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 151,
+  "originalValue" : "brightness",
+  "value" : "jarkaść",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 152,
+  "originalValue" : "British Indian Ocean Territory",
+  "value" : "Brytanskaja terytoryja ŭ Indyjskim akijanie",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 153,
+  "originalValue" : "British Virgin Islands",
+  "value" : "Brytanskija Virhinskija astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 154,
+  "originalValue" : "broadband",
+  "value" : "šyrokapalosny",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 155,
+  "originalValue" : "brown",
+  "value" : "karyčnievy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 156,
+  "originalValue" : "browser",
+  "value" : "braŭzier",
+  "wrong" : "braŭzar",
+  "comment" : ""
+}, {
+  "id" : 157,
+  "originalValue" : "browser history",
+  "value" : "historyja braŭziera",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 158,
+  "originalValue" : "Brunei",
+  "value" : "Bruniej",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 159,
+  "originalValue" : "brush",
+  "value" : "pendzaĺ",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 160,
+  "originalValue" : "bug",
+  "value" : "pamylka; bug (tam, dzie ŭ interfejsie jość nadpis bug, aĺbo ŭźnikaje niejkaja inšaja nieadnaznačnaść)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 161,
+  "originalValue" : "built-in",
+  "value" : "ubudavany",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 162,
+  "originalValue" : "Bulgaria",
+  "value" : "Balharyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 163,
+  "originalValue" : "Bulgarian",
+  "value" : "balharskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 164,
+  "originalValue" : "Burkina Faso",
+  "value" : "Burkina-Faso",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 165,
+  "originalValue" : "Burmese",
+  "value" : "birmanskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 166,
+  "originalValue" : "Burundi",
+  "value" : "Buruńdzi",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 167,
+  "originalValue" : "busy",
+  "value" : "zaniaty",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 168,
+  "originalValue" : "byte",
+  "value" : "bajt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 169,
+  "originalValue" : "bytes",
+  "value" : "bajty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 170,
+  "originalValue" : "C++ Header",
+  "value" : "Zahalovačny fajl C++",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 171,
+  "originalValue" : "cache",
+  "value" : "keš",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 172,
+  "originalValue" : "calculate",
+  "value" : "vyličyć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 173,
+  "originalValue" : "calendar",
+  "value" : "kaliandar, kaliendara",
+  "wrong" : "kaliandara",
+  "comment" : ""
+}, {
+  "id" : 174,
+  "originalValue" : "calendars",
+  "value" : "kaliendary",
+  "wrong" : "kaliandary",
+  "comment" : ""
+}, {
+  "id" : 175,
+  "originalValue" : "calibration",
+  "value" : "kalibroŭka",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 176,
+  "originalValue" : "call",
+  "value" : "vyklik",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 177,
+  "originalValue" : "Cambodia",
+  "value" : "Kambodza",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 178,
+  "originalValue" : "Cameroon",
+  "value" : "Kamierun",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 179,
+  "originalValue" : "can't\n",
+  "value" : "niemahčyma (biez zajmieńnika); nieĺha, nia mozacie (z asobaj: you cannot);",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 180,
+  "originalValue" : "Canada",
+  "value" : "Kanada",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 181,
+  "originalValue" : "Canary Islands",
+  "value" : "Kanarskija astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 182,
+  "originalValue" : "cancel",
+  "value" : "skasavać",
+  "wrong" : "admianić, adchilić i inš.",
+  "comment" : ""
+}, {
+  "id" : 183,
+  "originalValue" : "canceled",
+  "value" : "skasavany, skasavanaja, skasavanaje (dziejepr.); skasavana",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 184,
+  "originalValue" : "cancellation",
+  "value" : "skasavańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 185,
+  "originalValue" : "cancelled",
+  "value" : "skasavana",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 186,
+  "originalValue" : "cancelling",
+  "value" : "skasavańnie",
+  "wrong" : "skasoŭvańnie, kasavańnie",
+  "comment" : ""
+}, {
+  "id" : 187,
+  "originalValue" : "cannot",
+  "value" : "niemahčyma (biez zajmieńnika); nieĺha, nia mozacie (z asobaj: you cannot);",
+  "wrong" : "",
+  "comment" : "cannot unzip the archive — niemahčyma raspakavać archiŭ"
+}, {
+  "id" : 188,
+  "originalValue" : "cannot",
+  "value" : "niemahčyma; nieĺha; nia mozacie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 189,
+  "originalValue" : "Cantonese",
+  "value" : "kantonski dyjaliekt kitajskaj",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 190,
+  "originalValue" : "canvas",
+  "value" : "palatno",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 191,
+  "originalValue" : "Cape Verde",
+  "value" : "Kaba-Vierde",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 192,
+  "originalValue" : "Cayman Islands",
+  "value" : "Kajmanavy astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 193,
+  "originalValue" : "Central African Republic",
+  "value" : "Centraĺna-Afrykanskaja Respublika",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 194,
+  "originalValue" : "certificate",
+  "value" : "siertyfikat",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 195,
+  "originalValue" : "Ceuta",
+  "value" : "Sieuta",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 196,
+  "originalValue" : "Ceuta and Melilla",
+  "value" : "Sieuta j Mieliĺia",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 197,
+  "originalValue" : "Chad",
+  "value" : "Čad",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 198,
+  "originalValue" : "change",
+  "value" : "źmianić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 199,
+  "originalValue" : "changes",
+  "value" : "źmieny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 200,
+  "originalValue" : "charge",
+  "value" : "spahaniać platu (čaściej za ŭsio: moza spahaniacca plata); aplata; vydatak; zaradzać (akumuliatar)",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 201,
+  "originalValue" : "chart",
+  "value" : "dyjahrama",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 202,
+  "originalValue" : "chat",
+  "value" : "čat",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 203,
+  "originalValue" : "check",
+  "value" : "pravierka; pravieryć",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 204,
+  "originalValue" : "check box",
+  "value" : "ptuška",
+  "wrong" : "ściazok",
+  "comment" : "Google, Samsung, MS\nściazok — kryvaja kaĺka z ruskaj, jakuju nie rekamiendujecca vykarystoŭvać"
+}, {
+  "id" : 205,
+  "originalValue" : "check-box",
+  "value" : "ptuška",
+  "wrong" : "",
+  "comment" : "hl. check box"
+}, {
+  "id" : 206,
+  "originalValue" : "checkbox",
+  "value" : "ptuška",
+  "wrong" : "",
+  "comment" : "hl. check box"
+}, {
+  "id" : 207,
+  "originalValue" : "checking",
+  "value" : "pravierka",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 208,
+  "originalValue" : "Chile",
+  "value" : "Čyli",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 209,
+  "originalValue" : "China",
+  "value" : "Kitaj",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 210,
+  "originalValue" : "chinese",
+  "value" : "kitajskaja (mova); kitajskaje (piśmo)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 211,
+  "originalValue" : "Chinese (simplified)",
+  "value" : "Kitajskaja (sproščanyja jerohlify)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 212,
+  "originalValue" : "Chinese (traditional)",
+  "value" : "Kitajskaja (tradycyjnyja jerohlify)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 213,
+  "originalValue" : "Chinese, Cantonese",
+  "value" : "kitajskaja, kantonski dyjaliekt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 214,
+  "originalValue" : "Chinese, Mandarin",
+  "value" : "kitajskaja, paŭnočnyja dyjaliekty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 215,
+  "originalValue" : "choose",
+  "value" : "vybrać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 216,
+  "originalValue" : "Christmas Island",
+  "value" : "Vostraŭ Kaliad",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 217,
+  "originalValue" : "clear",
+  "value" : "ačyścić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 218,
+  "originalValue" : "click",
+  "value" : "naciskać, nacisnuć, naciśnicie; naciskańnie",
+  "wrong" : "pstryk; pstryknuć, ščaŭčok, klik",
+  "comment" : "naciskańnie - MS, Google, Samsung\n"
+}, {
+  "id" : 219,
+  "originalValue" : "client",
+  "value" : "klijent",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 220,
+  "originalValue" : "clipboard",
+  "value" : "bufier abmienu",
+  "wrong" : "kišenia",
+  "comment" : "MS, Google, Samsung"
+}, {
+  "id" : 221,
+  "originalValue" : "close",
+  "value" : "zakryć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 222,
+  "originalValue" : "Cocos (Keeling) Islands",
+  "value" : "Kakosavyja (Kilinh) astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 223,
+  "originalValue" : "code",
+  "value" : "kod",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 224,
+  "originalValue" : "coil",
+  "value" : "špulia",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 225,
+  "originalValue" : "Colombia",
+  "value" : "Kalumbija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 226,
+  "originalValue" : "color",
+  "value" : "kolier; kolieravy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 227,
+  "originalValue" : "color scheme",
+  "value" : "kolieravaja schiema",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 228,
+  "originalValue" : "color theme",
+  "value" : "kolieravaja tema",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 229,
+  "originalValue" : "Colour picker",
+  "value" : "Vybar kolieru",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 230,
+  "originalValue" : "command",
+  "value" : "kamanda",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 231,
+  "originalValue" : "commit",
+  "value" : "commit (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 232,
+  "originalValue" : "community",
+  "value" : "supoĺnaść",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 233,
+  "originalValue" : "Comoros",
+  "value" : "Kamorskija astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 234,
+  "originalValue" : "compatibility",
+  "value" : "sumiaščaĺnaść",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 235,
+  "originalValue" : "complete",
+  "value" : "vykanać; zaviaršyć; zavieršana",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 236,
+  "originalValue" : "completed",
+  "value" : "zavieršana; vykanana",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 237,
+  "originalValue" : "completed",
+  "value" : "zavieršana",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 238,
+  "originalValue" : "complex",
+  "value" : "skladany; kamplieksny (lik)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 239,
+  "originalValue" : "compress",
+  "value" : "sc­iskać",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 240,
+  "originalValue" : "computer",
+  "value" : "kampjutar",
+  "wrong" : "kamputar",
+  "comment" : ""
+}, {
+  "id" : 241,
+  "originalValue" : "configuration",
+  "value" : "kanfihuracyja",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 242,
+  "originalValue" : "configure",
+  "value" : "kanfihuravać",
+  "wrong" : "",
+  "comment" : "MS, samsung"
+}, {
+  "id" : 243,
+  "originalValue" : "Congo (DRC)",
+  "value" : "Konha (DRK)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 244,
+  "originalValue" : "Congo (Republic)",
+  "value" : "Respublika Konha",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 245,
+  "originalValue" : "connect",
+  "value" : "zlučyć; zlučacca; padlučać (dysk); padlučacca (fizyčna)",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 246,
+  "originalValue" : "connected",
+  "value" : "zlučany; padlučany (dysk)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 247,
+  "originalValue" : "connection",
+  "value" : "zlučeńnie; padlučeńnie (fizyčnaje)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 248,
+  "originalValue" : "connection manager",
+  "value" : "mieniedzar zlučeńniaŭ; mieniedzar padlučeńniaŭ (fizyčnych)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 249,
+  "originalValue" : "connections",
+  "value" : "zlučeńni; padlučeńni (fizyčnyja)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 250,
+  "originalValue" : "connector",
+  "value" : "pierachodnik",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 251,
+  "originalValue" : "contain",
+  "value" : "źmiaščać; utrymlivać",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 252,
+  "originalValue" : "continue",
+  "value" : "praciahnuć",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 253,
+  "originalValue" : "Cook Islands",
+  "value" : "Astravy Kuka",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 254,
+  "originalValue" : "copy",
+  "value" : "kapijavać; kopija",
+  "wrong" : "kapiravać",
+  "comment" : "Kapijavać — hety termin boĺš tradycyjna-bielaruski. Jaho vykarystoŭvaje Microsoft i pryniaty ŭ Telegram. Samo slova mozna znajści ŭ narkamaŭskich sloŭnikach, napryklad: \"Tlumačaĺny sloŭnik bielaruskaj litaraturnaj movy\" 2016 h.\nKapiravać — hety termin vykarystoŭvaje Google i Samsung. Boĺš raspaŭsiudzany ŭ sloŭnikach i ź im akurat nia budzie prabliemaŭ kštaltu amanimii."
+}, {
+  "id" : 255,
+  "originalValue" : "Costa Rica",
+  "value" : "Kosta-Ryka",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 256,
+  "originalValue" : "Côte d'Ivoire",
+  "value" : "Kot-d’Ivuar",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 257,
+  "originalValue" : "could not",
+  "value" : "nie ŭdalosia",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 258,
+  "originalValue" : "couldn't",
+  "value" : "nie ŭdalosia",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 259,
+  "originalValue" : "create",
+  "value" : "stvaryć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 260,
+  "originalValue" : "creation",
+  "value" : "stvareńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 261,
+  "originalValue" : "creator",
+  "value" : "stvaraĺnik",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 262,
+  "originalValue" : "creditionals",
+  "value" : "ulikovyja danyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 263,
+  "originalValue" : "Croatia",
+  "value" : "Charvatyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 264,
+  "originalValue" : "Cuba",
+  "value" : "Kuba",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 265,
+  "originalValue" : "Curaçao",
+  "value" : "Kiurasaa",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 266,
+  "originalValue" : "currency",
+  "value" : "valiuta",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 267,
+  "originalValue" : "current",
+  "value" : "biahučy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 268,
+  "originalValue" : "cyan",
+  "value" : "blakitny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 269,
+  "originalValue" : "Cyprus",
+  "value" : "Kipr",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 270,
+  "originalValue" : "cyrillic",
+  "value" : "kirylica",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 271,
+  "originalValue" : "Czech Republic",
+  "value" : "Češskaja Respublika",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 272,
+  "originalValue" : "daily",
+  "value" : "štodnia; štodzionny; za dzień\n",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 273,
+  "originalValue" : "danger",
+  "value" : "niebiaspieka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 274,
+  "originalValue" : "dark",
+  "value" : "ciomnaja (kolieravaja tema)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 275,
+  "originalValue" : "dash",
+  "value" : "zlučok; paneĺ kiravańnia (sin. dashboard)",
+  "wrong" : "",
+  "comment" : "Samsung\nMS — praciaznik"
+}, {
+  "id" : 276,
+  "originalValue" : "dashboard",
+  "value" : "paneĺ kiravańnia",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 277,
+  "originalValue" : "data",
+  "value" : "danyja",
+  "wrong" : "dańni, dadzienyja",
+  "comment" : "Kali majecca na ŭvazie information, mozna «źviestki»"
+}, {
+  "id" : 278,
+  "originalValue" : "date",
+  "value" : "data",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 279,
+  "originalValue" : "day",
+  "value" : "dzień; dzionnaja (kolieravaja tema)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 280,
+  "originalValue" : "day classic",
+  "value" : " Kliasičnaja dzionnaja (kolieravaja tema)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 281,
+  "originalValue" : "debug",
+  "value" : "adladka; adladzić, adladzvać; adladačny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 282,
+  "originalValue" : "debugging",
+  "value" : "adladka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 283,
+  "originalValue" : "decline",
+  "value" : "adchilić",
+  "wrong" : "",
+  "comment" : "Časam kab pazbiehnuć blytanicy patrebny asobny pieraklad kštaltu \"vyjści, nie zachoŭvajučy\". Hl. cancel"
+}, {
+  "id" : 284,
+  "originalValue" : "decode",
+  "value" : "! raskadziravać(tak pasliaoŭniej), raskadavać",
+  "wrong" : "",
+  "comment" : "Samsung — raskadavać"
+}, {
+  "id" : 285,
+  "originalValue" : "decompress",
+  "value" : "raspakavać",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 286,
+  "originalValue" : "decompressing",
+  "value" : "raspakavańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 287,
+  "originalValue" : "decrease",
+  "value" : "pamienšyć",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 288,
+  "originalValue" : "decrypt",
+  "value" : "rasšyfravać",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 289,
+  "originalValue" : "Dedicated Graphics Card",
+  "value" : "dyskretnaja videakarta",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 290,
+  "originalValue" : "default",
+  "value" : "pieradvyznačany",
+  "wrong" : "",
+  "comment" : "standartny; pieradvyznačany — Google, Samsung\nStandart <> default, tamu rekamiendujecca ŭzyvać toĺki \"pieradvyznačany\""
+}, {
+  "id" : 291,
+  "originalValue" : "define",
+  "value" : "vyznačać",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 292,
+  "originalValue" : "delay",
+  "value" : "zatrymlivać; adkaladańnie, ! zatrymka",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 293,
+  "originalValue" : "delete",
+  "value" : "vydalić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 294,
+  "originalValue" : "Denmark",
+  "value" : "Danija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 295,
+  "originalValue" : "deny",
+  "value" : "zabaranić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 296,
+  "originalValue" : "dependency\n",
+  "value" : "zalieznaść",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 297,
+  "originalValue" : "dependent",
+  "value" : "zaliezny",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 298,
+  "originalValue" : "depending",
+  "value" : "u zalieznaści ad",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 299,
+  "originalValue" : "deprecated",
+  "value" : "! niedapuščaĺna, zabaroniena; sastarela",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 300,
+  "originalValue" : "description",
+  "value" : "apisańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 301,
+  "originalValue" : "deselect",
+  "value" : "skasavać vylučeńnie",
+  "wrong" : "",
+  "comment" : "MS — skasavać vylučeńnie"
+}, {
+  "id" : 302,
+  "originalValue" : "deselect all",
+  "value" : "skasavać vybar",
+  "wrong" : "",
+  "comment" : "MS — skasavać vybar"
+}, {
+  "id" : 303,
+  "originalValue" : "desktop",
+  "value" : "pracoŭny stol; asiaroddzie (desktop environment, e.g. GNOME, KDE)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 304,
+  "originalValue" : "details",
+  "value" : "padrabiaznaści",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 305,
+  "originalValue" : "detect",
+  "value" : "vyjavić, ! vyznačyć",
+  "wrong" : "",
+  "comment" : "vyjavić — MS\nvyjavić, vyznačyć — Samsung"
+}, {
+  "id" : 306,
+  "originalValue" : "developer",
+  "value" : "raspracoŭščyk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 307,
+  "originalValue" : "device",
+  "value" : "prylada",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 308,
+  "originalValue" : "diagram",
+  "value" : "dyjahrama, schiema",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 309,
+  "originalValue" : "dialog",
+  "value" : "dyjalohavaje akno",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 310,
+  "originalValue" : "diameter",
+  "value" : "dyjamietar",
+  "wrong" : "",
+  "comment" : "Anhla-biel"
+}, {
+  "id" : 311,
+  "originalValue" : "dictionary",
+  "value" : "sloŭnik",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 312,
+  "originalValue" : "different",
+  "value" : "inšy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 313,
+  "originalValue" : "digital",
+  "value" : "ličbavy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 314,
+  "originalValue" : "digital storage",
+  "value" : "ličbavaje schovišča",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 315,
+  "originalValue" : "directory",
+  "value" : "katalioh",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 316,
+  "originalValue" : "disable",
+  "value" : "adkliučyć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 317,
+  "originalValue" : "disabled",
+  "value" : "adkliučana",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 318,
+  "originalValue" : "discard",
+  "value" : "skasavać; admovicca ad",
+  "wrong" : "adkinuć",
+  "comment" : "Samsung — skasavać\nGoogle — skasavać\nMS — skasavać\n\"skasavać\"(časta pobač z cancel atrymlivajem situacyju \"skasavać/skasavać\", ci \"Skasavać? skasavać/OK\")\n"
+}, {
+  "id" : 319,
+  "originalValue" : "discard changes",
+  "value" : "admovicca ad źmien",
+  "wrong" : "",
+  "comment" : "MS — admianić źmieny, skasavać źmieny\nAliaksandar Šumski: \"Karaciej, jak varyjanty: discard changes - 1) Adchilić źmieny (dasloŭna) 2) Admovicca ad źmien (boĺš litaraturna)\""
+}, {
+  "id" : 320,
+  "originalValue" : "disconnect",
+  "value" : "adlučyć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 321,
+  "originalValue" : "discovery",
+  "value" : "vyjaŭlieńnie",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 322,
+  "originalValue" : "disk",
+  "value" : "dysk, dyska",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 323,
+  "originalValue" : "disk space",
+  "value" : "miesca na dysku",
+  "wrong" : "",
+  "comment" : "MS — miesca na dysku; prastora na dysku"
+}, {
+  "id" : 324,
+  "originalValue" : "dismiss",
+  "value" : "adchilić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 325,
+  "originalValue" : "dismissed",
+  "value" : "adchilieny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 326,
+  "originalValue" : "display",
+  "value" : "pakazvać; pakaz; dysplej; adliustroŭvać",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 327,
+  "originalValue" : "Djibouti",
+  "value" : "Dzybuci",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 328,
+  "originalValue" : "document",
+  "value" : "dakument",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 329,
+  "originalValue" : "documentation",
+  "value" : "­dakumentacyja",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 330,
+  "originalValue" : "does not",
+  "value" : "nie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 331,
+  "originalValue" : "does not Expire",
+  "value" : "nie maje terminu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 332,
+  "originalValue" : "Dominica",
+  "value" : "Daminika",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 333,
+  "originalValue" : "Dominican Republic",
+  "value" : "Daminikanskaja Respublika",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 334,
+  "originalValue" : "done",
+  "value" : "hatova",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 335,
+  "originalValue" : "down",
+  "value" : "uniz",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 336,
+  "originalValue" : "download",
+  "value" : "spampavać, spampoŭvać; spampoŭka (abjekt), spampoŭki",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 337,
+  "originalValue" : "downloader",
+  "value" : "! mieniedzar spampoŭvańnia, mieniedzar spampovak",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 338,
+  "originalValue" : "downloading",
+  "value" : "spamvoŭvańnie (praces)",
+  "wrong" : "spampavańnie",
+  "comment" : ""
+}, {
+  "id" : 339,
+  "originalValue" : "downloading",
+  "value" : "spampoŭvańnie; idzie spampoŭvańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 340,
+  "originalValue" : "draft",
+  "value" : "čarnavik",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 341,
+  "originalValue" : "drag",
+  "value" : "pieraciahnuć; pieraciahnicie; pieraciahvańnie",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 342,
+  "originalValue" : "drag and drop",
+  "value" : "pieraciahvańnie",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 343,
+  "originalValue" : "drawer",
+  "value" : "vysoŭnaje mieniu",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 344,
+  "originalValue" : "drive",
+  "value" : "dysk; dyskavod",
+  "wrong" : "",
+  "comment" : "dysk (An area of storage that is formatted with a file system and has a drive letter. The storage can be a floppy disk, a CD or DVD, a hard disk, or another type of disk.)\ndyskavod, pryvad (A hardware device that reads data from and writes data to floppy disks.)\nMS\n"
+}, {
+  "id" : 345,
+  "originalValue" : "due date",
+  "value" : "termin vykanańnia",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 346,
+  "originalValue" : "duplicate",
+  "value" : "dublikat",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 347,
+  "originalValue" : "each",
+  "value" : "kozny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 348,
+  "originalValue" : "easy",
+  "value" : "prosty; prosta",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 349,
+  "originalValue" : "Ecuador",
+  "value" : "Ekvador",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 350,
+  "originalValue" : "edge",
+  "value" : "kraj",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 351,
+  "originalValue" : "edit",
+  "value" : "redahavać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 352,
+  "originalValue" : "editor",
+  "value" : "redaktar",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 353,
+  "originalValue" : "education",
+  "value" : "adukacyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 354,
+  "originalValue" : "Egypt",
+  "value" : "Jehipiet",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 355,
+  "originalValue" : "El Salvador",
+  "value" : "Saĺvador",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 356,
+  "originalValue" : "electronics",
+  "value" : "eliektronika",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 357,
+  "originalValue" : "embedded",
+  "value" : "ubudavany",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 358,
+  "originalValue" : "emit",
+  "value" : "! vydavać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 359,
+  "originalValue" : "emoji",
+  "value" : "emodzi",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 360,
+  "originalValue" : "enable",
+  "value" : "ukliučyć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 361,
+  "originalValue" : "enabled",
+  "value" : "ukliučana",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 362,
+  "originalValue" : "encode",
+  "value" : "! kadziravać; zakadziravać",
+  "wrong" : "kadavać",
+  "comment" : "Kadavać — niama ŭ slonikach. Kali prymajem kadovańnie, tady davajcie vydumajem kadoŭku.\nAlie sams i huhl va ŭsiu vykarystoŭvajuć slovy, vytvornyja ad kadavać"
+}, {
+  "id" : 363,
+  "originalValue" : "encoder",
+  "value" : "! kadavaĺnik, kadziravaĺnik",
+  "wrong" : "",
+  "comment" : "Google — kadavaĺnik"
+}, {
+  "id" : 364,
+  "originalValue" : "encoding",
+  "value" : "kadziroŭka (abjekt); kadziravańnie (praces)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 365,
+  "originalValue" : "encrypt",
+  "value" : "šyfravać; zašyfravać",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 366,
+  "originalValue" : "encrypted",
+  "value" : "zašyfravany",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 367,
+  "originalValue" : "encryption",
+  "value" : "šyfravańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 368,
+  "originalValue" : "encryption",
+  "value" : "šyfravańnie",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 369,
+  "originalValue" : "end call",
+  "value" : "zaviaršyć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 370,
+  "originalValue" : "England",
+  "value" : "Anhlija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 371,
+  "originalValue" : "english",
+  "value" : "anhlijskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 372,
+  "originalValue" : "english (US)",
+  "value" : "anhlijskaja (ZŠA)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 373,
+  "originalValue" : "enlarge",
+  "value" : "pavialičyć",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 374,
+  "originalValue" : "enough",
+  "value" : "dastatkova",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 375,
+  "originalValue" : "enter",
+  "value" : "uviadzicie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 376,
+  "originalValue" : "enter",
+  "value" : "enter (klaviša); uvieści; uvod",
+  "wrong" : "",
+  "comment" : "Samsung — uvieści; uvod"
+}, {
+  "id" : 377,
+  "originalValue" : "Equatorial Guinea",
+  "value" : "Ekvataryjaĺnaja Hvinieja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 378,
+  "originalValue" : "erase",
+  "value" : "ścierci; ścierci danyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 379,
+  "originalValue" : "Eritrea",
+  "value" : "Erytreja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 380,
+  "originalValue" : "error",
+  "value" : "pamylka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 381,
+  "originalValue" : "estimated",
+  "value" : "pryblizny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 382,
+  "originalValue" : "estimating",
+  "value" : "aceńvańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 383,
+  "originalValue" : "Estonia",
+  "value" : "Estonija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 384,
+  "originalValue" : "Eswatini",
+  "value" : "Esvatyni",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 385,
+  "originalValue" : "Ethiopia",
+  "value" : "Efiopija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 386,
+  "originalValue" : "Europe",
+  "value" : "Eŭropa",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 387,
+  "originalValue" : "event",
+  "value" : "padzieja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 388,
+  "originalValue" : "exception",
+  "value" : "vykliučeńnie; vykliučnaja situacyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 389,
+  "originalValue" : "execution",
+  "value" : "vykanańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 390,
+  "originalValue" : "existing",
+  "value" : "isnujučy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 391,
+  "originalValue" : "existing",
+  "value" : "isny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 392,
+  "originalValue" : "exit",
+  "value" : "vychad; vychodzić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 393,
+  "originalValue" : "expand",
+  "value" : "razharnuć; razhortvańnie",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 394,
+  "originalValue" : "expandable",
+  "value" : "razhortvaĺny",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 395,
+  "originalValue" : "expired",
+  "value" : "termin dziejańnia skončyŭsia; samaźniščylasia (fota); źniščany (fajl)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 396,
+  "originalValue" : "Expiry Date",
+  "value" : "Termin dziejańnia",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 397,
+  "originalValue" : "extension",
+  "value" : "pašyreńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 398,
+  "originalValue" : "external",
+  "value" : "źniešni",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 399,
+  "originalValue" : "external storage",
+  "value" : "vonkavaje schovišča",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 400,
+  "originalValue" : "extract",
+  "value" : "vynuć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 401,
+  "originalValue" : "failed",
+  "value" : "nie ŭdalosia",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 402,
+  "originalValue" : "failure",
+  "value" : "zboj",
+  "wrong" : "",
+  "comment" : "failure to - nie ŭdalosia"
+}, {
+  "id" : 403,
+  "originalValue" : "Falkland Islands (Malvinas)",
+  "value" : "Falkliendskija (Maĺvinskija) astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 404,
+  "originalValue" : "Faroe Islands",
+  "value" : "Farerskija astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 405,
+  "originalValue" : "favorite",
+  "value" : "dadać u abranyja; abranaje (kali jano adno)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 406,
+  "originalValue" : "favorites",
+  "value" : "abranyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 407,
+  "originalValue" : "feature",
+  "value" : "funkcyja",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 408,
+  "originalValue" : "feature graphic",
+  "value" : "indyviduaĺnaja hrafika",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 409,
+  "originalValue" : "featured",
+  "value" : "vartaje ŭvahi",
+  "wrong" : "",
+  "comment" : "Google, Samsung — Vartaje ŭvahi\nMS — Vartaje ŭvahi; papuliarnaje"
+}, {
+  "id" : 410,
+  "originalValue" : "feed",
+  "value" : "! kanal, naviny, lienta navin",
+  "wrong" : "",
+  "comment" : "Samsung, Google\nU Huhl jość radok channel feed — naviny kanala"
+}, {
+  "id" : 411,
+  "originalValue" : "fetch",
+  "value" : "fetch (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 412,
+  "originalValue" : "Fiji",
+  "value" : "Fidzy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 413,
+  "originalValue" : "file",
+  "value" : "fajl, fajla",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 414,
+  "originalValue" : "file property",
+  "value" : "ulaścivaści fajla",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 415,
+  "originalValue" : "filesystem",
+  "value" : "fajlavaja systema",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 416,
+  "originalValue" : "fill",
+  "value" : "zapaŭniać; zapaŭnieńnie",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 417,
+  "originalValue" : "finalize",
+  "value" : "zakončyć",
+  "wrong" : "",
+  "comment" : "niama ŭ terminach"
+}, {
+  "id" : 418,
+  "originalValue" : "find",
+  "value" : "znajści",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 419,
+  "originalValue" : "fingerprint",
+  "value" : "adbitak paĺca, ličbavy adbitak",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 420,
+  "originalValue" : "finish",
+  "value" : "skončyć; hatova",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 421,
+  "originalValue" : "finished",
+  "value" : "skončana",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 422,
+  "originalValue" : "Finland",
+  "value" : "Finliandyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 423,
+  "originalValue" : "firmware",
+  "value" : "ubudavanaja prahrama; ubudavanaje PZ; ! prašyŭka",
+  "wrong" : "",
+  "comment" : "ubudavanaja prahrama; ubudavanaje PZ — Samsung, Google"
+}, {
+  "id" : 424,
+  "originalValue" : "flip",
+  "value" : "adliustravać (image, view); adliustravańnie; pieraviarnuć (kali majecca na ŭvazie nie adliustravańnie); pieravarot",
+  "wrong" : "",
+  "comment" : "pieraviarnuć — Samsung\npieravarot — Google\nadliustravać — MS"
+}, {
+  "id" : 425,
+  "originalValue" : "flipped",
+  "value" : "pieraviernuty",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 426,
+  "originalValue" : "focus",
+  "value" : "fokus, fokusa",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 427,
+  "originalValue" : "folder",
+  "value" : "papka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 428,
+  "originalValue" : "font",
+  "value" : "šryft, šryftu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 429,
+  "originalValue" : "force",
+  "value" : "prymusova",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 430,
+  "originalValue" : "forever",
+  "value" : "zaŭsiody",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 431,
+  "originalValue" : "format",
+  "value" : "farmat",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 432,
+  "originalValue" : "formatting",
+  "value" : "farmaciravańnie",
+  "wrong" : "farmatavańnie",
+  "comment" : ""
+}, {
+  "id" : 433,
+  "originalValue" : "former",
+  "value" : "byly; papiaredni",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 434,
+  "originalValue" : "France",
+  "value" : "Francyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 435,
+  "originalValue" : "french",
+  "value" : "francuzskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 436,
+  "originalValue" : "French Guiana",
+  "value" : "Francuzskaja Hvijana",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 437,
+  "originalValue" : "French Polynesia",
+  "value" : "Francuzskaja Paliniezija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 438,
+  "originalValue" : "French Southern Territories",
+  "value" : "Francuzskija paŭdniovyja terytoryi",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 439,
+  "originalValue" : "friends",
+  "value" : "siabry",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 440,
+  "originalValue" : "Gabon",
+  "value" : "Habon",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 441,
+  "originalValue" : "gallery",
+  "value" : "haliereja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 442,
+  "originalValue" : "Gambia",
+  "value" : "Hambija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 443,
+  "originalValue" : "game",
+  "value" : "huĺnia",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 444,
+  "originalValue" : "GB",
+  "value" : "GB — HB; hihabajt; Gb — Hbit; hihabit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 445,
+  "originalValue" : "Gbit",
+  "value" : "Hbit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 446,
+  "originalValue" : "GByte",
+  "value" : "HB",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 447,
+  "originalValue" : "general",
+  "value" : "ahuĺnyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 448,
+  "originalValue" : "genre",
+  "value" : "zanr",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 449,
+  "originalValue" : "Georgia",
+  "value" : "Hruzija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 450,
+  "originalValue" : "Germany",
+  "value" : "Hiermanija",
+  "wrong" : "Niamieččyna",
+  "comment" : "CLDR"
+}, {
+  "id" : 451,
+  "originalValue" : "Ghana",
+  "value" : "Hana",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 452,
+  "originalValue" : "Gibraltar",
+  "value" : "Hibraltar",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 453,
+  "originalValue" : "gift",
+  "value" : "padarunak",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 454,
+  "originalValue" : "gigabit",
+  "value" : "hihabit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 455,
+  "originalValue" : "gigabits",
+  "value" : "hihabity",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 456,
+  "originalValue" : "gigabyte",
+  "value" : "hihabajt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 457,
+  "originalValue" : "gigabytes",
+  "value" : "hihabajty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 458,
+  "originalValue" : "given",
+  "value" : "! dadzieny, hety",
+  "wrong" : "\n",
+  "comment" : ""
+}, {
+  "id" : 459,
+  "originalValue" : "GMT",
+  "value" : "GMT",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 460,
+  "originalValue" : "GNOME desktop",
+  "value" : "Asiaroddzie GNOME",
+  "wrong" : "",
+  "comment" : "heta desktop environment, a nie pracoŭny stol"
+}, {
+  "id" : 461,
+  "originalValue" : "GNOME Shell",
+  "value" : "Abalonka GNOME",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 462,
+  "originalValue" : "go to",
+  "value" : "pierajści da",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 463,
+  "originalValue" : "gradient",
+  "value" : "hradyjent",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 464,
+  "originalValue" : "grant",
+  "value" : "dazvolić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 465,
+  "originalValue" : "gray",
+  "value" : "šery",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 466,
+  "originalValue" : "Greece",
+  "value" : "Hrecyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 467,
+  "originalValue" : "greek",
+  "value" : "hrečaskaje (piśmo)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 468,
+  "originalValue" : "green",
+  "value" : "zialiony",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 469,
+  "originalValue" : "Greenland",
+  "value" : "Hrenlandyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 470,
+  "originalValue" : "Grenada",
+  "value" : "Hrenada",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 471,
+  "originalValue" : "grid view",
+  "value" : "vyhliad sietki",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 472,
+  "originalValue" : "group",
+  "value" : "hrupa",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 473,
+  "originalValue" : "Guadeloupe",
+  "value" : "Hvadelupa",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 474,
+  "originalValue" : "Guam",
+  "value" : "Huam",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 475,
+  "originalValue" : "Guatemala",
+  "value" : "Hvatemala",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 476,
+  "originalValue" : "Guernsey",
+  "value" : "Hierńsi",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 477,
+  "originalValue" : "Guinea",
+  "value" : "Hvinieja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 478,
+  "originalValue" : "Guinea-Bissau",
+  "value" : "Hvinieja-Bisau",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 479,
+  "originalValue" : "Guyana",
+  "value" : "Hajana",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 480,
+  "originalValue" : "h",
+  "value" : "hadz (hadzina); hadzina",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 481,
+  "originalValue" : "Haiti",
+  "value" : "Haici",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 482,
+  "originalValue" : "hard fail",
+  "value" : "krytyčnaja pamylka",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 483,
+  "originalValue" : "hardware",
+  "value" : "aparatny; abstaliavańnie, ! aparatnaje zabiespiačeńnie",
+  "wrong" : "",
+  "comment" : "aparatnaje zabiespiačeńnie; aparatny — Google\naparatny; abstaliavańnie — Samsung"
+}, {
+  "id" : 484,
+  "originalValue" : "header",
+  "value" : "zahalovak; zahalovačny fajl",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 485,
+  "originalValue" : "headphones",
+  "value" : "navušniki",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 486,
+  "originalValue" : "headset",
+  "value" : "harnitura",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 487,
+  "originalValue" : "Hebrew",
+  "value" : "Jaŭrejskaje",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 488,
+  "originalValue" : "height",
+  "value" : "vyšynia",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 489,
+  "originalValue" : "help",
+  "value" : "daviedka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 490,
+  "originalValue" : "hide",
+  "value" : "chavać",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 491,
+  "originalValue" : "hints",
+  "value" : "padkazki",
+  "wrong" : "",
+  "comment" : "Samsung\nMS — pakazaĺnik"
+}, {
+  "id" : 492,
+  "originalValue" : "history",
+  "value" : "historyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 493,
+  "originalValue" : "hold",
+  "value" : "utrymlivać; utrymańnie",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 494,
+  "originalValue" : "home",
+  "value" : "chatniaja papka (kali majecca na ŭvazie home folder); chatniaja staronka (astatnija vypadki); dadomu (knopka navihacyi)",
+  "wrong" : "",
+  "comment" : "u vypadku z papkaj, robim pa analohii z homepage"
+}, {
+  "id" : 495,
+  "originalValue" : "home phone",
+  "value" : "damašni teliefon",
+  "wrong" : "chatni teliefon",
+  "comment" : "paslia doŭhich abmierkavańniaŭ spynilisia na terminie \"damašni teliefon\""
+}, {
+  "id" : 496,
+  "originalValue" : "homepage",
+  "value" : "chatniaja staronka",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 497,
+  "originalValue" : "Homyel'",
+  "value" : "Homieĺ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 498,
+  "originalValue" : "Honduras",
+  "value" : "Handuras",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 499,
+  "originalValue" : "Hong Kong",
+  "value" : "Hankonh",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 500,
+  "originalValue" : "Hong Kong SAR",
+  "value" : "SAR Hankonh",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 501,
+  "originalValue" : "horizontal",
+  "value" : "haryzantaĺny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 502,
+  "originalValue" : "host",
+  "value" : "chost",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 503,
+  "originalValue" : "hot corners",
+  "value" : "haračyja kuty",
+  "wrong" : "",
+  "comment" : "heta čysta hnomaŭski termin, niama ŭ kaho hliadzieć\nSpačatku bylo aktyŭnyja kuty, alie vyrašyli pamianiać na haračyja, kab nie byo kalizij kštaltu hot corners are active"
+}, {
+  "id" : 504,
+  "originalValue" : "hot keys",
+  "value" : "spalučeńni klaviš",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 505,
+  "originalValue" : "hotspot",
+  "value" : "chot-spot",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 506,
+  "originalValue" : "hour",
+  "value" : "hadzina",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 507,
+  "originalValue" : "hover",
+  "value" : "navieści",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 508,
+  "originalValue" : "How-to",
+  "value" : "Instrukcyi",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 509,
+  "originalValue" : "Hrodna",
+  "value" : "Hrodna",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 510,
+  "originalValue" : "Hungary",
+  "value" : "Vienhryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 511,
+  "originalValue" : "Iceland",
+  "value" : "Islandyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 512,
+  "originalValue" : "icon",
+  "value" : "značok",
+  "wrong" : "ikonka",
+  "comment" : ""
+}, {
+  "id" : 513,
+  "originalValue" : "ID",
+  "value" : "identyfikatar; ID",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 514,
+  "originalValue" : "identity",
+  "value" : "asoba; identyčnaść",
+  "wrong" : "",
+  "comment" : "asoba; identyčnaść — Samsung\nidentyčnaść, paśviedčańnie — MS"
+}, {
+  "id" : 515,
+  "originalValue" : "ignore",
+  "value" : "ihnaravać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 516,
+  "originalValue" : "image",
+  "value" : "vidarys",
+  "wrong" : "vyjava",
+  "comment" : ""
+}, {
+  "id" : 517,
+  "originalValue" : "immediately",
+  "value" : "nieadkladna",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 518,
+  "originalValue" : "implementation",
+  "value" : "realizacyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 519,
+  "originalValue" : "implemented",
+  "value" : "realizavany",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 520,
+  "originalValue" : "imprint",
+  "value" : "štamp",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 521,
+  "originalValue" : "in a row",
+  "value" : "zapar",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 522,
+  "originalValue" : "in progress",
+  "value" : "vykonvajecca",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 523,
+  "originalValue" : "include",
+  "value" : "ukliučyć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 524,
+  "originalValue" : "increase",
+  "value" : "pavialičyć",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 525,
+  "originalValue" : "independent",
+  "value" : "niezaliezny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 526,
+  "originalValue" : "index",
+  "value" : "indeks",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 527,
+  "originalValue" : "India",
+  "value" : "Indyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 528,
+  "originalValue" : "Indonesia",
+  "value" : "Indaniezija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 529,
+  "originalValue" : "info",
+  "value" : "źviestki; infarmacyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 530,
+  "originalValue" : "information",
+  "value" : "źviestki; infarmacyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 531,
+  "originalValue" : "inhibit",
+  "value" : "zablakiravać; blakiravać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 532,
+  "originalValue" : "initializing",
+  "value" : "inicyjalizacyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 533,
+  "originalValue" : "inline",
+  "value" : "ubudavany",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 534,
+  "originalValue" : "input",
+  "value" : "uvieści; uvod (praces); uvachod (fizičny razdym), aŭdyjaŭvachod (audio/sound input)",
+  "wrong" : "",
+  "comment" : "alie zvazajem na kantekst, moza być audio input - halasavy ŭvod i h.d."
+}, {
+  "id" : 535,
+  "originalValue" : "insert",
+  "value" : "ustaŭliać, ustavić; ustaŭka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 536,
+  "originalValue" : "inserting",
+  "value" : "ustaŭka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 537,
+  "originalValue" : "install",
+  "value" : "ustaliavać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 538,
+  "originalValue" : "installation",
+  "value" : "ustaliavańnie (praces); ustalioŭka (abjekt)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 539,
+  "originalValue" : "installed",
+  "value" : "ustaliavany",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 540,
+  "originalValue" : "installing",
+  "value" : "ustaliavańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 541,
+  "originalValue" : "instance",
+  "value" : "vobraz",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 542,
+  "originalValue" : "interface",
+  "value" : "interfiejs",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 543,
+  "originalValue" : "internal",
+  "value" : "unutrany",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 544,
+  "originalValue" : "internet",
+  "value" : "internet, internetu",
+  "wrong" : "sieciva",
+  "comment" : ""
+}, {
+  "id" : 545,
+  "originalValue" : "Internet address",
+  "value" : "internet-adras",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 546,
+  "originalValue" : "Internet connection",
+  "value" : "internet-zlučeńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 547,
+  "originalValue" : "Internet history",
+  "value" : "historyja braŭziera",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 548,
+  "originalValue" : "Internet Protocol",
+  "value" : "internet-pratakol",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 549,
+  "originalValue" : "Internet sharing",
+  "value" : "supoĺny dostup da internetu",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 550,
+  "originalValue" : "introspection",
+  "value" : "! intraspiekcyja, analiz",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 551,
+  "originalValue" : "invalid",
+  "value" : "pamylkovy",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 552,
+  "originalValue" : "invite",
+  "value" : "zaprašać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 553,
+  "originalValue" : "Iran",
+  "value" : "Iran",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 554,
+  "originalValue" : "Iraq",
+  "value" : "Irak",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 555,
+  "originalValue" : "Ireland",
+  "value" : "Irliandyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 556,
+  "originalValue" : "Isle of Man",
+  "value" : "Vostraŭ Men",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 557,
+  "originalValue" : "Israel",
+  "value" : "Izraiĺ",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 558,
+  "originalValue" : "issue",
+  "value" : "prabliema",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 559,
+  "originalValue" : "Italy",
+  "value" : "Italija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 560,
+  "originalValue" : "item",
+  "value" : "eliemient",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 561,
+  "originalValue" : "Jamaica",
+  "value" : "Jamajka",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 562,
+  "originalValue" : "Japan",
+  "value" : "Japonija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 563,
+  "originalValue" : "Jersey",
+  "value" : "Dzersi",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 564,
+  "originalValue" : "join",
+  "value" : "ab’jadnać; dalučyć; dalučycca",
+  "wrong" : "",
+  "comment" : "ab’jadnać; dalučyć — MS\ndalučyć, dalučycca — Samsung"
+}, {
+  "id" : 565,
+  "originalValue" : "Jordan",
+  "value" : "Iardanija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 566,
+  "originalValue" : "joystick",
+  "value" : "dzojstyk",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 567,
+  "originalValue" : "jump",
+  "value" : "pierajści",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 568,
+  "originalValue" : "Kazakhstan",
+  "value" : "Kazachstan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 569,
+  "originalValue" : "kB",
+  "value" : "kB — KB; kilabajt; kb — kbit; kilabit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 570,
+  "originalValue" : "kbit",
+  "value" : "kbit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 571,
+  "originalValue" : "kByte",
+  "value" : "KB",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 572,
+  "originalValue" : "keep",
+  "value" : "zachavać",
+  "wrong" : "",
+  "comment" : "hl. save"
+}, {
+  "id" : 573,
+  "originalValue" : "Kenya",
+  "value" : "Kienija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 574,
+  "originalValue" : "kernel",
+  "value" : "jadro",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 575,
+  "originalValue" : "key",
+  "value" : "kliuč; klaviša",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 576,
+  "originalValue" : "keybinding",
+  "value" : "pryznačeńnie klaviš; pryznačyć klavišy",
+  "wrong" : "",
+  "comment" : "hot key - haračyja klavišy = spalučeńni klaviš, jakija vyklikajuć kankretnaje dziejańnie, časta standartnyja (napr. Strl+Z dlia skasavańnia)\nkeybinding — praces ci vynik pryznačeńnia dziejańniaŭ na klavišy, napryklad, tych samym hot key-jaŭ"
+}, {
+  "id" : 577,
+  "originalValue" : "keyboard",
+  "value" : "klavijatura",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 578,
+  "originalValue" : "keyboard shortcut",
+  "value" : "spalučeńnie klaviš",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 579,
+  "originalValue" : "keystroke",
+  "value" : "! spalučeńnie klaviš",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 580,
+  "originalValue" : "kilobit",
+  "value" : "kilabit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 581,
+  "originalValue" : "kilobits",
+  "value" : "kilabity",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 582,
+  "originalValue" : "kilobyte",
+  "value" : "kilabajt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 583,
+  "originalValue" : "kilobytes",
+  "value" : "kilabajty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 584,
+  "originalValue" : "Kinshasa",
+  "value" : "Kinšasa",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 585,
+  "originalValue" : "Kiribati",
+  "value" : "Kirybaci",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 586,
+  "originalValue" : "Korean",
+  "value" : "Karejskaje",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 587,
+  "originalValue" : "Kosovo",
+  "value" : "Kosava",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 588,
+  "originalValue" : "Kuwait",
+  "value" : "Kuviejt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 589,
+  "originalValue" : "Kyrgyzstan",
+  "value" : "Kyrhyzstan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 590,
+  "originalValue" : "language",
+  "value" : "mova",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 591,
+  "originalValue" : "Laos",
+  "value" : "Laos",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 592,
+  "originalValue" : "laptop",
+  "value" : "noŭtbuk",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 593,
+  "originalValue" : "large",
+  "value" : "vialiki",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 594,
+  "originalValue" : "latin",
+  "value" : "lacinica; lacinka (toĺki bielaruskaja)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 595,
+  "originalValue" : "Latvia",
+  "value" : "Latvija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 596,
+  "originalValue" : "launch",
+  "value" : "zapuścić; zapusk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 597,
+  "originalValue" : "launcher",
+  "value" : "prahrama zapusku",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 598,
+  "originalValue" : "launching",
+  "value" : "zapusk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 599,
+  "originalValue" : "layer",
+  "value" : "sloj",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 600,
+  "originalValue" : "layout",
+  "value" : "makiet; raskladka (klavijatury)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 601,
+  "originalValue" : "learn more",
+  "value" : "daviedacca boĺš",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 602,
+  "originalValue" : "Lebanon",
+  "value" : "Livan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 603,
+  "originalValue" : "legacy",
+  "value" : "sastarelaja versija; raniejšaja versija",
+  "wrong" : "",
+  "comment" : "MS — raniejšaja versija; sastarely"
+}, {
+  "id" : 604,
+  "originalValue" : "Lesotho",
+  "value" : "Liesota",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 605,
+  "originalValue" : "letter",
+  "value" : "litara; list",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 606,
+  "originalValue" : "Liberia",
+  "value" : "Libieryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 607,
+  "originalValue" : "library",
+  "value" : "biblijateka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 608,
+  "originalValue" : "Libya",
+  "value" : "Livija",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 609,
+  "originalValue" : "license",
+  "value" : "liceńzija",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 610,
+  "originalValue" : "Liechtenstein",
+  "value" : "Lichtenštejn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 611,
+  "originalValue" : "light",
+  "value" : "śviatlo; śvietly",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 612,
+  "originalValue" : "link",
+  "value" : "spasylka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 613,
+  "originalValue" : "linked",
+  "value" : "źviazany",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 614,
+  "originalValue" : "list",
+  "value" : "spis",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 615,
+  "originalValue" : "Lithuania",
+  "value" : "Litva",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 616,
+  "originalValue" : "load",
+  "value" : "zahruzać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 617,
+  "originalValue" : "loading",
+  "value" : "zahruzka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 618,
+  "originalValue" : "location",
+  "value" : "miescaznachodzańnie (hiea.); raźmiaščeńnie (fajla na dysku)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 619,
+  "originalValue" : "lock",
+  "value" : "blakiravać; blakiravańnie",
+  "wrong" : "blakavać; blakavańnie",
+  "comment" : ""
+}, {
+  "id" : 620,
+  "originalValue" : "locked",
+  "value" : "zablakiravany",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 621,
+  "originalValue" : "log",
+  "value" : "zurnal",
+  "wrong" : "časopis",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 622,
+  "originalValue" : "log in",
+  "value" : "uvajści; uvachod",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 623,
+  "originalValue" : "log out",
+  "value" : "vyjści",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 624,
+  "originalValue" : "login",
+  "value" : "uvachod",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 625,
+  "originalValue" : "login screen",
+  "value" : "ekran uvachodu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 626,
+  "originalValue" : "long",
+  "value" : "doŭhi; doŭha",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 627,
+  "originalValue" : "lookup",
+  "value" : "pošuk; ahliad",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 628,
+  "originalValue" : "Luxembourg",
+  "value" : "Liuksemburh",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 629,
+  "originalValue" : "m",
+  "value" : "chv (chvilina); chvilina",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 630,
+  "originalValue" : "Macao",
+  "value" : "Makaa",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 631,
+  "originalValue" : "Macao SAR China",
+  "value" : "Makaa, SAR (Kitaj)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 632,
+  "originalValue" : "Macau",
+  "value" : "Makaa",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 633,
+  "originalValue" : "Macedonia",
+  "value" : "Paŭnočnaja Makiedonija; Makiedonija (kali majecca na ŭvazie rehijon)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 634,
+  "originalValue" : "Madagascar",
+  "value" : "Madahaskar",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 635,
+  "originalValue" : "magnifier",
+  "value" : "lupa",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 636,
+  "originalValue" : "magnify",
+  "value" : "pavialičyć\n",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 637,
+  "originalValue" : "Malawi",
+  "value" : "Malavi",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 638,
+  "originalValue" : "Malaysia",
+  "value" : "Malajzija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 639,
+  "originalValue" : "Maldives",
+  "value" : "Maĺdyvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 640,
+  "originalValue" : "Mali",
+  "value" : "Mali",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 641,
+  "originalValue" : "Malta",
+  "value" : "Maĺta",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 642,
+  "originalValue" : "manage",
+  "value" : "kiravać; kiravańnie",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 643,
+  "originalValue" : "management",
+  "value" : "kiravańnie",
+  "wrong" : "",
+  "comment" : "MS, Google"
+}, {
+  "id" : 644,
+  "originalValue" : "manager",
+  "value" : "mieniedzar (prahrama); kiraŭnik",
+  "wrong" : "",
+  "comment" : "MS, Google, Samsung"
+}, {
+  "id" : 645,
+  "originalValue" : "manipulating",
+  "value" : "kiravańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 646,
+  "originalValue" : "manual",
+  "value" : "ručny; uručnuju; dapamoznik",
+  "wrong" : "",
+  "comment" : "Samsung, MS, Google"
+}, {
+  "id" : 647,
+  "originalValue" : "manually",
+  "value" : "uručnuju",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 648,
+  "originalValue" : "mark",
+  "value" : "paznačyć; znak; paznaka",
+  "wrong" : "",
+  "comment" : "Samsung(paznačyć), MS"
+}, {
+  "id" : 649,
+  "originalValue" : "Marshall Islands",
+  "value" : "Maršalavy astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 650,
+  "originalValue" : "Martinique",
+  "value" : "Marcinika",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 651,
+  "originalValue" : "math",
+  "value" : "matematyka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 652,
+  "originalValue" : "mathematics",
+  "value" : "matematyka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 653,
+  "originalValue" : "Mauritania",
+  "value" : "Maŭrytanija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 654,
+  "originalValue" : "Mauritius",
+  "value" : "Maŭrykij",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 655,
+  "originalValue" : "maximize",
+  "value" : "! razharnuć",
+  "wrong" : "",
+  "comment" : "MS\nheta kali my malieńkaje akno robim vieličynioj na ŭvieś ekran"
+}, {
+  "id" : 656,
+  "originalValue" : "may",
+  "value" : "maj (miesiac)",
+  "wrong" : "travień",
+  "comment" : "Google, Sasung, MS\nNie budziem iści suprać sklaŭšajsia terminalohii, paŭsiuĺ uzyvajuć toĺki maj."
+}, {
+  "id" : 657,
+  "originalValue" : "Mayotte",
+  "value" : "Majota",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 658,
+  "originalValue" : "MB",
+  "value" : "MB — MB; miehabajt; Mb — Mbit; miehabit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 659,
+  "originalValue" : "Mbits",
+  "value" : "Mbit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 660,
+  "originalValue" : "MByte",
+  "value" : "MB\n",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 661,
+  "originalValue" : "measure",
+  "value" : "vymiarać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 662,
+  "originalValue" : "media",
+  "value" : "miedyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 663,
+  "originalValue" : "megabit",
+  "value" : "miehabit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 664,
+  "originalValue" : "megabits",
+  "value" : "miehabity",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 665,
+  "originalValue" : "megabyte",
+  "value" : "miehabajt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 666,
+  "originalValue" : "megabytes",
+  "value" : "miehabajty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 667,
+  "originalValue" : "Melilla",
+  "value" : "Mieliĺia",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 668,
+  "originalValue" : "menu",
+  "value" : "mieniu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 669,
+  "originalValue" : "merge",
+  "value" : "abjadnać; zlićcio; merge(Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 670,
+  "originalValue" : "message",
+  "value" : "paviedamlieńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 671,
+  "originalValue" : "metadata",
+  "value" : "mietadanyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 672,
+  "originalValue" : "method",
+  "value" : "mietad (prahramny); sposab",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 673,
+  "originalValue" : "Mexico",
+  "value" : "Mieksika",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 674,
+  "originalValue" : "Micronesia, Federated States of",
+  "value" : "Fiederatyŭnyja Štaty Mikraniezii",
+  "wrong" : "",
+  "comment" : "niama ŭ CLDR"
+}, {
+  "id" : 675,
+  "originalValue" : "microphone",
+  "value" : "mikrafon",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 676,
+  "originalValue" : "minimise",
+  "value" : "zharnuć",
+  "wrong" : "",
+  "comment" : " = minimize"
+}, {
+  "id" : 677,
+  "originalValue" : "minimize",
+  "value" : "zharnuć",
+  "wrong" : "",
+  "comment" : "MS\nSamsung — zharnuć\nheta kali my chavajem akno"
+}, {
+  "id" : 678,
+  "originalValue" : "Minsk",
+  "value" : "Minsk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 679,
+  "originalValue" : "minute",
+  "value" : "chvilina",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 680,
+  "originalValue" : "mirror",
+  "value" : "liustra; adliustravać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 681,
+  "originalValue" : "missing",
+  "value" : "adsutničaje, adsutničajuć; adsutnaje, adsutnyja",
+  "wrong" : "prapuščany",
+  "comment" : "MS"
+}, {
+  "id" : 682,
+  "originalValue" : "mode",
+  "value" : "rezym, rezymu, rezymie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 683,
+  "originalValue" : "modem",
+  "value" : "madem",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 684,
+  "originalValue" : "moderator",
+  "value" : "maderatar",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 685,
+  "originalValue" : "Modern Standard Arabic",
+  "value" : "sučasnaja standartnaja arabskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 686,
+  "originalValue" : "modification",
+  "value" : "! źmianieńnie, madyfikacyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 687,
+  "originalValue" : "modifier",
+  "value" : "madyfikatar",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 688,
+  "originalValue" : "modify",
+  "value" : "źmianiać",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 689,
+  "originalValue" : "Moldova",
+  "value" : "Maldova",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 690,
+  "originalValue" : "Monaco",
+  "value" : "Manaka",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 691,
+  "originalValue" : "Mongolia",
+  "value" : "Manholija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 692,
+  "originalValue" : "Montenegro",
+  "value" : "Čarnahoryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 693,
+  "originalValue" : "monthly",
+  "value" : "štomiesiac; štomiesiačny; za miesiac",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 694,
+  "originalValue" : "Montserrat",
+  "value" : "Mantsierat",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 695,
+  "originalValue" : "more information",
+  "value" : "dadatkovyja źviestki",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 696,
+  "originalValue" : "Morocco",
+  "value" : "Maroka",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 697,
+  "originalValue" : "mount",
+  "value" : "padkliučyć",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 698,
+  "originalValue" : "mouse",
+  "value" : "myš",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 699,
+  "originalValue" : "mouse pointer",
+  "value" : "ukazaĺnik myšy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 700,
+  "originalValue" : "mouse shortcut",
+  "value" : "kamanda myšy",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 701,
+  "originalValue" : "mouseover",
+  "value" : "naviadzieńnie kursora",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 702,
+  "originalValue" : "move",
+  "value" : "pieramiaścić",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 703,
+  "originalValue" : "Mozambique",
+  "value" : "Mazambik",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 704,
+  "originalValue" : "multimedia",
+  "value" : "muĺtymiedyja; muĺtymiedyjny",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 705,
+  "originalValue" : "multiple",
+  "value" : "niekaĺki",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 706,
+  "originalValue" : "music",
+  "value" : "muzyka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 707,
+  "originalValue" : "music player",
+  "value" : "muzyčny prajhravaĺnik",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 708,
+  "originalValue" : "mute",
+  "value" : "adkliučyć huk",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 709,
+  "originalValue" : "Myanmar",
+  "value" : "M’janma (Birma)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 710,
+  "originalValue" : "Namibia",
+  "value" : "Namibija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 711,
+  "originalValue" : "Nauru",
+  "value" : "Nauru",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 712,
+  "originalValue" : "need",
+  "value" : "treba",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 713,
+  "originalValue" : "needed",
+  "value" : "nieabchodna; treba",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 714,
+  "originalValue" : "negative",
+  "value" : "niehatyŭ; niehatyŭny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 715,
+  "originalValue" : "Nepal",
+  "value" : "Niepal",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 716,
+  "originalValue" : "Netherlands",
+  "value" : "Niderliandy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 717,
+  "originalValue" : "Netherlands Antilles",
+  "value" : "Niderliandskija Antyĺskija astravy",
+  "wrong" : "",
+  "comment" : "bielen\nniama ŭ CLDR"
+}, {
+  "id" : 718,
+  "originalValue" : "network",
+  "value" : "sietka",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 719,
+  "originalValue" : "Network Manager",
+  "value" : "Mieniedzar sietak",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 720,
+  "originalValue" : "never",
+  "value" : "nikoli",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 721,
+  "originalValue" : "new",
+  "value" : "novy, novaja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 722,
+  "originalValue" : "New Caledonia",
+  "value" : "Novaja Kaliedonija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 723,
+  "originalValue" : "New Zealand",
+  "value" : "Novaja Zielandyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 724,
+  "originalValue" : "Newest",
+  "value" : "Samaje novaje",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 725,
+  "originalValue" : "News",
+  "value" : "Naviny",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 726,
+  "originalValue" : "next",
+  "value" : "daliej; dal.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 727,
+  "originalValue" : "Nicaragua",
+  "value" : "Nikarahua",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 728,
+  "originalValue" : "Niger",
+  "value" : "Nihier",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 729,
+  "originalValue" : "Nigeria",
+  "value" : "Nihieryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 730,
+  "originalValue" : "night blue",
+  "value" : "Siniaja načnaja (kolieravaja tema)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 731,
+  "originalValue" : "night mode",
+  "value" : "načny rezym",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 732,
+  "originalValue" : "Niue",
+  "value" : "Niue",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 733,
+  "originalValue" : "No Repeat",
+  "value" : "Nie paŭtarać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 734,
+  "originalValue" : "no results found",
+  "value" : "ničoha nia znojdziena",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 735,
+  "originalValue" : "no.",
+  "value" : "! koĺkaść; numar",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 736,
+  "originalValue" : "noise",
+  "value" : "šum",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 737,
+  "originalValue" : "none",
+  "value" : "niama; ničoha; nijaki",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 738,
+  "originalValue" : "Norfolk Island",
+  "value" : "Vostraŭ Norfalk",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 739,
+  "originalValue" : "normal",
+  "value" : "zvyčajny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 740,
+  "originalValue" : "North Korea",
+  "value" : "Paŭnočnaja Kareja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 741,
+  "originalValue" : "Northern Mariana Islands",
+  "value" : "Paŭnočnyja Maryjanskija astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 742,
+  "originalValue" : "Norway",
+  "value" : "Narviehija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 743,
+  "originalValue" : "not available",
+  "value" : "niedastupna",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 744,
+  "originalValue" : "not enough",
+  "value" : "niedastatkova",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 745,
+  "originalValue" : "not found",
+  "value" : "nia znojdziena\n",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 746,
+  "originalValue" : "not valid",
+  "value" : "niesapraŭdny; niapraviĺny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 747,
+  "originalValue" : "note",
+  "value" : "natatka",
+  "wrong" : "zapis",
+  "comment" : "Google, MS"
+}, {
+  "id" : 748,
+  "originalValue" : "notes",
+  "value" : "natatki",
+  "wrong" : "zapisy",
+  "comment" : ""
+}, {
+  "id" : 749,
+  "originalValue" : "notification",
+  "value" : "apaviaščeńnie",
+  "wrong" : "abviestka",
+  "comment" : ""
+}, {
+  "id" : 750,
+  "originalValue" : "number",
+  "value" : "numar, numara; koĺkaść; lik, liku (mat.)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 751,
+  "originalValue" : "occurred",
+  "value" : "adbylasia",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 752,
+  "originalValue" : "Oceania",
+  "value" : "Akijanija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 753,
+  "originalValue" : "off",
+  "value" : "vykl.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 754,
+  "originalValue" : "offline",
+  "value" : "pa-za sietkaj; pazasietkavy",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 755,
+  "originalValue" : "offline area",
+  "value" : "pazasietkavaja voblaść",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 756,
+  "originalValue" : "offset",
+  "value" : "zruch; zrušeńnie (praces)",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 757,
+  "originalValue" : "ok",
+  "value" : "dobra",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 758,
+  "originalValue" : "Oman",
+  "value" : "Aman",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 759,
+  "originalValue" : "on",
+  "value" : "ukl.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 760,
+  "originalValue" : "on-screen",
+  "value" : "ekranny",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 761,
+  "originalValue" : "ongoing",
+  "value" : "biahučy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 762,
+  "originalValue" : "online",
+  "value" : "u sietcy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 763,
+  "originalValue" : "online account",
+  "value" : "ulikovy zapis u sietcy",
+  "wrong" : "",
+  "comment" : "MS — ulikovy zapis u sietcy; ulikovy zapis internet-servisu"
+}, {
+  "id" : 764,
+  "originalValue" : "online accounts",
+  "value" : "ulikovyja zapisy u sietcy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 765,
+  "originalValue" : "opacity",
+  "value" : "nieprazrystaść",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 766,
+  "originalValue" : "open",
+  "value" : "adkryć (document, file, window, tab etc.)",
+  "wrong" : "",
+  "comment" : "Asobnyja vypadki kštaltu «adharnuć eliektronnuju knihu na 20-j staroncy» prapanoŭvaju vynosić na abmierkavańnie ŭ Telegram"
+}, {
+  "id" : 767,
+  "originalValue" : "open with",
+  "value" : "adkryć praz",
+  "wrong" : "adkryć z",
+  "comment" : ""
+}, {
+  "id" : 768,
+  "originalValue" : "operation",
+  "value" : "apieracyja",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 769,
+  "originalValue" : "option",
+  "value" : "paramietar; varyjant",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 770,
+  "originalValue" : "or",
+  "value" : "abo; ci",
+  "wrong" : "aĺbo",
+  "comment" : ""
+}, {
+  "id" : 771,
+  "originalValue" : "orange",
+  "value" : "aranzavy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 772,
+  "originalValue" : "orientation",
+  "value" : "aryjentacyja",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 773,
+  "originalValue" : "original",
+  "value" : "zychodny; aryhinaĺny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 774,
+  "originalValue" : "OTA",
+  "value" : "biespravadny",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 775,
+  "originalValue" : "other",
+  "value" : "inšy, inšaja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 776,
+  "originalValue" : "output",
+  "value" : "vyvad; vyvieści; vychad (aŭdyja)",
+  "wrong" : "",
+  "comment" : "Samsung, MS\nPra vychad padkazaŭ sp. Šumsk­i"
+}, {
+  "id" : 777,
+  "originalValue" : "overlap",
+  "value" : "nakladacca",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 778,
+  "originalValue" : "override",
+  "value" : "pieravyznačać; pieravyznačeńnie",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 779,
+  "originalValue" : "overview",
+  "value" : "ahliad",
+  "wrong" : "",
+  "comment" : "ms, google"
+}, {
+  "id" : 780,
+  "originalValue" : "overwrite",
+  "value" : "pierazapisać; pierazapis",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 781,
+  "originalValue" : "overwriting",
+  "value" : "pierazapisvańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 782,
+  "originalValue" : "package",
+  "value" : "pakiet",
+  "wrong" : "pakunak",
+  "comment" : ""
+}, {
+  "id" : 783,
+  "originalValue" : "packaging",
+  "value" : "upakoŭka",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 784,
+  "originalValue" : "padding",
+  "value" : "vodstup",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 785,
+  "originalValue" : "page",
+  "value" : "staronka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 786,
+  "originalValue" : "pair",
+  "value" : "spalučyć",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 787,
+  "originalValue" : "Pakistan",
+  "value" : "Pakistan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 788,
+  "originalValue" : "Palau",
+  "value" : "Palau",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 789,
+  "originalValue" : "Palestine",
+  "value" : "Palieścina",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 790,
+  "originalValue" : "Palestinian Territory",
+  "value" : "Palieścinskija Terytoryi",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 791,
+  "originalValue" : "palete",
+  "value" : "palitra",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 792,
+  "originalValue" : "pan",
+  "value" : "zruch; zrušvać",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 793,
+  "originalValue" : "Panama",
+  "value" : "Panama",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 794,
+  "originalValue" : "pane",
+  "value" : "paneĺ; voblaść",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 795,
+  "originalValue" : "panning",
+  "value" : "zruch",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 796,
+  "originalValue" : "Papua New Guinea",
+  "value" : "Papua-Novaja Hvinieja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 797,
+  "originalValue" : "Paraguay",
+  "value" : "Parahvaj",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 798,
+  "originalValue" : "parallel",
+  "value" : "paralieĺny (mat.); ! rasparalieĺvać (plyni kiravańnia), rabić paralieĺnymi",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 799,
+  "originalValue" : "parallelism",
+  "value" : "paralielizm",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 800,
+  "originalValue" : "parallelism of algorithm",
+  "value" : "paralielizm alharytmu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 801,
+  "originalValue" : "parse",
+  "value" : "analiz",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 802,
+  "originalValue" : "parser",
+  "value" : "srodak analizu",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 803,
+  "originalValue" : "password",
+  "value" : "paroĺ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 804,
+  "originalValue" : "paste",
+  "value" : "ustavić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 805,
+  "originalValue" : "pause",
+  "value" : "paŭza; prypynić",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 806,
+  "originalValue" : "PB",
+  "value" : "PB; pietabajt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 807,
+  "originalValue" : "PByte",
+  "value" : "pbajt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 808,
+  "originalValue" : "Peer-to-Peer",
+  "value" : "P2P",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 809,
+  "originalValue" : "pending",
+  "value" : "čakajecca",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 810,
+  "originalValue" : "Peru",
+  "value" : "Pieru",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 811,
+  "originalValue" : "petabyte",
+  "value" : "pietabajt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 812,
+  "originalValue" : "petabytes",
+  "value" : "pietabajty; pietabajta",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 813,
+  "originalValue" : "Philippines",
+  "value" : "Filipiny",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 814,
+  "originalValue" : "photo",
+  "value" : "fota",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 815,
+  "originalValue" : "picker",
+  "value" : "vybar; srodak vybaru (eliemient interfiejsa)",
+  "wrong" : "",
+  "comment" : "vybar — MS, Google\nsrodak vybaru — MS"
+}, {
+  "id" : 816,
+  "originalValue" : "picker",
+  "value" : "srodak vybaru (napr. color picker - srodak vybaru kolieru)",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 817,
+  "originalValue" : "picture",
+  "value" : "vidarys; fota (kali heta fota); maliunak (kali jon namaliavany)",
+  "wrong" : "vyjava",
+  "comment" : ""
+}, {
+  "id" : 818,
+  "originalValue" : "picture frame",
+  "value" : "fotaramka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 819,
+  "originalValue" : "pink",
+  "value" : "ruzovy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 820,
+  "originalValue" : "pinned",
+  "value" : "zamacavany, zamacavanyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 821,
+  "originalValue" : "Pitcairn",
+  "value" : "Astravy Pitkern",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 822,
+  "originalValue" : "pixel per inch",
+  "value" : "piksieĺ na caliu",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 823,
+  "originalValue" : "pixels per inch",
+  "value" : "piksieli na caliu",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 824,
+  "originalValue" : "placeholder color",
+  "value" : "zapaŭniaĺny kolier",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 825,
+  "originalValue" : "plain text",
+  "value" : "zvyčajny tekst",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 826,
+  "originalValue" : "play",
+  "value" : "ihrać (muzyku); huliać (u huĺniu)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 827,
+  "originalValue" : "playback",
+  "value" : "prajhravańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 828,
+  "originalValue" : "player",
+  "value" : "prajhravaĺnik (prahrama)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 829,
+  "originalValue" : "playlist",
+  "value" : "plej-list",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 830,
+  "originalValue" : "plug",
+  "value" : "padkliučyć (fizičny kanekt - jak štekier u hniazdo)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 831,
+  "originalValue" : "plug-in",
+  "value" : "ubudova",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 832,
+  "originalValue" : "plugin",
+  "value" : "ubudova",
+  "wrong" : "",
+  "comment" : "MS, Samsung, Google"
+}, {
+  "id" : 833,
+  "originalValue" : "PM",
+  "value" : "PM",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 834,
+  "originalValue" : "pointer",
+  "value" : "ukazaĺnik; ukazka (laziernaja)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 835,
+  "originalValue" : "Poland",
+  "value" : "Poĺšča",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 836,
+  "originalValue" : "portrait",
+  "value" : "kniznaja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 837,
+  "originalValue" : "Portugal",
+  "value" : "Partuhalija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 838,
+  "originalValue" : "position",
+  "value" : "pazycyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 839,
+  "originalValue" : "post",
+  "value" : "publikavać; publikacyja; dopis",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 840,
+  "originalValue" : "power",
+  "value" : "silkavańnie",
+  "wrong" : "",
+  "comment" : "kali nie zrazumiela - eliektrasilkavańnie"
+}, {
+  "id" : 841,
+  "originalValue" : "Power Off",
+  "value" : "Vykliučyć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 842,
+  "originalValue" : "power saving",
+  "value" : "enierhazbierazeńnie",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 843,
+  "originalValue" : "powered by",
+  "value" : "na platformie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 844,
+  "originalValue" : "PRC",
+  "value" : "KNR",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 845,
+  "originalValue" : "pre-release",
+  "value" : "pieradfinaĺny",
+  "wrong" : "",
+  "comment" : "termin by A. Šumski)"
+}, {
+  "id" : 846,
+  "originalValue" : "preference",
+  "value" : "paramietar",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 847,
+  "originalValue" : "preset",
+  "value" : "pieradvyznačanaja nalada",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 848,
+  "originalValue" : "press",
+  "value" : "naciśnicie; naciskać",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 849,
+  "originalValue" : "prev",
+  "value" : "naz.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 850,
+  "originalValue" : "preview",
+  "value" : "pieradprahliad",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 851,
+  "originalValue" : "previous",
+  "value" : "papiaredni; nazad (kali biez nazoŭnika j pobač z next)",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 852,
+  "originalValue" : "print",
+  "value" : "druk",
+  "wrong" : "",
+  "comment" : "MS — druk; drukavańnie\nSamsung — druk\nGoogle — druk"
+}, {
+  "id" : 853,
+  "originalValue" : "print preview",
+  "value" : "prahliad voblaści druku",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 854,
+  "originalValue" : "printer",
+  "value" : "pryntar",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 855,
+  "originalValue" : "printing",
+  "value" : "druk",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 856,
+  "originalValue" : "privacy",
+  "value" : "pryvatnaść",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 857,
+  "originalValue" : "private",
+  "value" : "pryvatny",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 858,
+  "originalValue" : "productivity",
+  "value" : "pradukcyjnaść",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 859,
+  "originalValue" : "Profile",
+  "value" : "profiĺ",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 860,
+  "originalValue" : "programming",
+  "value" : "prahramavańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 861,
+  "originalValue" : "programming language",
+  "value" : "mova prahramavańnia",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 862,
+  "originalValue" : "progress",
+  "value" : "chod vykanańnia",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 863,
+  "originalValue" : "promotion",
+  "value" : "proma-akcyja",
+  "wrong" : "",
+  "comment" : "Google — proma-akcyi; pramocyja, proma-rolik; prasoŭvańnie\nSamsung — proma-akcyja\nMS — rekliama; raspaŭsiudzvańnie"
+}, {
+  "id" : 864,
+  "originalValue" : "Promotions",
+  "value" : "Proma-akcyi",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 865,
+  "originalValue" : "property",
+  "value" : "ulaścivaść; ulaścivaści",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 866,
+  "originalValue" : "protected",
+  "value" : "abaroniena; abaronieny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 867,
+  "originalValue" : "protocol",
+  "value" : "pratakol",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 868,
+  "originalValue" : "provide",
+  "value" : "pastaŭliać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 869,
+  "originalValue" : "provider",
+  "value" : "pastaŭščyk; ! sluzba",
+  "wrong" : "",
+  "comment" : "Samsung — pastaŭščyk\nGoogle — sluzba"
+}, {
+  "id" : 870,
+  "originalValue" : "provides",
+  "value" : "zabiaspiečvaje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 871,
+  "originalValue" : "public",
+  "value" : "publičny; ahuĺnadastupny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 872,
+  "originalValue" : "Puerto Rico",
+  "value" : "Puerta-Ryka",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 873,
+  "originalValue" : "pull",
+  "value" : "pull (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 874,
+  "originalValue" : "pull request",
+  "value" : "pull request, zapyt na ŭniasieńnie źmianieńniaŭ (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 875,
+  "originalValue" : "push",
+  "value" : "push (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 876,
+  "originalValue" : "Qatar",
+  "value" : "Katar",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 877,
+  "originalValue" : "question",
+  "value" : "pytańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 878,
+  "originalValue" : "queue",
+  "value" : "čarha",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 879,
+  "originalValue" : "queuing",
+  "value" : "arhanizacyja čarhi\n",
+  "wrong" : "",
+  "comment" : "Treba praviarać kantekst, mabyć i nie padyjdzie"
+}, {
+  "id" : 880,
+  "originalValue" : "quit",
+  "value" : "vyjści z; vyjści",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 881,
+  "originalValue" : "radius",
+  "value" : "radyus",
+  "wrong" : "",
+  "comment" : "Anhla-biel"
+}, {
+  "id" : 882,
+  "originalValue" : "raw",
+  "value" : "nieapracavany",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 883,
+  "originalValue" : "read",
+  "value" : "čytańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 884,
+  "originalValue" : "read-only",
+  "value" : "toĺki dlia čytańnia",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 885,
+  "originalValue" : "reader",
+  "value" : "čytaĺnik",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 886,
+  "originalValue" : "ready",
+  "value" : "hatova (prahrama), hatovy",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 887,
+  "originalValue" : "reboot",
+  "value" : "pierazahruzka; pierazahruzać",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 888,
+  "originalValue" : "record",
+  "value" : "zapis; zapisvać",
+  "wrong" : "",
+  "comment" : "MS, Google"
+}, {
+  "id" : 889,
+  "originalValue" : "recorder",
+  "value" : "zapis",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 890,
+  "originalValue" : "rectangle",
+  "value" : "pramavuhoĺnik",
+  "wrong" : "",
+  "comment" : "Anhla-biel"
+}, {
+  "id" : 891,
+  "originalValue" : "recurring",
+  "value" : "šmatrazovy; pieryjadyčny",
+  "wrong" : "",
+  "comment" : "Samsung — šmatrazovy\nMS — pieryjadyčny"
+}, {
+  "id" : 892,
+  "originalValue" : "red",
+  "value" : "čyrvony",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 893,
+  "originalValue" : "redo",
+  "value" : "uznavić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 894,
+  "originalValue" : "refresh",
+  "value" : "abnavić",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 895,
+  "originalValue" : "refreshed",
+  "value" : "abnoŭlieny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 896,
+  "originalValue" : "region",
+  "value" : "rehijon",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 897,
+  "originalValue" : "regional Formats",
+  "value" : "rehijanaĺnyja farmaty",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 898,
+  "originalValue" : "register",
+  "value" : "zarehistravacca",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 899,
+  "originalValue" : "registered",
+  "value" : "zarehistravany",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 900,
+  "originalValue" : "reject",
+  "value" : "adchilić",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 901,
+  "originalValue" : "rejected",
+  "value" : "adchiliena",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 902,
+  "originalValue" : "release",
+  "value" : "vypusk, vypusku",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 903,
+  "originalValue" : "relevant",
+  "value" : "relievantny (vydača ŭ pošuku); adpaviedny; vazny; ! istotna",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 904,
+  "originalValue" : "remind",
+  "value" : "napaminać; nahadać",
+  "wrong" : "",
+  "comment" : "MS — napomnić, nahadać"
+}, {
+  "id" : 905,
+  "originalValue" : "reminder",
+  "value" : "napamin",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 906,
+  "originalValue" : "reminders",
+  "value" : "napaminy",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 907,
+  "originalValue" : "remote",
+  "value" : "addalieny; addaliena",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 908,
+  "originalValue" : "remote control",
+  "value" : "addalienaje kiravańnie",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 909,
+  "originalValue" : "removable",
+  "value" : "zdymny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 910,
+  "originalValue" : "remove",
+  "value" : "vydalić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 911,
+  "originalValue" : "removed",
+  "value" : "vydaliŭ(-la); vydalieny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 912,
+  "originalValue" : "rename",
+  "value" : "pierajmienavać",
+  "wrong" : "pieranazvać",
+  "comment" : ""
+}, {
+  "id" : 913,
+  "originalValue" : "repeat",
+  "value" : "paŭtarać; paŭtareńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 914,
+  "originalValue" : "report",
+  "value" : "spravazdača",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 915,
+  "originalValue" : "repository",
+  "value" : "repazitoryj (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 916,
+  "originalValue" : "request",
+  "value" : "zapyt",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 917,
+  "originalValue" : "require",
+  "value" : "patrabavać",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 918,
+  "originalValue" : "required",
+  "value" : "patrabujecca; ! abaviazkova",
+  "wrong" : "",
+  "comment" : "patrabujecca — Samsung"
+}, {
+  "id" : 919,
+  "originalValue" : "reset",
+  "value" : "skinuć; skid",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 920,
+  "originalValue" : "resize",
+  "value" : "źmianić pamier",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 921,
+  "originalValue" : "resolving",
+  "value" : "! vyrašeńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 922,
+  "originalValue" : "response",
+  "value" : "adkaz; vodhuk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 923,
+  "originalValue" : "restart",
+  "value" : "pierazapusk; pierazapuścić",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 924,
+  "originalValue" : "restart later",
+  "value" : "pierazapuścić paźniej",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 925,
+  "originalValue" : "restart now",
+  "value" : "pierazapuścić",
+  "wrong" : "",
+  "comment" : "MS — Pierazapuścić, Pierazapuścić zaraz"
+}, {
+  "id" : 926,
+  "originalValue" : "restore",
+  "value" : "adnavić",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 927,
+  "originalValue" : "restoring",
+  "value" : "adnaŭlieńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 928,
+  "originalValue" : "restrict",
+  "value" : "abmiezavać",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 929,
+  "originalValue" : "restricted",
+  "value" : "abmiezavana; abmiezavany",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 930,
+  "originalValue" : "result",
+  "value" : "vynik",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 931,
+  "originalValue" : "resume",
+  "value" : "uznavić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 932,
+  "originalValue" : "Réunion",
+  "value" : "Rejuńion",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 933,
+  "originalValue" : "revert",
+  "value" : "! sk­inuć",
+  "wrong" : "",
+  "comment" : "hl. reset"
+}, {
+  "id" : 934,
+  "originalValue" : "rights",
+  "value" : "pravy",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 935,
+  "originalValue" : "Romania",
+  "value" : "Rumynija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 936,
+  "originalValue" : "rotate",
+  "value" : "paviarnuć",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 937,
+  "originalValue" : "rotation",
+  "value" : "pavarot",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 938,
+  "originalValue" : "router",
+  "value" : "maršrutyzatar",
+  "wrong" : "",
+  "comment" : "ms, samsung"
+}, {
+  "id" : 939,
+  "originalValue" : "row",
+  "value" : "radok",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 940,
+  "originalValue" : "run",
+  "value" : "vykonvać; vykanać (kamandu); zapuścić (kamp’jutar)",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 941,
+  "originalValue" : "running",
+  "value" : "vykanańnie; zapusk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 942,
+  "originalValue" : "Russia",
+  "value" : "Rasija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 943,
+  "originalValue" : "Rwanda",
+  "value" : "Ruanda",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 944,
+  "originalValue" : "s",
+  "value" : "s (siekunda); siekunda",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 945,
+  "originalValue" : "safe",
+  "value" : "biaspiečny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 946,
+  "originalValue" : "safely",
+  "value" : "biaspiečna",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 947,
+  "originalValue" : "safety\n",
+  "value" : "biaspieka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 948,
+  "originalValue" : "Saint Barthélemy",
+  "value" : "Sien-Barteĺmi",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 949,
+  "originalValue" : "Saint Kitts and Nevis",
+  "value" : "Sient-Kits i Nievis",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 950,
+  "originalValue" : "Saint Lucia",
+  "value" : "Sient-Liusija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 951,
+  "originalValue" : "Saint Martin",
+  "value" : "Sien-Marten",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 952,
+  "originalValue" : "Saint Pierre and Miquelon",
+  "value" : "Sien-P’jer i Mikielon",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 953,
+  "originalValue" : "Saint Vincent and the Grenadines",
+  "value" : "Sient-Vińsient i Hrenadziny",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 954,
+  "originalValue" : "Samoa",
+  "value" : "Samoa",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 955,
+  "originalValue" : "San Marino",
+  "value" : "San-Maryna",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 956,
+  "originalValue" : "São Tomé",
+  "value" : "San-Tame",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 957,
+  "originalValue" : "Sao Tome and Principe",
+  "value" : "San-Tame j Pryńsipi",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 958,
+  "originalValue" : "saturation\n",
+  "value" : "nasyčanaść",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 959,
+  "originalValue" : "Saudi Arabia",
+  "value" : "Saudaŭskaja Aravija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 960,
+  "originalValue" : "save",
+  "value" : "zachavać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 961,
+  "originalValue" : "save as",
+  "value" : "zachavać jak",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 962,
+  "originalValue" : "saving",
+  "value" : "zachavańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 963,
+  "originalValue" : "scale",
+  "value" : "škala; maštab",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 964,
+  "originalValue" : "scans",
+  "value" : "skanavanyja dakumenty",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 965,
+  "originalValue" : "schedule",
+  "value" : "rasklad; zaplanavać; planavańnie; hrafik",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 966,
+  "originalValue" : "science",
+  "value" : "navuka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 967,
+  "originalValue" : "Scotland",
+  "value" : "Šatlandyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 968,
+  "originalValue" : "screen",
+  "value" : "ekran",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 969,
+  "originalValue" : "screen capture",
+  "value" : "zdymak ekrana; zdymak",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 970,
+  "originalValue" : "screen reader",
+  "value" : "čytańnie z ekrana",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 971,
+  "originalValue" : "screenshot",
+  "value" : "zdymak ekrana; zdymak",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 972,
+  "originalValue" : "script",
+  "value" : "piśmo (arabskaje, kitajskaje); skrypt, ! scenaryj",
+  "wrong" : "",
+  "comment" : "MS — skrypt, scenaryj\nSamsung — scenaryj"
+}, {
+  "id" : 973,
+  "originalValue" : "scroll",
+  "value" : "prahortvać; prahortka",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 974,
+  "originalValue" : "search",
+  "value" : "šukać; pošuk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 975,
+  "originalValue" : "search web",
+  "value" : "šukać u internecie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 976,
+  "originalValue" : "second",
+  "value" : "siekunda (miera času); druhi",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 977,
+  "originalValue" : "secure",
+  "value" : "abaronieny; biaspiečny",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 978,
+  "originalValue" : "security",
+  "value" : "biaspieka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 979,
+  "originalValue" : "select",
+  "value" : "vybrać; vybar",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 980,
+  "originalValue" : "selected",
+  "value" : "vybranaje",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 981,
+  "originalValue" : "selected area",
+  "value" : "vybranaja voblaść",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 982,
+  "originalValue" : "selection",
+  "value" : "vylučeńnie (praces); vylučanaje",
+  "wrong" : "",
+  "comment" : "MS — vylučanaje; Samsung — vylučeńnie"
+}, {
+  "id" : 983,
+  "originalValue" : "selection mode",
+  "value" : "rezym vylučeńnia",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 984,
+  "originalValue" : "send",
+  "value" : "adpravić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 985,
+  "originalValue" : "sender",
+  "value" : "adpraŭnik",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 986,
+  "originalValue" : "Senegal",
+  "value" : "Sieniehal",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 987,
+  "originalValue" : "separate",
+  "value" : "raździalić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 988,
+  "originalValue" : "separation",
+  "value" : "raździalieńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 989,
+  "originalValue" : "separator",
+  "value" : "raździaliaĺnik",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 990,
+  "originalValue" : "sepia",
+  "value" : "siepija",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 991,
+  "originalValue" : "Serbia",
+  "value" : "Sierbija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 992,
+  "originalValue" : "server",
+  "value" : "siervier",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 993,
+  "originalValue" : "service",
+  "value" : "servis",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 994,
+  "originalValue" : "service agreement",
+  "value" : "pahadnieńnie na absluhoŭvańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 995,
+  "originalValue" : "services agreement",
+  "value" : "pahadnieńnie ab vykarystańni servisaŭ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 996,
+  "originalValue" : "session",
+  "value" : "sieans",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 997,
+  "originalValue" : "set",
+  "value" : "zadać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 998,
+  "originalValue" : "set up",
+  "value" : "naladzić; naladka",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 999,
+  "originalValue" : "setting",
+  "value" : "nalada",
+  "wrong" : "naladka, nastrojka",
+  "comment" : ""
+}, {
+  "id" : 1000,
+  "originalValue" : "settings",
+  "value" : "nalady, nalad",
+  "wrong" : "nastrojki, naladki",
+  "comment" : ""
+}, {
+  "id" : 1001,
+  "originalValue" : "setup",
+  "value" : "naladzvańnie (praces); ustaliavańnie (app setup), ustaliavać",
+  "wrong" : "naladka",
+  "comment" : ""
+}, {
+  "id" : 1002,
+  "originalValue" : "setup",
+  "value" : "naladzvańnie; naladka",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 1003,
+  "originalValue" : "Seychelles",
+  "value" : "Siejšeĺskija astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1004,
+  "originalValue" : "share",
+  "value" : "abahulić",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1005,
+  "originalValue" : "shared",
+  "value" : "abahulieny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1006,
+  "originalValue" : "shelf",
+  "value" : "palica",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1007,
+  "originalValue" : "shell",
+  "value" : "abalonka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1008,
+  "originalValue" : "shortcut",
+  "value" : "jarlyk; spalučeńnie klaviš",
+  "wrong" : "",
+  "comment" : "MS — jarlyk; cetlik\nGoogle — jarlyk; spalučeńnie klaviš\nSamsung — jarlyk"
+}, {
+  "id" : 1009,
+  "originalValue" : "shortcut menu",
+  "value" : "kantekstnaje mieniu",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1010,
+  "originalValue" : "shortcuts pane",
+  "value" : "voblaść jarlykoŭ",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1011,
+  "originalValue" : "show",
+  "value" : "pakazać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1012,
+  "originalValue" : "Sierra Leone",
+  "value" : "Śiera-Lieone",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1013,
+  "originalValue" : "sign in",
+  "value" : "uvajści",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1014,
+  "originalValue" : "sign in with",
+  "value" : "uvajści praz",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1015,
+  "originalValue" : "signed",
+  "value" : "padpisany",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1016,
+  "originalValue" : "significant",
+  "value" : "značny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1017,
+  "originalValue" : "Singapore",
+  "value" : "Sinhapur",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1018,
+  "originalValue" : "site",
+  "value" : "sajt",
+  "wrong" : "",
+  "comment" : "Samsung — veb-sajt; sajt\nMS — sajt"
+}, {
+  "id" : 1019,
+  "originalValue" : "size",
+  "value" : "pamier",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1020,
+  "originalValue" : "slide",
+  "value" : "slajd",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1021,
+  "originalValue" : "slide show",
+  "value" : "slajd-šoŭ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1022,
+  "originalValue" : "slider",
+  "value" : "paŭzunok",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1023,
+  "originalValue" : "sliders",
+  "value" : "paŭzunki",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1024,
+  "originalValue" : "slideshow",
+  "value" : "pakaz slajdaŭ",
+  "wrong" : "",
+  "comment" : "Samsung\nGoogle — slajd-šoŭ"
+}, {
+  "id" : 1025,
+  "originalValue" : "Slovakia",
+  "value" : "Slavakija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1026,
+  "originalValue" : "Slovenia",
+  "value" : "Slavienija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1027,
+  "originalValue" : "Slow Keys",
+  "value" : "! Pavoĺnyja klavišy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1028,
+  "originalValue" : "soft fail",
+  "value" : "niekrytyčnaja pamylka",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1029,
+  "originalValue" : "software",
+  "value" : "prahramnaje zabiespiačeńnie; PZ",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1030,
+  "originalValue" : "software update",
+  "value" : "abnaŭlieńnie PZ; abnaŭlieńnie prahramnaha zabiespiačeńnia",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1031,
+  "originalValue" : "Software Updater",
+  "value" : "Abnaŭlieńnie prahram",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1032,
+  "originalValue" : "Solomon Islands",
+  "value" : "Salamonavy astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1033,
+  "originalValue" : "Somalia",
+  "value" : "Samali",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1034,
+  "originalValue" : "sorry",
+  "value" : "vybačajcie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1035,
+  "originalValue" : "sort",
+  "value" : "sartavać; sartavańnie",
+  "wrong" : "",
+  "comment" : "Samsung — sartavać\nMS — sartavać, uparadkoŭvać; uparadkavańnie, sartavańnie, sarciroŭka"
+}, {
+  "id" : 1036,
+  "originalValue" : "sort by",
+  "value" : "sartavać",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1037,
+  "originalValue" : "sound",
+  "value" : "huk",
+  "wrong" : "",
+  "comment" : "MS, Google, Samsung"
+}, {
+  "id" : 1038,
+  "originalValue" : "sound card",
+  "value" : "hukavaja karta",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1039,
+  "originalValue" : "source",
+  "value" : "krynica",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1040,
+  "originalValue" : "source file",
+  "value" : "zychodny fajl",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1041,
+  "originalValue" : "South Africa",
+  "value" : "Paŭdniova-Afrykanskaja Respublika",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1042,
+  "originalValue" : "South Georgia and the South Sandwich Islands",
+  "value" : "Paŭdniovaja Hieorhija j Paŭdniovyja Sandvičavy astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1043,
+  "originalValue" : "South Korea",
+  "value" : "Paŭdniovaja Kareja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1044,
+  "originalValue" : "space",
+  "value" : "prabiel; prastora",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1045,
+  "originalValue" : "spacing",
+  "value" : "interval",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 1046,
+  "originalValue" : "Spain",
+  "value" : "Ispanija",
+  "wrong" : "Hišpanija",
+  "comment" : "CLDR"
+}, {
+  "id" : 1047,
+  "originalValue" : "speed\n",
+  "value" : "chutkaść; chutki",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1048,
+  "originalValue" : "split",
+  "value" : "raździalić; raździalieńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1049,
+  "originalValue" : "split bar",
+  "value" : "raździaliaĺnaja paneĺ",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1050,
+  "originalValue" : "split view",
+  "value" : "padzielieny ekran",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1051,
+  "originalValue" : "splitter",
+  "value" : "raździaliaĺnaja paneĺ",
+  "wrong" : "",
+  "comment" : "sinonim split bar"
+}, {
+  "id" : 1052,
+  "originalValue" : "Sri Lanka",
+  "value" : "Šry-Lanka",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1053,
+  "originalValue" : "St. Helena",
+  "value" : "Vostraŭ Śviatoj Alieny",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1054,
+  "originalValue" : "starred",
+  "value" : "! abranaje (favorites)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1055,
+  "originalValue" : "start",
+  "value" : "zapuścić; pusk",
+  "wrong" : "",
+  "comment" : "MS — Pusk, Zapusk"
+}, {
+  "id" : 1056,
+  "originalValue" : "startup",
+  "value" : "zapusk; zapuścić; aŭtazapusk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1057,
+  "originalValue" : "statistics",
+  "value" : "statystyka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1058,
+  "originalValue" : "status",
+  "value" : "stan",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1059,
+  "originalValue" : "Sticky Keys",
+  "value" : "! Lipkija klavišy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1060,
+  "originalValue" : "storage",
+  "value" : "schovišča",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1061,
+  "originalValue" : "store",
+  "value" : "krama",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1062,
+  "originalValue" : "store page",
+  "value" : "staronka vykanaŭcy (muz.)",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1063,
+  "originalValue" : "storing",
+  "value" : "zachoŭvańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1064,
+  "originalValue" : "story",
+  "value" : "historyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1065,
+  "originalValue" : "stream",
+  "value" : "plyń",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1066,
+  "originalValue" : "subfolder",
+  "value" : "padpapka\n",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1067,
+  "originalValue" : "subscription",
+  "value" : "padpiska",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1068,
+  "originalValue" : "subsequent",
+  "value" : "nastupny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1069,
+  "originalValue" : "subsequent events",
+  "value" : "nastupnyja padziei",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1070,
+  "originalValue" : "subtitle",
+  "value" : "subcitr",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 1071,
+  "originalValue" : "subtitles",
+  "value" : "subcitry",
+  "wrong" : "",
+  "comment" : "MS, Google"
+}, {
+  "id" : 1072,
+  "originalValue" : "successfully",
+  "value" : "",
+  "wrong" : "",
+  "comment" : "zvyčajna apuskajecca. Pierakladajcie tady, kali ŭ tekście jość raźmiezavańnie na vykanańnie apieracyi z pamylkami j, ulasna, paspiachovaje (biespamylkovaje) vykanańnie.\n"
+}, {
+  "id" : 1073,
+  "originalValue" : "Sudan",
+  "value" : "Sudan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1074,
+  "originalValue" : "summary",
+  "value" : "zvodka",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1075,
+  "originalValue" : "support",
+  "value" : "padtrymka, padtrymki",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1076,
+  "originalValue" : "support team",
+  "value" : "hrupa padtrymki",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1077,
+  "originalValue" : "supported",
+  "value" : "što padtrymlivajecca",
+  "wrong" : "padtrymlivajemy",
+  "comment" : "U kantekście mozna j pierafarmuliavać. N-d: \"Padtrymlivajucca movy:\""
+}, {
+  "id" : 1078,
+  "originalValue" : "Suriname",
+  "value" : "Surynam",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1079,
+  "originalValue" : "suspend",
+  "value" : "prypynić [pracu kampjutara]; prypynieńnie [pracy kampjutara]",
+  "wrong" : "supynak",
+  "comment" : "prypynić — Google, MS\nPobač z pierazahruzić i vykliučyć budzie naturaĺniej vyhliadać prosta prypynić.\nDlia inšych vypadkaŭ, dzie ŭmiaščajecca pišam poŭnaściu try abo dva(biez \"pracu\") slovy z pieravahaj u bok pieršaj formy."
+}, {
+  "id" : 1080,
+  "originalValue" : "Svalbard and Jan Mayen",
+  "value" : "Špicbierhien i Jan-Majen",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1081,
+  "originalValue" : "Swaziland",
+  "value" : "Esvatyni (kali niama pareby zachoŭvać staruju nazvu); Svaziliend",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1082,
+  "originalValue" : "Sweden",
+  "value" : "Švecyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1083,
+  "originalValue" : "swipe",
+  "value" : "pravieści paĺcam; prahartać",
+  "wrong" : "",
+  "comment" : "MS — stuknuć, vybrać, čyrkańnie, čyrknuć, prakrutka, adzinkavaje pastukvańnie\nGoogle — pravieści paĺcam, prahartać\nSamsung — praviadzieńnie"
+}, {
+  "id" : 1084,
+  "originalValue" : "switch",
+  "value" : "pierakliučycca, pierakliučyć; pierakliučaĺnik",
+  "wrong" : "",
+  "comment" : "pierakliučycca — Samsung\npierakliučaĺnik — Samsung, Google, MS"
+}, {
+  "id" : 1085,
+  "originalValue" : "Switzerland",
+  "value" : "Švajcaryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1086,
+  "originalValue" : "symmetry",
+  "value" : "simietryja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1087,
+  "originalValue" : "symmetryc",
+  "value" : "simietryčny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1088,
+  "originalValue" : "synchronization",
+  "value" : "sinchranizacyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1089,
+  "originalValue" : "synchronize",
+  "value" : "sinchranizavać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1090,
+  "originalValue" : "Syria",
+  "value" : "Siryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1091,
+  "originalValue" : "system",
+  "value" : "systema",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1092,
+  "originalValue" : "tab",
+  "value" : "ukladka (eliemient interfiejsa); tabuliacyja (indent)",
+  "wrong" : "kartka",
+  "comment" : ""
+}, {
+  "id" : 1093,
+  "originalValue" : "table",
+  "value" : "tablica",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1094,
+  "originalValue" : "tag",
+  "value" : "cetlik (kliučavoje slova); teh (eliemient raźmietki)",
+  "wrong" : "",
+  "comment" : "cetlik — Samsung"
+}, {
+  "id" : 1095,
+  "originalValue" : "Taiwan",
+  "value" : "Tajvań",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1096,
+  "originalValue" : "Taiwan",
+  "value" : "Tajvań",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1097,
+  "originalValue" : "Tajikistan",
+  "value" : "Tadzykistan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1098,
+  "originalValue" : "Tanzania",
+  "value" : "Tanzanija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1099,
+  "originalValue" : "target",
+  "value" : "metavy; meta",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1100,
+  "originalValue" : "targeting",
+  "value" : "tarhietynh",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1101,
+  "originalValue" : "task",
+  "value" : "! zadača, zadańnie",
+  "wrong" : "",
+  "comment" : "Google, Samsung — zadańnie(zadača — todo)\nMS — zadača, zadańnie"
+}, {
+  "id" : 1102,
+  "originalValue" : "TB\n",
+  "value" : "TB — TB; terabajt; Tb — Tbit; terabit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1103,
+  "originalValue" : "Tbit\n",
+  "value" : "Tbit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1104,
+  "originalValue" : "TByte",
+  "value" : "TB",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1105,
+  "originalValue" : "teal",
+  "value" : "sinie-zialiony",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1106,
+  "originalValue" : "template",
+  "value" : "šablon",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1107,
+  "originalValue" : "temporary",
+  "value" : "časovy; nierehuliarny",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 1108,
+  "originalValue" : "temporary error",
+  "value" : "nierehuliarnaja pamylka",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1109,
+  "originalValue" : "terabit",
+  "value" : "terabit",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1110,
+  "originalValue" : "terabits",
+  "value" : "terabity",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1111,
+  "originalValue" : "terabyte",
+  "value" : "terabajt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1112,
+  "originalValue" : "terabytes",
+  "value" : "terabajty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1113,
+  "originalValue" : "Thai",
+  "value" : "Tajskaje",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1114,
+  "originalValue" : "Thailand",
+  "value" : "Tajland",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1115,
+  "originalValue" : "theme",
+  "value" : "tema",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1116,
+  "originalValue" : "third-party",
+  "value" : "starońni; starońni subjekt",
+  "wrong" : "",
+  "comment" : "Za vykliučyńniem vypadkaŭ, kali ŭ tekście jaŭna pieraličvajucca pieršy, druhi j treci baki"
+}, {
+  "id" : 1117,
+  "originalValue" : "this",
+  "value" : "hetaja, hetaje, hetyja, hety (aznačeńnie); heta (častka vykaźnika)",
+  "wrong" : "",
+  "comment" : "Ubuntu - heta svabodnaja apieracyjnaja systema. Hetaje abnaŭlieńnie patrabuje 2MB miesca na dysku. Hetaja prylada nie padtrymlivajecca."
+}, {
+  "id" : 1118,
+  "originalValue" : "threat",
+  "value" : "pahroza",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1119,
+  "originalValue" : "threshold",
+  "value" : "paroh, paroha",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1120,
+  "originalValue" : "thumbnail",
+  "value" : "minijaciura",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 1121,
+  "originalValue" : "tilde",
+  "value" : "tyĺda",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1122,
+  "originalValue" : "tile",
+  "value" : "plitka; razbić na plitki",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1123,
+  "originalValue" : "tiling",
+  "value" : "razbićcio na plitki",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1124,
+  "originalValue" : "Timor-Leste",
+  "value" : "Tymor-Liešci",
+  "wrong" : "",
+  "comment" : "CLDR, TNPA"
+}, {
+  "id" : 1125,
+  "originalValue" : "tip",
+  "value" : "padkazka",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1126,
+  "originalValue" : "title",
+  "value" : "zahalovak; nazva",
+  "wrong" : "",
+  "comment" : "MS, Google — zahalovak\nSamsung — zahalovak, nazva"
+}, {
+  "id" : 1127,
+  "originalValue" : "to do",
+  "value" : "zadača; zadačy (nazva prahramy To Do)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1128,
+  "originalValue" : "to-do",
+  "value" : "zadača",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1129,
+  "originalValue" : "to-dos",
+  "value" : "zadačy",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1130,
+  "originalValue" : "today",
+  "value" : "siońnia; siońniašni",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1131,
+  "originalValue" : "todo",
+  "value" : "zadača; TODO (kamentar u kodzie)",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1132,
+  "originalValue" : "toggle",
+  "value" : "pierakliučyć",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 1133,
+  "originalValue" : "toggle blur",
+  "value" : "pierakliučeńnie razmytaści",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1134,
+  "originalValue" : "toggle key",
+  "value" : "klaviša pierakliučeńnia",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1135,
+  "originalValue" : "Togo",
+  "value" : "Toha",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1136,
+  "originalValue" : "Tokelau",
+  "value" : "Takielau",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1137,
+  "originalValue" : "tomorrow",
+  "value" : "zaŭtra",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1138,
+  "originalValue" : "Tonga",
+  "value" : "Tonha",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1139,
+  "originalValue" : "tool",
+  "value" : "instrument",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1140,
+  "originalValue" : "Top Free",
+  "value" : "Top biasplatnych",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1141,
+  "originalValue" : "Top Paid",
+  "value" : "Top platnych",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1142,
+  "originalValue" : "touchpad",
+  "value" : "! sensarnaja pliacoŭka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1143,
+  "originalValue" : "track",
+  "value" : "trek",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1144,
+  "originalValue" : "trash",
+  "value" : "śmietnica",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1145,
+  "originalValue" : "Trinidad and Tobago",
+  "value" : "Trynidad i Tabaha",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1146,
+  "originalValue" : "try a different search",
+  "value" : "pasprabujcie pašukać inšaje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1147,
+  "originalValue" : "Tunisia",
+  "value" : "Tunis",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1148,
+  "originalValue" : "Turkey",
+  "value" : "Turcyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1149,
+  "originalValue" : "Turkmenistan",
+  "value" : "Turkmienistan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1150,
+  "originalValue" : "Turks and Caicos Islands",
+  "value" : "Astravy Ciorks i Kajkas",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1151,
+  "originalValue" : "turn off",
+  "value" : "vykliučyć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1152,
+  "originalValue" : "turn on",
+  "value" : "ukliučyć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1153,
+  "originalValue" : "tutorial",
+  "value" : "instrukcyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1154,
+  "originalValue" : "Tuvalu",
+  "value" : "Tuvalu",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1155,
+  "originalValue" : "tween",
+  "value" : "! kopija pracesa",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1156,
+  "originalValue" : "type",
+  "value" : "typ; ! uvodzić (paroĺ, źviestki j da t.p.); pisać (paviedamlieńnie); drukavać (tekst u redaktary)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1157,
+  "originalValue" : "Ubuntu",
+  "value" : "Ubuntu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1158,
+  "originalValue" : "Ubuntu Software",
+  "value" : "Prahramy Ubuntu",
+  "wrong" : "",
+  "comment" : "Časam pišuć prosta Software ź vialikaj litary jak nazvu instrumenta, tady pierakladajem \"Prahramy\". software jak ahuĺnaje imia tak NIE pierakladajem"
+}, {
+  "id" : 1159,
+  "originalValue" : "Uganda",
+  "value" : "Uhanda",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1160,
+  "originalValue" : "UK",
+  "value" : "Vialikabrytanija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1161,
+  "originalValue" : "UK English",
+  "value" : "vialikabrytanskaja anhlijskaja; anhlijskaja (Vialikabrytanija)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1162,
+  "originalValue" : "Ukraine",
+  "value" : "Ukraina",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1163,
+  "originalValue" : "Ukrainian",
+  "value" : "Ukrainskaja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1164,
+  "originalValue" : "unable",
+  "value" : "niemahčyma",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1165,
+  "originalValue" : "unauthorized",
+  "value" : "! niesankcyjanavany",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1166,
+  "originalValue" : "uncompressing",
+  "value" : "raspakavańnie",
+  "wrong" : "",
+  "comment" : "hl. decompressing"
+}, {
+  "id" : 1167,
+  "originalValue" : "undo",
+  "value" : "adrabić",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1168,
+  "originalValue" : "undone",
+  "value" : "adroblieny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1169,
+  "originalValue" : "unexpected",
+  "value" : "niečakany",
+  "wrong" : "",
+  "comment" : "niama ŭ terminach"
+}, {
+  "id" : 1170,
+  "originalValue" : "unimplimented",
+  "value" : "nierealizavany (prahr.)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1171,
+  "originalValue" : "unit",
+  "value" : "adzinka",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1172,
+  "originalValue" : "United Arab Emirates",
+  "value" : "Ab’jadnanyja Arabskija Emiraty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1173,
+  "originalValue" : "United Kingdom",
+  "value" : "Vialikabrytanija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1174,
+  "originalValue" : "United States",
+  "value" : "Zlučanyja Štaty Ameryki",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1175,
+  "originalValue" : "United States Minor Outlying Islands",
+  "value" : "Malyja Addalienyja astravy ZŠA",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1176,
+  "originalValue" : "United States Virgin Islands",
+  "value" : "Amerykanskija Virhinskija astravy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1177,
+  "originalValue" : "unknown",
+  "value" : "nieviadomy",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1178,
+  "originalValue" : "unlock",
+  "value" : "razblakiravać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1179,
+  "originalValue" : "unmanaged",
+  "value" : "niekirujemy",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1180,
+  "originalValue" : "unmaximize",
+  "value" : "! skasavać razhortvańnie, pamienšyć",
+  "wrong" : "",
+  "comment" : "heta kali my razhornutaje akno robim malieńkim"
+}, {
+  "id" : 1181,
+  "originalValue" : "unmount",
+  "value" : "adkliučać",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1182,
+  "originalValue" : "unnamed",
+  "value" : "biaz nazvy; nienazvany (kali vykarystoŭvajem zamiest nazvy)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1183,
+  "originalValue" : "unresolvable",
+  "value" : "nievyrašaĺny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1184,
+  "originalValue" : "unsupported",
+  "value" : "nie padtrymlivajecca",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1185,
+  "originalValue" : "unzip",
+  "value" : "raspakavać",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1186,
+  "originalValue" : "up",
+  "value" : "uvierch",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1187,
+  "originalValue" : "up to date",
+  "value" : "abnoŭlieny (kali maje miesca abnaŭlieńnie); aktualizavany (kali maje miesca aktualizacyja)",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1188,
+  "originalValue" : "upcoming",
+  "value" : "budučy",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1189,
+  "originalValue" : "update",
+  "value" : "abnavić; abnaŭlieńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1190,
+  "originalValue" : "updater",
+  "value" : "instrument abnaŭlieńnia",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1191,
+  "originalValue" : "upgrade",
+  "value" : "abnavić; abnaŭlieńnie",
+  "wrong" : "",
+  "comment" : "MS, Samsung — abnavić\nMS, Google — abnaŭlieńnie"
+}, {
+  "id" : 1192,
+  "originalValue" : "upload",
+  "value" : "zapampavać, zapampoŭvać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1193,
+  "originalValue" : "uploader",
+  "value" : "zapampoŭščyk; ! zahruzčyk",
+  "wrong" : "zahruźnik",
+  "comment" : "Liepš zapampoŭščyk, bo upload — zapampavać"
+}, {
+  "id" : 1194,
+  "originalValue" : "uploading",
+  "value" : "zapampoŭvańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1195,
+  "originalValue" : "Uruguay",
+  "value" : "Uruhvaj",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1196,
+  "originalValue" : "US",
+  "value" : "ZŠA",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1197,
+  "originalValue" : "US English",
+  "value" : "anhlijskaja (ZŠA)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1198,
+  "originalValue" : "usage",
+  "value" : "vykarystańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1199,
+  "originalValue" : "use",
+  "value" : "vykarystoŭvać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1200,
+  "originalValue" : "user",
+  "value" : "karystaĺnik",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1201,
+  "originalValue" : "user account",
+  "value" : "ulikovy zapis",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1202,
+  "originalValue" : "user name",
+  "value" : "imia karystaĺnika",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1203,
+  "originalValue" : "username",
+  "value" : "imia karystaĺnika",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1204,
+  "originalValue" : "utility",
+  "value" : "utylita",
+  "wrong" : "",
+  "comment" : "utylita — Samsung, Google\nsluzbovaja prahrama, dapamoznaja prahrama — MS"
+}, {
+  "id" : 1205,
+  "originalValue" : "Uzbekistan",
+  "value" : "Uzbiekistan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1206,
+  "originalValue" : "valid",
+  "value" : "sapraŭdny; praviĺny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1207,
+  "originalValue" : "validate",
+  "value" : "pravieryć",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1208,
+  "originalValue" : "validation",
+  "value" : "! pravierka, paćvierdzańnie",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1209,
+  "originalValue" : "Validator",
+  "value" : "Srodak pravierki",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1210,
+  "originalValue" : "value",
+  "value" : "značeńnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1211,
+  "originalValue" : "Vanuatu",
+  "value" : "Vanuatu",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1212,
+  "originalValue" : "Vatican",
+  "value" : "Vatykan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1213,
+  "originalValue" : "Vatican City",
+  "value" : "Vatykan",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1214,
+  "originalValue" : "Venezuela",
+  "value" : "Vieniesuela",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1215,
+  "originalValue" : "verified",
+  "value" : "spraŭdzany",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1216,
+  "originalValue" : "verify",
+  "value" : "spraŭdzić",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1217,
+  "originalValue" : "variable",
+  "value" : "pieramiennaja",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1218,
+  "originalValue" : "version",
+  "value" : "versija, versii",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1219,
+  "originalValue" : "vertical",
+  "value" : "viertykaĺny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1220,
+  "originalValue" : "video",
+  "value" : "videa",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1221,
+  "originalValue" : "video player",
+  "value" : "videaprajhravaĺnik",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1222,
+  "originalValue" : "Viet Nam",
+  "value" : "V’jetnam",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1223,
+  "originalValue" : "view",
+  "value" : "rezym; vyhliad (ulaścivaść, ab’jekt); prahliad (dziejańnie)",
+  "wrong" : "",
+  "comment" : "Samsung, Google — rezym, vyhliad, pakaz, prahliad\nMS — vyhliad, prahliad, prahliadać"
+}, {
+  "id" : 1224,
+  "originalValue" : "violet",
+  "value" : "lilovy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1225,
+  "originalValue" : "visible",
+  "value" : "bačny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1226,
+  "originalValue" : "visit",
+  "value" : "naviedajcie; naviedać; naviedańnie",
+  "wrong" : "",
+  "comment" : "MS — naviedajcie, naviedać, pierajści, naviedvańnie\nSamsung — naviedańnie"
+}, {
+  "id" : 1227,
+  "originalValue" : "visitor\n",
+  "value" : "naviedvaĺnik",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1228,
+  "originalValue" : "visitors",
+  "value" : "naviedvaĺniki",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1229,
+  "originalValue" : "Vitsyebsk",
+  "value" : "Viciebsk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1230,
+  "originalValue" : "Voice Recorder",
+  "value" : "Dyktafon",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1231,
+  "originalValue" : "volume",
+  "value" : "hučnaść",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 1232,
+  "originalValue" : "wait",
+  "value" : "pačakać",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1233,
+  "originalValue" : "waiting",
+  "value" : "čakańnie",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1234,
+  "originalValue" : "Wales",
+  "value" : "Ueĺs",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1235,
+  "originalValue" : "Wallis and Futuna",
+  "value" : "Uolis i Futuna",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1236,
+  "originalValue" : "wallpaper",
+  "value" : "špaliery",
+  "wrong" : "",
+  "comment" : "Špalier — MS, Samsung, Google"
+}, {
+  "id" : 1237,
+  "originalValue" : "want",
+  "value" : "chacieć",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1238,
+  "originalValue" : "weather",
+  "value" : "nadvorje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1239,
+  "originalValue" : "weather reports",
+  "value" : "! mieteazvodka",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1240,
+  "originalValue" : "web",
+  "value" : "veb; internet, internetu",
+  "wrong" : "",
+  "comment" : "Samsung — veb\nMS — veb; internet"
+}, {
+  "id" : 1241,
+  "originalValue" : "web address",
+  "value" : "veb-adras",
+  "wrong" : "",
+  "comment" : "mss"
+}, {
+  "id" : 1242,
+  "originalValue" : "Web browser",
+  "value" : "veb-braŭzier",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1243,
+  "originalValue" : "Web browsing",
+  "value" : "Prahliad veb-staronak",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1244,
+  "originalValue" : "web feed",
+  "value" : "veb-kanal",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1245,
+  "originalValue" : "web filtering",
+  "value" : "veb-fiĺtracyja",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1246,
+  "originalValue" : "Web hosting",
+  "value" : "Veb-chostynh",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1247,
+  "originalValue" : "web package",
+  "value" : "veb-pakiet",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1248,
+  "originalValue" : "web page",
+  "value" : "veb-staronka",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1249,
+  "originalValue" : "web portal",
+  "value" : "veb-partal",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1250,
+  "originalValue" : "Web query",
+  "value" : "veb-zapyt",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1251,
+  "originalValue" : "Web Runtime",
+  "value" : "Web Runtime",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1252,
+  "originalValue" : "Web server",
+  "value" : "veb-siervier",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1253,
+  "originalValue" : "Web service",
+  "value" : "veb-servis",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1254,
+  "originalValue" : "web services",
+  "value" : "veb-servisy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1255,
+  "originalValue" : "web site",
+  "value" : "veb-sajt; sajt",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 1256,
+  "originalValue" : "webpage",
+  "value" : "veb-staronka",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1257,
+  "originalValue" : "website",
+  "value" : "veb-sajt; sajt",
+  "wrong" : "veb-staronka",
+  "comment" : "Samsung — veb-sajt; sajt\nMS — veb-staronka"
+}, {
+  "id" : 1258,
+  "originalValue" : "Webview",
+  "value" : "Veb-vyhliad",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1259,
+  "originalValue" : "weekly",
+  "value" : "štotydzień; štotydniovy; za tydzień",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 1260,
+  "originalValue" : "Western Sahara",
+  "value" : "Zachodniaja Sachara",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1261,
+  "originalValue" : "while connected to",
+  "value" : "padčas zlučeńnia z",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1262,
+  "originalValue" : "white",
+  "value" : "biely",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1263,
+  "originalValue" : "widget",
+  "value" : "vidzet",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1264,
+  "originalValue" : "width",
+  "value" : "šyrynia",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1265,
+  "originalValue" : "window",
+  "value" : "akno",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1266,
+  "originalValue" : "wired",
+  "value" : "pravadny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1267,
+  "originalValue" : "wireless",
+  "value" : "biespravadny",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 1268,
+  "originalValue" : "wishlist",
+  "value" : "spis pazadańniaŭ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1269,
+  "originalValue" : "word",
+  "value" : "slova",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1270,
+  "originalValue" : "workspace",
+  "value" : "pracoŭnaja prastora",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1271,
+  "originalValue" : "world clocks",
+  "value" : "suśvietnyja hadzińniki",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1272,
+  "originalValue" : "WWW",
+  "value" : "WWW",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1273,
+  "originalValue" : "yearly",
+  "value" : "štohod; štohadovy; za hod",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 1274,
+  "originalValue" : "yellow",
+  "value" : "zoŭty",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1275,
+  "originalValue" : "Yemen",
+  "value" : "Jemien",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1276,
+  "originalValue" : "yes",
+  "value" : "tak",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1277,
+  "originalValue" : "yesterday",
+  "value" : "učora",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1278,
+  "originalValue" : "your",
+  "value" : "vaš, vašy",
+  "wrong" : "vašyja",
+  "comment" : ""
+}, {
+  "id" : 1279,
+  "originalValue" : "Zambia",
+  "value" : "Zambija",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1280,
+  "originalValue" : "Zimbabwe",
+  "value" : "Zimbabve",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1281,
+  "originalValue" : "zoom",
+  "value" : "! pavieličeńnie; maštab; maštabavańnie (ekrana)",
+  "wrong" : "",
+  "comment" : "Samsung — zum, maštab\nGoogle — pavieličeńnie, maštabavańnie\nMS — pavieličeńnie, maštab, maštabavańnie"
+}, {
+  "id" : 1282,
+  "originalValue" : "zoom in",
+  "value" : "pavialičyć",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1283,
+  "originalValue" : "zoom out",
+  "value" : "pamienšyć",
+  "wrong" : "",
+  "comment" : "Samsung"
+} ]

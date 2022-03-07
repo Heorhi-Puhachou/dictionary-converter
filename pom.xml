@@ -10,9 +10,19 @@
 
     <dependencies>
         <dependency>
-            <groupId>oby.spelling.conversion</groupId>
+            <groupId>by.spelling.conversion</groupId>
             <artifactId>converter</artifactId>
             <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>4.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.13.0</version>
         </dependency>
 
         <!-- junit 5, unit test -->
@@ -35,7 +45,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <mainClass>
-                                by.spelling.conversion.Launcher
+                                by.dictionary.converter.ConvertExcel2Json
                             </mainClass>
                         </manifest>
                     </archive>
