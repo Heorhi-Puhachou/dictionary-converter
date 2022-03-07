@@ -1,0 +1,2937 @@
+{
+  "id" : "b",
+  "name" : "Proton Terms by Alaksandr Košal and Źmicier Turok",
+  "records" : [ {
+    "id" : 1,
+    "originalValue" : "1Password",
+    "information" : "Do Not Translate\n\nPassword manager PROPER NOUN\n1password"
+  }, {
+    "id" : 2,
+    "originalValue" : "2-step verification",
+    "information" : "Confirms access to an account through a process through two distinct verification occurrences. The confirmation typically asks for your password followed by an independent contact method for a one-time code. (also see \"two-factor authentication\")\n\n\n NOUN\ndvuchetapnaja pravierka"
+  }, {
+    "id" : 3,
+    "originalValue" : "2FA",
+    "information" : "Abbr. for two-factor authentication; adds a second method (e.g. phone) to verify a users identity.\n\nMore info: https://protonmail.com/blog/what-is-two-factor-authentication-how-to-use-it/ NOUN\n2FA"
+  }, {
+    "id" : 4,
+    "originalValue" : "3-D Secure",
+    "information" : "XML-based protocol designed to be an additional security layer for online credit and debit card transactions. PROPER NOUN\n3-D Secure"
+  }, {
+    "id" : 5,
+    "originalValue" : "abort",
+    "information" : "To cancel or cease operations VERB\npierarvać"
+  }, {
+    "id" : 6,
+    "originalValue" : "access token",
+    "information" : "An object (e.g. string of characters) containing security credentials for a login session and user identifiers. May be used as a safer alternative to authenticating with username and password.\n\nMore info: https://www.wikiwand.com/en/Login_session\nMore info: https://www.wikiwand.com/en/User_(computing) NOUN\ntokien dostupu"
+  }, {
+    "id" : 7,
+    "originalValue" : "account",
+    "information" : "Means by which users can authenticate to and access a device, online service, app, etc.  NOUN\nulikovy zapis"
+  }, {
+    "id" : 8,
+    "originalValue" : "account settings",
+    "information" : "User options for managing basic online account preferences. NOUN\nnalady ŭlikovaha zapisu"
+  }, {
+    "id" : 9,
+    "originalValue" : "ad",
+    "information" : "Commonly used short form of advertisement.  NOUN\nrekliama"
+  }, {
+    "id" : 10,
+    "originalValue" : "adapter",
+    "information" : "A device that allows one type of device or system to work with an otherwise incompatible one. Includes network cards, which allow connection to networks.  NOUN\nadaptar"
+  }, {
+    "id" : 11,
+    "originalValue" : "additional features",
+    "information" : "Any product features not defined within a description of services, including new features that will be added to the service offerings. NOUN\ndadatkovyja funkcyi"
+  }, {
+    "id" : 12,
+    "originalValue" : "address",
+    "information" : "Can refer to an email address or the set of characters designating the location of a website (web address) or a device on a network (IP address).   NOUN\nadras"
+  }, {
+    "id" : 13,
+    "originalValue" : "address verification",
+    "information" : "An advanced security feature that allows users to trust the public key for specific contacts, making it impossible for third-party attackers to tamper with public encryption keys that have been trusted. NOUN\npravierka adrasa"
+  }, {
+    "id" : 14,
+    "originalValue" : "admin",
+    "information" : "Of or relating to an administrator or administrative functions. NOUN\nadministratar"
+  }, {
+    "id" : 15,
+    "originalValue" : "admin privilege",
+    "information" : "Having the right to make changes to a system, e.g. installing and removing programs and drivers on an operating system. Used interchangeably with administrative privilege and administrator privilege. NOUN\npravy administratara"
+  }, {
+    "id" : 16,
+    "originalValue" : "administrative privilege",
+    "information" : "Same as admin privilege. NOUN\npravy administratara"
+  }, {
+    "id" : 17,
+    "originalValue" : "administrator privilege",
+    "information" : "Same as admin privilege. NOUN\npravy administratara"
+  }, {
+    "id" : 18,
+    "originalValue" : "advanced features",
+    "information" : "Extra functionality beyond an app or products basic- or free-version features. NOUN\npašyranyja funkcyi"
+  }, {
+    "id" : 19,
+    "originalValue" : "advertisement",
+    "information" : "A kind of announcement or public notice that is used to bring awareness about a product or service. NOUN\nrekliama"
+  }, {
+    "id" : 20,
+    "originalValue" : "alias",
+    "information" : "An alternative email address for receiving email in addition to a users primary address. At Proton, an alias is created by adding \"+\" and an alias term to the end of the username and before the @ symbol.  \n\nMore info: https://protonmail.com/support/knowledge-base/addresses-and-aliases/#protonmail-aliases NOUN\npsieŭdanim"
+  }, {
+    "id" : 21,
+    "originalValue" : "All Mail",
+    "information" : "Displays all email sequentially (includes inbox, sent, archived, messages in trash, etc).\n\nNavigation button in ProtonMail (vertical interface on left, eighth button from the top).  PROPER NOUN\nUsia pošta"
+  }, {
+    "id" : 22,
+    "originalValue" : "Allow List",
+    "information" : "A list of email addresses that will always be delivered to your inbox and not to spam. All email addresses stored in contacts are automatically placed on an Allow List; other addresses can be put on the list manually. See Block List.    \n\nMore info: https://protonmail.com/support/knowledge-base/spam-filtering/ NOUN\nspis dazvolienych"
+  }, {
+    "id" : 23,
+    "originalValue" : "alpha",
+    "information" : "Usually modifying \"tester\" or \"phase.\" First phase of software testing, usually carried out by testers who are internal employees of the organization. See beta. ADJECTIVE\naĺfa"
+  }, {
+    "id" : 24,
+    "originalValue" : "alternative routing",
+    "information" : "An anti-censorship system that can help users access our apps if their government, ISP, or network administrator has blocked Proton services. Alernative routing works by routing network connections to Proton servers differently to evade certain types of blocks.\n\nMore info: https://protonmail.com/blog/anti-censorship-alternative-routing/ NOUN\naĺternatyŭnaja maršrutyzacyja"
+  }, {
+    "id" : 25,
+    "originalValue" : "always-on VPN",
+    "information" : "Feature that can start VPN service when an device boots and keep it running while the device is on. NOUN\npastajanny VPN"
+  }, {
+    "id" : 26,
+    "originalValue" : "Android",
+    "information" : "Do Not Translate PROPER NOUN\nAndroid"
+  }, {
+    "id" : 27,
+    "originalValue" : "Android TV",
+    "information" : "Do Not Translate PROPER NOUN\nAndroid TV"
+  }, {
+    "id" : 28,
+    "originalValue" : "annual billing",
+    "information" : "Yearly interval for billing (see \"billing cycle\") NOUN\nštohadovaja aplata"
+  }, {
+    "id" : 29,
+    "originalValue" : "antivirus",
+    "information" : "Usually modifying \"software\" or \"program.\" Software designed to detect and destroy computer viruses. ADJECTIVE\nantyvirusny"
+  }, {
+    "id" : 30,
+    "originalValue" : "API",
+    "information" : "Application programming interface. The software intermediary that allows two applications (for example, ProtonMail app and our Mail servers) to talk to each other. NOUN\nAPI"
+  }, {
+    "id" : 31,
+    "originalValue" : "app",
+    "information" : "A software program, usually designed for mobile devices, that executes a specific purpose. NOUN\nprahrama"
+  }, {
+    "id" : 32,
+    "originalValue" : "app bar",
+    "information" : "Usually found at the top of an app, the app bar is used to display actions, branding, navigation, and screen titles. NOUN\nprahramnaja paneĺ"
+  }, {
+    "id" : 33,
+    "originalValue" : "app extension",
+    "information" : "Software that extends custom functionality and content beyond the app. NOUN\nprahramnaje pašyreńnie "
+  }, {
+    "id" : 34,
+    "originalValue" : "App Selector",
+    "information" : "The tool present in the ProtonMail v4 inbox that lets users choose which Proton app they would like to use. NOUN\nvybar prahram"
+  }, {
+    "id" : 35,
+    "originalValue" : "app store",
+    "information" : "Place to buy and/or download apps. NOUN\nkrama prahram"
+  }, {
+    "id" : 36,
+    "originalValue" : "App Store",
+    "information" : "Do Not Translate PROPER NOUN\nApp Store"
+  }, {
+    "id" : 37,
+    "originalValue" : "Apple",
+    "information" : "Do Not Translate. But could be localized in different scripts/alphabets. PROPER NOUN\nApple"
+  }, {
+    "id" : 38,
+    "originalValue" : "application",
+    "information" : "A software designed to carry out a specific task, e.g. a word processor or a media player. NOUN\nprahrama"
+  }, {
+    "id" : 39,
+    "originalValue" : "application programming interface",
+    "information" : "API; specifies how software components should interact with each other. NOUN\nprahramny interfiejs"
+  }, {
+    "id" : 40,
+    "originalValue" : "apply",
+    "information" : "To put into effect, such as within settings. VERB\nuzyć"
+  }, {
+    "id" : 41,
+    "originalValue" : "archive",
+    "information" : "A folder/place in ProtonMail mainly used to store emails that a user doesnt want in their inbox but want to keep. NOUN\narchiŭ"
+  }, {
+    "id" : 42,
+    "originalValue" : "archive",
+    "information" : "To move an email into the Archive folder. To place or store in an archive. VERB\narchivavać"
+  }, {
+    "id" : 43,
+    "originalValue" : "attachment",
+    "information" : "A digital file sent along with an email message. NOUN\ndalučeńnie"
+  }, {
+    "id" : 44,
+    "originalValue" : "attendee",
+    "information" : "Person who is present at a specific time or place; a participant. May be used in reference to Proton Calendar invitations to events. NOUN\nudzieĺnik"
+  }, {
+    "id" : 45,
+    "originalValue" : "authcache",
+    "information" : "Authentication cache: Storing user authentication information in a temporary cache, thus reducing the number of authentication lookups, and thereby improving overall web application performance and reducing delays in page delivery times.   NOUN\nkeš aŭtentyfikacyi"
+  }, {
+    "id" : 46,
+    "originalValue" : "authentication",
+    "information" : "The act or process of establishing identity and verifying permission to access an electronic device or computer network. NOUN\naŭtentyfikacyja"
+  }, {
+    "id" : 47,
+    "originalValue" : "authentication log",
+    "information" : "A record of activity involving users logging in and out of a system or service. NOUN\nzurnal aŭtentyfikacyi"
+  }, {
+    "id" : 48,
+    "originalValue" : "auto fill",
+    "information" : "To automatically prefill fields in an online form. VERB\nzapoŭnić aŭtamatyčna"
+  }, {
+    "id" : 49,
+    "originalValue" : "auto reply",
+    "information" : "A feature in which an email is automatically sent in resposne to an incoming message and which informs the contact that the user is out of the office or otherwise unable to respond. NOUN\naŭtamatyčny adkaz"
+  }, {
+    "id" : 50,
+    "originalValue" : "auto-play",
+    "information" : "A feature used by some websites or apps to automatically play embedded video or audio without explicit user choice after some triggering event. NOUN\naŭtaprajhravańnie"
+  }, {
+    "id" : 51,
+    "originalValue" : "autocomplete",
+    "information" : "A feature in which an application predicts the rest of a word a user is typing, e.g. a search term or email address.  NOUN\naŭtazaviaršeńnie"
+  }, {
+    "id" : 52,
+    "originalValue" : "autofill",
+    "information" : "A feature that automatically completes common entries in an online form. NOUN\naŭtazapaŭnieńnie"
+  }, {
+    "id" : 53,
+    "originalValue" : "autoresponder",
+    "information" : "A tool that automatically answers emails sent to it. It is useful to automate email list management, e.g. to confirm subscriptions, unsubscriptions, posts, and other list activities.  NOUN\naŭtaadkazčyk"
+  }, {
+    "id" : 54,
+    "originalValue" : "BAA",
+    "information" : "Abbreviation for Business Associate Agreement, a legal contract that describes how ProtonMail is compliant with HIPAA. NOUN\npahadnieńnie ab dzielavym partniorstvie (BAA)"
+  }, {
+    "id" : 55,
+    "originalValue" : "back button",
+    "information" : "A clickable/tapable feature that navigates a user to the previously viewed screen. NOUN\nknopka «Nazad»"
+  }, {
+    "id" : 56,
+    "originalValue" : "back up ",
+    "information" : "To create a copy of data in case the original is lost or damaged.  VERB\nreziervavać"
+  }, {
+    "id" : 57,
+    "originalValue" : "backup",
+    "information" : "An extra copy of data in case the original is lost or damaged. NOUN\nreziervovaja kopija"
+  }, {
+    "id" : 58,
+    "originalValue" : "backup",
+    "information" : "Describes something or someone that is held in reserve if a substitute is needed, e.g. a backup device, backup copy, backup plan. ADJECTIVE\nreziervovy"
+  }, {
+    "id" : 59,
+    "originalValue" : "backup key",
+    "information" : "An extra copy of the set of instructions used to encrypt and decrypt data. In case a user loses their password, they have a backup means to access their messages.  NOUN\nreziervovaja kopija kliuča"
+  }, {
+    "id" : 60,
+    "originalValue" : "backwards-compatible",
+    "information" : "Can be used with an older piece of hardware or software. ADJECTIVE\nzvarotnaja sumiaščaĺnaść"
+  }, {
+    "id" : 61,
+    "originalValue" : "bandwidth",
+    "information" : "Measurement of available or consumed data communication resources. NOUN\npalasa prapuskańnia"
+  }, {
+    "id" : 62,
+    "originalValue" : "Base64",
+    "information" : "An encoding format to represent binary data with printable characters.  PROPER NOUN\nBase64"
+  }, {
+    "id" : 63,
+    "originalValue" : "BCC",
+    "information" : "Blind carbon copy. The email addresses placed in the BCC field of an email will receive the email but their display name and email address will be hidden. Useful for mass mailings and to protect the privacy of the recipients. See CC.  NOUN\nSchavanaja kopija"
+  }, {
+    "id" : 64,
+    "originalValue" : "beta",
+    "information" : "Testing environment. Usually the last phase in the software release lifecycle, often tested by users under real-world conditions. See alpha. ADJECTIVE\nbeta"
+  }, {
+    "id" : 65,
+    "originalValue" : "Beta access",
+    "information" : "Accessibility to early, pre-release version for testing (see \"beta\"). Typically more stable than alpha versions PROPER NOUN\nBeta-dostup"
+  }, {
+    "id" : 66,
+    "originalValue" : "billing cycle",
+    "information" : "The interval of time between billing statements for, e.g., a product, service, or subscription plan.  NOUN\npieryjad aplaty"
+  }, {
+    "id" : 67,
+    "originalValue" : "BIP32",
+    "information" : "Stands for Bitcoin Improvment Proposal 32, which introduced HD Wallet, a wallet structure that supports many coins. NOUN\nBIP32"
+  }, {
+    "id" : 68,
+    "originalValue" : "Bitcoin",
+    "information" : "Do Not Translate PROPER NOUN\nBitcoin"
+  }, {
+    "id" : 69,
+    "originalValue" : "Bitcoin API",
+    "information" : "Do Not Translate NOUN\nBitcoin API"
+  }, {
+    "id" : 70,
+    "originalValue" : "BitTorrent",
+    "information" : "Do not translate PROPER NOUN\nBitTorrent"
+  }, {
+    "id" : 71,
+    "originalValue" : "Black Friday",
+    "information" : "Day after US Thanksgiving in November, one of the busiest shopping days, with retailers offering highly promoted discounts. Proton has a Black Friday landing page: https://protonmail.com/blackfriday PROPER NOUN\n\"Čornaja piatnica\""
+  }, {
+    "id" : 72,
+    "originalValue" : "blacklist",
+    "information" : "List of people barred access, esp. email addresses that are blocked. Same as Block List. See Allow List. NOUN\nčorny spis"
+  }, {
+    "id" : 73,
+    "originalValue" : "blacklist",
+    "information" : "To put someone on a blacklist or Block List. VERB\ndadać u čorny spis"
+  }, {
+    "id" : 74,
+    "originalValue" : "Block List",
+    "information" : "A list of specific email addresses from which messages will be delivered to a users spam folder and not their Inbox. Addresses can be manually added to the Block List. See Allow List. \n\nMore info: https://protonmail.com/support/knowledge-base/spam-filtering/ NOUN\nspis zablakiravanych"
+  }, {
+    "id" : 75,
+    "originalValue" : "blog",
+    "information" : "Proton maintains a blog at ProtonMail.com to share news, announcements, and information to all website visitors and the general public. NOUN\nbloh"
+  }, {
+    "id" : 76,
+    "originalValue" : "bonus storage",
+    "information" : "Free, extra storage provided to early ProtonMail subscribers. \n\nMore info: https://protonmail.com/support/knowledge-base/bonus-storage/ NOUN\nbonusnaje schovišča"
+  }, {
+    "id" : 77,
+    "originalValue" : "breaches",
+    "information" : "Release of secure/confidential data into an insecure environment. Typically from unauthorized access to data by outside parties. May be intentional or unintentional. PLURAL NOUN\nparušeńni"
+  }, {
+    "id" : 78,
+    "originalValue" : "Bridge",
+    "information" : "Do Not Translate PROPER NOUN\nBridge"
+  }, {
+    "id" : 79,
+    "originalValue" : "browser",
+    "information" : "A (web) browser is a software program that allows a user to locate, access, and display web pages. NOUN\nbraŭzier"
+  }, {
+    "id" : 80,
+    "originalValue" : "BTC",
+    "information" : "Do Not Translate PROPER NOUN\nBTC"
+  }, {
+    "id" : 81,
+    "originalValue" : "bug",
+    "information" : "An error in a system, program, website, or app. NOUN\nchiba"
+  }, {
+    "id" : 82,
+    "originalValue" : "bug fix",
+    "information" : "Action taken by a software engineer to repair a system bug. NOUN\nvypraŭlieńnie chibaŭ"
+  }, {
+    "id" : 83,
+    "originalValue" : "bug report",
+    "information" : "When a user or tester informs an app developer of a bug. NOUN\nspravazdača pra chiby"
+  }, {
+    "id" : 84,
+    "originalValue" : "bundle",
+    "information" : "A collection of two or more products which are promoted at a combined price or discounted when purchased together.   NOUN\nkampliekt"
+  }, {
+    "id" : 85,
+    "originalValue" : "cache",
+    "information" : "An area of computer memory that temorarily stores data for faster retrieval. NOUN\nkeš"
+  }, {
+    "id" : 86,
+    "originalValue" : "calendar",
+    "information" : "Any of various systems for viewing and marking time over days, weeks, months, years. A digital calendar, like Proton Calendar, includes the ability to schedule appointments, import multiple calendars, and many other features.   NOUN\nkaliandar"
+  }, {
+    "id" : 87,
+    "originalValue" : "calendar key",
+    "information" : "The encryption key used to encrypt event data. It is stored on the Proton Calendar backend server. NOUN\nkliuč kaliendara"
+  }, {
+    "id" : 88,
+    "originalValue" : "Calendar Key Packet",
+    "information" : "Technical term related to the encryption of Proton Calendar events.\n\nMore info: https://protonmail.com/blog/protoncalendar-security-model/ NOUN\npakiet kliuča kaliendara"
+  }, {
+    "id" : 89,
+    "originalValue" : "cancel",
+    "information" : "To stop or nullify an actiion, event, service, or order from taking place. VERB\nskasavać"
+  }, {
+    "id" : 90,
+    "originalValue" : "cancel check",
+    "information" : "To stop a verification process. VERB\nskasavać pravierku"
+  }, {
+    "id" : 91,
+    "originalValue" : "CAPTCHA",
+    "information" : "Do Not Translate Acronym\nCAPTCHA"
+  }, {
+    "id" : 92,
+    "originalValue" : "card holder",
+    "information" : "A credit card accounts owner. NOUN\ntrymaĺnik kartki"
+  }, {
+    "id" : 93,
+    "originalValue" : "catch-all",
+    "information" : "Holding or including a variety of things. ADJECTIVE\nusia pošta damiena"
+  }, {
+    "id" : 94,
+    "originalValue" : "catch-all address",
+    "information" : "An email address set up to receive all the emails sent to a domain, when the email address is invalid because of, e.g. a typo. A feature of ProtonMail.  NOUN\nadras dlia ŭsioj pošty damiena"
+  }, {
+    "id" : 95,
+    "originalValue" : "CC",
+    "information" : "Carbon copy. A feature to send an email message to secondary recipients by placing their email address in the CC field of a message rather than in the To field. See BCC.   NOUN\nkopija"
+  }, {
+    "id" : 96,
+    "originalValue" : "CC",
+    "information" : "To put a recipient of an email message in CC. VERB\ndadać kopiju"
+  }, {
+    "id" : 97,
+    "originalValue" : "CERN",
+    "information" : "Do Not Translate PROPER NOUN\nCERN"
+  }, {
+    "id" : 98,
+    "originalValue" : "character limit",
+    "information" : "Limit on the number of characters that can be entered in an online field. NOUN\nabmiezavańnie pa koĺkaści simvalaŭ"
+  }, {
+    "id" : 99,
+    "originalValue" : "chargeback",
+    "information" : "A charge that is returned to a payment card after a customer successfully disputes an item on their account statement or transactions report. NOUN\nviartańnie srodkaŭ"
+  }, {
+    "id" : 100,
+    "originalValue" : "check-in",
+    "information" : "Feature to virtually record or announce your arrival at a location. NOUN\nrehistracyja"
+  }, {
+    "id" : 101,
+    "originalValue" : "checkout process",
+    "information" : "The specific steps a user must take when completing an online purchase. NOUN\nzaviaršeńnie pracesu"
+  }, {
+    "id" : 102,
+    "originalValue" : "ChildClientID",
+    "information" : "Do not translate OTHER\nChildClientID"
+  }, {
+    "id" : 103,
+    "originalValue" : "Chromebook",
+    "information" : "Do Not Translate PROPER NOUN\nChromebook"
+  }, {
+    "id" : 104,
+    "originalValue" : "clear history",
+    "information" : "To wipe the record of activity on an app or website, such as sites previously visited.  VERB\načyścić historyju"
+  }, {
+    "id" : 105,
+    "originalValue" : "clipboard",
+    "information" : "A location on computer, phone, and tablet memory that temporarily stores cut or copied text or other data until it is pasted to another location, such as into an email.  NOUN\nbufier abmienu"
+  }, {
+    "id" : 106,
+    "originalValue" : "close",
+    "information" : "To click on a button or X that allows a user to close a window, such as the email composer.  VERB\nzakryć"
+  }, {
+    "id" : 107,
+    "originalValue" : "cloud",
+    "information" : "Usually \"the cloud.\" Parts of the internet that allows online processing and storage of documents and data as well as electronic access to software and other resources. NOUN\nvoblaka"
+  }, {
+    "id" : 108,
+    "originalValue" : "code",
+    "information" : "1.) Programming instructions or the string of text written in a computer programming langauge. 2.) A set of symbols that can be used to unlock or decrypt something, e.g. a six-digit code in 2FA. 3.) Also may refer to a promo, coupon, or discount code that can be used at checkout when purchasing Proton services or products.  NOUN\nkod"
+  }, {
+    "id" : 109,
+    "originalValue" : "column",
+    "information" : "A vertical list or arrangement on a page. ProtonMail offers two layouts, including Column View, which displays the contents of an email next to the inbox list of messages.\n NOUN\nslupok"
+  }, {
+    "id" : 110,
+    "originalValue" : "communications",
+    "information" : "Interactions between at least two entities NOUN\nznosiny"
+  }, {
+    "id" : 111,
+    "originalValue" : "community",
+    "information" : "A group with a shared interest, value or activity. NOUN\nsupoĺnaść"
+  }, {
+    "id" : 112,
+    "originalValue" : "compose",
+    "information" : "To draft or write an email message. VERB\nnapisać"
+  }, {
+    "id" : 113,
+    "originalValue" : "composer",
+    "information" : "The window or screen where a user composes an email.  NOUN\nredaktar"
+  }, {
+    "id" : 114,
+    "originalValue" : "compromise",
+    "information" : "To expose or make vulnerable to danger, suspicion, scandal, etc.; jeopardize. VERB\nskampramietavać"
+  }, {
+    "id" : 115,
+    "originalValue" : "condition",
+    "information" : "Action that should be completed before another action takes place. NOUN\numova"
+  }, {
+    "id" : 116,
+    "originalValue" : "configuration",
+    "information" : "See \"configure\"\n\nThe phase where something is set up or modified (\"configuration options for software\")\n\nThe current arrangement of changes and modifications (\"save current configuration?\") NOUN\nkanfihuracyja"
+  }, {
+    "id" : 117,
+    "originalValue" : "configure",
+    "information" : "To set up or modify with a particular purpose VERB\nkanfihuryravać"
+  }, {
+    "id" : 118,
+    "originalValue" : "confirm ",
+    "information" : "To agree to, validate, verify, or acknowledge, e.g. an action by clicking or tapping on a button.  VERB\npaćvierdzić"
+  }, {
+    "id" : 119,
+    "originalValue" : "confirmation email",
+    "information" : "A type of transactional email that is triggered by specific user actions, such as an online purchase, email list subscription, or a new account registration. NOUN\npaćviardzeńnie pa eliektronnaj pošcie"
+  }, {
+    "id" : 120,
+    "originalValue" : "connect",
+    "information" : "To join, unite, link, or hook up, e.g. a device to a network. VERB\nzlučyć"
+  }, {
+    "id" : 121,
+    "originalValue" : "connection",
+    "information" : "The link between a device and a network, such as Wi-Fi or VPN.  NOUN\nzlučeńnie"
+  }, {
+    "id" : 122,
+    "originalValue" : "connection status",
+    "information" : "An indication of whether a connection has been established and/or the quality of a connection.  NOUN\nstatus zlučeńnia"
+  }, {
+    "id" : 123,
+    "originalValue" : "contact",
+    "information" : "A person one communicates with, e.g. via email, usually regularly. Plural: A list of these people including their email address or details located in a central place, See ProtonContacts. NOUN\nkantakt"
+  }, {
+    "id" : 124,
+    "originalValue" : "contact details",
+    "information" : "Information on how to contact a person or entity, typically including phone numbers, email addresses, and other personal data. NOUN\nkantaktnyja źviestki"
+  }, {
+    "id" : 125,
+    "originalValue" : "contact group",
+    "information" : "A ProtonMail user-created group of up to 100 contacts; makes it easier to send out emails to a group.  NOUN\nhrupa kantaktaŭ"
+  }, {
+    "id" : 126,
+    "originalValue" : "conversation",
+    "information" : "ProtonMail offers a conversation grouping mode, which allows users to see a stream of related messages grouped together. NOUN\nrazmova"
+  }, {
+    "id" : 127,
+    "originalValue" : "cookie",
+    "information" : "small blocks of data created by a web server while a user is browsing a website and placed on the users computer or other device by the user’s web browser NOUN\nfajly cookie"
+  }, {
+    "id" : 128,
+    "originalValue" : "copy",
+    "information" : "A duplicate or backup, e.g. of a file. NOUN\nkopija"
+  }, {
+    "id" : 129,
+    "originalValue" : "copy",
+    "information" : "To duplicate. VERB\nkapijavać"
+  }, {
+    "id" : 130,
+    "originalValue" : "coupon",
+    "information" : "A code users can enter in a field during the checkout process tthat gives them a discount on their purchase. NOUN\nkupon"
+  }, {
+    "id" : 131,
+    "originalValue" : "crash",
+    "information" : "Event where a software program stops functioning properly. NOUN\nzboj"
+  }, {
+    "id" : 132,
+    "originalValue" : "create",
+    "information" : "To cause to come into being. Used often to refer to setting up a user account.   VERB\nstvaryć"
+  }, {
+    "id" : 133,
+    "originalValue" : "credentials",
+    "information" : "Information that identifies an account and keeps it secure, such as a username and password. NOUN\nulikovyja danyja"
+  }, {
+    "id" : 134,
+    "originalValue" : "credit",
+    "information" : "A monetary amount in a user account that comes from unused subscription days or when paying with Bitcoin that can be applied toward future purchases.   NOUN\nkredyt"
+  }, {
+    "id" : 135,
+    "originalValue" : "credit card",
+    "information" : "A card linked to a charge account that allows users to make purchases, including online, which will be billed later.  NOUN\nkredytnaja kartka"
+  }, {
+    "id" : 136,
+    "originalValue" : "crowdfunding",
+    "information" : "Raising money from a large number of people, typically through a website, as for a project or small business. ProtonMail used the crowdfunding platform Indiegogo to raise money when it first launched. NOUN\nkraŭdfańdzinh"
+  }, {
+    "id" : 137,
+    "originalValue" : "crush",
+    "information" : "To to destroy, subdue, or suppress utterly: to crush a revolt. VERB\nsutykacca"
+  }, {
+    "id" : 138,
+    "originalValue" : "CSS",
+    "information" : "Do Not Translate OTHER\nCSS"
+  }, {
+    "id" : 139,
+    "originalValue" : "CSV",
+    "information" : "Do Not Translate OTHER\nCSV"
+  }, {
+    "id" : 140,
+    "originalValue" : "custom",
+    "information" : "Made or configured to the specifications of an individual.  ADJECTIVE\nkarystaĺnicki"
+  }, {
+    "id" : 141,
+    "originalValue" : "custom domain",
+    "information" : "A brand, company, or other non-generic name thats connected to the IP address of a website. ProtonMail paid users who own a custom domain can create custom email addresses with the domain name in the address following the @ symbol.   NOUN\nkarystaĺnicki damien"
+  }, {
+    "id" : 142,
+    "originalValue" : "custom field",
+    "information" : "An additional field in a form created by the user. NOUN\nkarystaĺnickaje polie"
+  }, {
+    "id" : 143,
+    "originalValue" : "custom filter",
+    "information" : "Rules the user can create that automatically perform actions on incoming email, such as filtering to a specific folder. NOUN\nkarystaĺnicki fiĺtr"
+  }, {
+    "id" : 144,
+    "originalValue" : "custom folder",
+    "information" : "An email folder created and specified by the user. NOUN\nkarystaĺnickaja papka"
+  }, {
+    "id" : 145,
+    "originalValue" : "custom label",
+    "information" : "An email label created and specified by the user. NOUN\nkarystaĺnickaja mietka"
+  }, {
+    "id" : 146,
+    "originalValue" : "custom signature",
+    "information" : "The text a user chooses to automatically apply to the end of any message they send. NOUN\nkarystaĺnicki podpis"
+  }, {
+    "id" : 147,
+    "originalValue" : "custom theme",
+    "information" : "Makes an app or website appear differently, e.g. by changing the color. A custom theme is user-specified and is not one available in the app. NOUN\nkarystaĺnickaja tema"
+  }, {
+    "id" : 148,
+    "originalValue" : "customer",
+    "information" : "A person who uses or purchases a companys goods or services. NOUN\nklijent"
+  }, {
+    "id" : 149,
+    "originalValue" : "Customer Success team",
+    "information" : "A team dedicated to helping customers achieve their intended goals with a product. NOUN\nkamanda absluhoŭvańnia klijentaŭ"
+  }, {
+    "id" : 150,
+    "originalValue" : "customer support",
+    "information" : "Providing help, guidance, documentation to customers to support them in using a companys products or services.  NOUN\npadtrymka klijentaŭ"
+  }, {
+    "id" : 151,
+    "originalValue" : "CVC",
+    "information" : "Card validation code. A code on a credit card usually required when making a transaction online that adds an extra layer of security. May be known also as CSC (card security code), CVV or others depending on the card issuer.  NOUN\nCVC"
+  }, {
+    "id" : 152,
+    "originalValue" : "Cyber Monday",
+    "information" : "Do Not Translate\n\nAmerican holiday. The Monday after Thanksgiving (the Monday after the fourth Thursday of November). A busy shopping day that specializes in online purchases. See \"Black Friday\". PROPER NOUN\nkibierpaniadzielak"
+  }, {
+    "id" : 153,
+    "originalValue" : "daily",
+    "information" : "Occurring every day ADJECTIVE\nštodzień"
+  }, {
+    "id" : 154,
+    "originalValue" : "dark mode",
+    "information" : "A theme that gives a website or app a black background and white or light-colored text.   NOUN\nciomny rezym"
+  }, {
+    "id" : 155,
+    "originalValue" : "dashboard",
+    "information" : "Area in the account settings of Proton where users can view and manage their subscription plans.   NOUN\npaneĺ kiravańnia"
+  }, {
+    "id" : 156,
+    "originalValue" : "data",
+    "information" : "Information. In a technological context, often refers to quantities of computer-stored information that is saved or transmitted NOUN\ndanyja"
+  }, {
+    "id" : 157,
+    "originalValue" : "debug",
+    "information" : "To detect and remove bugs from a computer program or app. VERB\nadladka"
+  }, {
+    "id" : 158,
+    "originalValue" : "decline",
+    "information" : "To politely refuse to accept something or do something, e.g. decline an invitation. VERB\nadchilić"
+  }, {
+    "id" : 159,
+    "originalValue" : "decrypt",
+    "information" : "To decode or decipher. VERB\nrasšyfravać"
+  }, {
+    "id" : 160,
+    "originalValue" : "decryption",
+    "information" : "The conversion of encrypted data into readable, understandable form. NOUN\nrasšyfroŭka"
+  }, {
+    "id" : 161,
+    "originalValue" : "default",
+    "information" : "Preset value typically for system preferences of an app ADJECTIVE\npradvyznačany"
+  }, {
+    "id" : 162,
+    "originalValue" : "delete",
+    "information" : "To remove or erase, such as a file.  VERB\nvydalić"
+  }, {
+    "id" : 163,
+    "originalValue" : "delinquent",
+    "information" : "Something that is owed or overdue ADJECTIVE\nzapazyčany"
+  }, {
+    "id" : 164,
+    "originalValue" : "deploy",
+    "information" : "Action taken by a software engineer to implement a system change or fix. VERB\nrazhortvańnie"
+  }, {
+    "id" : 165,
+    "originalValue" : "deprecated",
+    "information" : "outmoded, obsolete, or superseded. Example: a \"deprecated feature\" is a feature that has been replaced by an updated one that is considered more efficient or more secure. The deprecated feature may still be usable but may lack support  ADJECTIVE\nsastarely"
+  }, {
+    "id" : 166,
+    "originalValue" : "deselect",
+    "information" : "To remove a previously selected choice (see \"Select\") VERB\nźniać vybar"
+  }, {
+    "id" : 167,
+    "originalValue" : "desktop",
+    "information" : "A computer that uses a dedicated monitor and desktop (as opposed to laptop)\n\nThe \"home screen\" of a computer that has icons and program shortcuts NOUN\nnastoĺny kampjutar"
+  }, {
+    "id" : 168,
+    "originalValue" : "desktop notification",
+    "information" : "A visual, on-screen alert that notifies the user when a new message arrives in the inbox or an event in the calendar is about to start. NOUN\napaviaščeńni na pracoŭnym stalie"
+  }, {
+    "id" : 169,
+    "originalValue" : "details",
+    "information" : "Often used with \"contact\" to refer to personal information needed to contact someone, such as email address and phone number. NOUN\npadrabiaznaści"
+  }, {
+    "id" : 170,
+    "originalValue" : "detect",
+    "information" : "To discover or identify. VERB\nvyjavić"
+  }, {
+    "id" : 171,
+    "originalValue" : "developer",
+    "information" : "Person who researches, designs, implements and/or tests software. NOUN\nraspracoŭščyk"
+  }, {
+    "id" : 172,
+    "originalValue" : "digital signature",
+    "information" : "Electronic proof of a persons identity involving the use of encryption.  NOUN\nličbavy podpis"
+  }, {
+    "id" : 173,
+    "originalValue" : "disable",
+    "information" : "To turn off a part of a system, or to stop it from working in the normal way. VERB\nadkliučyć"
+  }, {
+    "id" : 174,
+    "originalValue" : "discard",
+    "information" : "To dispose of or remove VERB\nadchilić"
+  }, {
+    "id" : 175,
+    "originalValue" : "disconnect",
+    "information" : "To separate something, such as a device, from its source of power or to break a connection that it needs in order to work. VERB\nadlučyć"
+  }, {
+    "id" : 176,
+    "originalValue" : "discount",
+    "information" : "A reduction in the usual price of something.  NOUN\nskidka"
+  }, {
+    "id" : 177,
+    "originalValue" : "dismiss",
+    "information" : "Action to close a pop-up window or notification that usually contains new information. VERB\nihnaravać/zakryć"
+  }, {
+    "id" : 178,
+    "originalValue" : "Disney+",
+    "information" : "Do Not Translate\n\nStreaming service by Disney PROPER NOUN\nDisney+"
+  }, {
+    "id" : 179,
+    "originalValue" : "display name",
+    "information" : "Different than an account, username, or email address, this is the name that can be changed at anytime and is publicly visible alongside the email address. NOUN\nbačnaje imia"
+  }, {
+    "id" : 180,
+    "originalValue" : "DKIM",
+    "information" : "Abbr. Bitcoin\nDo Not Translate OTHER\nDKIM"
+  }, {
+    "id" : 181,
+    "originalValue" : "DMARC",
+    "information" : "Do Not Translate OTHER\nDMARC"
+  }, {
+    "id" : 182,
+    "originalValue" : "DNS",
+    "information" : "Do Not Translate OTHER\nDNS"
+  }, {
+    "id" : 183,
+    "originalValue" : "DNS records",
+    "information" : "Public information about a domain that other web servers can look up to see how to communicate with that domain.  NOUN\nzapisy DNS"
+  }, {
+    "id" : 184,
+    "originalValue" : "domain",
+    "information" : "The name of a website, e.g. protonmail.com. NOUN\ndamien"
+  }, {
+    "id" : 185,
+    "originalValue" : "domain name",
+    "information" : "Same as domain. NOUN\nimia damiena"
+  }, {
+    "id" : 186,
+    "originalValue" : "domain name registrar",
+    "information" : "Company that manages the reservation of domain names (see \"domain\"). NOUN\nrehistratar damiennych imion"
+  }, {
+    "id" : 187,
+    "originalValue" : "donate",
+    "information" : "To give, grant, or contribute to something, like a cause or a fund. VERB\nachviaravać"
+  }, {
+    "id" : 188,
+    "originalValue" : "donation",
+    "information" : "A gift or contribution, such as money given towards a cause. NOUN\nachviaravańnie"
+  }, {
+    "id" : 189,
+    "originalValue" : "double tap",
+    "information" : "Action used on touchscreens, typically in place of double-click. NOUN\ndvajny nacisk"
+  }, {
+    "id" : 190,
+    "originalValue" : "downgrade",
+    "information" : "To reduce to a plan or subscription that is lower in price and/or has fewer features than the one the user currently has. VERB\npanizić"
+  }, {
+    "id" : 191,
+    "originalValue" : "download",
+    "information" : "To copy or move programs, files, data, or other information into a devices memory, especially from the internet or a larger computer. VERB\nspampavać"
+  }, {
+    "id" : 192,
+    "originalValue" : "draft",
+    "information" : "An email message that may need more editing and has not yet been sent. May also refer to the Drafts folder, where these messages are stored until they are sent.  NOUN\nčarnavik"
+  }, {
+    "id" : 193,
+    "originalValue" : "draft",
+    "information" : "To compose an email message. VERB\nskliaści"
+  }, {
+    "id" : 194,
+    "originalValue" : "Drafts",
+    "information" : "Displays previously written but unsent messages (drafts)\n\nNavigation button in ProtonMail (vertical interface on left, second button from the top).  PROPER NOUN\nčarnaviki"
+  }, {
+    "id" : 195,
+    "originalValue" : "drag and drop",
+    "information" : "The feature that lets a users select and move virtual objects, e.g. files from one location to another. NOUN\npieraciahvańnie"
+  }, {
+    "id" : 196,
+    "originalValue" : "drag and drop",
+    "information" : "To select a virtual object by \"grabbing\" it and dragging it to a different location or onto another virtual object. VERB\npieraciahnuć"
+  }, {
+    "id" : 197,
+    "originalValue" : "drive",
+    "information" : "Online cloud storage. NOUN\ndysk"
+  }, {
+    "id" : 198,
+    "originalValue" : "dropdown menu",
+    "information" : "A list of options that appears below the menu title when it is clicked. NOUN\nvypadnoje mieniu"
+  }, {
+    "id" : 199,
+    "originalValue" : "dropdown",
+    "information" : "Toggleable, contextual overlays for displaying lists, options, etc. NOUN\nspis"
+  }, {
+    "id" : 200,
+    "originalValue" : "early access",
+    "information" : "Privileged access for testing new features and improvements before they are released to the general public. NOUN\nrańni dostup"
+  }, {
+    "id" : 201,
+    "originalValue" : "edit",
+    "information" : "To modify by, e.g. deleting, inserting, moving, or copying text, or to change account settings or preferences   VERB\nredahavać"
+  }, {
+    "id" : 202,
+    "originalValue" : "email",
+    "information" : "The system for sending electronic messages or the message itself. NOUN\neliektronnaja pošta "
+  }, {
+    "id" : 203,
+    "originalValue" : "email",
+    "information" : "To compose and send a message electronically over an email system. VERB\nadpravić list"
+  }, {
+    "id" : 204,
+    "originalValue" : "email account",
+    "information" : "An electronic identity a user sets up with an email service provider in order to send and receive messages with that service. NOUN\nulikovy zapis eliektronnaj pošty"
+  }, {
+    "id" : 205,
+    "originalValue" : "email address",
+    "information" : "The unique details connected to an email box from which messages could be exchanged. NOUN\nadras eliektronnaj pošty"
+  }, {
+    "id" : 206,
+    "originalValue" : "email client",
+    "information" : "The platform or interface used to manage email NOUN\npaštovy klijent"
+  }, {
+    "id" : 207,
+    "originalValue" : "email notifications",
+    "information" : "1.) Alerts to inform a user when a new email message arrives. 2.) An email sent to inform users about changes or updates. NOUN\napaviaščeńni pa eliektronnaj pošcie"
+  }, {
+    "id" : 208,
+    "originalValue" : "embed",
+    "information" : "To place (text, images, video, sound, or computer code) in a computer file, HTML document, software program, or electronic device. VERB\nubudoŭvać"
+  }, {
+    "id" : 209,
+    "originalValue" : "embedded",
+    "information" : "Referring to an object, e.g. an image, that has been firmly placed or inserted within something, e.g. an email message.  ADJECTIVE\nubudavany"
+  }, {
+    "id" : 210,
+    "originalValue" : "embedded image",
+    "information" : "An image that has been inserted directly into the body of an email message alongside the text as opposed to as an attachment.  NOUN\nubudavanyja vidarysy"
+  }, {
+    "id" : 211,
+    "originalValue" : "EMPTY FOLDER",
+    "information" : "A computer directory (folder) that has no contents within it MODIFIED NOUN\načyścić papku"
+  }, {
+    "id" : 212,
+    "originalValue" : "enable",
+    "information" : "To make (a device, system, or feature) active or functional; turn on. VERB\nukliučyć"
+  }, {
+    "id" : 213,
+    "originalValue" : "encoding",
+    "information" : "The process of converting a message into code that recipients can decode if they know the algorithm and have the decryption key. NOUN\nkadavańnie"
+  }, {
+    "id" : 214,
+    "originalValue" : "encrypt",
+    "information" : "To encode information. Proton does this using complex algorithms. VERB\nzašyfravać"
+  }, {
+    "id" : 215,
+    "originalValue" : "encrypted",
+    "information" : "Something that has undergone encryption. ADJECTIVE\nzašyfravany"
+  }, {
+    "id" : 216,
+    "originalValue" : "encryption",
+    "information" : "The process of encoding messages or information in such a way that only authorized parties can read it. NOUN\nšyfravańnie"
+  }, {
+    "id" : 217,
+    "originalValue" : "encryption key",
+    "information" : "Virtual object that can be used to encrypt a message and allows for an encrypted message to be transformed back into its original format. NOUN\nkliuč šyfravańnia"
+  }, {
+    "id" : 218,
+    "originalValue" : "end-to-end",
+    "information" : "From the very beginning of a process to the very end. ADJECTIVE\nskrazny"
+  }, {
+    "id" : 219,
+    "originalValue" : "end-to-end encrypted",
+    "information" : "Something that has undergone end-to-end encryption and cannot be decrypted or read by even the email service provider. ADJECTIVE\nzašyfravana skraznym mietadam"
+  }, {
+    "id" : 220,
+    "originalValue" : "end-to-end encryption",
+    "information" : "Encryption that allows only the people communicating to read the message since only the endpoint computers or users hold the cryptographic keys. NOUN\nskraznoje šyfravańnie"
+  }, {
+    "id" : 221,
+    "originalValue" : "endpoint",
+    "information" : "1.) The point of completion or termination. 2.) Either of two points or values that mark the ends of a line segment or interval.  NOUN\nkančatkovy punkt"
+  }, {
+    "id" : 222,
+    "originalValue" : "Epoch",
+    "information" : "Do Not Translate \nunless your language uses the word with the same root as \"epoch\" -> https://en.wiktionary.org/wiki/epoch#Translations-particular_period_of_history NOUN\npieryjad"
+  }, {
+    "id" : 223,
+    "originalValue" : "error",
+    "information" : "Mistake or flaw. May refer to a bug.  NOUN\npamylka"
+  }, {
+    "id" : 224,
+    "originalValue" : "Eudora",
+    "information" : "Do Not Translate NOUN\nEudora"
+  }, {
+    "id" : 225,
+    "originalValue" : "event",
+    "information" : "1.) A meeting, appointment, or other occurence. In Calender, the user can \"create\" an event to add it to their calendar and add participants, who can accept to add the event to their own calendars.  2.) An action or occurrence recognized and able to be handled by software.  NOUN\npadzieja"
+  }, {
+    "id" : 226,
+    "originalValue" : "events in the series",
+    "information" : "Recurring events in Calendar. Sometimes a user may need to edit or delete one of the events in the series. NOUN\npadziei ŭ sieryi"
+  }, {
+    "id" : 227,
+    "originalValue" : "expiration",
+    "information" : "When something that lasts for a fixed length of time comes to an end. Message expiration is a ProtonMail feature in which users can set an optional expiration time on an email message so that it will be automatically deleted from the recipient’s inbox once the message has expired.  NOUN\ntermin"
+  }, {
+    "id" : 228,
+    "originalValue" : "expire",
+    "information" : "To come to an end, exceed its validity.  VERB\nminie"
+  }, {
+    "id" : 229,
+    "originalValue" : "expired",
+    "information" : "Something that has reached a set end time and can no longer be used or is no longer valid.  ADJECTIVE\npraterminavany"
+  }, {
+    "id" : 230,
+    "originalValue" : "export",
+    "information" : "To download content, e.g. emails, contacts, or calendars, from an account onto a device. Content can then be viewed or imported into another email/calendar account or application. See import. VERB\nekspartavańnie"
+  }, {
+    "id" : 231,
+    "originalValue" : "extra",
+    "information" : "Additional, such as paid or bonus features. Can refer to features, email addresses, storage, or even costs.  ADJECTIVE\ndadatkovy"
+  }, {
+    "id" : 232,
+    "originalValue" : "Face ID",
+    "information" : "Do Not Translate PROPER NOUN\nFace ID"
+  }, {
+    "id" : 233,
+    "originalValue" : "Facebook",
+    "information" : "Do Not Translate PROPER NOUN\nFacebook"
+  }, {
+    "id" : 234,
+    "originalValue" : "factory reset",
+    "information" : "Action to fully restore an electronic device to its new, original settings. NOUN\nadnavić zavodzkija paramietry"
+  }, {
+    "id" : 235,
+    "originalValue" : "fallback",
+    "information" : "Contingency option to be taken if the preferred choice is unavailable or fails. A backup.  NOUN\nzapasny varyjant"
+  }, {
+    "id" : 236,
+    "originalValue" : "feature",
+    "information" : "An option, characteristic, quality, component a product offers. Often it is something that makes a product different and usually better than others of a similar type. NOUN\nfunkcyja"
+  }, {
+    "id" : 237,
+    "originalValue" : "feature request",
+    "information" : "Request made by an user for a new feature. All Proton apps have a feature request link in their help menu. NOUN\nzapytać funkcyju"
+  }, {
+    "id" : 238,
+    "originalValue" : "fee",
+    "information" : "An amount of money charged or paid for a service or for the use of something. NOUN\nplata"
+  }, {
+    "id" : 239,
+    "originalValue" : "feedback",
+    "information" : "1.) Information or statements of opinion about something, such as a new product, used to gauge how well the product is received and often used to improve the product. 2.) When outputs of a system are routed back as inputs as part of a chain of cause-and-effect that forms a circuit or loop. NOUN\nzvarotnaja suviaź"
+  }, {
+    "id" : 240,
+    "originalValue" : "fetch",
+    "information" : "For a device or email client to retrieve new messages from an email server. Can also refer to fetching events from external calendars. VERB\natrymlivać"
+  }, {
+    "id" : 241,
+    "originalValue" : "field",
+    "information" : "Space in a database or file which can contain a particular type of information, for example, names or numbers. Also the space where a user can enter information in a form.  NOUN\npolie"
+  }, {
+    "id" : 242,
+    "originalValue" : "file",
+    "information" : "Information stored on a computer as one unit with one name. NOUN\nfajl"
+  }, {
+    "id" : 243,
+    "originalValue" : "file sharing ",
+    "information" : "Distributing or providing access to digital content, such as computer programs, multimedia files, documents, presentations, or electronic books, e.g. via Proton Drive.\n\nMore info: https://www.wikiwand.com/en/Multimedia\nMore info: https://www.wikiwand.com/en/E-book NOUN\nabmien fajlami"
+  }, {
+    "id" : 244,
+    "originalValue" : "filter",
+    "information" : "A tool for selecting or removing a particular type of information, often in order to sort out irrelevant information. NOUN\nfiĺtr"
+  }, {
+    "id" : 245,
+    "originalValue" : "filter",
+    "information" : "To sort and narrow down the amount of data retrieved to find specific information, often by applying filters. VERB\nfiĺtravać"
+  }, {
+    "id" : 246,
+    "originalValue" : "find friends",
+    "information" : "Option to find social network contacts that are already using an app. NOUN\nznajści siabroŭ"
+  }, {
+    "id" : 247,
+    "originalValue" : "fingerprint",
+    "information" : "1.) Feature that lets a user unlock a device with their fingerprint, a form of biometric authentication. 2.) A public key fingerprint is a short sequence of bytes used to identify a longer public key.  NOUN\nadbitak"
+  }, {
+    "id" : 248,
+    "originalValue" : "firewall",
+    "information" : "A device or program that stops others from seeing or using information on a computer without permission while it is connected to the internet. NOUN\nmizsietkavy ekran"
+  }, {
+    "id" : 249,
+    "originalValue" : "flag",
+    "information" : "To alert the administrator to a system problem or rules violation VERB\npaznačać"
+  }, {
+    "id" : 250,
+    "originalValue" : "folder",
+    "information" : "An organizational element in computer systems and applications used to group files, applications, emails, or other folders together. NOUN\npapka"
+  }, {
+    "id" : 251,
+    "originalValue" : "follower",
+    "information" : "Person who gets notified of and can see in their feed the activities of another person, company, or brand on a social network. NOUN\npadpisčyk"
+  }, {
+    "id" : 252,
+    "originalValue" : "FONGIT",
+    "information" : "Do Not Translate OTHER\nFONGIT"
+  }, {
+    "id" : 253,
+    "originalValue" : "footer",
+    "information" : "A standard element at the bottom of every web page, email, or app, such as brand or company information, a signature, or navigation link.  NOUN\nkalontytul"
+  }, {
+    "id" : 254,
+    "originalValue" : "for Business",
+    "information" : "Modifies protonmails professional plans and business offerings. Capitalize when used as ProtonMail for Business. Otherwise lowercase generic usage not preceded by ProtonMail.   ADJECTIVE\ndlia biźniesu"
+  }, {
+    "id" : 255,
+    "originalValue" : "forward",
+    "information" : "To send a copy of an email to someone. VERB\npieraslać"
+  }, {
+    "id" : 256,
+    "originalValue" : "free",
+    "information" : "Not costing or charging anything. ADJECTIVE\nbiasplatny"
+  }, {
+    "id" : 257,
+    "originalValue" : "Free",
+    "information" : "Do Not Translate\n\nPlan name for Protons basic package, which can be used without paying a fee, E.g. ProtonMail Free / ProtonVPN Free. NOUN\nFree"
+  }, {
+    "id" : 258,
+    "originalValue" : "free Proton user",
+    "information" : "A user on the basic / Free plan. NOUN\nbiasplatny karystaĺnik Proton"
+  }, {
+    "id" : 259,
+    "originalValue" : "free trial",
+    "information" : "A limited period in which a user can try out a product or service for free. NOUN\nprobnaja versija"
+  }, {
+    "id" : 260,
+    "originalValue" : "free VPN",
+    "information" : "Proton provides VPN free of charge with limited features (as opposed to paid plans) as part of our mission to provide private and secure Internet access to all. NOUN\nbiasplatny VPN"
+  }, {
+    "id" : 261,
+    "originalValue" : "freemium",
+    "information" : "Modifies a product, service, or sales strategy in which the basic product or service is free, but the customer pays for extra features. ADJECTIVE\nfrymium"
+  }, {
+    "id" : 262,
+    "originalValue" : "freeze",
+    "information" : "For a computer or app to suddenly stop working and cease to respond to inputs. Often used in the past tense, e.g. The screen froze. VERB\nzavisnuć"
+  }, {
+    "id" : 263,
+    "originalValue" : "full screen",
+    "information" : "An image or window, etc. that is expanded to fill the entire screen.  NOUN\npoŭnaekranny rezym"
+  }, {
+    "id" : 264,
+    "originalValue" : "full site",
+    "information" : "Browser or web version of a website (as opposed to mobile version). NOUN\npoŭnaja versija sajta"
+  }, {
+    "id" : 265,
+    "originalValue" : "full-disk encryption",
+    "information" : "All data on a hard drive (disk) is encrypted.\n\n(NB: on a computer disk, the boot partition is typically not encrypted, just all user data) NOUN\npoŭnaje šyfravańnie dyska"
+  }, {
+    "id" : 266,
+    "originalValue" : "Fw",
+    "information" : "Abbreviation for forwarded (email). Proton uses Fw. Also used: FW, FWD, and Fwd.   ADJECTIVE\npieraslany"
+  }, {
+    "id" : 267,
+    "originalValue" : "FW",
+    "information" : "Abbreviation for Firewall NOUN\nmizsietkavy ekran"
+  }, {
+    "id" : 268,
+    "originalValue" : "FW",
+    "information" : "Abbreviation for Firmware NOUN\nprašyŭka"
+  }, {
+    "id" : 269,
+    "originalValue" : "GB",
+    "information" : "DO NOT TRANSLATE\n\nAbbreviation for gigabyte, can be transliterated into non-latin alphabets NOUN\nHB"
+  }, {
+    "id" : 270,
+    "originalValue" : "Gbit",
+    "information" : "An abbreviation for gigabit NOUN\nHbit"
+  }, {
+    "id" : 271,
+    "originalValue" : "Gbps",
+    "information" : "An abbreviation for gigabits per second NOUN\nHbit/s"
+  }, {
+    "id" : 272,
+    "originalValue" : "GDPR",
+    "information" : "General Data Protection Regulation NOUN\nAhuĺny rehlamient JES pa abaronie danych (GDPR)"
+  }, {
+    "id" : 273,
+    "originalValue" : "GDPR-compliant",
+    "information" : "Adheres to the rules and regulations of the GDPR\n(see GDPR) ADJECTIVE\nAdpaviednaść GDPR"
+  }, {
+    "id" : 274,
+    "originalValue" : "generate",
+    "information" : "To produce or create. Used in the context of generating keys. VERB\nstvaryć"
+  }, {
+    "id" : 275,
+    "originalValue" : "geo-blocked",
+    "information" : "Access is restricted based on geographical location ADJECTIVE\nzablakiravany pa hieahrafičnaj prykmiecie"
+  }, {
+    "id" : 276,
+    "originalValue" : "gift card",
+    "information" : "A card with a monetary amount that can be redeemed toward Proton products and plans and that users may have received or can give to someone.  NOUN\npadarunkavaja kartka"
+  }, {
+    "id" : 277,
+    "originalValue" : "gift code",
+    "information" : "Code located on gift card that users can enter at checkout to redeem the gift amount. NOUN\npadarunkavy kod"
+  }, {
+    "id" : 278,
+    "originalValue" : "GitHub",
+    "information" : "Do not translate PROPER NOUN\nGitHub"
+  }, {
+    "id" : 279,
+    "originalValue" : "Gmail",
+    "information" : "Do Not Translate PROPER NOUN\nGmail"
+  }, {
+    "id" : 280,
+    "originalValue" : "GNU",
+    "information" : "Do Not Translate OTHER\nGNU"
+  }, {
+    "id" : 281,
+    "originalValue" : "group",
+    "information" : "Used in the context of contact group. See contact group. NOUN\nhrupa"
+  }, {
+    "id" : 282,
+    "originalValue" : "h",
+    "information" : "Abbreviation for hours. NOUN\nh"
+  }, {
+    "id" : 283,
+    "originalValue" : "hash",
+    "information" : "A unique string that represents encoded data. Used in digital signatures and in the verification of message integrity. NOUN\ncheš"
+  }, {
+    "id" : 284,
+    "originalValue" : "hashed password",
+    "information" : "A plaintext password that has had a cryptographic algorithm applied to it. It is more secure to store a login password in this way. NOUN\nchešavany paroĺ"
+  }, {
+    "id" : 285,
+    "originalValue" : "hashtag",
+    "information" : "A user-generated meta tag enabling cross-referencing of content sharing a subject or theme, e.g. #protonmail. Popular on social media platforms like Twitter and Instagram.  NOUN\nchešteh"
+  }, {
+    "id" : 286,
+    "originalValue" : "header",
+    "information" : "In emails, the top area containing information about a particular email, including the sender, recipient(s), timestamps, subject, and routing information. Also the top section of an app.  NOUN\nzahalovak"
+  }, {
+    "id" : 287,
+    "originalValue" : "help center",
+    "information" : "Area of a website or platform where users can read support articles, view tutorials, or request assistance. NOUN\ndaviedačny centr"
+  }, {
+    "id" : 288,
+    "originalValue" : "hi-tech",
+    "information" : "Variant of high-tech, short for high-technology: Using the most advanced and developed machines, equipment, and methods. ADJECTIVE\nvysokatechnaliahičny"
+  }, {
+    "id" : 289,
+    "originalValue" : "hide",
+    "information" : "To prevent something from being seen. Could refer to encryption that hides IP addresses or the BCC function that hides additional recipients of an email. VERB\nschavać"
+  }, {
+    "id" : 290,
+    "originalValue" : "high-security",
+    "information" : "Being or having the quality of being very secure. Within ProtonMail, it is associated with RSA key sizes of 2048 bits, which is the size and security level ProtonMail recommends for most users. ADJECTIVE\nvysoki ŭzrovień biaspieki"
+  }, {
+    "id" : 291,
+    "originalValue" : "hint",
+    "information" : "An optional clue users can set that helps them remember their password.  NOUN\npadkazka"
+  }, {
+    "id" : 292,
+    "originalValue" : "HIPAA",
+    "information" : "Health Insurance Portability and Accountability Act. Proton is compliant to this act and ensures the confidentiality of our healthcare customers patient data. NOUN\nZakon ab mabiĺnaści j padspravazdačnaści miedycynskaha strachavańnia (HIPAA)"
+  }, {
+    "id" : 293,
+    "originalValue" : "HITECH",
+    "information" : "Health Information Technology for Economic and Clinical Health Act. Releated to HIPAA and the security of patient data. NOUN\nZakon ab infarmacyjnych technaliohijach achovy zdaroŭia dlia ekanomiki j miedycyny (HITECH)"
+  }, {
+    "id" : 294,
+    "originalValue" : "homograph attack",
+    "information" : "A type of spoofing and phishing attack in which trusted links are replaced with similar-looking malicious ones.  NOUN\nhamahrafičnaja ataka"
+  }, {
+    "id" : 295,
+    "originalValue" : "Horizon 2020 Framework Programme",
+    "information" : "Funding programmes created by the European Union/European Commission to support and foster research in the European Research Area (ERA). NOUN\nHorizon 2020 Framework Programme"
+  }, {
+    "id" : 296,
+    "originalValue" : "hotkey",
+    "information" : "An assigned key or sequence of keys programmed to execute a command or perform a specific task. In ProtonMail, hotkey was a function offered in V3 that has been replaced by keyboard shortcuts.   NOUN\nharačyja klavišy"
+  }, {
+    "id" : 297,
+    "originalValue" : "Hotmail",
+    "information" : "Do Not Translate PROPER NOUN\nHotmail"
+  }, {
+    "id" : 298,
+    "originalValue" : "hour",
+    "information" : "A period of 60 minutes of which there are 24 in a day.  NOUN\nhadzina"
+  }, {
+    "id" : 299,
+    "originalValue" : "HTML",
+    "information" : "Do Not Translate OTHER\nHTML"
+  }, {
+    "id" : 300,
+    "originalValue" : "human verification",
+    "information" : "Method, often CAPTCHA, to verify that a human is opening an account. It prevents the creation of accounts by spam bots or human spammers.  NOUN\nantyspamavaja pravierka"
+  }, {
+    "id" : 301,
+    "originalValue" : "hyphen",
+    "information" : "The (-) symbol, often called a dash. Relevant to ProtonMail mainly in its use with email addresses and aliases. NOUN\nzlučok"
+  }, {
+    "id" : 302,
+    "originalValue" : "ID",
+    "information" : "Do Not Translate OTHER\nidentyfikatar"
+  }, {
+    "id" : 303,
+    "originalValue" : "identity",
+    "information" : "Can refer to ProtonMail settings, where users can manage their identity, e.g. change display name or signatures. Identity generally needs to be verified when creating and signing into accounts. Privacy and keeping personal data secure is also important in the prevention of identity theft.     NOUN\npaśviedčańnie"
+  }, {
+    "id" : 304,
+    "originalValue" : "IKEv2",
+    "information" : "Do Not Translate OTHER\nikev2"
+  }, {
+    "id" : 305,
+    "originalValue" : "image",
+    "information" : "Online images do not automatically load in emails received with ProtonMail as a security mechanism. See also embedded image. NOUN\nvidarys"
+  }, {
+    "id" : 306,
+    "originalValue" : "IMAP/SMTP",
+    "information" : "Do Not Translate OTHER\nIMAP/SMTP"
+  }, {
+    "id" : 307,
+    "originalValue" : "import",
+    "information" : "To bring the contents of another email inbox, calendar, or contacts list from another service or from a file into ProtonMail or Proton Calendar.   VERB\nimpartavańnie"
+  }, {
+    "id" : 308,
+    "originalValue" : "Import Assistant",
+    "information" : "Do Not Translate - tool name PROPER NOUN\nImport Assistant"
+  }, {
+    "id" : 309,
+    "originalValue" : "Import-Export",
+    "information" : "Do not Translate - app name PROPER NOUN\nImport-Export"
+  }, {
+    "id" : 310,
+    "originalValue" : "imprint",
+    "information" : "A statement of ownership on websites that includes identifying information, such as a physical address, as a means of consumer protection. A requirement for any website operating in Germany. Proton includes the imprint in its web footer. NOUN\nnaš adras"
+  }, {
+    "id" : 311,
+    "originalValue" : "inbox",
+    "information" : "The virtual location where new emails arrive and are kept. NOUN\nuvachodnyja"
+  }, {
+    "id" : 312,
+    "originalValue" : "inline",
+    "information" : "In ProtonMail, images can be inserted inside the message body at the cursor position, inline with the text. When attaching an image, users have the option to choose \"Attachment\" (image attached) or \"Inline\" (image embedded in the body of the email).  ADJECTIVE\nubudavany"
+  }, {
+    "id" : 313,
+    "originalValue" : "Innosuisse",
+    "information" : "Do Not Translate PROPER NOUN\nInnosuisse"
+  }, {
+    "id" : 314,
+    "originalValue" : "input",
+    "information" : "To enter data into a computer or device. VERB\nuvieści"
+  }, {
+    "id" : 315,
+    "originalValue" : "input method",
+    "information" : "Program that allows users to type in a language that have more graphemes than there are keys on the keyboard by using sequences of characters (or mouse operations) to generate the characters. NOUN\nmietad uvodu"
+  }, {
+    "id" : 316,
+    "originalValue" : "inquiry",
+    "information" : "A question or request for information. Proton website includes links for users to make support and police/legal inquiries. NOUN\nzapyt"
+  }, {
+    "id" : 317,
+    "originalValue" : "Instagram",
+    "information" : "Do Not Translate PROPER NOUN\nInstagram"
+  }, {
+    "id" : 318,
+    "originalValue" : "install",
+    "information" : "To set up. e.g. a program or app on a device, for service or use.  VERB\nustaliavańnie"
+  }, {
+    "id" : 319,
+    "originalValue" : "installation problem",
+    "information" : "Issues that arise when installing a program. NOUN\nprabliema z ustaliavańniem"
+  }, {
+    "id" : 320,
+    "originalValue" : "interval",
+    "information" : "The space of time between events. Relevant in Calendar when setting recurring events for a custom interval, or in emailing, when configuring autoresponder timespan/duration settings.  NOUN\ninterval"
+  }, {
+    "id" : 321,
+    "originalValue" : "invalid",
+    "information" : "Often used in error messages to inform a user that the password or login credentials they are using are incorrect or not acceptable. ADJECTIVE\npamylkovy"
+  }, {
+    "id" : 322,
+    "originalValue" : "invitation",
+    "information" : "Often called event or calendar invitation and invite for short. An invitation is sent via email and, when accepted, will appear automatically in the recipients calendar.    NOUN\nzaprašeńnie"
+  }, {
+    "id" : 323,
+    "originalValue" : "iOS",
+    "information" : "Do Not Translate PROPER NOUN\niOS"
+  }, {
+    "id" : 324,
+    "originalValue" : "is down",
+    "information" : "When a service or connection is not working, e.g. network is down, service is down. ADJECTIVE\nniedastupny"
+  }, {
+    "id" : 325,
+    "originalValue" : "issue",
+    "information" : "Usually plural. Problems or difficulty, e.g. when connecting to a service. NOUN\nprabliema"
+  }, {
+    "id" : 326,
+    "originalValue" : "key",
+    "information" : "A piece of information, usually a string of numbers or letters that are stored in a file, which, when processed through a cryptographic algorithm, can encode or decode cryptographic data.  NOUN\nkliuč"
+  }, {
+    "id" : 327,
+    "originalValue" : "key certification",
+    "information" : "The issuance of digital files known as identity certificates or public key certificates by a Certificate Authority certifying that they have verified the ownership of a public key. NOUN\nsiertyfikacyja kliučoŭ"
+  }, {
+    "id" : 328,
+    "originalValue" : "keyboard shortcuts",
+    "information" : "A feature that allows users to navigate the ProtonMail interface, e.g. open, close, and archive emails, using just the keyboard.  NOUN\nspalučeńni klaviš"
+  }, {
+    "id" : 329,
+    "originalValue" : "KeyMaker",
+    "information" : "Do not translate OTHER\nKeyMaker"
+  }, {
+    "id" : 330,
+    "originalValue" : "keys",
+    "information" : "use to open something PLURAL NOUN\nkliučy"
+  }, {
+    "id" : 331,
+    "originalValue" : "kill switch",
+    "information" : "A security feature that protects your IP in case you unexpectedly lose connection to any VPN server.\n NOUN\nKill Switch"
+  }, {
+    "id" : 332,
+    "originalValue" : "knowledge base",
+    "information" : "A collection of information about a particular subject. Protons knowledge base is located in the support section of the website and offers extensive product/feature information. NOUN\nbaza viedaŭ"
+  }, {
+    "id" : 333,
+    "originalValue" : "label",
+    "information" : "A tag. A name or a phrase to describe a collection of things. In ProtonMail, users can create labels and use them to categorize emails.  NOUN\nmietka"
+  }, {
+    "id" : 334,
+    "originalValue" : "layout",
+    "information" : "In Settings, users have the option to configure the layout of their web apps, including changing the size and appearance of their inbox and composer window in Mail or the default view and week start day in Calendar. In Drive, they can select between a list or grid layout.   NOUN\nmakiet"
+  }, {
+    "id" : 335,
+    "originalValue" : "leak",
+    "information" : "Something that is exposed or let out involuntarily.\n\nVPN: Might refer to a DNS or IP leak where the users actual DNS or IP may be exposed from behind their VPN  NOUN/VERB\nuciečka"
+  }, {
+    "id" : 336,
+    "originalValue" : "learn more",
+    "information" : "Often-used hypertext that links to a knowledge base article or other reference source that goes deeper into a topic.  VERB\ndaviedacca boĺš"
+  }, {
+    "id" : 337,
+    "originalValue" : "legacy",
+    "information" : "An older version of something (software, membership plan, etc.) that is still accessible but may no longer be fully supported PROPER NOUN\npapiaredniaja versija"
+  }, {
+    "id" : 338,
+    "originalValue" : "link",
+    "information" : "Short for hyperlink, a digital object such as text or image that provides direct access, when clicked on or tapped, to digital content like a webpage, image, video, document, etc.   NOUN\nspasylka"
+  }, {
+    "id" : 339,
+    "originalValue" : "Linux",
+    "information" : "Do Not Translate PROPER NOUN\nLinux"
+  }, {
+    "id" : 340,
+    "originalValue" : "log",
+    "information" : "An official record of something, such as IP addresses and user sessions. NOUN\nzurnal"
+  }, {
+    "id" : 341,
+    "originalValue" : "log in",
+    "information" : "To enter credentials, usually a username or email address and a password, in order to access a previously set-up account, e.g. an email service or online retailer.  VERB\nuvajści"
+  }, {
+    "id" : 342,
+    "originalValue" : "login",
+    "information" : "The act of logging into a device, program, or account to start using it. Also the username and password used to log in. NOUN\nuvachod"
+  }, {
+    "id" : 343,
+    "originalValue" : "login password",
+    "information" : "The password associated with an account and used to log in. This password is stored on ProtonMail servers and allows ProtonMail to confirm a users identity. See mailbox password. NOUN\nparoĺ uvachodu"
+  }, {
+    "id" : 344,
+    "originalValue" : "m",
+    "information" : "Abbreviation for minutes NOUN\nchv"
+  }, {
+    "id" : 345,
+    "originalValue" : "Mac",
+    "information" : "Do Not Translate PROPER NOUN\nMac"
+  }, {
+    "id" : 346,
+    "originalValue" : "macOS",
+    "information" : "Do Not Translate PROPER NOUN\nmacOS"
+  }, {
+    "id" : 347,
+    "originalValue" : "mail provider",
+    "information" : "Also mailbox provider, mail service provider, email service provider. A provider of email hosting and email services, like ProtonMail.  NOUN\npravajdar eliektronnaj pošty"
+  }, {
+    "id" : 348,
+    "originalValue" : "mail server",
+    "information" : "A computer system that transmits, sends, and receives email over a network.\n\nSee \"server\" NOUN\npaštovy siervier"
+  }, {
+    "id" : 349,
+    "originalValue" : "mailbox",
+    "information" : "Place on a device where electronic messages are stored. Also used of the icon that can be clicked to get to emails. NOUN\npaštovaja skrynia"
+  }, {
+    "id" : 350,
+    "originalValue" : "mailbox password",
+    "information" : "For accounts opened before November 2016: Needed by ProtonMail users to read their encrypted messages. This password is not stored on ProtonMail’s servers. Instead the encrypted version of the encryption key is stored on ProtonMail’s server, which is unlocked in the browser with the input of the mailbox password. https://protonmail.com/support/knowledge-base/single-password/ NOUN\nparoĺ paštovaj skryni"
+  }, {
+    "id" : 351,
+    "originalValue" : "mailing list",
+    "information" : "A list of names and addresses to which a person or organization can send information or advertisement. protonmails Contact Groups works similarly to a mailing list, and is a way to group names and addresses to send one email to multiple people at once.  NOUN\nspis rassylańnia"
+  }, {
+    "id" : 352,
+    "originalValue" : "malware",
+    "information" : "Any software intentionally designed to cause damage to a computer, server, client, or computer network. NOUN\nškodnyja prahramy"
+  }, {
+    "id" : 353,
+    "originalValue" : "manage",
+    "information" : "To handle, take care of, or control. Often used in the context of emails, passwords, contacts, keys, addresses, accounts.  VERB\nkiravańnie"
+  }, {
+    "id" : 354,
+    "originalValue" : "mark",
+    "information" : "Indicates an email has been read, is spam, or another classification\n\nExample usage: \"mark as read\", \"mark as spam\", etc\n  VERB\npaznačyć"
+  }, {
+    "id" : 355,
+    "originalValue" : "Mastodon",
+    "information" : "Do Not Translate PROPER NOUN\nMastodon"
+  }, {
+    "id" : 356,
+    "originalValue" : "maximize",
+    "information" : "To make as large as possible.\n\nIf a window on your computer does not take up the full screen, the maximize button will enlarge it to take up the full area VERB\nrazharnuć"
+  }, {
+    "id" : 357,
+    "originalValue" : "MB",
+    "information" : "Do Not Translate OTHER\nMB"
+  }, {
+    "id" : 358,
+    "originalValue" : "media",
+    "information" : "Includes newspapers, TV, Internet and other communication channels used to deliver information that reach and influence people widely.  NOUN\nmiedyja"
+  }, {
+    "id" : 359,
+    "originalValue" : "media",
+    "information" : "Digital media content like images, video, audio, software and other media files that could be stored, uploaded, downloaded sent, and shared via Proton services.    NOUN\nmiedyjafajly"
+  }, {
+    "id" : 360,
+    "originalValue" : "media kit",
+    "information" : "A curated collection of official images and information about a company, person, or brand that is freely available to be used by media outlets. https://protonmail.com/media-kit NOUN\nmateryjaly dlia ŚMI"
+  }, {
+    "id" : 361,
+    "originalValue" : "media player",
+    "information" : "A device or program that plays and stores digital audio or video files in various formats. NOUN\nmiedyjaprajhravaĺnik"
+  }, {
+    "id" : 362,
+    "originalValue" : "memory",
+    "information" : "Computer data storage; technology used to retain digital data. NOUN\npamiać"
+  }, {
+    "id" : 363,
+    "originalValue" : "merge contacts",
+    "information" : "Feature in ProtonMail that lets users consolidate duplicate or multiple entries for one contact. NOUN\nabjadnańnie kantaktaŭ"
+  }, {
+    "id" : 364,
+    "originalValue" : "merge contacts",
+    "information" : "To consolidate duplicate or multiple entries for a contact into one entry. VERB\nabjadnać kantakty"
+  }, {
+    "id" : 365,
+    "originalValue" : "message",
+    "information" : "A communication sent by email.  NOUN\npaviedamlieńnie"
+  }, {
+    "id" : 366,
+    "originalValue" : "message body",
+    "information" : "The actual content of an email message, not including subject lines, sender, recipient, time of messages, and attachments (unless they are embedded in the body of the email). NOUN\nciela paviedamlieńnia"
+  }, {
+    "id" : 367,
+    "originalValue" : "metadata",
+    "information" : "Data about other data, used to summarize basic information which can make tracking and working with specific data easier, e.g. tags. One of Protons USPs is that it does not collect metadata, such as IP addresses used to log into accounts. NOUN\nmietadanyja "
+  }, {
+    "id" : 368,
+    "originalValue" : "migration",
+    "information" : "To transfer or copy the contents and/or settings of an account or software NOUN\nmihracyja"
+  }, {
+    "id" : 369,
+    "originalValue" : "MIME",
+    "information" : "Protocol for sending and receiving emails \nDo Not Translate OTHER\nMIME"
+  }, {
+    "id" : 370,
+    "originalValue" : "Minimize",
+    "information" : "To replace a window on a computer display with a small button or icon which will restore the window when selected. VERB\nzharnuć"
+  }, {
+    "id" : 371,
+    "originalValue" : "MIT",
+    "information" : "Do Not Translate OTHER\nMIT"
+  }, {
+    "id" : 372,
+    "originalValue" : "mobile device",
+    "information" : "Small, handheld computing device, including smartphones, tablets, and smartwatches. NOUN\nmabiĺnaja prylada"
+  }, {
+    "id" : 373,
+    "originalValue" : "mobile signature",
+    "information" : "A digital signature generated either on a mobile phone or on a SIM card of a mobile phone. NOUN\nmabiĺny podpis"
+  }, {
+    "id" : 374,
+    "originalValue" : "modal",
+    "information" : "A pop-up window that covers the primary window and requires the user to interact with it before they can return to the primary window. Often used to draw attention, block the application flow until required information has been entered, show advertising, or warn about a destructive, irreversible action.    NOUN\nakno"
+  }, {
+    "id" : 375,
+    "originalValue" : "mode",
+    "information" : "One of several ways that a machine or device operates. Could be used in the context of a one-password mode or dark mode.  NOUN\nrezym"
+  }, {
+    "id" : 376,
+    "originalValue" : "modulus",
+    "information" : "Mathematical term to do with technical implementation of secure Proton password authentication. https://protonmail.com/blog/encrypted_email_authentication/ NOUN\nmoduĺ"
+  }, {
+    "id" : 377,
+    "originalValue" : "move to archive",
+    "information" : "Option to move an email to protonmails default archive folder. This can be accessed with the filebox icon at the top of the ProtonMail web interface or with the folder icon and selecting Archive.   NOUN\npieramiaścić u archiŭ"
+  }, {
+    "id" : 378,
+    "originalValue" : "multi-user",
+    "information" : "Modifies something that can be used by multiple people at the same time.  ADJECTIVE\nšmatkarystaĺnicki rezym"
+  }, {
+    "id" : 379,
+    "originalValue" : "multi-user support ",
+    "information" : "Ability to allow for more than one user on a Proton account. Requires having a Visionary plan or a multi-user Professional plan. NOUN\npadtrymka šmatkarystaĺnickaha rezymu"
+  }, {
+    "id" : 380,
+    "originalValue" : "MX",
+    "information" : "Do Not Translate OTHER\nMX"
+  }, {
+    "id" : 381,
+    "originalValue" : "My files",
+    "information" : "The location where Drive users uploaded files are stored. NOUN\nMaje fajly"
+  }, {
+    "id" : 382,
+    "originalValue" : "Netflix",
+    "information" : "Do Not Translate\n\nMovie and TV streaming service PROPER NOUN\nNetflix"
+  }, {
+    "id" : 383,
+    "originalValue" : "NetShield",
+    "information" : "Do Not Translate - (Feature Name) PROPER NOUN\nNetShield"
+  }, {
+    "id" : 384,
+    "originalValue" : "network",
+    "information" : "Telecommunications network that facilitates data exchange between computers. NOUN\nsietka"
+  }, {
+    "id" : 385,
+    "originalValue" : "network connectivity",
+    "information" : "How a device is connected to a network (network types and methods of connection). NOUN\nsietkavaje zlučeńnie"
+  }, {
+    "id" : 386,
+    "originalValue" : "New message",
+    "information" : "The label for the button in ProtonMail that opens a composer, which is also labeled New message.  NOUN\nNovaje paviedamlieńnie"
+  }, {
+    "id" : 387,
+    "originalValue" : "new verification code",
+    "information" : "A \"verification code\" is typically used to verify access to an account (see \"two-factor authentication\", \"2-step verification\").\n\nIf the code does not work or is not properly received, a new code can be requested. NOUN\nnovy pravieračny kod"
+  }, {
+    "id" : 388,
+    "originalValue" : "newcomer",
+    "information" : "Someone who has recently arrived in a place or recently become involved in an activity, for example a new Proton user. NOUN\nnovy karystaĺnik"
+  }, {
+    "id" : 389,
+    "originalValue" : "news feed",
+    "information" : "Data format used for providing users with frequently updated content. NOUN\nkanal navin"
+  }, {
+    "id" : 390,
+    "originalValue" : "nickname",
+    "information" : "An informal name that is used usually affectionately or familiarly. NOUN\npsieŭdanim"
+  }, {
+    "id" : 391,
+    "originalValue" : "no-logs policy",
+    "information" : "Policy associated with keeping a VPN service private. ProtonVPN has a strict no logs policy, keeping no session usage logs of what users do online or logging metadata. NOUN\npalityka adsutnaści viadzieńnia zurnalaŭ"
+  }, {
+    "id" : 392,
+    "originalValue" : "non-private",
+    "information" : "Something thats not private; public. ADJECTIVE\nnie pryvatny"
+  }, {
+    "id" : 393,
+    "originalValue" : "notification",
+    "information" : "A message or alert that is automatically sent to a users device to inform them of something, such as the arrival of a new email or a reminder about an upcoming event.  NOUN\napaviaščeńnie"
+  }, {
+    "id" : 394,
+    "originalValue" : "occurrence",
+    "information" : "Something that happens, an event or incident. NOUN\npaŭtareńnie"
+  }, {
+    "id" : 395,
+    "originalValue" : "offline",
+    "information" : "State of not being connected to a network. ADJECTIVE\npa-za sietkaj"
+  }, {
+    "id" : 396,
+    "originalValue" : "open source",
+    "information" : "Computer source code that is made freely available to the general public by its creators. Proton is open source. NOUN\nadkryty zychodny kod"
+  }, {
+    "id" : 397,
+    "originalValue" : "OpenVPN",
+    "information" : "Do not translate PROPER NOUN\nOpenVPN"
+  }, {
+    "id" : 398,
+    "originalValue" : "operating system",
+    "information" : "A set of programs that control the way a computer system works. NOUN\napieracyjnaja systema"
+  }, {
+    "id" : 399,
+    "originalValue" : "optional",
+    "information" : "Something thats not required. ADJECTIVE\nnieabaviazkova"
+  }, {
+    "id" : 400,
+    "originalValue" : "organization",
+    "information" : "An organization can be created with a Proton for Business account and enables multiple users to have email addresses using the organizations custom domain. NOUN\narhanizacyja"
+  }, {
+    "id" : 401,
+    "originalValue" : "organization keys",
+    "information" : "An organizations master encryption keys, which only its admins have access to. NOUN\nkliučy arhanizacyi"
+  }, {
+    "id" : 402,
+    "originalValue" : "organizer",
+    "information" : "The person who sends out an event invitation in Calendar.  NOUN\narhanizatar"
+  }, {
+    "id" : 403,
+    "originalValue" : "OS",
+    "information" : "An abbreviation for operating system. A set of programs that control the way a computer system works, especially how its memory is used and how different programs work together NOUN\nAS"
+  }, {
+    "id" : 404,
+    "originalValue" : "outbox",
+    "information" : "Folder name for messages that are addressed but still not sent. NOUN\nvychodnyja"
+  }, {
+    "id" : 405,
+    "originalValue" : "Outlook",
+    "information" : "Do Not Translate PROPER NOUN\nOutlook"
+  }, {
+    "id" : 406,
+    "originalValue" : "Outlook Express",
+    "information" : "Do Not Translate PROPER NOUN\nOutlook Express"
+  }, {
+    "id" : 407,
+    "originalValue" : "overdue invoice",
+    "information" : "Invoice (bill) that has not been paid on time MODIFIED NOUN\npraterminavany rachunak"
+  }, {
+    "id" : 408,
+    "originalValue" : "p=quarantine",
+    "information" : "Do Not Translate VERB\np=quarantine"
+  }, {
+    "id" : 409,
+    "originalValue" : "p=reject",
+    "information" : "Do Not Translate VERB\np=reject"
+  }, {
+    "id" : 410,
+    "originalValue" : "P2P",
+    "information" : "Do Not Translate OTHER\nP2P"
+  }, {
+    "id" : 411,
+    "originalValue" : "P2P support",
+    "information" : "Allowing for peer-to-peer applications such as file sharing and torrenting with reference to VPN.   NOUN\npadtrymka P2P"
+  }, {
+    "id" : 412,
+    "originalValue" : "paid account",
+    "information" : "An account with Proton that is not free of charge, i.e. Plus, Professional, or Visionary account. NOUN\nplatny ŭlikovy zapis"
+  }, {
+    "id" : 413,
+    "originalValue" : "paid plan",
+    "information" : "A plan for Proton services that includes specific features at a specific monthly cost. Currently these are called Plus, Professional, and Visionary.  NOUN\nplatny taryfny plan"
+  }, {
+    "id" : 414,
+    "originalValue" : "parameter",
+    "information" : "A a set of facts which describes and puts limits on how something should happen or be done. NOUN\nparamietar"
+  }, {
+    "id" : 415,
+    "originalValue" : "parse",
+    "information" : "A formal analysis by a computer of a string of words into its constituents and mapping their syntactic relation to each other.  NOUN\nanaliz"
+  }, {
+    "id" : 416,
+    "originalValue" : "parse",
+    "information" : "To split a file or other input into pieces of data that can be easily manipulated or stored. Or to resolve a string of code or text into its elements to determine if it conforms to a particular grammar. VERB\npraanalizavać"
+  }, {
+    "id" : 417,
+    "originalValue" : "participant",
+    "information" : "Person who is added to a Calendar invitation. Someone who attends an event. NOUN\nudzieĺnik"
+  }, {
+    "id" : 418,
+    "originalValue" : "passcode",
+    "information" : "A combination of numbers or movements on the screen that allow a user to access an electronic device. NOUN\nkod dostupu"
+  }, {
+    "id" : 419,
+    "originalValue" : "passphrase",
+    "information" : "A series of words that is used to log into an account, usually combined with a username or email address.\n\nAlso see \"passcode\", \"password\" NOUN\nparoĺnaja fraza"
+  }, {
+    "id" : 420,
+    "originalValue" : "password",
+    "information" : "A combination of characters used to log into an account, usually in conjuntion with a username or email address. NOUN\nparoĺ"
+  }, {
+    "id" : 421,
+    "originalValue" : "password hint",
+    "information" : "A word or phrase designed to help a user remember their password. NOUN\npadkazka da parolia"
+  }, {
+    "id" : 422,
+    "originalValue" : "path",
+    "information" : "The sequence of steps that a computer follows in carrying out a routine, as in storing and retrieving a file at a specific location. NOUN\nšliach"
+  }, {
+    "id" : 423,
+    "originalValue" : "pause",
+    "information" : "To temporarily halt, stop, or delay an action. VERB\npaŭza"
+  }, {
+    "id" : 424,
+    "originalValue" : "payment method",
+    "information" : "A way to pay, e.g. for Proton services. Methods may include credit card, bank transfer, PayPal, and Bitcoin.  NOUN\nsposab aplaty"
+  }, {
+    "id" : 425,
+    "originalValue" : "payment process",
+    "information" : "The steps involved in an online transaction. From a consumer purchasing items and entering payment information on a merchants website to encryption, verification, authorization, and transfer of payment. NOUN\napracoŭka placiazu"
+  }, {
+    "id" : 426,
+    "originalValue" : "PayPal",
+    "information" : "Do Not Translate PROPER NOUN\nPayPal"
+  }, {
+    "id" : 427,
+    "originalValue" : "Perfect Forward Secrecy (PFS)",
+    "information" : "VPN encryption type\n\nDetails: Security for long-term encryption keys. By using a new session encryption key for each new exchange, PFS ensures that if one of the encryption keys is ascertained by a third party, they will be unable to decrypt data from previous or future encrypted sessions. PROPER NOUN\nabarona ad zvarotnaha čytańnia (PFS)"
+  }, {
+    "id" : 428,
+    "originalValue" : "personal data",
+    "information" : "Information that can be used to identify an individual directly or indirectly, using online identifiers such as their name, an identification number, IP addresses, or their location data. Also see \"GDPR\" NOUN\npiersanaĺnyja danyja"
+  }, {
+    "id" : 429,
+    "originalValue" : "personal information",
+    "information" : "Information used to identify a user such as name, address, date of birth, etc. NOUN\nasabistyja danyja"
+  }, {
+    "id" : 430,
+    "originalValue" : "PGP",
+    "information" : "Do Not Translate OTHER\nPGP"
+  }, {
+    "id" : 431,
+    "originalValue" : "PGP/Inline",
+    "information" : "Do Not Translate. Encryption format where attachments are encrypted separately from the message.  OTHER\nPGP/Inline"
+  }, {
+    "id" : 432,
+    "originalValue" : "PGP/MIME",
+    "information" : "Do Not Translate. Encryption format that signs the message, including attachments, as a whole. OTHER\nPGP/MIME"
+  }, {
+    "id" : 433,
+    "originalValue" : "PHI",
+    "information" : "Personal Health Information  NOUN\nabaronienaja infarmacyja ab zdaroŭi (PHI)"
+  }, {
+    "id" : 434,
+    "originalValue" : "phishing",
+    "information" : "The practice of using fraudulent emails and copies of websites to extract financial data from computer users for purposes of identity theft. NOUN\nfišynh"
+  }, {
+    "id" : 435,
+    "originalValue" : "phone verification",
+    "information" : "A method of identity verification, usually when a user is setting up an account, in which a verification code is sent to the users phone, which they must then enter to complete the verification process. NOUN\npravierka numara teliefona"
+  }, {
+    "id" : 436,
+    "originalValue" : "PIN",
+    "information" : "Abbreviation for personal identification number. NOUN\nPIN"
+  }, {
+    "id" : 437,
+    "originalValue" : "PIN code",
+    "information" : "A short numerical code that is often used to unlock a mobile device. NOUN\nPIN-kod"
+  }, {
+    "id" : 438,
+    "originalValue" : "pinch",
+    "information" : "To press together thumb and index finger. Action used on touchscreens to zoom in and out. VERB\nźvieści"
+  }, {
+    "id" : 439,
+    "originalValue" : "plaintext",
+    "information" : "Unencrypted information pending input into cryptographic algorithms. NOUN\nzvyčajny tekst"
+  }, {
+    "id" : 440,
+    "originalValue" : "plan",
+    "information" : "One of a limited set of options, each with different features and costs, users can select from when becoming a Proton user.   NOUN\ntaryfny plan "
+  }, {
+    "id" : 441,
+    "originalValue" : "platform",
+    "information" : "The context in which a computer program runs (operating system, hardware specifications, etc) NOUN\nplatforma"
+  }, {
+    "id" : 442,
+    "originalValue" : "plugin",
+    "information" : "Software that is added to an existing program to enhance its capabilities NOUN\nubudova"
+  }, {
+    "id" : 443,
+    "originalValue" : "Plus",
+    "information" : "Do not translate (plan name)\n**except if localizable in different alphabets PROPER NOUN\nPlus"
+  }, {
+    "id" : 444,
+    "originalValue" : "Plus plan",
+    "information" : "A paid Proton plan that offers a single user more features than the basic Free plan.  NOUN\ntaryfny plan Plus"
+  }, {
+    "id" : 445,
+    "originalValue" : "pop-up",
+    "information" : "A new window, often containing an ad with a call to action, that opens suddenly on a screen.  NOUN\nusplyvaĺnaje akno"
+  }, {
+    "id" : 446,
+    "originalValue" : "popover",
+    "information" : "A small pop-up box triggered when a user clicks/taps or hovers on a word, icon, or similar. A way to embed secondary useful information on a webpage. Similar to a tooltip, but can contain richer, longer content. NOUN\nusplyvaĺnaje akno"
+  }, {
+    "id" : 447,
+    "originalValue" : "port",
+    "information" : "The virtual endpoints of a network connection.   NOUN\nport"
+  }, {
+    "id" : 448,
+    "originalValue" : "port forwarding",
+    "information" : "A redirection of a communication request from one address and port number combination to another while the packets are traversing a network gateway, such as a router or firewall. Port forwarding allows remote computers to connect to a specific computer or service within a private LAN. NOUN\npieranakiravańnie partoŭ"
+  }, {
+    "id" : 449,
+    "originalValue" : "post",
+    "information" : "An entry in a blog, internet forum, or social media network. NOUN\ndopis"
+  }, {
+    "id" : 450,
+    "originalValue" : "postal code",
+    "information" : "Postcode or zip code. A mailing code thats part of a physical address. NOUN\nindeks"
+  }, {
+    "id" : 451,
+    "originalValue" : "preferences",
+    "information" : "User options for managing account settings such as notifications, privacy, etc. NOUN\nparamietry"
+  }, {
+    "id" : 452,
+    "originalValue" : "premium",
+    "information" : "Of a higher quality. Proton uses it to refer to additional features and benefits available with paid plans, e.g., premium servers, premium features, or to the account or service itself, e.g., premium account.  ADJECTIVE\npremijaĺny"
+  }, {
+    "id" : 453,
+    "originalValue" : "preview",
+    "information" : "An opportunity to see something beforehand, e.g. a new Proton product or a thumbnail of a file or image. NOUN\npapiaredni prahliad"
+  }, {
+    "id" : 454,
+    "originalValue" : "primary",
+    "information" : "Main, or most important. Can modify, e.g., email address or administrator. ADJECTIVE\nasnoŭny"
+  }, {
+    "id" : 455,
+    "originalValue" : "primary account",
+    "information" : "The Proton account used for billing, invoicing, communications, etc. with a business or Professional plan. Usually the same as the administrator account.   NOUN\nasnoŭny ŭlikovy zapis"
+  }, {
+    "id" : 456,
+    "originalValue" : "primary address key",
+    "information" : "Required for digitally signing any action (e.g., creating, deleting, editing an event). It is linked to the ProtonMail address used to join Calendar. NOUN\nkliuč asnoŭnaha adrasa"
+  }, {
+    "id" : 457,
+    "originalValue" : "primary key",
+    "information" : "A users default private encryption key. NOUN\nasnoŭny kliuč"
+  }, {
+    "id" : 458,
+    "originalValue" : "Prime Video",
+    "information" : "Prime Video (Amazon Prime Video) NOUN\nPrime Video"
+  }, {
+    "id" : 459,
+    "originalValue" : "priority support",
+    "information" : "A benefit of Proton Professional and Visionary plans. Users get increased and/or faster support for their help issues.  NOUN\npryjarytetnaja padtrymka"
+  }, {
+    "id" : 460,
+    "originalValue" : "privacy",
+    "information" : "a state in which one is not observed or disturbed by other people, corporations, or governments. The power to choose what information of yours is public and what remains unshared NOUN\npryvatnaść"
+  }, {
+    "id" : 461,
+    "originalValue" : "Privacy Policy",
+    "information" : " A statement or a legal document that states how a company or websote collects, handles, and processes data of its customers and visitors. It explicitly describes whether that information is kept confidential, or is shared with or sold to third parties. NOUN\npalityka pryvatnaści"
+  }, {
+    "id" : 462,
+    "originalValue" : "privacy settings",
+    "information" : "User options for managing account settings related to privacy NOUN\nnalady pryvatnaści"
+  }, {
+    "id" : 463,
+    "originalValue" : "Private",
+    "information" : "Only for one person or group and not for everyone: Something kept secret:  ADJECTIVE\nPryvatny"
+  }, {
+    "id" : 464,
+    "originalValue" : "private browsing",
+    "information" : "A privacy feature in some web browsers. The browser creates a temporary session that is separated from the browsers main session and user data. Typically does not save browsing history and will clear temporary files such as cookies upon exit. PROPER NOUN\npryvatny prahliad"
+  }, {
+    "id" : 465,
+    "originalValue" : "private key",
+    "information" : "There are different types of cryptography. Public key cryptography relies on two keys. One key (public key) is used for encrypt the plain text to convert it into cipher text and another key (private key) is used by receiver to decrypt the cipher text to read the message. The private key is kept as a secret. NOUN\npryvatny kliuč"
+  }, {
+    "id" : 466,
+    "originalValue" : "productivity",
+    "information" : "State of being productive; typically associated with software and other tools that enhance ones efficacy and efficiency at work NOUN\npradukcyjnaść"
+  }, {
+    "id" : 467,
+    "originalValue" : "Professional",
+    "information" : "Translate only when its lowercase and/or in reference to support ADJECTIVE\nProfessional"
+  }, {
+    "id" : 468,
+    "originalValue" : "Professional plan",
+    "information" : "Refers to the Proton plan that the company offers to other enterprises. \nhttps://protonmail.com/support/knowledge-base/business/ PROPER NOUN\ntaryfny plan Professional"
+  }, {
+    "id" : 469,
+    "originalValue" : "proration",
+    "information" : "Describes the process by which charges are calculated based on the cost per day, so you only pay for the number of days you actually use a service for NOUN\nraźmierkavańnie"
+  }, {
+    "id" : 470,
+    "originalValue" : "Proton",
+    "information" : "Do Not Translate (brand name) PROPER NOUN\nProton"
+  }, {
+    "id" : 471,
+    "originalValue" : "Proton Drive",
+    "information" : "Do Not Translate\n\nProtons cloud storage service. Store, share, and access files saved on personal encrypted cloud storage. PROPER NOUN\nProton Drive"
+  }, {
+    "id" : 472,
+    "originalValue" : "Proton for Business",
+    "information" : "ProtonMail for Business, accessible via the Professional Plan, is the plan of choice for organizations of all sizes. It offers admin functionality to administer email across an organization, priority support, unlimited messages, and catch-all email. PROPER NOUN\nProtonMail dlia biźniesu"
+  }, {
+    "id" : 473,
+    "originalValue" : "Proton Technologies AG",
+    "information" : "Do Not Translate PROPER NOUN\nProton Technologies AG"
+  }, {
+    "id" : 474,
+    "originalValue" : "Proton username",
+    "information" : "This, when paired with your password, is what you must enter to log in to your ProtonMail account NOUN\nimia karystaĺnika Proton"
+  }, {
+    "id" : 475,
+    "originalValue" : "ProtonCalendar",
+    "information" : "Do Not Translate PROPER NOUN\nProtonCalendar"
+  }, {
+    "id" : 476,
+    "originalValue" : "ProtonContacts",
+    "information" : "Do Not Translate PROPER NOUN\nProtonContacts"
+  }, {
+    "id" : 477,
+    "originalValue" : "ProtonDrive",
+    "information" : "Do Not Translate PROPER NOUN\nProtonDrive"
+  }, {
+    "id" : 478,
+    "originalValue" : "ProtonMail",
+    "information" : "Do Not Translate (product name) PROPER NOUN\nProtonMail"
+  }, {
+    "id" : 479,
+    "originalValue" : "ProtonMail account",
+    "information" : "a logon for an application (in this, ProtonMail) that is assigned to a specific person and carries all their subscription details, preferences, etc.  NOUN\nulikovy zapis ProtonMail"
+  }, {
+    "id" : 480,
+    "originalValue" : "ProtonMail app",
+    "information" : "refers to any of the applications that you can use to access your ProtonMail inbox. We have three apps, for Android and iOS smartphones and on the web NOUN\nprahrama ProtonMail"
+  }, {
+    "id" : 481,
+    "originalValue" : "ProtonMail Bridge",
+    "information" : "Do Not Translate (tool name) PROPER NOUN\nProtonMail Bridge"
+  }, {
+    "id" : 482,
+    "originalValue" : "ProtonMail for Business",
+    "information" : "ProtonMail for Business, accessible via the Professional Plan, is the plan of choice for organizations of all sizes. It offers admin functionality to administer email across an organization, priority support, unlimited messages, and catch-all email. PROPER NOUN\nProtonMail dlia biźniesu"
+  }, {
+    "id" : 483,
+    "originalValue" : "ProtonMail Import-Export",
+    "information" : "Do Not Translate (tool name) PROPER NOUN\nProtonMail Import-Export"
+  }, {
+    "id" : 484,
+    "originalValue" : "ProtonMail Plus",
+    "information" : "Do Not Translate (plan name) PROPER NOUN\nProtonMail Plus"
+  }, {
+    "id" : 485,
+    "originalValue" : "ProtonShop",
+    "information" : "our online shop\nhttps://shop.protonmail.com/ PROPER NOUN\nProtonShop"
+  }, {
+    "id" : 486,
+    "originalValue" : "ProtonVPN",
+    "information" : "Do Not Translate (product name) PROPER NOUN\nProtonVPN"
+  }, {
+    "id" : 487,
+    "originalValue" : "proxy",
+    "information" : "a proxy server is a server application or appliance that acts as an intermediary for requests from clients seeking resources from servers that provide those resources. NOUN\nproksi"
+  }, {
+    "id" : 488,
+    "originalValue" : "public key",
+    "information" : "There are different types of cryptography. Public key cryptography relies on two keys. One key (public key) is used for encrypt the plain text to convert it into cipher text and another key (private key) is used by receiver to decrypt the cipher text to read the message. The public key can be shared. NOUN\npubličny kliuč"
+  }, {
+    "id" : 489,
+    "originalValue" : "push notification",
+    "information" : "App notification that alerts users about new content, even when app is closed NOUN\npush-apaviaščeńnie"
+  }, {
+    "id" : 490,
+    "originalValue" : "QR code",
+    "information" : "A machine-readable optical label that contains information. Can be used as a locator, identifier, or tracker that points to a website or app PROPER NOUN\nQR-kod"
+  }, {
+    "id" : 491,
+    "originalValue" : "query",
+    "information" : "A question or request.\n\nIn software, may be a request by a computer to access or communicate with another system (such as a database or other piece of software) NOUN\nzapyt"
+  }, {
+    "id" : 492,
+    "originalValue" : "Quick Connect",
+    "information" : "A VPN function that allows you to connect to the faster server for your location in a single click NOUN\nChutkaje zlučeńnie"
+  }, {
+    "id" : 493,
+    "originalValue" : "quick snooze",
+    "information" : "When something is briefly reset to go off again a short time later NOUN\nchutkaje adkladańnie"
+  }, {
+    "id" : 494,
+    "originalValue" : "read",
+    "information" : "an item (in our case, an email) that has been seen/read VERB\nčytaje"
+  }, {
+    "id" : 495,
+    "originalValue" : "read receipt",
+    "information" : "A notification that goes back to the individual who sent message informing them that the recipient has looked at their message NOUN\napaviaščeńnie ab pračytańni"
+  }, {
+    "id" : 496,
+    "originalValue" : "receipt",
+    "information" : "the action of receiving something or the fact of its being received. NOUN\napaviaščeńnie"
+  }, {
+    "id" : 497,
+    "originalValue" : "recipient",
+    "information" : "The person who receives something (usually in our case, an email) NOUN\natrymaĺnik"
+  }, {
+    "id" : 498,
+    "originalValue" : "record",
+    "information" : "(v.) To capture or save audio or video data VERB\nzapisvać"
+  }, {
+    "id" : 499,
+    "originalValue" : "recover",
+    "information" : "To find or regain access to data, account, etc. VERB\nadnaŭliać"
+  }, {
+    "id" : 500,
+    "originalValue" : "recovery code",
+    "information" : "Typically describes a fail-safe that you can use if you forget your login credentials or password. If you enter your recovery code, youll be able to regain access to your data NOUN\nkod adnaŭlieńnia"
+  }, {
+    "id" : 501,
+    "originalValue" : "recovery email",
+    "information" : "An email address used to recover your main email address. NOUN\neliektronnaja pošta dlia adnaŭlieńnia dostupu"
+  }, {
+    "id" : 502,
+    "originalValue" : "recurring event",
+    "information" : "A planned occasion that happens repeatedly on a regular basis NOUN\npieryjadyčnaja padzieja"
+  }, {
+    "id" : 503,
+    "originalValue" : "Reddit",
+    "information" : "Do Not Translate PROPER NOUN\nReddit"
+  }, {
+    "id" : 504,
+    "originalValue" : "refresh",
+    "information" : "Action to get the latest app content or web page version VERB\nabnavić"
+  }, {
+    "id" : 505,
+    "originalValue" : "registrar",
+    "information" : "(n.) Database run by a business that handles reservations and maintnance of official data-records. For example, Domain Name Registrar NOUN\nrehistratar"
+  }, {
+    "id" : 506,
+    "originalValue" : "regulations",
+    "information" : "rules or directives made and maintained by an authority. NOUN\npravavyja normy"
+  }, {
+    "id" : 507,
+    "originalValue" : "release notes",
+    "information" : "Most of the time, release notes are meant for end users to show a short summary of new features and/or visuals without being super technical. So lets just use \"Belangrijkste wijzigingen\" in Dutch (lit. \"Most important changes\") NOUN\nnatatki da vypusku"
+  }, {
+    "id" : 508,
+    "originalValue" : "remote content",
+    "information" : "Parts of a message (such as images, stylesheets, or videos) which are not included in the message itself, but are downloaded from the internet when the message is viewed. These do not load automatically in ProtonMail, and users have to tap \"Load remote content\" (on iOS) or \"Display images\" (on Android) in order to view. NOUN\naddalienaje źmieściva"
+  }, {
+    "id" : 509,
+    "originalValue" : "remove",
+    "information" : "To get rid of or delete. VERB\nvydalić"
+  }, {
+    "id" : 510,
+    "originalValue" : "renewal date",
+    "information" : "The day of the year on which a is effective or valid again for a designated period of time. In our case, the renewal date is when a user is charged and their subscription plan is continued for a set period of time. NOUN\ndata padaŭzeńnia"
+  }, {
+    "id" : 511,
+    "originalValue" : "reorder",
+    "information" : "To rearrange VERB\nźmianić paradak"
+  }, {
+    "id" : 512,
+    "originalValue" : "reply",
+    "information" : "To say or write something in response to something someone has said. The option send back in email to someone who sent you email VERB\nadkazać "
+  }, {
+    "id" : 513,
+    "originalValue" : "report bug",
+    "information" : "Action taken by a user to report an error that causes an unexpected result. VERB\npaviedamić pra chibu"
+  }, {
+    "id" : 514,
+    "originalValue" : "report phishing",
+    "information" : "To make ProtonMail aware of any received emails that a user believes to be a phishing attempt. Users have the option to report it directly from the message.  VERB\npaviedamić pra fišynh"
+  }, {
+    "id" : 515,
+    "originalValue" : "reset",
+    "information" : "To set again or differently. To revert settings options back to their original state. VERB\nskinuć"
+  }, {
+    "id" : 516,
+    "originalValue" : "resetting",
+    "information" : "The act or instance of setting again, usually in the context of forgotten passwords.  NOUN\nskidańnie"
+  }, {
+    "id" : 517,
+    "originalValue" : "response body",
+    "information" : "In an HTTP session, the response body consists of the resource data requested by a client and returned by the server. It is located in the message body and usually preceded by a header and a status line.   NOUN\nciela adkazu"
+  }, {
+    "id" : 518,
+    "originalValue" : "responsive",
+    "information" : "Web design that automatically adapts the layout to suit different devices ADJECTIVE\nhnutki"
+  }, {
+    "id" : 519,
+    "originalValue" : "restart",
+    "information" : "To start a system or a program again. VERB\npierazapuścić"
+  }, {
+    "id" : 520,
+    "originalValue" : "restore",
+    "information" : "To return something to an earlier condition or position, or to bring something back after a preriod of absence. VERB\nadnavić"
+  }, {
+    "id" : 521,
+    "originalValue" : "retry",
+    "information" : "To repeat an action that did not work the first time. VERB\npaŭtaryć"
+  }, {
+    "id" : 522,
+    "originalValue" : "revision",
+    "information" : "The update of a document, system, protocol, etc. in order to improve it, correct mistakes, or make it contain the most recent information. NOUN\nredakcyja"
+  }, {
+    "id" : 523,
+    "originalValue" : "revoke",
+    "information" : "To remove or rescind permission VERB\nadklikać"
+  }, {
+    "id" : 524,
+    "originalValue" : "revoke sessions",
+    "information" : "To explicitly log out of an account. Proton users can revoke sessions from any device to prevent third-party access to active sessions.  VERB\nadklikać sieans"
+  }, {
+    "id" : 525,
+    "originalValue" : "revoked",
+    "information" : "When something is no longer active, valid, or effective because the privilege was taken back, withdrawn, annuled, canceled, or reversed. VERB\nadklikany"
+  }, {
+    "id" : 526,
+    "originalValue" : "role",
+    "information" : "role, occupation or business category. For example:  CEO, director, executive, engineer... it seems this word in ProtonMail is only related to this context (vCard contacts details). NOUN\nrolia"
+  }, {
+    "id" : 527,
+    "originalValue" : "router",
+    "information" : "A networking device that forwards data packets between computer networks\n NOUN\nmaršrutyzatar"
+  }, {
+    "id" : 528,
+    "originalValue" : "routing",
+    "information" : "The process of sending information from one computer network to another. NOUN\nmaršrutyzacyja"
+  }, {
+    "id" : 529,
+    "originalValue" : "RSA",
+    "information" : "Do Not Translate OTHER\nRSA"
+  }, {
+    "id" : 530,
+    "originalValue" : "RSS",
+    "information" : "System for publishing frequently updated information and automatically notifying users NOUN\nRSS"
+  }, {
+    "id" : 531,
+    "originalValue" : "runtime support library",
+    "information" : "A library file that contains the source for the runtime-support functions. NOUN\npadtrymka biblijateki asiaroddzia vykanańnia"
+  }, {
+    "id" : 532,
+    "originalValue" : "s",
+    "information" : "Abbreviation for seconds\n NOUN\nsiek"
+  }, {
+    "id" : 533,
+    "originalValue" : "Safari",
+    "information" : "Do Not Translate PROPER NOUN\nSafari"
+  }, {
+    "id" : 534,
+    "originalValue" : "salt",
+    "information" : "Random data used as an additional input to a one-way function that hashes data, a password or passphrase. Salts are used to safeguard passwords in storage. Historically a password was stored in plaintext on a system, but over time additional safeguards developed to protect a users password against being read from the system. A salt is one of those methods. NOUN\nsoĺ"
+  }, {
+    "id" : 535,
+    "originalValue" : "save",
+    "information" : "To store digital information or data in a computer or on a storage device. VERB\nzachavać"
+  }, {
+    "id" : 536,
+    "originalValue" : "save changes",
+    "information" : "To update settings with new preferences or keep edits within a document or file.   VERB\nzachavać źmieny"
+  }, {
+    "id" : 537,
+    "originalValue" : "scan",
+    "information" : "Systematic examination VERB/NOUN\nskanavać"
+  }, {
+    "id" : 538,
+    "originalValue" : "scheduled snooze",
+    "information" : "Time during which a user has set their device to not notify them when they receive a new email.   NOUN\nzaplanavanaje adkladańnie"
+  }, {
+    "id" : 539,
+    "originalValue" : "scientist",
+    "information" : "An expert who studies or works in one of the sciences. NOUN\nvučony"
+  }, {
+    "id" : 540,
+    "originalValue" : "screenshot",
+    "information" : "Image generated by the user to capture visible items on a screen NOUN\nzdymak ekrana"
+  }, {
+    "id" : 541,
+    "originalValue" : "script",
+    "information" : "A series of commands that are executed by a program.\n\n(NB: Can typically run without being compiled) NOUN\nscenaryj"
+  }, {
+    "id" : 542,
+    "originalValue" : "scroll",
+    "information" : "Action to move within a defined area on a screen in order to view hidden material VERB\nprahortvać"
+  }, {
+    "id" : 543,
+    "originalValue" : "SCT",
+    "information" : "Do not translate OTHER\nSCT"
+  }, {
+    "id" : 544,
+    "originalValue" : "SD card",
+    "information" : "Memory card format used in portable devices NOUN\nSD-karta"
+  }, {
+    "id" : 545,
+    "originalValue" : "search",
+    "information" : "To look for information on the internet or a device usually by entering a term into a search field.  VERB\npošuk"
+  }, {
+    "id" : 546,
+    "originalValue" : "Secure Core",
+    "information" : "Do Not Translate PROPER NOUN\nSecure Core"
+  }, {
+    "id" : 547,
+    "originalValue" : "secure internet anywhere",
+    "information" : "ProtonVPN tagline PHRASE\nbiaspiečny internet u liubym miescy"
+  }, {
+    "id" : 548,
+    "originalValue" : "secure link",
+    "information" : "This refers to a feature on Proton Drive that allows users to share a link (an HTML object that allows you to jump to a new location when you click or tap it) to an encrypted file. NOUN\nbiaspiečnaja spasylka"
+  }, {
+    "id" : 549,
+    "originalValue" : "secure streaming",
+    "information" : "a safe, private method (in our case, this method is protected by the encryption of our VPN service) of transmitting or receiving data (especially video and audio material) over a computer network as a steady, continuous flow, allowing playback to start while the rest of the data is still being received. NOUN\nbiaspiečnaja pieradača plyńniu"
+  }, {
+    "id" : 550,
+    "originalValue" : "security",
+    "information" : "the state of being free from danger or threat. NOUN\nbiaspieka"
+  }, {
+    "id" : 551,
+    "originalValue" : "security code",
+    "information" : "A code users need to provide to verify their identity, e.g., in two-factor authentication, often received via mobile or email or generated by an authentication app. Can also refer to the card security code (or CSC, CVC) on the back of a credit card.  NOUN\nkod biaspieki"
+  }, {
+    "id" : 552,
+    "originalValue" : "security settings",
+    "information" : "User options for managing account settings related to security (e.g., passwords) NOUN\nnalady biaspieki"
+  }, {
+    "id" : 553,
+    "originalValue" : "seed",
+    "information" : "Seed funding/money/capital: Investment at the early stage of a new business, project, activity, enterprise, etc.  ADJECTIVE\nstartavaje finansavańnie"
+  }, {
+    "id" : 554,
+    "originalValue" : "seed",
+    "information" : "Seed word/phrase: Word or a list of words used to store or backup information needed to recover bitcoin funds on the block chain. ADJECTIVE\nziarnisty"
+  }, {
+    "id" : 555,
+    "originalValue" : "select",
+    "information" : "to make a choice or selection  VERB\nvybrać"
+  }, {
+    "id" : 556,
+    "originalValue" : "send",
+    "information" : "cause to go or be taken to a particular destination; arrange for the delivery of. In our case, this refers to email VERB\nadpravić"
+  }, {
+    "id" : 557,
+    "originalValue" : "sender",
+    "information" : "person or entity who is sending an email NOUN\nadpraŭnik"
+  }, {
+    "id" : 558,
+    "originalValue" : "sending limit",
+    "information" : "restriction or limit imposed on the sending of emails to prevent bulk or spam mail and to keep mail from being delivered directly to spam folders. https://protonmail.com/support/knowledge-base/sending-limit/ NOUN\nabmiezavańnie na adpraŭku"
+  }, {
+    "id" : 559,
+    "originalValue" : "sent email",
+    "information" : "Category in app like INBOX, DRAFTS, ARCHIVE, etc. Should be translated as plural as it refers to \"sent emails\" NOUN\nadpraŭlienyja listy"
+  }, {
+    "id" : 560,
+    "originalValue" : "server",
+    "information" : "A software or hardware device that accepts and responds to requests made over a network NOUN\nsiervier"
+  }, {
+    "id" : 561,
+    "originalValue" : "service plans",
+    "information" : "different levels of service and features on offer from a service or subscription provider within a range of different plans NOUN\nplany absluhoŭvańnia"
+  }, {
+    "id" : 562,
+    "originalValue" : "service provider",
+    "information" : "Company that provides access to a service (set of features or infrastructure, as in \"internet service provider\") NOUN\npastaŭščyk pasluh"
+  }, {
+    "id" : 563,
+    "originalValue" : "session",
+    "information" : "a session is a temporary or time-limited interaction between computers or between a user and device or software. For email, a session begins when a user logs in and ends when the user logs out or at a predetermined time when sessions are forced to end. NOUN\nsieans"
+  }, {
+    "id" : 564,
+    "originalValue" : "set up",
+    "information" : "To connect and prepare a feature, program, or device to function properly and to a users preferences. VERB\nnaladzvać"
+  }, {
+    "id" : 565,
+    "originalValue" : "settings",
+    "information" : "A software control panel that enables the user to configure the appearance or actions in an application, operating system or the hardware. Also called \"preferences,\" \"tools\" and \"options.\" NOUN\nnalady"
+  }, {
+    "id" : 566,
+    "originalValue" : "setup",
+    "information" : "The overall process of connecting and preparing a software program, hardware device or computer to function properly.  NOUN\nustaliavańnie"
+  }, {
+    "id" : 567,
+    "originalValue" : "shard",
+    "information" : "a partition of data, usually of a database or search engine NOUN\nsiehmient"
+  }, {
+    "id" : 568,
+    "originalValue" : "share",
+    "information" : "Action to share content and information with social media networks VERB\nabahulić"
+  }, {
+    "id" : 569,
+    "originalValue" : "SharedKeyPacket",
+    "information" : "Technical term NOUN\nSharedKeyPacket"
+  }, {
+    "id" : 570,
+    "originalValue" : "SharePassphraseKeyPacket",
+    "information" : "Do Not Translate NOUN\nSharePassphraseKeyPacket"
+  }, {
+    "id" : 571,
+    "originalValue" : "short domain",
+    "information" : "A shortened domain email address, for example @pm.me. NOUN\nkarotki damien"
+  }, {
+    "id" : 572,
+    "originalValue" : "shortcut",
+    "information" : "Combination of keys that trigger a specific action when pressed NOUN\nspalučeńni klaviš"
+  }, {
+    "id" : 573,
+    "originalValue" : "Sieve",
+    "information" : "\"Sieve\" is a programming language, generally this shouldnt be translated, only transliterated if needed. Its like \"JavaScrip\", we dont translate it too. More info at https://en.wikipedia.org/wiki/Sieve_(mail_filtering_language) NOUN\nSieve"
+  }, {
+    "id" : 574,
+    "originalValue" : "sign email",
+    "information" : "The process of applying a signature to your email to authenticate that the email came from you VERB\npadpisvać listy"
+  }, {
+    "id" : 575,
+    "originalValue" : "sign in",
+    "information" : "Action to access to an online account (usually via authentication) VERB\nuvajści"
+  }, {
+    "id" : 576,
+    "originalValue" : "sign out",
+    "information" : "Action to close off access to an online account (that was gained by logging in) VERB\nvyjści"
+  }, {
+    "id" : 577,
+    "originalValue" : "sign up",
+    "information" : "Action to create a new user account VERB\nzarehistravacca"
+  }, {
+    "id" : 578,
+    "originalValue" : "signature",
+    "information" : "In Protons case, a signature is an authentication mechanism that enables the creator of the message to attach a code that acts as a signature proving it wasnt tampered with en route NOUN\npodpis"
+  }, {
+    "id" : 579,
+    "originalValue" : "single password",
+    "information" : "requiring only one password; in ProtonMail, before 2016, users were required to remember two passwords to enable E2EE, but this changed to one password and single-password mode. NOUN\nadziny paroĺ"
+  }, {
+    "id" : 580,
+    "originalValue" : "Siri",
+    "information" : "Do Not Translate PROPER NOUN\nSiri"
+  }, {
+    "id" : 581,
+    "originalValue" : "size",
+    "information" : "the relative extent of something; a things overall dimensions or magnitude; how big something is. NOUN\npamier"
+  }, {
+    "id" : 582,
+    "originalValue" : "skip",
+    "information" : "Action to pass over one step in a set of instructions VERB\nprapuścić"
+  }, {
+    "id" : 583,
+    "originalValue" : "Smart Protocol",
+    "information" : "Do not Translate PROPER NOUN\nSmart Protocol"
+  }, {
+    "id" : 584,
+    "originalValue" : "Smart Reconnect",
+    "information" : "Do Not Translate - feature name\n\nDepends on context. Can refer to:\n\n1. Synonym for \"always-on VPN\". That is, the feature will automatically reconnect you to the VPN in case your connection fails.\n\n2. May also refer to a functionality of VPN accellerator where the connection will reconnect to avoid overloading a single CPU core\n\n\n PROPER NOUN\nSmart Reconnect"
+  }, {
+    "id" : 585,
+    "originalValue" : "Smart Routing",
+    "information" : "Do Not Translate - feature name\n\nVPN feature that provides an IP address in a certain country but with the actual baremetal server located in a different country.\n(e.g. physical servers in Singapore providing Indonesian IP address)\nCurrently unreleased.\n\n PROPER NOUN\nSmart Routing"
+  }, {
+    "id" : 586,
+    "originalValue" : "SMS",
+    "information" : "short message service - a text messaging service component of most telephone, Internet, and mobile device systems. NOUN\nSMS"
+  }, {
+    "id" : 587,
+    "originalValue" : "snooze",
+    "information" : "An option that sets an alarm or other serivce to repeat after a short interval VERB\nadkliaści"
+  }, {
+    "id" : 588,
+    "originalValue" : "software",
+    "information" : "the programs and other operating information used by a computer or other smart device NOUN\nprahramnaje zabiespiačeńnie"
+  }, {
+    "id" : 589,
+    "originalValue" : "spam",
+    "information" : "Irrelevant or inappropriate emails or messages sent to a large number of recipients NOUN\nspam"
+  }, {
+    "id" : 590,
+    "originalValue" : "spam filters",
+    "information" : "A form or system of detecting spam messages and filtering them out. In ProtonMail there are default spam filters, and also advanced custom filtering options. NOUN\nfiĺtry spama"
+  }, {
+    "id" : 591,
+    "originalValue" : "spammers",
+    "information" : "Entity responsible for the creation and submission of spam (see \"spam\") PLURAL NOUN\nspamiery"
+  }, {
+    "id" : 592,
+    "originalValue" : "special offer",
+    "information" : "Usually means something is being sold at a lower price than usual or is coming with some other kind of perk NOUN\nspiecyjaĺnaja prapanova"
+  }, {
+    "id" : 593,
+    "originalValue" : "SPF",
+    "information" : "Do Not Translate PROPER NOUN\nSPF"
+  }, {
+    "id" : 594,
+    "originalValue" : "Split Tunnel",
+    "information" : "Do Not Translate - feature name\n\nVPN feature where user-selected programs or IP addresses will not be routed through the VPN tunnel PROPER NOUN\nSplit Tunnel"
+  }, {
+    "id" : 595,
+    "originalValue" : "split tunneling",
+    "information" : "Do Not Translate.\n\nVPN feature for separating internet traffic, routing some of it securely through the encrypted virtual private network tunnel and some through another, unencrypted channel on the open network; usually allows the user to select which apps go via VPN NOUN\nsplit tunneling"
+  }, {
+    "id" : 596,
+    "originalValue" : "SRP",
+    "information" : "Do Not Translate PROPER NOUN\nSRP"
+  }, {
+    "id" : 597,
+    "originalValue" : "SRP client",
+    "information" : "In SRP authentication, one party (the \"client\" or \"user\") demonstrates to another party (the \"verifier\") that they know the password, without sending the password itself nor any other information from which the password can be derived. The password never leaves the client and is unknown to the server/verifier. NOUN\nklijent SRP"
+  }, {
+    "id" : 598,
+    "originalValue" : "SRP verifier",
+    "information" : "In SRP authentication, one party (the \"client\" or \"user\") demonstrates to another party (the \"verifier\") that they know the password, without sending the password itself nor any other information from which the password can be derived. The password never leaves the client and is unknown to the server/verifier. NOUN\nvieryfikatar SRP"
+  }, {
+    "id" : 599,
+    "originalValue" : "star",
+    "information" : "Some messages may be marked (see \"mark\") with a star. Often signifies importance.\n\nIn ProtonMail, messages marked with a star will be displayed when clicking the \"Starred\" navigation button on the left side panel (4th button from the top).\n\nNB: Should not be capitalized (e.g. \"The ProtonMail newsletter is automatically marked with a star.\")\n\n NOUN/VERB\nzoračka"
+  }, {
+    "id" : 600,
+    "originalValue" : "starred",
+    "information" : "A message that has been marked with a star to easily identify and find important emails or to remember to come back to them later ADJECTIVE\nz zoračkaj"
+  }, {
+    "id" : 601,
+    "originalValue" : "startup",
+    "information" : "Company, often associated with new technology, searching for a scalable business model NOUN\nstartap"
+  }, {
+    "id" : 602,
+    "originalValue" : "state-of-the-art",
+    "information" : "belonging or relating to the most recent stage of technological development; having or using the latest techniques or equipment. ADJECTIVE\npieradavy"
+  }, {
+    "id" : 603,
+    "originalValue" : "storage",
+    "information" : "the practice of storing electronic data online, on a device, or on a dedicated memory drive NOUN\nschovišča"
+  }, {
+    "id" : 604,
+    "originalValue" : "storage capacity",
+    "information" : "how much disk space one or more storage devices provides. It measures how much data a computer system may contain. NOUN\njomistaść schovišča"
+  }, {
+    "id" : 605,
+    "originalValue" : "storage space",
+    "information" : "Amount of server space allotted for storage of data. NOUN\nprastora schovišča"
+  }, {
+    "id" : 606,
+    "originalValue" : "stored",
+    "information" : "Data or information that is saved, such as saved or archived emails or data stored on a server. PAST PARTICIPLE\nzachoŭvajecca"
+  }, {
+    "id" : 607,
+    "originalValue" : "stream",
+    "information" : "Continuous flow of video or audio transmitted over the internet NOUN\nplyń"
+  }, {
+    "id" : 608,
+    "originalValue" : "streaming",
+    "information" : "a method of transmitting or receiving data (especially video and audio material) over a computer network as a steady, continuous flow, allowing playback to start while the rest of the data is still being received. NOUN\ntransliacyja"
+  }, {
+    "id" : 609,
+    "originalValue" : "string",
+    "information" : "a sequential collection of characters used to represent text NOUN\nradok"
+  }, {
+    "id" : 610,
+    "originalValue" : "subject",
+    "information" : "The \"title\" of an email. It provides a brief overview of what an email is about. NOUN\ntema"
+  }, {
+    "id" : 611,
+    "originalValue" : "submit a request",
+    "information" : "Action to submit a request for assistance with using web-based service or app VERB\nadpravić zapyt"
+  }, {
+    "id" : 612,
+    "originalValue" : "subscribe",
+    "information" : "Action to be notified when new information is published or gain access to a web-based service VERB\npadpisacca"
+  }, {
+    "id" : 613,
+    "originalValue" : "subscription",
+    "information" : "an arrangement to receive something (in our case, access to ProtonMail/ProtonVPN/etc.) regularly by paying in advance. NOUN\npadpiska"
+  }, {
+    "id" : 614,
+    "originalValue" : "subtotal",
+    "information" : "The total price price before tax. (This is different than Total) NOUN\npadrachunak"
+  }, {
+    "id" : 615,
+    "originalValue" : "support",
+    "information" : "assistance provided by a company to users of its products NOUN\npadtrymka"
+  }, {
+    "id" : 616,
+    "originalValue" : "swipe",
+    "information" : "Action used on touchscreens to navigate between different screens VERB\nčyrkać"
+  }, {
+    "id" : 617,
+    "originalValue" : "swipe action",
+    "information" : "The motion of brushing your thumb or finger across a touchscreen NOUN\ndziejańnie čyrkańnia"
+  }, {
+    "id" : 618,
+    "originalValue" : "Swiss-based",
+    "information" : "Based, situated or headquartered in Switzerland ADJECTIVE\nraźmieščana ŭ Švajcaryi"
+  }, {
+    "id" : 619,
+    "originalValue" : "Switch",
+    "information" : "change the position, direction, or focus of VERB\nźmianić/pierajści"
+  }, {
+    "id" : 620,
+    "originalValue" : "sync",
+    "information" : "Action to synchronize data so that it is consistent between two or more devices VERB\nsinchranizavać"
+  }, {
+    "id" : 621,
+    "originalValue" : "synchronized",
+    "information" : "Objects that operate together, in unison, or in connection with one another ADJECTIVE\nsinchranizavany"
+  }, {
+    "id" : 622,
+    "originalValue" : "tab",
+    "information" : "a graphical control element that allows multiple documents or panels to be contained within a single window, using tabs as a navigational widget for switching between sets of documents. NOUN\nukladka"
+  }, {
+    "id" : 623,
+    "originalValue" : "tag",
+    "information" : "Character(s) added to a piece of text or data in order to identify or categorize it NOUN\nteh"
+  }, {
+    "id" : 624,
+    "originalValue" : "tampered with",
+    "information" : "Something that has been interfered with inappropriately or without authorization. ADJECTIVE PHRASE\npadroblieny"
+  }, {
+    "id" : 625,
+    "originalValue" : "Tap",
+    "information" : "To push a button with your finger or thumb on a device with a touchscreen NOUN\nNacisk"
+  }, {
+    "id" : 626,
+    "originalValue" : "TAP adapter",
+    "information" : "TAP is a vritual network kernel interface - a virtual network card - used for creating a network bridge, ie. a connection between two networks. TAP works at the ethernet level NOUN\nadaptar TAP"
+  }, {
+    "id" : 627,
+    "originalValue" : "Task",
+    "information" : "a discrete piece of work to be done  NOUN\nZadańnie"
+  }, {
+    "id" : 628,
+    "originalValue" : "TCP",
+    "information" : "Do not translate PROPER NOUN\nTCP"
+  }, {
+    "id" : 629,
+    "originalValue" : "technical issue",
+    "information" : "Error in a computer program/system that causes an unexpected result NOUN\ntechničnaja prabliema"
+  }, {
+    "id" : 630,
+    "originalValue" : "TED",
+    "information" : "Shouldnt be translated, but can be localized in different alphabets NOUN\nTED"
+  }, {
+    "id" : 631,
+    "originalValue" : "tentatively accepted",
+    "information" : "an agreement that is not definite or certain, but was made as a first step VERB\numoŭna pryniaŭ(-la)"
+  }, {
+    "id" : 632,
+    "originalValue" : "terms and conditions",
+    "information" : "the legal agreements between a service provider and a person who wants to use that service. The person must agree to abide by the terms of service in order to use the offered service. NOUN\numovy vykarystańnia"
+  }, {
+    "id" : 633,
+    "originalValue" : "terms of service",
+    "information" : "the legal agreements between a service provider and a person who wants to use that service. The person must agree to abide by the terms of service in order to use the offered service. NOUN\numovy absluhoŭvańnia"
+  }, {
+    "id" : 634,
+    "originalValue" : "testimonials",
+    "information" : "a formal statement testifying to a persons or services character and qualifications. NOUN\nvodhuki"
+  }, {
+    "id" : 635,
+    "originalValue" : "Theme",
+    "information" : "The aesthetic and color palette of an interface or program.\n\nIn ProtonMail, Settings -> Theme NOUN\nTema"
+  }, {
+    "id" : 636,
+    "originalValue" : "third party",
+    "information" : "An entity that is a party to a transaction but is not one of the principal actors NOUN\ninšych asob"
+  }, {
+    "id" : 637,
+    "originalValue" : "third-party software",
+    "information" : "Software programs or plugins developed by companies that didnt create the operating system NOUN\nprahramy inšych asob"
+  }, {
+    "id" : 638,
+    "originalValue" : "thread",
+    "information" : "Group of linked messages posted on a forum that share a common subject NOUN\nhutarka"
+  }, {
+    "id" : 639,
+    "originalValue" : "threat model",
+    "information" : "https://protonvpn.com/blog/threat-model/ NOUN\nmadeĺ pahroz"
+  }, {
+    "id" : 640,
+    "originalValue" : "thumbnail",
+    "information" : "A small rendition of a larger image to conserve screen space and help identify images. NOUN\nminijaciura"
+  }, {
+    "id" : 641,
+    "originalValue" : "time zone",
+    "information" : "Any of the 24 regions of the globe (loosely divided by longitude) throughout which the same standard time is used NOUN\nčasavy pojas"
+  }, {
+    "id" : 642,
+    "originalValue" : "timeline",
+    "information" : "Facebook layout that shows a users activity in chronological order NOUN\nškala času"
+  }, {
+    "id" : 643,
+    "originalValue" : "title",
+    "information" : "The name of an article, web page, book, or other work NOUN\nzahalovak"
+  }, {
+    "id" : 644,
+    "originalValue" : "TLC",
+    "information" : "Do Not Translate PROPER NOUN\nTLC"
+  }, {
+    "id" : 645,
+    "originalValue" : "TLS",
+    "information" : "Do Not Translate PROPER NOUN\nTLS"
+  }, {
+    "id" : 646,
+    "originalValue" : "TLS encryption",
+    "information" : "Transport Layer Security is a security protocol designed to encrypt communication between web applications and servers, such as web browsers loading a website, to preserve privacy and data security for internet communications. Widely used as the standard for secure HTTP traffic (i.e., HTTPS means TLS is being used with HTTP). NOUN\nšyfravańnie TLS"
+  }, {
+    "id" : 647,
+    "originalValue" : "token",
+    "information" : "NOTE: there are many different types of tokens, but I think its this one\n\nan access token contains the security credentials for a login session and identifies the user, the users groups, the users privileges, and, in some cases, a particular application NOUN\ntokien"
+  }, {
+    "id" : 648,
+    "originalValue" : "toolbar",
+    "information" : "A selection of available tools arranged for easy access NOUN\npaneĺ instrumentaŭ"
+  }, {
+    "id" : 649,
+    "originalValue" : "Tor",
+    "information" : "Software name\nDo Not Translate PROPER NOUN\nTor"
+  }, {
+    "id" : 650,
+    "originalValue" : "Touch ID",
+    "information" : "Do not translate\n\nElectronic fingerprint recognition system by Apple. Can be used to unlock devices or authenticate purchases.\nFound predominantly on iPhone and iPad PROPER NOUN\nTouch ID"
+  }, {
+    "id" : 651,
+    "originalValue" : "TouchID",
+    "information" : "Do Not Translate PROPER NOUN\nTouchID"
+  }, {
+    "id" : 652,
+    "originalValue" : "tracker",
+    "information" : "An electronic device or piece of software that records information about your activity online. NOUN\nprahrama sačeńnia"
+  }, {
+    "id" : 653,
+    "originalValue" : "traffic",
+    "information" : "Incoming and outgoing internet communications; e.g., protect your Internet traffic with strong encryption. NOUN\ntrafik"
+  }, {
+    "id" : 654,
+    "originalValue" : "trash",
+    "information" : "Deleted email messages, which are sent to the trash or garbage folder.  NOUN\nśmietnica"
+  }, {
+    "id" : 655,
+    "originalValue" : "trending",
+    "information" : "Popular topic on a news or social networking website ADJECTIVE\ntrendavy"
+  }, {
+    "id" : 656,
+    "originalValue" : "trial",
+    "information" : "A temporary version of software to try it out and test it. Usually limited by time or feature set NOUN\nprobnaja versija"
+  }, {
+    "id" : 657,
+    "originalValue" : "troubleshooting",
+    "information" : "Process or techniques for identifying and solving problems, such as to repair products or processes that are not working on a machine or a system.  NOUN\nvypraŭlieńnie niepaladak"
+  }, {
+    "id" : 658,
+    "originalValue" : "trusted",
+    "information" : "Trusted key VERB\ndaviarać"
+  }, {
+    "id" : 659,
+    "originalValue" : "trusted key",
+    "information" : "A public key that has been verified to belong to the person it claims to via the \"web of trust\" method used by PGP systems\nhttps://en.wikipedia.org/wiki/Web_of_trust NOUN\ndavieranyja kliučy"
+  }, {
+    "id" : 660,
+    "originalValue" : "Tun",
+    "information" : "A network tunnel that simulates a network layer device and operates in layer 3 carrying IP packets. Used with routing for VPNs. NOUN\nTuneĺ"
+  }, {
+    "id" : 661,
+    "originalValue" : "TUN adapter",
+    "information" : "TUN is a vritual network kernel interface - a virtual network card - used for creating a network bridge, ie. a connection between two networks. TUN works at the network level NOUN\nadaptar TUN"
+  }, {
+    "id" : 662,
+    "originalValue" : "Tunnelblick",
+    "information" : "Do Not Translate PROPER NOUN\nTunnelblick"
+  }, {
+    "id" : 663,
+    "originalValue" : "Tweet",
+    "information" : "Do Not Translate NOUN\nTweet"
+  }, {
+    "id" : 664,
+    "originalValue" : "Twitter",
+    "information" : "Do Not Translate PROPER NOUN\nTwitter"
+  }, {
+    "id" : 665,
+    "originalValue" : "two factor code",
+    "information" : "See two-factor authenticaion code NOUN\ndvuchfaktarny kod"
+  }, {
+    "id" : 666,
+    "originalValue" : "two-factor authentication",
+    "information" : "Two-factor authentication is an electronic authentication method in which a user is granted access to a website or application only after successfully presenting two or more pieces of evidence to an authentication mechanism, typically a password and an authentication code sent or created on a mobile device NOUN\ndvuchfaktarnaja aŭtentyfikacyja"
+  }, {
+    "id" : 667,
+    "originalValue" : "two-factor authentication code",
+    "information" : "Usually a 6-digit code provided by a 2FA app on your smartphone. Used to pass the 2FA challenge when signing in to a service or app NOUN\nkod dvuchfaktarnaj aŭtentyfikacyi"
+  }, {
+    "id" : 668,
+    "originalValue" : "two-factor passcode",
+    "information" : "Usually a 6-digit code provided by a 2FA app on your smartphone. Used to pass the 2FA challenge when signing in to a service or app NOUN\ndvuchfaktarny kod dostupu"
+  }, {
+    "id" : 669,
+    "originalValue" : "two-finger scroll",
+    "information" : "Action used on touchscreens to move hidden material into view NOUN\nprahortka dvuma paĺcami"
+  }, {
+    "id" : 670,
+    "originalValue" : "two-step verification",
+    "information" : "Confirms access to an account through a process through two distinct verification occurrences. The confirmation typically asks for your password followed by an independent contact method for a one-time code. (also see \"two-factor authentication\")\n\n\n NOUN\ndvuchetapnaja pravierka"
+  }, {
+    "id" : 671,
+    "originalValue" : "TXT",
+    "information" : "Do Not Translate OTHER\nTXT"
+  }, {
+    "id" : 672,
+    "originalValue" : "type",
+    "information" : "a category of items or things having common characteristics. NOUN\ntyp"
+  }, {
+    "id" : 673,
+    "originalValue" : "UDP",
+    "information" : "Do not translate PROPER NOUN\nUDP"
+  }, {
+    "id" : 674,
+    "originalValue" : "undo",
+    "information" : "Action to cancel or reverse the last one or more commands executed VERB\nadrabić"
+  }, {
+    "id" : 675,
+    "originalValue" : "unencrypted",
+    "information" : "Information that is not encoded and is clearly readable, such as plain text. Information or data that is not converted into an unreadable code and is therefore unprotected ADJECTIVE\nniezašyfravany"
+  }, {
+    "id" : 676,
+    "originalValue" : "unfollow",
+    "information" : "Action to stop tracking a person, group or organization on a social networking site VERB\nadpisacca"
+  }, {
+    "id" : 677,
+    "originalValue" : "uninstall",
+    "information" : "Action to remove an app from a device VERB\nvydalić"
+  }, {
+    "id" : 678,
+    "originalValue" : "United People Global",
+    "information" : "Name of an organization\ncf. https://unitedpeople.global/ PROPER NOUN\nUnited People Global"
+  }, {
+    "id" : 679,
+    "originalValue" : "unlike",
+    "information" : "Action to stop tracking a page or undo a previous action to like content on Facebook VERB\nnie cikavić"
+  }, {
+    "id" : 680,
+    "originalValue" : "unlock",
+    "information" : "Action to lift network provider restrictions on how a mobile device can be used VERB\nrazblakiravać"
+  }, {
+    "id" : 681,
+    "originalValue" : "unmark",
+    "information" : "To designate a \"marked\" object as no longer \"marked\" VERB\nprybrać paznaku"
+  }, {
+    "id" : 682,
+    "originalValue" : "unread",
+    "information" : "an item (in our case, an email) that has not yet been read ADJECTIVE\nniepračytanaje"
+  }, {
+    "id" : 683,
+    "originalValue" : "unsubscribe",
+    "information" : "To cancel a subscription VERB\nadpisacca"
+  }, {
+    "id" : 684,
+    "originalValue" : "untrust",
+    "information" : "To revoke authorizations and other settings that indicate something (a software, server, or person) as trusted (see \"trusted\", \"trusted key\") VERB\nnie daviarać"
+  }, {
+    "id" : 685,
+    "originalValue" : "update",
+    "information" : "Action to get the most recent version of application software VERB\nabnavić"
+  }, {
+    "id" : 686,
+    "originalValue" : "update",
+    "information" : "The most recent version of an application or software. NOUN\nabnaŭlieńnie"
+  }, {
+    "id" : 687,
+    "originalValue" : "updated",
+    "information" : "a change to make something up to date or most recent/current information ADJECTIVE\nabnoŭlieny"
+  }, {
+    "id" : 688,
+    "originalValue" : "upgrade",
+    "information" : "Action to replace existing model (of mobile device) with a more recent version VERB\npaliepšyć"
+  }, {
+    "id" : 689,
+    "originalValue" : "upgrade",
+    "information" : "The act or unit of upgrading something NOUN\npaliapšeńnie"
+  }, {
+    "id" : 690,
+    "originalValue" : "upload",
+    "information" : "to transfer information or data from one device or another, usually via internet  VERB\nzapampavać"
+  }, {
+    "id" : 691,
+    "originalValue" : "URL",
+    "information" : "Uniform Resource Locator is the address of a given web resource or page on the web, pointing to a given resource. This can include the domain, port, filepath, and other parameters that specify where a resource, such as an HTML page, a CSS document, an image, etc. is located. NOUN\nURL-adras"
+  }, {
+    "id" : 692,
+    "originalValue" : "user",
+    "information" : "a person who uses or operates something (in our case, our VPN or secure email service) NOUN\nkarystaĺnik"
+  }, {
+    "id" : 693,
+    "originalValue" : "user experience",
+    "information" : "Overall experience of a person using a website or mobile app NOUN\nurazańni ad vykarystańnia"
+  }, {
+    "id" : 694,
+    "originalValue" : "username",
+    "information" : "an identification used by a person to access a computer, network, or online service NOUN\nimia karystaĺnika"
+  }, {
+    "id" : 695,
+    "originalValue" : "username or email",
+    "information" : "an identification used by a person to access a computer, network, or online service (an email address is also commonly used for this purpose)  NOUN\nimia karystaĺnika abo eliektronnaj pošta"
+  }, {
+    "id" : 696,
+    "originalValue" : "UTF-8",
+    "information" : "Do Not Translate OTHER\nUTF-8"
+  }, {
+    "id" : 697,
+    "originalValue" : "valid",
+    "information" : "having a sound basis in logic or fact; reasonable or cogent; operationally, legally, or officially acceptable  ADJECTIVE\nsapraŭdny"
+  }, {
+    "id" : 698,
+    "originalValue" : "validation",
+    "information" : "an act or process of validating, or accepting, the validity or legitimacy of information NOUN\npravierka"
+  }, {
+    "id" : 699,
+    "originalValue" : "vCard",
+    "information" : "Do Not Translate NOUN\nvCard"
+  }, {
+    "id" : 700,
+    "originalValue" : "vcf",
+    "information" : "Do Not Translate NOUN\nvcf"
+  }, {
+    "id" : 701,
+    "originalValue" : "Verification Code",
+    "information" : "a security protection method used by form owners to avoid Internet robots from abusing and spamming their web forms, like CAPTCHA NOUN\npravieračny kod"
+  }, {
+    "id" : 702,
+    "originalValue" : "verification error",
+    "information" : "When a mechanism used for verification (see \"two-factor authentication\", \"2-step authentication\") does not function correctly, a verification error will occur. NOUN\npamylka pravierki"
+  }, {
+    "id" : 703,
+    "originalValue" : "verified address",
+    "information" : "an address that has been confirmed or proved as valid or correct NOUN\npravierany adras"
+  }, {
+    "id" : 704,
+    "originalValue" : "vevent",
+    "information" : "Calendar components start with the letter \"V\". In this case vevent refers to the event calendar component. NOUN\nvevent"
+  }, {
+    "id" : 705,
+    "originalValue" : "Visionary",
+    "information" : "Do Not Translate (plan name) PROPER NOUN\nVisionary"
+  }, {
+    "id" : 706,
+    "originalValue" : "Visionary plan",
+    "information" : "https://protonmail.com/support/knowledge-base/paid-plans/ PROPER NOUN\ntaryfny plan Visionary"
+  }, {
+    "id" : 707,
+    "originalValue" : "VPN",
+    "information" : "Virtal Private Network\nDo Not Translate NOUN\nVPN"
+  }, {
+    "id" : 708,
+    "originalValue" : "VPN Accelerator",
+    "information" : "Do Not Translate PROPER NOUN\nVPN Accelerator"
+  }, {
+    "id" : 709,
+    "originalValue" : "VPN Connection",
+    "information" : "The link between a device and a VPN network. NOUN\nzlučeńnie VPN"
+  }, {
+    "id" : 710,
+    "originalValue" : "VPN connections",
+    "information" : "A short hand way of referring to how many devices a user can have connected simultaneously to our VPN service NOUN\nzlučeńni VPN"
+  }, {
+    "id" : 711,
+    "originalValue" : "VPN Plus",
+    "information" : "Do Not Translate PROPER NOUN\nVPN Plus"
+  }, {
+    "id" : 712,
+    "originalValue" : "warning",
+    "information" : "a statement or event that warns of something or that serves as a cautionary example, a cautionary notice, advanced notice of something NOUN\npapiaredzańnie"
+  }, {
+    "id" : 713,
+    "originalValue" : "web page",
+    "information" : "A single page on a website NOUN\nveb-staronka"
+  }, {
+    "id" : 714,
+    "originalValue" : "webpage",
+    "information" : "A single page on a website NOUN\nveb-staronka"
+  }, {
+    "id" : 715,
+    "originalValue" : "website",
+    "information" : "Set of related web pages located at a single web domain NOUN\nveb-sajt"
+  }, {
+    "id" : 716,
+    "originalValue" : "week",
+    "information" : "a period of seven days, generally thought of as Monday through Sunday NOUN\ntydzień"
+  }, {
+    "id" : 717,
+    "originalValue" : "week number",
+    "information" : "Week numbers correspond to the week of the year within a 52-week year. These are calculated according to the ISO-8601 standard with weeks starting on Monday. The first week of the year is the week that contains that years first Thursday. NOUN\nnumary tydniaŭ"
+  }, {
+    "id" : 718,
+    "originalValue" : "weekly on",
+    "information" : "taking place at a weekly interval on a specific day, e.g., scheduling an email to be sent or a meeting to occur weekly on X day and X time ADJECTIVE\nštotydzień u"
+  }, {
+    "id" : 719,
+    "originalValue" : "whitelist",
+    "information" : "A list that allows identified entities to gain access to a service. A list of email addresses that will always be delivered to your inbox and not to spam. All email addresses stored in contacts are automatically placed on an Allow List; other addresses can be put on the list manually. See Allow List. NOUN\nbiely spis"
+  }, {
+    "id" : 720,
+    "originalValue" : "widget",
+    "information" : "Component of an interface that enables a user to perform a function or access a service NOUN\nvidzet"
+  }, {
+    "id" : 721,
+    "originalValue" : "Wikipedia",
+    "information" : "Do Not Translate\n\nA multilingual online encyclopedia written and maintained by a community of volunteer contributors.  PROPER NOUN\nWikipedia"
+  }, {
+    "id" : 722,
+    "originalValue" : "Windows",
+    "information" : "Do Not Translate PROPER NOUN\nWindows"
+  }, {
+    "id" : 723,
+    "originalValue" : "WireGuard",
+    "information" : "Do Not Translate (name of VPN protocol) PROPER NOUN\nWireGuard"
+  }, {
+    "id" : 724,
+    "originalValue" : "wireless",
+    "information" : "Using radio, microwaves, etc. to transmit and receive signals ADJECTIVE\nbiespravadny"
+  }, {
+    "id" : 725,
+    "originalValue" : "WKD",
+    "information" : "Do Not Translate OTHER\nWKD"
+  }, {
+    "id" : 726,
+    "originalValue" : "Yahoo",
+    "information" : "Do Not Translate PROPER NOUN\nYahoo"
+  }, {
+    "id" : 727,
+    "originalValue" : "Yahoo! Mail",
+    "information" : "Do Not Translate PROPER NOUN\nYahoo! Mail"
+  }, {
+    "id" : 728,
+    "originalValue" : "Yomi",
+    "information" : "Do Not Translate\n\nThe \"Yomi name\" is a field for entering the phonetic equivalent for Japanese names. In Japan, there is commonly a Furigana equivalent for the Kanji name that is used for sorting and searching NOUN\nYomi"
+  }, {
+    "id" : 729,
+    "originalValue" : "YouTube",
+    "information" : "Do Not Translate PROPER NOUN\nYouTube"
+  }, {
+    "id" : 730,
+    "originalValue" : "zero-access encryption",
+    "information" : "https://protonmail.com/blog/zero-access-encryption/ NOUN\nšyfravańnie nuliavoha dostupu"
+  }, {
+    "id" : 731,
+    "originalValue" : "ZIP",
+    "information" : "A ZIP Code is a postal code used by the United States Postal Service NOUN\npaštovy indeks"
+  }, {
+    "id" : 732,
+    "originalValue" : "ZIP",
+    "information" : "Do Not Translate\n\nZIP is an archive file format that supports lossless data compression NOUN\nZIP"
+  }, {
+    "id" : 733,
+    "originalValue" : "NetShield Ad-blocker",
+    "information" : " PROPER NOUN\nNetShield Ad-blocker"
+  } ]
+}

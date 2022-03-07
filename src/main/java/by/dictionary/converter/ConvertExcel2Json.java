@@ -1,48 +1,69 @@
 package by.dictionary.converter;
 
-import by.dictionary.converter.glossary.Record;
-import by.spelling.conversion.converter.BaseConverter;
 import by.spelling.conversion.converter.lacink.NarkamLacinkConverter;
 import by.spelling.conversion.converter.tarask.NarkamTaraskConverter;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
-import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Sheet;
-import org.apache.poi.ss.usermodel.Workbook;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import java.io.*;
 import java.net.URISyntaxException;
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-import java.util.StringJoiner;
+import java.util.*;
 
 public class ConvertExcel2Json {
-
-    private static String INPUT_FILE = null;
-    private static final String GLOSSARY_SHEET_NAME = "Спіс тэрмінаў";
 
     public ConvertExcel2Json() {
     }
 
     public static void main(String[] args) throws URISyntaxException {
-        INPUT_FILE = (new ResourceLoader()).getAPath();
-        readConvertWriteGlossary(new BaseConverter(), "generated/a/narkam.json");
-        readConvertWriteGlossary(new NarkamTaraskConverter(), "generated/a/tarask.json");
-        readConvertWriteGlossary(new NarkamLacinkConverter(), "generated/a/lacink.json");
+        HashMap<String, ArrayList<DoubleId>> union = new HashMap<>();
+        for (Dictonary dictonary : Dictonary.values()) {
+            List<Record> dictionaryRecords = convertDictonary(dictonary);
+            dictionaryRecords.forEach(record -> {
+                DoubleId newDoubleId = new DoubleId(dictonary.id, record.getId());
+                if (union.get(record.getOriginalValue()) == null) {
+                    ArrayList<DoubleId> links = new ArrayList<>();
+                    links.add(newDoubleId);
+                    union.put(record.getOriginalValue(), links);
+                } else {
+                    System.out.println(record.getOriginalValue());
+                    union.get(record.getOriginalValue()).add(newDoubleId);
+                }
+            });
+        }
+        ArrayList<UnionValue> unionValues = new ArrayList<>();
+        union.entrySet().forEach(entry -> unionValues.add(new UnionValue(entry.getKey(), entry.getValue())));
+
+
+        Comparator<UnionValue> byValue = Comparator.comparing(UnionValue::getValue);
+        unionValues.sort(byValue);
+
+
+        writeObjects2JsonFile(unionValues, "generated/union.json");
 
         convertLabels();
+    }
 
-        System.out.println("Канвертацыя скончана.");
+    static void writeObjects2JsonFile( ArrayList<UnionValue> unionValues, String pathFile) {
+        ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
+        File file = new File(pathFile);
+        try {
+            // Serialize Java object info JSON file.
+            mapper.writeValue(file, unionValues);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static List<Record> convertDictonary(Dictonary dictonary) throws URISyntaxException {
+        return dictonary.converter.convert(dictonary.id, dictonary.inputPath);
     }
 
     public static void convertLabels() {
+        String userDir = System.getProperty("user.dir");
 
-        String pathToNarkamFile = System.getProperty("user.dir") + "\\generated\\labels\\narkam.js";
-        String pathToTaraskFile = System.getProperty("user.dir") + "\\generated\\labels\\tarask.js";
-        String pathToLacinkFile = System.getProperty("user.dir") + "\\generated\\labels\\lacink.js";
+        String pathToNarkamFile = userDir + "\\generated\\labels\\narkam.js";
+        String pathToTaraskFile = userDir + "\\generated\\labels\\tarask.js";
+        String pathToLacinkFile = userDir + "\\generated\\labels\\lacink.js";
 
         String narkamText = readTextFromFile(pathToNarkamFile);
 
@@ -78,115 +99,5 @@ public class ConvertExcel2Json {
         }
 
         return text.toString();
-    }
-
-    public static void readConvertWriteGlossary(BaseConverter baseConverter, String writePath) {
-        List<Record> records = readExcelFile(
-                INPUT_FILE,
-                GLOSSARY_SHEET_NAME,
-                baseConverter);
-        writeObjects2JsonFile(records, writePath);
-    }
-
-
-    /**
-     * Read Excel File into Java List Objects
-     *
-     * @param filePath
-     * @return
-     */
-    private static List<Record> readExcelFile(String filePath, String sheetName, BaseConverter converter) {
-        try {
-            Workbook workbook = getWorkbook(filePath);
-            Iterator<Row> rows = getSheetIterator(workbook, sheetName);
-
-            List<Record> lstCustomers = new ArrayList<Record>();
-
-            int rowNumber = 0;
-            while (rows.hasNext()) {
-                Row currentRow = rows.next();
-
-                // skip header
-                if (rowNumber == 0) {
-                    rowNumber++;
-                    continue;
-                }
-
-
-                Iterator<Cell> cellsInRow = currentRow.iterator();
-
-                Record record = null;
-                String originalValue = "";
-                String acadValue = "";
-                String acadWrong = "";
-                String acadComment = "";
-
-
-                int cellIndex = 0;
-                while (cellsInRow.hasNext()) {
-                    Cell currentCell = cellsInRow.next();
-
-                    if (cellIndex == 0) { // Original value
-                        originalValue = currentCell.getStringCellValue();
-                    } else if (cellIndex == 1) { // acad value
-                        acadValue = currentCell.getStringCellValue();
-                    } else if (cellIndex == 2) { // Wrong example
-                        acadWrong = currentCell.getStringCellValue();
-                    } else if (cellIndex == 3) { // Comment
-                        acadComment = currentCell.getStringCellValue();
-                    }
-
-
-                    cellIndex++;
-                }
-
-                if (originalValue.isEmpty()) {
-                    break;
-                }
-
-                record = new Record(rowNumber,
-                        originalValue,
-                        converter.convert(acadValue),
-                        converter.convert(acadWrong),
-                        converter.convert(acadComment));
-
-                lstCustomers.add(record);
-                rowNumber++;
-            }
-
-            // Close WorkBook
-            workbook.close();
-
-            return lstCustomers;
-        } catch (IOException e) {
-            throw new RuntimeException("FAIL! -> message = " + e.getMessage());
-        }
-    }
-
-    /**
-     * Convert Java Objects to JSON File
-     *
-     * @param list
-     * @param pathFile
-     */
-    private static void writeObjects2JsonFile(List<?> list, String pathFile) {
-        ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
-        File file = new File(pathFile);
-        try {
-            // Serialize Java object info JSON file.
-            mapper.writeValue(file, list);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
-    private static Workbook getWorkbook(String filePath) throws IOException {
-        FileInputStream excelFile = new FileInputStream(new File(filePath));
-        return new XSSFWorkbook(excelFile);
-    }
-
-    private static Iterator<Row> getSheetIterator(Workbook workbook, String sheetName) {
-        Sheet sheet = workbook.getSheet(sheetName);
-        return sheet.iterator();
     }
 }
