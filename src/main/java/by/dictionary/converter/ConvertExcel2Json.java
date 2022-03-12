@@ -15,7 +15,7 @@ public class ConvertExcel2Json {
     }
 
     public static void main(String[] args) throws URISyntaxException {
-        HashMap<String, ArrayList<DoubleId>> union = new HashMap<>();
+        TreeMap<String, ArrayList<DoubleId>> union = new TreeMap<>();
         for (Dictonary dictonary : Dictonary.values()) {
             List<Record> dictionaryRecords = convertDictonary(dictonary);
             dictionaryRecords.forEach(record -> {
@@ -30,20 +30,13 @@ public class ConvertExcel2Json {
                 }
             });
         }
-        ArrayList<UnionValue> unionValues = new ArrayList<>();
-        union.entrySet().forEach(entry -> unionValues.add(new UnionValue(entry.getKey(), entry.getValue())));
 
-
-        Comparator<UnionValue> byValue = Comparator.comparing(UnionValue::getValue);
-        unionValues.sort(byValue);
-
-
-        writeObjects2JsonFile(unionValues, "generated/union.json");
+        writeObjects2JsonFile(union, "generated/union.json");
 
         convertLabels();
     }
 
-    static void writeObjects2JsonFile( ArrayList<UnionValue> unionValues, String pathFile) {
+    static void writeObjects2JsonFile(TreeMap<String, ArrayList<DoubleId>> unionValues, String pathFile) {
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         File file = new File(pathFile);
         try {
