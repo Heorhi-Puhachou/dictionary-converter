@@ -1046,6 +1046,10 @@
     "dictionaryId" : "a",
     "termId" : 595
   } ],
+  "Layout features" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022031303
+  } ],
   "Lebanon" : [ {
     "dictionaryId" : "a",
     "termId" : 602
@@ -2099,6 +2103,10 @@
   "Vanuatu" : [ {
     "dictionaryId" : "a",
     "termId" : 1211
+  } ],
+  "Variation Axes" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022031304
   } ],
   "Vatican" : [ {
     "dictionaryId" : "a",

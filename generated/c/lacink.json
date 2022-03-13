@@ -6,4 +6,12 @@
   "id" : 2022031302,
   "originalValue" : "relocation",
   "information" : "prysvajeńnie adrasu - praces prysvajeńnia adrasoŭ zahruzki dlia koda j dadzienych prahramy, jakija zaliezać ad pazicyi, i karekciroŭki koda j danych dlia adliustravańnia prysvojenych adrasoŭ. "
+}, {
+  "id" : 2022031303,
+  "originalValue" : "Layout features",
+  "information" : "Instrumenty raźmietki - ukliučajuć u siabie tlusty tekst, padkreslivańnie, roznyja šryfty j vialikija/zahaloŭnyja litary. Typovyja instrumenty raźmietki zaliezać ad typu tekstu. Vialikija teksty zvyčajna razbivajucca na razdziely, kab spraścić usprymańnie infarmacyi. "
+}, {
+  "id" : 2022031304,
+  "originalValue" : "Variation Axes",
+  "information" : "Vosi varyjacyj - dyjapazon likaŭ dlia značeńnia, jakoje apisvaje vyznačany aspiekt dyzajnu kankretnaha eliemienta."
 } ]
