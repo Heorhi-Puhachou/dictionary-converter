@@ -2,8 +2,8 @@ package by.dictionary.converter.c;
 
 import by.dictionary.converter.Converter;
 import by.dictionary.converter.Record;
-import by.spelling.conversion.converter.lacink.NarkamLacinkConverter;
-import by.spelling.conversion.converter.tarask.NarkamTaraskConverter;
+import by.spelling.conversion.converter.lacink.TaraskLacinkConverter;
+import by.spelling.conversion.converter.tarask.TaraskNarkamConverter;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Workbook;
@@ -26,11 +26,11 @@ public class CConverter implements Converter {
         File aFile = Paths.get(aURL.toURI()).toFile();
         String inputFile = aFile.getAbsolutePath();
 
-        List<Record> aNarRecords = readExcelFile(
+        List<Record> aTarRecords = readExcelFile(
                 inputFile,
                 GLOSSARY_SHEET_NAME);
-        List<Record> aTarRecords = convert(aNarRecords, new NarkamTaraskConverter());
-        List<Record> aLacRecords = convert(aNarRecords, new NarkamLacinkConverter());
+        List<Record> aNarRecords = convert(aTarRecords, new TaraskNarkamConverter());
+        List<Record> aLacRecords = convert(aTarRecords, new TaraskLacinkConverter());
 
         readConvertWriteGlossary(aNarRecords, "generated/c/narkam.json");
         readConvertWriteGlossary(aTarRecords, "generated/c/tarask.json");

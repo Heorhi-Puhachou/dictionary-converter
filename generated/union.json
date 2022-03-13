@@ -187,6 +187,10 @@
     "dictionaryId" : "b",
     "termId" : 63
   } ],
+  "BFD" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022031301
+  } ],
   "BIP32" : [ {
     "dictionaryId" : "b",
     "termId" : 67
@@ -5188,9 +5192,6 @@
   "mount" : [ {
     "dictionaryId" : "a",
     "termId" : 697
-  }, {
-    "dictionaryId" : "c",
-    "termId" : 2022030701
   } ],
   "mouse" : [ {
     "dictionaryId" : "a",
@@ -6155,6 +6156,10 @@
   "relevant" : [ {
     "dictionaryId" : "a",
     "termId" : 903
+  } ],
+  "relocation" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022031302
   } ],
   "remind" : [ {
     "dictionaryId" : "a",
@@ -7164,10 +7169,6 @@
     "dictionaryId" : "b",
     "termId" : 633
   } ],
-  "test" : [ {
-    "dictionaryId" : "c",
-    "termId" : 2022030702
-  } ],
   "testimonials" : [ {
     "dictionaryId" : "b",
     "termId" : 634
@@ -7601,9 +7602,6 @@
   }, {
     "dictionaryId" : "b",
     "termId" : 697
-  }, {
-    "dictionaryId" : "c",
-    "termId" : 2022031301
   } ],
   "validate" : [ {
     "dictionaryId" : "a",
