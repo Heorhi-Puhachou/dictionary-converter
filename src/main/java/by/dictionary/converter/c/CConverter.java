@@ -1,8 +1,6 @@
 package by.dictionary.converter.c;
 
 import by.dictionary.converter.Converter;
-import by.dictionary.converter.Dictonary;
-import by.dictionary.converter.OutputDictionaryObject;
 import by.dictionary.converter.Record;
 import by.spelling.conversion.converter.lacink.NarkamLacinkConverter;
 import by.spelling.conversion.converter.tarask.NarkamTaraskConverter;
@@ -23,7 +21,7 @@ public class CConverter implements Converter {
     private static final String GLOSSARY_SHEET_NAME = "Слоўнік";
 
     @Override
-    public List<Record>  convert(String id, String inputDictonary) throws URISyntaxException {
+    public List<Record> convert(String id, String inputDictonary) throws URISyntaxException {
         URL aURL = getClass().getClassLoader().getResource(inputDictonary);
         File aFile = Paths.get(aURL.toURI()).toFile();
         String inputFile = aFile.getAbsolutePath();
@@ -34,25 +32,16 @@ public class CConverter implements Converter {
         List<Record> aTarRecords = convert(aNarRecords, new NarkamTaraskConverter());
         List<Record> aLacRecords = convert(aNarRecords, new NarkamLacinkConverter());
 
-        readConvertWriteGlossary(
-                new OutputDictionaryObject(id, "Слоўнік Георгія Пугачова", aNarRecords),
-                "generated/c/narkam.json"
-        );
-        readConvertWriteGlossary(
-                new OutputDictionaryObject(id, "Слоўнік Георгія Пугачова", aTarRecords),
-                "generated/c/tarask.json"
-        );
-        readConvertWriteGlossary(
-                new OutputDictionaryObject(id, "Слоўнік Георгія Пугачова", aLacRecords),
-                "generated/c/lacink.json"
-        );
+        readConvertWriteGlossary(aNarRecords, "generated/c/narkam.json");
+        readConvertWriteGlossary(aTarRecords, "generated/c/tarask.json");
+        readConvertWriteGlossary(aLacRecords, "generated/c/lacink.json");
 
         return aTarRecords;
     }
 
 
-    public void readConvertWriteGlossary(OutputDictionaryObject outputDictionaryObject, String writePath) {
-        writeObjects2JsonFile(outputDictionaryObject, writePath);
+    public void readConvertWriteGlossary(List<Record> records, String writePath) {
+        writeObjects2JsonFile(records, writePath);
     }
 
     private List<Record> readExcelFile(String filePath, String sheetName) {

@@ -39,12 +39,12 @@ public interface Converter {
                 .collect(Collectors.toList());
     }
 
-    default void writeObjects2JsonFile(OutputDictionaryObject outputDictionaryObject, String pathFile) {
+    default void writeObjects2JsonFile(List<Record> records, String pathFile) {
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         File file = new File(pathFile);
         try {
             // Serialize Java object info JSON file.
-            mapper.writeValue(file, outputDictionaryObject);
+            mapper.writeValue(file, records);
         } catch (IOException e) {
             e.printStackTrace();
         }

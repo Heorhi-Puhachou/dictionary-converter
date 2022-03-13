@@ -1,7 +1,6 @@
 package by.dictionary.converter.a;
 
 import by.dictionary.converter.Converter;
-import by.dictionary.converter.OutputDictionaryObject;
 import by.dictionary.converter.Record;
 import by.spelling.conversion.converter.lacink.NarkamLacinkConverter;
 import by.spelling.conversion.converter.tarask.NarkamTaraskConverter;
@@ -34,24 +33,15 @@ public class AConverter implements Converter {
         List<Record> aTarRecords = convert(aNarRecords, new NarkamTaraskConverter());
         List<Record> aLacRecords = convert(aNarRecords, new NarkamLacinkConverter());
 
-        readConvertWriteGlossary(
-                new OutputDictionaryObject(id, "Слоўнік UBUNTU", aNarRecords),
-                "generated/a/narkam.json"
-        );
-        readConvertWriteGlossary(
-                new OutputDictionaryObject(id, "Слоўнік UBUNTU", aTarRecords),
-                "generated/a/tarask.json"
-        );
-        readConvertWriteGlossary(
-                new OutputDictionaryObject(id, "Слоўнік UBUNTU", aLacRecords),
-                "generated/a/lacink.json"
-        );
+        readConvertWriteGlossary(aNarRecords, "generated/a/narkam.json");
+        readConvertWriteGlossary(aTarRecords, "generated/a/tarask.json");
+        readConvertWriteGlossary(aLacRecords, "generated/a/lacink.json");
 
         return aNarRecords;
     }
 
-    public void readConvertWriteGlossary(OutputDictionaryObject outputDictionaryObject, String writePath) {
-        writeObjects2JsonFile(outputDictionaryObject, writePath);
+    public void readConvertWriteGlossary(List<Record> records, String writePath) {
+        writeObjects2JsonFile(records, writePath);
     }
 
     private List<Record> readExcelFile(String filePath, String sheetName) {
