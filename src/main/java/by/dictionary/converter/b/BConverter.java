@@ -107,7 +107,7 @@ public class BConverter implements Converter {
     }
 
     private String getInformationString(String desc1, String desc2, String value) {
-        return desc1 + " " + desc2 + "\n" + value;
+        return value+"\n\n"+desc1 + "\n\n" + desc2;
     }
 
 

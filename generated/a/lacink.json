@@ -9,15 +9,15 @@
 }, {
   "id" : 3,
   "originalValue" : "access",
-  "information" : "dostup\nKamentar: MS"
+  "information" : "dostup\n\nKamentar:\nMS"
 }, {
   "id" : 4,
   "originalValue" : "accessibility",
-  "information" : "spiecyjaĺnyja mahčymaści\nKamentar: Samsung, Google, MS"
+  "information" : "spiecyjaĺnyja mahčymaści\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 5,
   "originalValue" : "account",
-  "information" : "ulikovy zapis, ulikovaha zapisu, ulikovym zapisie\nNiapraviĺny pieraklad: kont"
+  "information" : "ulikovy zapis, ulikovaha zapisu, ulikovym zapisie\n\nNiapraviĺny pieraklad:\nkont"
 }, {
   "id" : 6,
   "originalValue" : "accounts",
@@ -29,15 +29,15 @@
 }, {
   "id" : 8,
   "originalValue" : "activate",
-  "information" : "aktyvavać\nKamentar: Samsung, MS"
+  "information" : "aktyvavać\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 9,
   "originalValue" : "activation",
-  "information" : "aktyvacyja\nKamentar: Samsung, MS"
+  "information" : "aktyvacyja\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 10,
   "originalValue" : "active",
-  "information" : "aktyŭny\nKamentar: Samsung, Google, MS"
+  "information" : "aktyŭny\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 11,
   "originalValue" : "activities",
@@ -53,23 +53,23 @@
 }, {
   "id" : 14,
   "originalValue" : "add-on",
-  "information" : "dadatkovy kampanient\n\nNiapraviĺny pieraklad: dadańnie, pašyreńnie"
+  "information" : "dadatkovy kampanient\n\n\nNiapraviĺny pieraklad:\ndadańnie, pašyreńnie"
 }, {
   "id" : 15,
   "originalValue" : "adjust",
-  "information" : "rehuliavać; ! dapasavać\nKamentar: Samsung — rehuliavać, dapasavać; naladzić\nMS — rehuliavać"
+  "information" : "rehuliavać; ! dapasavać\n\nKamentar:\nSamsung — rehuliavać, dapasavać; naladzić\nMS — rehuliavać"
 }, {
   "id" : 16,
   "originalValue" : "adjustment",
-  "information" : "rehuliroŭka\nKamentar: MS — rehuliroŭka; karekciroŭka, karekcyja"
+  "information" : "rehuliroŭka\n\nKamentar:\nMS — rehuliroŭka; karekciroŭka, karekcyja"
 }, {
   "id" : 17,
   "originalValue" : "administrator",
-  "information" : "administratar\nKamentar: treba adroźnivać ad kiraŭnikoŭ u TH."
+  "information" : "administratar\n\nKamentar:\ntreba adroźnivać ad kiraŭnikoŭ u TH."
 }, {
   "id" : 18,
   "originalValue" : "admit",
-  "information" : "dapuścić\nKamentar: Samsung"
+  "information" : "dapuścić\n\nKamentar:\nSamsung"
 }, {
   "id" : 19,
   "originalValue" : "adress",
@@ -81,51 +81,51 @@
 }, {
   "id" : 21,
   "originalValue" : "Afghanistan",
-  "information" : "Afhanistan\nKamentar: CLDR"
+  "information" : "Afhanistan\n\nKamentar:\nCLDR"
 }, {
   "id" : 22,
   "originalValue" : "Africa",
-  "information" : "Afryka\nKamentar: CLDR"
+  "information" : "Afryka\n\nKamentar:\nCLDR"
 }, {
   "id" : 23,
   "originalValue" : "Afrikaans",
-  "information" : "afrykaans (mova)\nKamentar: CLDR"
+  "information" : "afrykaans (mova)\n\nKamentar:\nCLDR"
 }, {
   "id" : 24,
   "originalValue" : "Aghem",
-  "information" : "ahiem (mova)\nKamentar: CLDR"
+  "information" : "ahiem (mova)\n\nKamentar:\nCLDR"
 }, {
   "id" : 25,
   "originalValue" : "airplane mode",
-  "information" : "rezym paliotu, ! rezym «U samaliocie»\nKamentar: rezym paliotu — Google, MS\nrezym «U samaliocie» — Samsung"
+  "information" : "rezym paliotu, ! rezym «U samaliocie»\n\nKamentar:\nrezym paliotu — Google, MS\nrezym «U samaliocie» — Samsung"
 }, {
   "id" : 26,
   "originalValue" : "Akan",
-  "information" : "akan (mova)\nKamentar: CLDR"
+  "information" : "akan (mova)\n\nKamentar:\nCLDR"
 }, {
   "id" : 27,
   "originalValue" : "Aland Islands",
-  "information" : "Alandskija astravy\nKamentar: CLDR"
+  "information" : "Alandskija astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 28,
   "originalValue" : "Åland Islands",
-  "information" : "Alandskija astravy\nKamentar: CLDR"
+  "information" : "Alandskija astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 29,
   "originalValue" : "Albania",
-  "information" : "Albanija\nKamentar: CLDR"
+  "information" : "Albanija\n\nKamentar:\nCLDR"
 }, {
   "id" : 30,
   "originalValue" : "Albanian",
-  "information" : "albanskaja\nKamentar: CLDR"
+  "information" : "albanskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 31,
   "originalValue" : "alert",
-  "information" : "abviestka; syhnal\nKamentar: Samsung, Google, MS"
+  "information" : "abviestka; syhnal\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 32,
   "originalValue" : "Algeria",
-  "information" : "Alzyr\nKamentar: CLDR"
+  "information" : "Alzyr\n\nKamentar:\nCLDR"
 }, {
   "id" : 33,
   "originalValue" : "algorithm",
@@ -133,11 +133,11 @@
 }, {
   "id" : 34,
   "originalValue" : "align",
-  "information" : "vyraŭnavać\nKamentar: Samsung, MS"
+  "information" : "vyraŭnavać\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 35,
   "originalValue" : "alignement",
-  "information" : "vyraŭnoŭvańnie\nNiapraviĺny pieraklad: vyroŭnivańnie\nKamentar: MS"
+  "information" : "vyraŭnoŭvańnie\n\nNiapraviĺny pieraklad:\nvyroŭnivańnie\n\nKamentar:\nMS"
 }, {
   "id" : 36,
   "originalValue" : "all",
@@ -157,31 +157,31 @@
 }, {
   "id" : 40,
   "originalValue" : "American Samoa",
-  "information" : "Amerykanskaje Samoa\nKamentar: CLDR"
+  "information" : "Amerykanskaje Samoa\n\nKamentar:\nCLDR"
 }, {
   "id" : 41,
   "originalValue" : "Amharic",
-  "information" : "amcharskaja\nKamentar: CLDR"
+  "information" : "amcharskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 42,
   "originalValue" : "amount",
-  "information" : "koĺkaść\nKamentar: Samsung"
+  "information" : "koĺkaść\n\nKamentar:\nSamsung"
 }, {
   "id" : 43,
   "originalValue" : "Andorra",
-  "information" : "Andora\nKamentar: CLDR"
+  "information" : "Andora\n\nKamentar:\nCLDR"
 }, {
   "id" : 44,
   "originalValue" : "angle",
-  "information" : "vuhal\nKamentar: Anhla-biel"
+  "information" : "vuhal\n\nKamentar:\nAnhla-biel"
 }, {
   "id" : 45,
   "originalValue" : "Angola",
-  "information" : "Anhola\nKamentar: CLDR"
+  "information" : "Anhola\n\nKamentar:\nCLDR"
 }, {
   "id" : 46,
   "originalValue" : "Anguilla",
-  "information" : "Anhiĺia\nKamentar: CLDR"
+  "information" : "Anhiĺia\n\nKamentar:\nCLDR"
 }, {
   "id" : 47,
   "originalValue" : "answer",
@@ -189,15 +189,15 @@
 }, {
   "id" : 48,
   "originalValue" : "Antarctica",
-  "information" : "Antarktyka\nKamentar: CLDR"
+  "information" : "Antarktyka\n\nKamentar:\nCLDR"
 }, {
   "id" : 49,
   "originalValue" : "Antigua",
-  "information" : "Antyhua\nKamentar: CLDR"
+  "information" : "Antyhua\n\nKamentar:\nCLDR"
 }, {
   "id" : 50,
   "originalValue" : "Antigua and Barbuda",
-  "information" : "Antyhua j Barbuda\nKamentar: CLDR"
+  "information" : "Antyhua j Barbuda\n\nKamentar:\nCLDR"
 }, {
   "id" : 51,
   "originalValue" : "app",
@@ -205,19 +205,19 @@
 }, {
   "id" : 52,
   "originalValue" : "application",
-  "information" : "prahrama\nNiapraviĺny pieraklad: prykladańnie, dadatak, prystasavańnie, aplikacyja j h.d."
+  "information" : "prahrama\n\nNiapraviĺny pieraklad:\nprykladańnie, dadatak, prystasavańnie, aplikacyja j h.d."
 }, {
   "id" : 53,
   "originalValue" : "application shortcut",
-  "information" : "jarlyk prahramy\nKamentar: Samsung"
+  "information" : "jarlyk prahramy\n\nKamentar:\nSamsung"
 }, {
   "id" : 54,
   "originalValue" : "apply",
-  "information" : "uzyć\nKamentar: Samsung"
+  "information" : "uzyć\n\nKamentar:\nSamsung"
 }, {
   "id" : 55,
   "originalValue" : "Arabic",
-  "information" : "Arabskaje (piśmo); arabskaja (mova)\nKamentar: CLDR"
+  "information" : "Arabskaje (piśmo); arabskaja (mova)\n\nKamentar:\nCLDR"
 }, {
   "id" : 56,
   "originalValue" : "architecture",
@@ -229,67 +229,67 @@
 }, {
   "id" : 58,
   "originalValue" : "area",
-  "information" : "voblaść\nKamentar: ms, google, samsung"
+  "information" : "voblaść\n\nKamentar:\nms, google, samsung"
 }, {
   "id" : 59,
   "originalValue" : "Argentina",
-  "information" : "Arhieńcina\nKamentar: CLDR"
+  "information" : "Arhieńcina\n\nKamentar:\nCLDR"
 }, {
   "id" : 60,
   "originalValue" : "Armenia",
-  "information" : "Armienija\nKamentar: CLDR"
+  "information" : "Armienija\n\nKamentar:\nCLDR"
 }, {
   "id" : 61,
   "originalValue" : "Armenian",
-  "information" : "armianskaja\nKamentar: CLDR"
+  "information" : "armianskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 62,
   "originalValue" : "Aruba",
-  "information" : "Aruba\nKamentar: CLDR"
+  "information" : "Aruba\n\nKamentar:\nCLDR"
 }, {
   "id" : 63,
   "originalValue" : "as available",
-  "information" : "pavodlie najaŭnaści\nKamentar: Samsung"
+  "information" : "pavodlie najaŭnaści\n\nKamentar:\nSamsung"
 }, {
   "id" : 64,
   "originalValue" : "Asia",
-  "information" : "Azija\nKamentar: CLDR"
+  "information" : "Azija\n\nKamentar:\nCLDR"
 }, {
   "id" : 65,
   "originalValue" : "Assamese",
-  "information" : "asamskaja\nKamentar: CLDR"
+  "information" : "asamskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 66,
   "originalValue" : "assign",
-  "information" : "pryznačyć\nKamentar: Samsung, MS"
+  "information" : "pryznačyć\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 67,
   "originalValue" : "assignment",
-  "information" : "pryznačeńnie\nKamentar: Samsung"
+  "information" : "pryznačeńnie\n\nKamentar:\nSamsung"
 }, {
   "id" : 68,
   "originalValue" : "associated",
-  "information" : "! źviazany\nKamentar: MS"
+  "information" : "! źviazany\n\nKamentar:\nMS"
 }, {
   "id" : 69,
   "originalValue" : "Asturian",
-  "information" : "asturyjskaja\nKamentar: CLDR"
+  "information" : "asturyjskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 70,
   "originalValue" : "Asu",
-  "information" : "asu (mova)\nKamentar: CLDR"
+  "information" : "asu (mova)\n\nKamentar:\nCLDR"
 }, {
   "id" : 71,
   "originalValue" : "at least",
-  "information" : "prynamsi\nKamentar: u hetym seńsie koskami nie adasabliajecca"
+  "information" : "prynamsi\n\nKamentar:\nu hetym seńsie koskami nie adasabliajecca"
 }, {
   "id" : 72,
   "originalValue" : "attach",
-  "information" : "dalučyć\nKamentar: Samsung, MS"
+  "information" : "dalučyć\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 73,
   "originalValue" : "attachment",
-  "information" : "dalučeńnie\nKamentar: Samsung"
+  "information" : "dalučeńnie\n\nKamentar:\nSamsung"
 }, {
   "id" : 74,
   "originalValue" : "attribute",
@@ -305,11 +305,11 @@
 }, {
   "id" : 77,
   "originalValue" : "Australia",
-  "information" : "Aŭstralija\nKamentar: CLDR"
+  "information" : "Aŭstralija\n\nKamentar:\nCLDR"
 }, {
   "id" : 78,
   "originalValue" : "Austria",
-  "information" : "Aŭstryja\nKamentar: CLDR"
+  "information" : "Aŭstryja\n\nKamentar:\nCLDR"
 }, {
   "id" : 79,
   "originalValue" : "authentication",
@@ -317,11 +317,11 @@
 }, {
   "id" : 80,
   "originalValue" : "authorization",
-  "information" : "aŭtaryzacyja\nKamentar: MS — aŭtaryzacyja"
+  "information" : "aŭtaryzacyja\n\nKamentar:\nMS — aŭtaryzacyja"
 }, {
   "id" : 81,
   "originalValue" : "authorize",
-  "information" : "aŭtaryzavać\nKamentar: MS"
+  "information" : "aŭtaryzavać\n\nKamentar:\nMS"
 }, {
   "id" : 82,
   "originalValue" : "automatic",
@@ -329,11 +329,11 @@
 }, {
   "id" : 83,
   "originalValue" : "autorun",
-  "information" : "aŭtazapusk\n\nKamentar: Samsung"
+  "information" : "aŭtazapusk\n\n\nKamentar:\nSamsung"
 }, {
   "id" : 84,
   "originalValue" : "available",
-  "information" : "dastupny; u sietcy\nKamentar: MS"
+  "information" : "dastupny; u sietcy\n\nKamentar:\nMS"
 }, {
   "id" : 85,
   "originalValue" : "average",
@@ -341,39 +341,39 @@
 }, {
   "id" : 86,
   "originalValue" : "axis",
-  "information" : "voś, vosi\nKamentar: Samsung, MS"
+  "information" : "voś, vosi\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 87,
   "originalValue" : "Azerbaijan",
-  "information" : "Azierbajdzan\nKamentar: CLDR"
+  "information" : "Azierbajdzan\n\nKamentar:\nCLDR"
 }, {
   "id" : 88,
   "originalValue" : "Azerbaijani",
-  "information" : "azierbajdzanskaja\nKamentar: CLDR"
+  "information" : "azierbajdzanskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 89,
   "originalValue" : "Azeri",
-  "information" : "azierbajdzanskaja\nKamentar: CLDR"
+  "information" : "azierbajdzanskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 90,
   "originalValue" : "B",
-  "information" : "B — B (kali majecca na ŭvazie bajt); b — b (kali majecca na ŭvazie bit)\nKamentar: niama ŭ CLDR"
+  "information" : "B — B (kali majecca na ŭvazie bajt); b — b (kali majecca na ŭvazie bit)\n\nKamentar:\nniama ŭ CLDR"
 }, {
   "id" : 91,
   "originalValue" : "Back",
-  "information" : "Nazad\nKamentar: MS"
+  "information" : "Nazad\n\nKamentar:\nMS"
 }, {
   "id" : 92,
   "originalValue" : "back up",
-  "information" : "reziervavać; reziervovaja kopija; reziervovaje kapijavańnie\nKamentar: Samsung"
+  "information" : "reziervavać; reziervovaja kopija; reziervovaje kapijavańnie\n\nKamentar:\nSamsung"
 }, {
   "id" : 93,
   "originalValue" : "background",
-  "information" : "fon; fonavy\nKamentar: Google, Samsung"
+  "information" : "fon; fonavy\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 94,
   "originalValue" : "backup",
-  "information" : "reziervavać; reziervovaja kopija; reziervovaje kapijavańnie\nKamentar: Samsung"
+  "information" : "reziervavać; reziervovaja kopija; reziervovaje kapijavańnie\n\nKamentar:\nSamsung"
 }, {
   "id" : 95,
   "originalValue" : "bad",
@@ -385,139 +385,139 @@
 }, {
   "id" : 97,
   "originalValue" : "bad word",
-  "information" : "nieprystojnaje slova\nKamentar: MS"
+  "information" : "nieprystojnaje slova\n\nKamentar:\nMS"
 }, {
   "id" : 98,
   "originalValue" : "badge",
-  "information" : "značok\nKamentar: MS — značok, embliema\nGoogle — značok"
+  "information" : "značok\n\nKamentar:\nMS — značok, embliema\nGoogle — značok"
 }, {
   "id" : 99,
   "originalValue" : "Bafia",
-  "information" : "bafija (mova)\nKamentar: CLDR"
+  "information" : "bafija (mova)\n\nKamentar:\nCLDR"
 }, {
   "id" : 100,
   "originalValue" : "Bahamas",
-  "information" : "Bahamskija astravy\nKamentar: CLDR"
+  "information" : "Bahamskija astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 101,
   "originalValue" : "Bahrain",
-  "information" : "Bachrejn\nKamentar: CLDR"
+  "information" : "Bachrejn\n\nKamentar:\nCLDR"
 }, {
   "id" : 102,
   "originalValue" : "­Bambara",
-  "information" : "bambara (mova)\nKamentar: CLDR"
+  "information" : "bambara (mova)\n\nKamentar:\nCLDR"
 }, {
   "id" : 103,
   "originalValue" : "bandwidth",
-  "information" : "palasa prapuskańnia\nKamentar: Samsung, MS — palasa prapuskańnia\nMS — prapusknaja ŭlaścivaść"
+  "information" : "palasa prapuskańnia\n\nKamentar:\nSamsung, MS — palasa prapuskańnia\nMS — prapusknaja ŭlaścivaść"
 }, {
   "id" : 104,
   "originalValue" : "Bangla",
-  "information" : "bienhaĺskaja\nKamentar: CLDR"
+  "information" : "bienhaĺskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 105,
   "originalValue" : "Bangladesh",
-  "information" : "Banhladeš\nKamentar: CLDR"
+  "information" : "Banhladeš\n\nKamentar:\nCLDR"
 }, {
   "id" : 106,
   "originalValue" : "bar",
-  "information" : "paneĺ\nKamentar: Samsung, Google, MS"
+  "information" : "paneĺ\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 107,
   "originalValue" : "Barbados",
-  "information" : "Barbadas\nKamentar: CLDR"
+  "information" : "Barbadas\n\nKamentar:\nCLDR"
 }, {
   "id" : 108,
   "originalValue" : "Basaa",
-  "information" : "basaa (mova)\nKamentar: CLDR"
+  "information" : "basaa (mova)\n\nKamentar:\nCLDR"
 }, {
   "id" : 109,
   "originalValue" : "Basque",
-  "information" : "baskskaja\nKamentar: CLDR"
+  "information" : "baskskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 110,
   "originalValue" : "batch",
-  "information" : "pakiet\nKamentar: Google, MS"
+  "information" : "pakiet\n\nKamentar:\nGoogle, MS"
 }, {
   "id" : 111,
   "originalValue" : "battery",
-  "information" : "akumuliatar; batareja\nKamentar: Samsung, Google, MS"
+  "information" : "akumuliatar; batareja\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 112,
   "originalValue" : "battery level",
-  "information" : "uzrovień akumuliatara\nKamentar: MS"
+  "information" : "uzrovień akumuliatara\n\nKamentar:\nMS"
 }, {
   "id" : 113,
   "originalValue" : "battery life",
-  "information" : "! resurs akumuliatara, termin pracy akumuliatara\nKamentar: resurs akumuliatara — Google\ntermin pracy akumuliatara — MS"
+  "information" : "! resurs akumuliatara, termin pracy akumuliatara\n\nKamentar:\nresurs akumuliatara — Google\ntermin pracy akumuliatara — MS"
 }, {
   "id" : 114,
   "originalValue" : "battery power",
-  "information" : "zarad akumuliatara\nKamentar: Samsung"
+  "information" : "zarad akumuliatara\n\nKamentar:\nSamsung"
 }, {
   "id" : 115,
   "originalValue" : "Battery saving",
-  "information" : "Ekanomija zaradu\nKamentar: Google"
+  "information" : "Ekanomija zaradu\n\nKamentar:\nGoogle"
 }, {
   "id" : 116,
   "originalValue" : "because",
-  "information" : "bo\nNiapraviĺny pieraklad: tamu što\nKamentar: vykliučna dzielia adnastajnaści"
+  "information" : "bo\n\nNiapraviĺny pieraklad:\ntamu što\n\nKamentar:\nvykliučna dzielia adnastajnaści"
 }, {
   "id" : 117,
   "originalValue" : "Belarus",
-  "information" : "Bielaruś\nKamentar: CLDR"
+  "information" : "Bielaruś\n\nKamentar:\nCLDR"
 }, {
   "id" : 118,
   "originalValue" : "Belarusian",
-  "information" : "Bielaruskaja\nKamentar: CLDR"
+  "information" : "Bielaruskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 119,
   "originalValue" : "Belarusian (Latin)",
-  "information" : "Bielaruskaja (Lacinka)\nKamentar: CLDR"
+  "information" : "Bielaruskaja (Lacinka)\n\nKamentar:\nCLDR"
 }, {
   "id" : 120,
   "originalValue" : "Belarussian",
-  "information" : "Bielaruskaja\nKamentar: CLDR"
+  "information" : "Bielaruskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 121,
   "originalValue" : "Belgium",
-  "information" : "Beĺhija\nKamentar: CLDR"
+  "information" : "Beĺhija\n\nKamentar:\nCLDR"
 }, {
   "id" : 122,
   "originalValue" : "Belize",
-  "information" : "Bieliz\nKamentar: CLDR"
+  "information" : "Bieliz\n\nKamentar:\nCLDR"
 }, {
   "id" : 123,
   "originalValue" : "below",
-  "information" : "nizej\nKamentar: Samsung"
+  "information" : "nizej\n\nKamentar:\nSamsung"
 }, {
   "id" : 124,
   "originalValue" : "Bemba",
-  "information" : "biemba (mova)\nKamentar: CLDR"
+  "information" : "biemba (mova)\n\nKamentar:\nCLDR"
 }, {
   "id" : 125,
   "originalValue" : "Bena",
-  "information" : "biena(mova)\n\nKamentar: CLDR"
+  "information" : "biena(mova)\n\n\nKamentar:\nCLDR"
 }, {
   "id" : 126,
   "originalValue" : "Benin",
-  "information" : "Bienin\nKamentar: CLDR"
+  "information" : "Bienin\n\nKamentar:\nCLDR"
 }, {
   "id" : 127,
   "originalValue" : "Bermuda",
-  "information" : "Biermudskija astravy\nKamentar: CLDR"
+  "information" : "Biermudskija astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 128,
   "originalValue" : "Bhutan",
-  "information" : "Butan\nKamentar: CLDR"
+  "information" : "Butan\n\nKamentar:\nCLDR"
 }, {
   "id" : 129,
   "originalValue" : "bit",
-  "information" : "bit\nKamentar: CLDR"
+  "information" : "bit\n\nKamentar:\nCLDR"
 }, {
   "id" : 130,
   "originalValue" : "bits",
-  "information" : "bity\nKamentar: CLDR"
+  "information" : "bity\n\nKamentar:\nCLDR"
 }, {
   "id" : 131,
   "originalValue" : "bitwise",
@@ -529,7 +529,7 @@
 }, {
   "id" : 133,
   "originalValue" : "block",
-  "information" : "blakiravać, zablakiravać; blakiravańnie (praces); blakiroŭka\nNiapraviĺny pieraklad: blakavać; blakavańnie; zablakavać"
+  "information" : "blakiravać, zablakiravać; blakiravańnie (praces); blakiroŭka\n\nNiapraviĺny pieraklad:\nblakavać; blakavańnie; zablakavać"
 }, {
   "id" : 134,
   "originalValue" : "blue",
@@ -545,27 +545,27 @@
 }, {
   "id" : 137,
   "originalValue" : "Bodo",
-  "information" : "boda (mova)\n\nKamentar: CLDR"
+  "information" : "boda (mova)\n\n\nKamentar:\nCLDR"
 }, {
   "id" : 138,
   "originalValue" : "body",
-  "information" : "źmiest (dakumenta); ciela\nKamentar: Samsung — źmiest (dakumenta)\nMS — tekst (paviedamlieńnia)\n\nDumaju, što tut mozna ličyć paviedamlieńnie j dakument sinonimami"
+  "information" : "źmiest (dakumenta); ciela\n\nKamentar:\nSamsung — źmiest (dakumenta)\nMS — tekst (paviedamlieńnia)\n\nDumaju, što tut mozna ličyć paviedamlieńnie j dakument sinonimami"
 }, {
   "id" : 139,
   "originalValue" : "Bolivia",
-  "information" : "Balivija\nKamentar: CLDR"
+  "information" : "Balivija\n\nKamentar:\nCLDR"
 }, {
   "id" : 140,
   "originalValue" : "bookmark",
-  "information" : "zakladka\nKamentar: Google, Samsung"
+  "information" : "zakladka\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 141,
   "originalValue" : "Bosnia and Herzegovina",
-  "information" : "Bośnija j Hiercahavina\nKamentar: CLDR"
+  "information" : "Bośnija j Hiercahavina\n\nKamentar:\nCLDR"
 }, {
   "id" : 142,
   "originalValue" : "Bosnian",
-  "information" : "baśnijskaja\nKamentar: CLDR"
+  "information" : "baśnijskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 143,
   "originalValue" : "both",
@@ -573,7 +573,7 @@
 }, {
   "id" : 144,
   "originalValue" : "Botswana",
-  "information" : "Batsvana\nKamentar: CLDR"
+  "information" : "Batsvana\n\nKamentar:\nCLDR"
 }, {
   "id" : 145,
   "originalValue" : "Bounce Keys",
@@ -585,11 +585,11 @@
 }, {
   "id" : 147,
   "originalValue" : "Brazil",
-  "information" : "Brazilija\nKamentar: CLDR"
+  "information" : "Brazilija\n\nKamentar:\nCLDR"
 }, {
   "id" : 148,
   "originalValue" : "Brazzaville",
-  "information" : "Brazaviĺ\nKamentar: CLDR"
+  "information" : "Brazaviĺ\n\nKamentar:\nCLDR"
 }, {
   "id" : 149,
   "originalValue" : "Brest",
@@ -597,23 +597,23 @@
 }, {
   "id" : 150,
   "originalValue" : "Breton",
-  "information" : "bretonskaja\nKamentar: CLDR"
+  "information" : "bretonskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 151,
   "originalValue" : "brightness",
-  "information" : "jarkaść\nKamentar: Google"
+  "information" : "jarkaść\n\nKamentar:\nGoogle"
 }, {
   "id" : 152,
   "originalValue" : "British Indian Ocean Territory",
-  "information" : "Brytanskaja terytoryja ŭ Indyjskim akijanie\nKamentar: CLDR"
+  "information" : "Brytanskaja terytoryja ŭ Indyjskim akijanie\n\nKamentar:\nCLDR"
 }, {
   "id" : 153,
   "originalValue" : "British Virgin Islands",
-  "information" : "Brytanskija Virhinskija astravy\nKamentar: CLDR"
+  "information" : "Brytanskija Virhinskija astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 154,
   "originalValue" : "broadband",
-  "information" : "šyrokapalosny\nKamentar: Samsung, MS"
+  "information" : "šyrokapalosny\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 155,
   "originalValue" : "brown",
@@ -621,19 +621,19 @@
 }, {
   "id" : 156,
   "originalValue" : "browser",
-  "information" : "braŭzier\nNiapraviĺny pieraklad: braŭzar"
+  "information" : "braŭzier\n\nNiapraviĺny pieraklad:\nbraŭzar"
 }, {
   "id" : 157,
   "originalValue" : "browser history",
-  "information" : "historyja braŭziera\nKamentar: Samsung"
+  "information" : "historyja braŭziera\n\nKamentar:\nSamsung"
 }, {
   "id" : 158,
   "originalValue" : "Brunei",
-  "information" : "Bruniej\nKamentar: CLDR"
+  "information" : "Bruniej\n\nKamentar:\nCLDR"
 }, {
   "id" : 159,
   "originalValue" : "brush",
-  "information" : "pendzaĺ\nKamentar: Samsung"
+  "information" : "pendzaĺ\n\nKamentar:\nSamsung"
 }, {
   "id" : 160,
   "originalValue" : "bug",
@@ -641,39 +641,39 @@
 }, {
   "id" : 161,
   "originalValue" : "built-in",
-  "information" : "ubudavany\nKamentar: MS"
+  "information" : "ubudavany\n\nKamentar:\nMS"
 }, {
   "id" : 162,
   "originalValue" : "Bulgaria",
-  "information" : "Balharyja\nKamentar: CLDR"
+  "information" : "Balharyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 163,
   "originalValue" : "Bulgarian",
-  "information" : "balharskaja\nKamentar: CLDR"
+  "information" : "balharskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 164,
   "originalValue" : "Burkina Faso",
-  "information" : "Burkina-Faso\nKamentar: CLDR"
+  "information" : "Burkina-Faso\n\nKamentar:\nCLDR"
 }, {
   "id" : 165,
   "originalValue" : "Burmese",
-  "information" : "birmanskaja\nKamentar: CLDR"
+  "information" : "birmanskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 166,
   "originalValue" : "Burundi",
-  "information" : "Buruńdzi\nKamentar: CLDR"
+  "information" : "Buruńdzi\n\nKamentar:\nCLDR"
 }, {
   "id" : 167,
   "originalValue" : "busy",
-  "information" : "zaniaty\nKamentar: MS, Samsung"
+  "information" : "zaniaty\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 168,
   "originalValue" : "byte",
-  "information" : "bajt\nKamentar: CLDR"
+  "information" : "bajt\n\nKamentar:\nCLDR"
 }, {
   "id" : 169,
   "originalValue" : "bytes",
-  "information" : "bajty\nKamentar: CLDR"
+  "information" : "bajty\n\nKamentar:\nCLDR"
 }, {
   "id" : 170,
   "originalValue" : "C++ Header",
@@ -681,7 +681,7 @@
 }, {
   "id" : 171,
   "originalValue" : "cache",
-  "information" : "keš\nKamentar: MS, Samsung"
+  "information" : "keš\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 172,
   "originalValue" : "calculate",
@@ -689,15 +689,15 @@
 }, {
   "id" : 173,
   "originalValue" : "calendar",
-  "information" : "kaliandar, kaliendara\nNiapraviĺny pieraklad: kaliandara"
+  "information" : "kaliandar, kaliendara\n\nNiapraviĺny pieraklad:\nkaliandara"
 }, {
   "id" : 174,
   "originalValue" : "calendars",
-  "information" : "kaliendary\nNiapraviĺny pieraklad: kaliandary"
+  "information" : "kaliendary\n\nNiapraviĺny pieraklad:\nkaliandary"
 }, {
   "id" : 175,
   "originalValue" : "calibration",
-  "information" : "kalibroŭka\nKamentar: Samsung, MS"
+  "information" : "kalibroŭka\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 176,
   "originalValue" : "call",
@@ -705,11 +705,11 @@
 }, {
   "id" : 177,
   "originalValue" : "Cambodia",
-  "information" : "Kambodza\nKamentar: CLDR"
+  "information" : "Kambodza\n\nKamentar:\nCLDR"
 }, {
   "id" : 178,
   "originalValue" : "Cameroon",
-  "information" : "Kamierun\nKamentar: CLDR"
+  "information" : "Kamierun\n\nKamentar:\nCLDR"
 }, {
   "id" : 179,
   "originalValue" : "can't\n",
@@ -717,15 +717,15 @@
 }, {
   "id" : 180,
   "originalValue" : "Canada",
-  "information" : "Kanada\nKamentar: CLDR"
+  "information" : "Kanada\n\nKamentar:\nCLDR"
 }, {
   "id" : 181,
   "originalValue" : "Canary Islands",
-  "information" : "Kanarskija astravy\nKamentar: CLDR"
+  "information" : "Kanarskija astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 182,
   "originalValue" : "cancel",
-  "information" : "skasavać\nNiapraviĺny pieraklad: admianić, adchilić i inš."
+  "information" : "skasavać\n\nNiapraviĺny pieraklad:\nadmianić, adchilić i inš."
 }, {
   "id" : 183,
   "originalValue" : "canceled",
@@ -741,11 +741,11 @@
 }, {
   "id" : 186,
   "originalValue" : "cancelling",
-  "information" : "skasavańnie\nNiapraviĺny pieraklad: skasoŭvańnie, kasavańnie"
+  "information" : "skasavańnie\n\nNiapraviĺny pieraklad:\nskasoŭvańnie, kasavańnie"
 }, {
   "id" : 187,
   "originalValue" : "cannot",
-  "information" : "niemahčyma (biez zajmieńnika); nieĺha, nia mozacie (z asobaj: you cannot);\nKamentar: cannot unzip the archive — niemahčyma raspakavać archiŭ"
+  "information" : "niemahčyma (biez zajmieńnika); nieĺha, nia mozacie (z asobaj: you cannot);\n\nKamentar:\ncannot unzip the archive — niemahčyma raspakavać archiŭ"
 }, {
   "id" : 188,
   "originalValue" : "cannot",
@@ -753,7 +753,7 @@
 }, {
   "id" : 189,
   "originalValue" : "Cantonese",
-  "information" : "kantonski dyjaliekt kitajskaj\nKamentar: CLDR"
+  "information" : "kantonski dyjaliekt kitajskaj\n\nKamentar:\nCLDR"
 }, {
   "id" : 190,
   "originalValue" : "canvas",
@@ -761,15 +761,15 @@
 }, {
   "id" : 191,
   "originalValue" : "Cape Verde",
-  "information" : "Kaba-Vierde\nKamentar: CLDR"
+  "information" : "Kaba-Vierde\n\nKamentar:\nCLDR"
 }, {
   "id" : 192,
   "originalValue" : "Cayman Islands",
-  "information" : "Kajmanavy astravy\nKamentar: CLDR"
+  "information" : "Kajmanavy astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 193,
   "originalValue" : "Central African Republic",
-  "information" : "Centraĺna-Afrykanskaja Respublika\nKamentar: CLDR"
+  "information" : "Centraĺna-Afrykanskaja Respublika\n\nKamentar:\nCLDR"
 }, {
   "id" : 194,
   "originalValue" : "certificate",
@@ -781,11 +781,11 @@
 }, {
   "id" : 196,
   "originalValue" : "Ceuta and Melilla",
-  "information" : "Sieuta j Mieliĺia\nKamentar: CLDR"
+  "information" : "Sieuta j Mieliĺia\n\nKamentar:\nCLDR"
 }, {
   "id" : 197,
   "originalValue" : "Chad",
-  "information" : "Čad\nKamentar: CLDR"
+  "information" : "Čad\n\nKamentar:\nCLDR"
 }, {
   "id" : 198,
   "originalValue" : "change",
@@ -797,11 +797,11 @@
 }, {
   "id" : 200,
   "originalValue" : "charge",
-  "information" : "spahaniać platu (čaściej za ŭsio: moza spahaniacca plata); aplata; vydatak; zaradzać (akumuliatar)\nKamentar: MS, Samsung"
+  "information" : "spahaniać platu (čaściej za ŭsio: moza spahaniacca plata); aplata; vydatak; zaradzać (akumuliatar)\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 201,
   "originalValue" : "chart",
-  "information" : "dyjahrama\nKamentar: Samsung"
+  "information" : "dyjahrama\n\nKamentar:\nSamsung"
 }, {
   "id" : 202,
   "originalValue" : "chat",
@@ -809,51 +809,51 @@
 }, {
   "id" : 203,
   "originalValue" : "check",
-  "information" : "pravierka; pravieryć\nKamentar: Google"
+  "information" : "pravierka; pravieryć\n\nKamentar:\nGoogle"
 }, {
   "id" : 204,
   "originalValue" : "check box",
-  "information" : "ptuška\nNiapraviĺny pieraklad: ściazok\nKamentar: Google, Samsung, MS\nściazok — kryvaja kaĺka z ruskaj, jakuju nie rekamiendujecca vykarystoŭvać"
+  "information" : "ptuška\n\nNiapraviĺny pieraklad:\nściazok\n\nKamentar:\nGoogle, Samsung, MS\nściazok — kryvaja kaĺka z ruskaj, jakuju nie rekamiendujecca vykarystoŭvać"
 }, {
   "id" : 205,
   "originalValue" : "check-box",
-  "information" : "ptuška\nKamentar: hl. check box"
+  "information" : "ptuška\n\nKamentar:\nhl. check box"
 }, {
   "id" : 206,
   "originalValue" : "checkbox",
-  "information" : "ptuška\nKamentar: hl. check box"
+  "information" : "ptuška\n\nKamentar:\nhl. check box"
 }, {
   "id" : 207,
   "originalValue" : "checking",
-  "information" : "pravierka\nKamentar: MS"
+  "information" : "pravierka\n\nKamentar:\nMS"
 }, {
   "id" : 208,
   "originalValue" : "Chile",
-  "information" : "Čyli\nKamentar: CLDR"
+  "information" : "Čyli\n\nKamentar:\nCLDR"
 }, {
   "id" : 209,
   "originalValue" : "China",
-  "information" : "Kitaj\nKamentar: CLDR"
+  "information" : "Kitaj\n\nKamentar:\nCLDR"
 }, {
   "id" : 210,
   "originalValue" : "chinese",
-  "information" : "kitajskaja (mova); kitajskaje (piśmo)\nKamentar: CLDR"
+  "information" : "kitajskaja (mova); kitajskaje (piśmo)\n\nKamentar:\nCLDR"
 }, {
   "id" : 211,
   "originalValue" : "Chinese (simplified)",
-  "information" : "Kitajskaja (sproščanyja jerohlify)\nKamentar: CLDR"
+  "information" : "Kitajskaja (sproščanyja jerohlify)\n\nKamentar:\nCLDR"
 }, {
   "id" : 212,
   "originalValue" : "Chinese (traditional)",
-  "information" : "Kitajskaja (tradycyjnyja jerohlify)\nKamentar: CLDR"
+  "information" : "Kitajskaja (tradycyjnyja jerohlify)\n\nKamentar:\nCLDR"
 }, {
   "id" : 213,
   "originalValue" : "Chinese, Cantonese",
-  "information" : "kitajskaja, kantonski dyjaliekt\nKamentar: CLDR"
+  "information" : "kitajskaja, kantonski dyjaliekt\n\nKamentar:\nCLDR"
 }, {
   "id" : 214,
   "originalValue" : "Chinese, Mandarin",
-  "information" : "kitajskaja, paŭnočnyja dyjaliekty\nKamentar: CLDR"
+  "information" : "kitajskaja, paŭnočnyja dyjaliekty\n\nKamentar:\nCLDR"
 }, {
   "id" : 215,
   "originalValue" : "choose",
@@ -861,7 +861,7 @@
 }, {
   "id" : 216,
   "originalValue" : "Christmas Island",
-  "information" : "Vostraŭ Kaliad\nKamentar: CLDR"
+  "information" : "Vostraŭ Kaliad\n\nKamentar:\nCLDR"
 }, {
   "id" : 217,
   "originalValue" : "clear",
@@ -869,7 +869,7 @@
 }, {
   "id" : 218,
   "originalValue" : "click",
-  "information" : "naciskać, nacisnuć, naciśnicie; naciskańnie\nNiapraviĺny pieraklad: pstryk; pstryknuć, ščaŭčok, klik\nKamentar: naciskańnie - MS, Google, Samsung\n"
+  "information" : "naciskać, nacisnuć, naciśnicie; naciskańnie\n\nNiapraviĺny pieraklad:\npstryk; pstryknuć, ščaŭčok, klik\n\nKamentar:\nnaciskańnie - MS, Google, Samsung\n"
 }, {
   "id" : 219,
   "originalValue" : "client",
@@ -877,7 +877,7 @@
 }, {
   "id" : 220,
   "originalValue" : "clipboard",
-  "information" : "bufier abmienu\nNiapraviĺny pieraklad: kišenia\nKamentar: MS, Google, Samsung"
+  "information" : "bufier abmienu\n\nNiapraviĺny pieraklad:\nkišenia\n\nKamentar:\nMS, Google, Samsung"
 }, {
   "id" : 221,
   "originalValue" : "close",
@@ -885,7 +885,7 @@
 }, {
   "id" : 222,
   "originalValue" : "Cocos (Keeling) Islands",
-  "information" : "Kakosavyja (Kilinh) astravy\nKamentar: CLDR"
+  "information" : "Kakosavyja (Kilinh) astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 223,
   "originalValue" : "code",
@@ -893,11 +893,11 @@
 }, {
   "id" : 224,
   "originalValue" : "coil",
-  "information" : "špulia\nKamentar: Samsung"
+  "information" : "špulia\n\nKamentar:\nSamsung"
 }, {
   "id" : 225,
   "originalValue" : "Colombia",
-  "information" : "Kalumbija\nKamentar: CLDR"
+  "information" : "Kalumbija\n\nKamentar:\nCLDR"
 }, {
   "id" : 226,
   "originalValue" : "color",
@@ -913,11 +913,11 @@
 }, {
   "id" : 229,
   "originalValue" : "Colour picker",
-  "information" : "Vybar kolieru\nKamentar: Google, Samsung"
+  "information" : "Vybar kolieru\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 230,
   "originalValue" : "command",
-  "information" : "kamanda\nKamentar: Samsung"
+  "information" : "kamanda\n\nKamentar:\nSamsung"
 }, {
   "id" : 231,
   "originalValue" : "commit",
@@ -929,11 +929,11 @@
 }, {
   "id" : 233,
   "originalValue" : "Comoros",
-  "information" : "Kamorskija astravy\nKamentar: CLDR"
+  "information" : "Kamorskija astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 234,
   "originalValue" : "compatibility",
-  "information" : "sumiaščaĺnaść\nKamentar: Samsung, Google, MS"
+  "information" : "sumiaščaĺnaść\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 235,
   "originalValue" : "complete",
@@ -941,11 +941,11 @@
 }, {
   "id" : 236,
   "originalValue" : "completed",
-  "information" : "zavieršana; vykanana\nKamentar: MS"
+  "information" : "zavieršana; vykanana\n\nKamentar:\nMS"
 }, {
   "id" : 237,
   "originalValue" : "completed",
-  "information" : "zavieršana\nKamentar: MS"
+  "information" : "zavieršana\n\nKamentar:\nMS"
 }, {
   "id" : 238,
   "originalValue" : "complex",
@@ -953,31 +953,31 @@
 }, {
   "id" : 239,
   "originalValue" : "compress",
-  "information" : "sc­iskać\nKamentar: Samsung"
+  "information" : "sc­iskać\n\nKamentar:\nSamsung"
 }, {
   "id" : 240,
   "originalValue" : "computer",
-  "information" : "kampjutar\nNiapraviĺny pieraklad: kamputar"
+  "information" : "kampjutar\n\nNiapraviĺny pieraklad:\nkamputar"
 }, {
   "id" : 241,
   "originalValue" : "configuration",
-  "information" : "kanfihuracyja\nKamentar: MS"
+  "information" : "kanfihuracyja\n\nKamentar:\nMS"
 }, {
   "id" : 242,
   "originalValue" : "configure",
-  "information" : "kanfihuravać\nKamentar: MS, samsung"
+  "information" : "kanfihuravać\n\nKamentar:\nMS, samsung"
 }, {
   "id" : 243,
   "originalValue" : "Congo (DRC)",
-  "information" : "Konha (DRK)\nKamentar: CLDR"
+  "information" : "Konha (DRK)\n\nKamentar:\nCLDR"
 }, {
   "id" : 244,
   "originalValue" : "Congo (Republic)",
-  "information" : "Respublika Konha\nKamentar: CLDR"
+  "information" : "Respublika Konha\n\nKamentar:\nCLDR"
 }, {
   "id" : 245,
   "originalValue" : "connect",
-  "information" : "zlučyć; zlučacca; padlučać (dysk); padlučacca (fizyčna)\nKamentar: MS, Samsung"
+  "information" : "zlučyć; zlučacca; padlučać (dysk); padlučacca (fizyčna)\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 246,
   "originalValue" : "connected",
@@ -997,31 +997,31 @@
 }, {
   "id" : 250,
   "originalValue" : "connector",
-  "information" : "pierachodnik\nKamentar: Samsung"
+  "information" : "pierachodnik\n\nKamentar:\nSamsung"
 }, {
   "id" : 251,
   "originalValue" : "contain",
-  "information" : "źmiaščać; utrymlivać\nKamentar: Samsung, MS"
+  "information" : "źmiaščać; utrymlivać\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 252,
   "originalValue" : "continue",
-  "information" : "praciahnuć\nKamentar: MS, Samsung"
+  "information" : "praciahnuć\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 253,
   "originalValue" : "Cook Islands",
-  "information" : "Astravy Kuka\nKamentar: CLDR"
+  "information" : "Astravy Kuka\n\nKamentar:\nCLDR"
 }, {
   "id" : 254,
   "originalValue" : "copy",
-  "information" : "kapijavać; kopija\nNiapraviĺny pieraklad: kapiravać\nKamentar: Kapijavać — hety termin boĺš tradycyjna-bielaruski. Jaho vykarystoŭvaje Microsoft i pryniaty ŭ Telegram. Samo slova mozna znajści ŭ narkamaŭskich sloŭnikach, napryklad: \"Tlumačaĺny sloŭnik bielaruskaj litaraturnaj movy\" 2016 h.\nKapiravać — hety termin vykarystoŭvaje Google i Samsung. Boĺš raspaŭsiudzany ŭ sloŭnikach i ź im akurat nia budzie prabliemaŭ kštaltu amanimii."
+  "information" : "kapijavać; kopija\n\nNiapraviĺny pieraklad:\nkapiravać\n\nKamentar:\nKapijavać — hety termin boĺš tradycyjna-bielaruski. Jaho vykarystoŭvaje Microsoft i pryniaty ŭ Telegram. Samo slova mozna znajści ŭ narkamaŭskich sloŭnikach, napryklad: \"Tlumačaĺny sloŭnik bielaruskaj litaraturnaj movy\" 2016 h.\nKapiravać — hety termin vykarystoŭvaje Google i Samsung. Boĺš raspaŭsiudzany ŭ sloŭnikach i ź im akurat nia budzie prabliemaŭ kštaltu amanimii."
 }, {
   "id" : 255,
   "originalValue" : "Costa Rica",
-  "information" : "Kosta-Ryka\nKamentar: CLDR"
+  "information" : "Kosta-Ryka\n\nKamentar:\nCLDR"
 }, {
   "id" : 256,
   "originalValue" : "Côte d'Ivoire",
-  "information" : "Kot-d’Ivuar\nKamentar: CLDR"
+  "information" : "Kot-d’Ivuar\n\nKamentar:\nCLDR"
 }, {
   "id" : 257,
   "originalValue" : "could not",
@@ -1053,11 +1053,11 @@
 }, {
   "id" : 264,
   "originalValue" : "Cuba",
-  "information" : "Kuba\nKamentar: CLDR"
+  "information" : "Kuba\n\nKamentar:\nCLDR"
 }, {
   "id" : 265,
   "originalValue" : "Curaçao",
-  "information" : "Kiurasaa\nKamentar: CLDR"
+  "information" : "Kiurasaa\n\nKamentar:\nCLDR"
 }, {
   "id" : 266,
   "originalValue" : "currency",
@@ -1073,19 +1073,19 @@
 }, {
   "id" : 269,
   "originalValue" : "Cyprus",
-  "information" : "Kipr\nKamentar: CLDR"
+  "information" : "Kipr\n\nKamentar:\nCLDR"
 }, {
   "id" : 270,
   "originalValue" : "cyrillic",
-  "information" : "kirylica\nKamentar: CLDR"
+  "information" : "kirylica\n\nKamentar:\nCLDR"
 }, {
   "id" : 271,
   "originalValue" : "Czech Republic",
-  "information" : "Češskaja Respublika\nKamentar: CLDR"
+  "information" : "Češskaja Respublika\n\nKamentar:\nCLDR"
 }, {
   "id" : 272,
   "originalValue" : "daily",
-  "information" : "štodnia; štodzionny; za dzień\n\nKamentar: MS, Samsung"
+  "information" : "štodnia; štodzionny; za dzień\n\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 273,
   "originalValue" : "danger",
@@ -1097,15 +1097,15 @@
 }, {
   "id" : 275,
   "originalValue" : "dash",
-  "information" : "zlučok; paneĺ kiravańnia (sin. dashboard)\nKamentar: Samsung\nMS — praciaznik"
+  "information" : "zlučok; paneĺ kiravańnia (sin. dashboard)\n\nKamentar:\nSamsung\nMS — praciaznik"
 }, {
   "id" : 276,
   "originalValue" : "dashboard",
-  "information" : "paneĺ kiravańnia\nKamentar: Google"
+  "information" : "paneĺ kiravańnia\n\nKamentar:\nGoogle"
 }, {
   "id" : 277,
   "originalValue" : "data",
-  "information" : "danyja\nNiapraviĺny pieraklad: dańni, dadzienyja\nKamentar: Kali majecca na ŭvazie information, mozna «źviestki»"
+  "information" : "danyja\n\nNiapraviĺny pieraklad:\ndańni, dadzienyja\n\nKamentar:\nKali majecca na ŭvazie information, mozna «źviestki»"
 }, {
   "id" : 278,
   "originalValue" : "date",
@@ -1129,15 +1129,15 @@
 }, {
   "id" : 283,
   "originalValue" : "decline",
-  "information" : "adchilić\nKamentar: Časam kab pazbiehnuć blytanicy patrebny asobny pieraklad kštaltu \"vyjści, nie zachoŭvajučy\". Hl. cancel"
+  "information" : "adchilić\n\nKamentar:\nČasam kab pazbiehnuć blytanicy patrebny asobny pieraklad kštaltu \"vyjści, nie zachoŭvajučy\". Hl. cancel"
 }, {
   "id" : 284,
   "originalValue" : "decode",
-  "information" : "! raskadziravać(tak pasliaoŭniej), raskadavać\nKamentar: Samsung — raskadavać"
+  "information" : "! raskadziravać(tak pasliaoŭniej), raskadavać\n\nKamentar:\nSamsung — raskadavać"
 }, {
   "id" : 285,
   "originalValue" : "decompress",
-  "information" : "raspakavać\nKamentar: Samsung"
+  "information" : "raspakavać\n\nKamentar:\nSamsung"
 }, {
   "id" : 286,
   "originalValue" : "decompressing",
@@ -1145,11 +1145,11 @@
 }, {
   "id" : 287,
   "originalValue" : "decrease",
-  "information" : "pamienšyć\nKamentar: Samsung"
+  "information" : "pamienšyć\n\nKamentar:\nSamsung"
 }, {
   "id" : 288,
   "originalValue" : "decrypt",
-  "information" : "rasšyfravać\nKamentar: Samsung"
+  "information" : "rasšyfravać\n\nKamentar:\nSamsung"
 }, {
   "id" : 289,
   "originalValue" : "Dedicated Graphics Card",
@@ -1157,15 +1157,15 @@
 }, {
   "id" : 290,
   "originalValue" : "default",
-  "information" : "pieradvyznačany\nKamentar: standartny; pieradvyznačany — Google, Samsung\nStandart <> default, tamu rekamiendujecca ŭzyvać toĺki \"pieradvyznačany\""
+  "information" : "pieradvyznačany\n\nKamentar:\nstandartny; pieradvyznačany — Google, Samsung\nStandart <> default, tamu rekamiendujecca ŭzyvać toĺki \"pieradvyznačany\""
 }, {
   "id" : 291,
   "originalValue" : "define",
-  "information" : "vyznačać\nKamentar: MS"
+  "information" : "vyznačać\n\nKamentar:\nMS"
 }, {
   "id" : 292,
   "originalValue" : "delay",
-  "information" : "zatrymlivać; adkaladańnie, ! zatrymka\nKamentar: Samsung, MS"
+  "information" : "zatrymlivać; adkaladańnie, ! zatrymka\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 293,
   "originalValue" : "delete",
@@ -1173,7 +1173,7 @@
 }, {
   "id" : 294,
   "originalValue" : "Denmark",
-  "information" : "Danija\nKamentar: CLDR"
+  "information" : "Danija\n\nKamentar:\nCLDR"
 }, {
   "id" : 295,
   "originalValue" : "deny",
@@ -1181,15 +1181,15 @@
 }, {
   "id" : 296,
   "originalValue" : "dependency\n",
-  "information" : "zalieznaść\nKamentar: MS"
+  "information" : "zalieznaść\n\nKamentar:\nMS"
 }, {
   "id" : 297,
   "originalValue" : "dependent",
-  "information" : "zaliezny\nKamentar: MS"
+  "information" : "zaliezny\n\nKamentar:\nMS"
 }, {
   "id" : 298,
   "originalValue" : "depending",
-  "information" : "u zalieznaści ad\nKamentar: Samsung"
+  "information" : "u zalieznaści ad\n\nKamentar:\nSamsung"
 }, {
   "id" : 299,
   "originalValue" : "deprecated",
@@ -1201,11 +1201,11 @@
 }, {
   "id" : 301,
   "originalValue" : "deselect",
-  "information" : "skasavać vylučeńnie\nKamentar: MS — skasavać vylučeńnie"
+  "information" : "skasavać vylučeńnie\n\nKamentar:\nMS — skasavać vylučeńnie"
 }, {
   "id" : 302,
   "originalValue" : "deselect all",
-  "information" : "skasavać vybar\nKamentar: MS — skasavać vybar"
+  "information" : "skasavać vybar\n\nKamentar:\nMS — skasavać vybar"
 }, {
   "id" : 303,
   "originalValue" : "desktop",
@@ -1217,7 +1217,7 @@
 }, {
   "id" : 305,
   "originalValue" : "detect",
-  "information" : "vyjavić, ! vyznačyć\nKamentar: vyjavić — MS\nvyjavić, vyznačyć — Samsung"
+  "information" : "vyjavić, ! vyznačyć\n\nKamentar:\nvyjavić — MS\nvyjavić, vyznačyć — Samsung"
 }, {
   "id" : 306,
   "originalValue" : "developer",
@@ -1233,11 +1233,11 @@
 }, {
   "id" : 309,
   "originalValue" : "dialog",
-  "information" : "dyjalohavaje akno\nKamentar: MS"
+  "information" : "dyjalohavaje akno\n\nKamentar:\nMS"
 }, {
   "id" : 310,
   "originalValue" : "diameter",
-  "information" : "dyjamietar\nKamentar: Anhla-biel"
+  "information" : "dyjamietar\n\nKamentar:\nAnhla-biel"
 }, {
   "id" : 311,
   "originalValue" : "dictionary",
@@ -1269,11 +1269,11 @@
 }, {
   "id" : 318,
   "originalValue" : "discard",
-  "information" : "skasavać; admovicca ad\nNiapraviĺny pieraklad: adkinuć\nKamentar: Samsung — skasavać\nGoogle — skasavać\nMS — skasavać\n\"skasavać\"(časta pobač z cancel atrymlivajem situacyju \"skasavać/skasavać\", ci \"Skasavać? skasavać/OK\")\n"
+  "information" : "skasavać; admovicca ad\n\nNiapraviĺny pieraklad:\nadkinuć\n\nKamentar:\nSamsung — skasavać\nGoogle — skasavać\nMS — skasavać\n\"skasavać\"(časta pobač z cancel atrymlivajem situacyju \"skasavać/skasavać\", ci \"Skasavać? skasavać/OK\")\n"
 }, {
   "id" : 319,
   "originalValue" : "discard changes",
-  "information" : "admovicca ad źmien\nKamentar: MS — admianić źmieny, skasavać źmieny\nAliaksandar Šumski: \"Karaciej, jak varyjanty: discard changes - 1) Adchilić źmieny (dasloŭna) 2) Admovicca ad źmien (boĺš litaraturna)\""
+  "information" : "admovicca ad źmien\n\nKamentar:\nMS — admianić źmieny, skasavać źmieny\nAliaksandar Šumski: \"Karaciej, jak varyjanty: discard changes - 1) Adchilić źmieny (dasloŭna) 2) Admovicca ad źmien (boĺš litaraturna)\""
 }, {
   "id" : 320,
   "originalValue" : "disconnect",
@@ -1281,7 +1281,7 @@
 }, {
   "id" : 321,
   "originalValue" : "discovery",
-  "information" : "vyjaŭlieńnie\nKamentar: MS"
+  "information" : "vyjaŭlieńnie\n\nKamentar:\nMS"
 }, {
   "id" : 322,
   "originalValue" : "disk",
@@ -1289,7 +1289,7 @@
 }, {
   "id" : 323,
   "originalValue" : "disk space",
-  "information" : "miesca na dysku\nKamentar: MS — miesca na dysku; prastora na dysku"
+  "information" : "miesca na dysku\n\nKamentar:\nMS — miesca na dysku; prastora na dysku"
 }, {
   "id" : 324,
   "originalValue" : "dismiss",
@@ -1301,11 +1301,11 @@
 }, {
   "id" : 326,
   "originalValue" : "display",
-  "information" : "pakazvać; pakaz; dysplej; adliustroŭvać\nKamentar: Google, Samsung"
+  "information" : "pakazvać; pakaz; dysplej; adliustroŭvać\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 327,
   "originalValue" : "Djibouti",
-  "information" : "Dzybuci\nKamentar: CLDR"
+  "information" : "Dzybuci\n\nKamentar:\nCLDR"
 }, {
   "id" : 328,
   "originalValue" : "document",
@@ -1313,7 +1313,7 @@
 }, {
   "id" : 329,
   "originalValue" : "documentation",
-  "information" : "­dakumentacyja\nKamentar: MS"
+  "information" : "­dakumentacyja\n\nKamentar:\nMS"
 }, {
   "id" : 330,
   "originalValue" : "does not",
@@ -1325,11 +1325,11 @@
 }, {
   "id" : 332,
   "originalValue" : "Dominica",
-  "information" : "Daminika\nKamentar: CLDR"
+  "information" : "Daminika\n\nKamentar:\nCLDR"
 }, {
   "id" : 333,
   "originalValue" : "Dominican Republic",
-  "information" : "Daminikanskaja Respublika\nKamentar: CLDR"
+  "information" : "Daminikanskaja Respublika\n\nKamentar:\nCLDR"
 }, {
   "id" : 334,
   "originalValue" : "done",
@@ -1337,7 +1337,7 @@
 }, {
   "id" : 335,
   "originalValue" : "down",
-  "information" : "uniz\nKamentar: MS"
+  "information" : "uniz\n\nKamentar:\nMS"
 }, {
   "id" : 336,
   "originalValue" : "download",
@@ -1349,7 +1349,7 @@
 }, {
   "id" : 338,
   "originalValue" : "downloading",
-  "information" : "spamvoŭvańnie (praces)\nNiapraviĺny pieraklad: spampavańnie"
+  "information" : "spamvoŭvańnie (praces)\n\nNiapraviĺny pieraklad:\nspampavańnie"
 }, {
   "id" : 339,
   "originalValue" : "downloading",
@@ -1361,23 +1361,23 @@
 }, {
   "id" : 341,
   "originalValue" : "drag",
-  "information" : "pieraciahnuć; pieraciahnicie; pieraciahvańnie\nKamentar: Samsung, Google"
+  "information" : "pieraciahnuć; pieraciahnicie; pieraciahvańnie\n\nKamentar:\nSamsung, Google"
 }, {
   "id" : 342,
   "originalValue" : "drag and drop",
-  "information" : "pieraciahvańnie\nKamentar: MS"
+  "information" : "pieraciahvańnie\n\nKamentar:\nMS"
 }, {
   "id" : 343,
   "originalValue" : "drawer",
-  "information" : "vysoŭnaje mieniu\nKamentar: Samsung, Google"
+  "information" : "vysoŭnaje mieniu\n\nKamentar:\nSamsung, Google"
 }, {
   "id" : 344,
   "originalValue" : "drive",
-  "information" : "dysk; dyskavod\nKamentar: dysk (An area of storage that is formatted with a file system and has a drive letter. The storage can be a floppy disk, a CD or DVD, a hard disk, or another type of disk.)\ndyskavod, pryvad (A hardware device that reads data from and writes data to floppy disks.)\nMS\n"
+  "information" : "dysk; dyskavod\n\nKamentar:\ndysk (An area of storage that is formatted with a file system and has a drive letter. The storage can be a floppy disk, a CD or DVD, a hard disk, or another type of disk.)\ndyskavod, pryvad (A hardware device that reads data from and writes data to floppy disks.)\nMS\n"
 }, {
   "id" : 345,
   "originalValue" : "due date",
-  "information" : "termin vykanańnia\nKamentar: Samsung, Google"
+  "information" : "termin vykanańnia\n\nKamentar:\nSamsung, Google"
 }, {
   "id" : 346,
   "originalValue" : "duplicate",
@@ -1385,7 +1385,7 @@
 }, {
   "id" : 347,
   "originalValue" : "each",
-  "information" : "kozny\nKamentar: Samsung"
+  "information" : "kozny\n\nKamentar:\nSamsung"
 }, {
   "id" : 348,
   "originalValue" : "easy",
@@ -1393,7 +1393,7 @@
 }, {
   "id" : 349,
   "originalValue" : "Ecuador",
-  "information" : "Ekvador\nKamentar: CLDR"
+  "information" : "Ekvador\n\nKamentar:\nCLDR"
 }, {
   "id" : 350,
   "originalValue" : "edge",
@@ -1405,7 +1405,7 @@
 }, {
   "id" : 352,
   "originalValue" : "editor",
-  "information" : "redaktar\nKamentar: MS"
+  "information" : "redaktar\n\nKamentar:\nMS"
 }, {
   "id" : 353,
   "originalValue" : "education",
@@ -1413,19 +1413,19 @@
 }, {
   "id" : 354,
   "originalValue" : "Egypt",
-  "information" : "Jehipiet\nKamentar: CLDR"
+  "information" : "Jehipiet\n\nKamentar:\nCLDR"
 }, {
   "id" : 355,
   "originalValue" : "El Salvador",
-  "information" : "Saĺvador\nKamentar: CLDR"
+  "information" : "Saĺvador\n\nKamentar:\nCLDR"
 }, {
   "id" : 356,
   "originalValue" : "electronics",
-  "information" : "eliektronika\nKamentar: MS"
+  "information" : "eliektronika\n\nKamentar:\nMS"
 }, {
   "id" : 357,
   "originalValue" : "embedded",
-  "information" : "ubudavany\nKamentar: Google"
+  "information" : "ubudavany\n\nKamentar:\nGoogle"
 }, {
   "id" : 358,
   "originalValue" : "emit",
@@ -1445,11 +1445,11 @@
 }, {
   "id" : 362,
   "originalValue" : "encode",
-  "information" : "! kadziravać; zakadziravać\nNiapraviĺny pieraklad: kadavać\nKamentar: Kadavać — niama ŭ slonikach. Kali prymajem kadovańnie, tady davajcie vydumajem kadoŭku.\nAlie sams i huhl va ŭsiu vykarystoŭvajuć slovy, vytvornyja ad kadavać"
+  "information" : "! kadziravać; zakadziravać\n\nNiapraviĺny pieraklad:\nkadavać\n\nKamentar:\nKadavać — niama ŭ slonikach. Kali prymajem kadovańnie, tady davajcie vydumajem kadoŭku.\nAlie sams i huhl va ŭsiu vykarystoŭvajuć slovy, vytvornyja ad kadavać"
 }, {
   "id" : 363,
   "originalValue" : "encoder",
-  "information" : "! kadavaĺnik, kadziravaĺnik\nKamentar: Google — kadavaĺnik"
+  "information" : "! kadavaĺnik, kadziravaĺnik\n\nKamentar:\nGoogle — kadavaĺnik"
 }, {
   "id" : 364,
   "originalValue" : "encoding",
@@ -1457,7 +1457,7 @@
 }, {
   "id" : 365,
   "originalValue" : "encrypt",
-  "information" : "šyfravać; zašyfravać\nKamentar: Samsung, MS"
+  "information" : "šyfravać; zašyfravać\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 366,
   "originalValue" : "encrypted",
@@ -1469,7 +1469,7 @@
 }, {
   "id" : 368,
   "originalValue" : "encryption",
-  "information" : "šyfravańnie\nKamentar: Samsung, MS"
+  "information" : "šyfravańnie\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 369,
   "originalValue" : "end call",
@@ -1477,19 +1477,19 @@
 }, {
   "id" : 370,
   "originalValue" : "England",
-  "information" : "Anhlija\nKamentar: CLDR"
+  "information" : "Anhlija\n\nKamentar:\nCLDR"
 }, {
   "id" : 371,
   "originalValue" : "english",
-  "information" : "anhlijskaja\nKamentar: CLDR"
+  "information" : "anhlijskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 372,
   "originalValue" : "english (US)",
-  "information" : "anhlijskaja (ZŠA)\nKamentar: CLDR"
+  "information" : "anhlijskaja (ZŠA)\n\nKamentar:\nCLDR"
 }, {
   "id" : 373,
   "originalValue" : "enlarge",
-  "information" : "pavialičyć\nKamentar: Samsung"
+  "information" : "pavialičyć\n\nKamentar:\nSamsung"
 }, {
   "id" : 374,
   "originalValue" : "enough",
@@ -1501,11 +1501,11 @@
 }, {
   "id" : 376,
   "originalValue" : "enter",
-  "information" : "enter (klaviša); uvieści; uvod\nKamentar: Samsung — uvieści; uvod"
+  "information" : "enter (klaviša); uvieści; uvod\n\nKamentar:\nSamsung — uvieści; uvod"
 }, {
   "id" : 377,
   "originalValue" : "Equatorial Guinea",
-  "information" : "Ekvataryjaĺnaja Hvinieja\nKamentar: CLDR"
+  "information" : "Ekvataryjaĺnaja Hvinieja\n\nKamentar:\nCLDR"
 }, {
   "id" : 378,
   "originalValue" : "erase",
@@ -1513,7 +1513,7 @@
 }, {
   "id" : 379,
   "originalValue" : "Eritrea",
-  "information" : "Erytreja\nKamentar: CLDR"
+  "information" : "Erytreja\n\nKamentar:\nCLDR"
 }, {
   "id" : 380,
   "originalValue" : "error",
@@ -1529,19 +1529,19 @@
 }, {
   "id" : 383,
   "originalValue" : "Estonia",
-  "information" : "Estonija\nKamentar: CLDR"
+  "information" : "Estonija\n\nKamentar:\nCLDR"
 }, {
   "id" : 384,
   "originalValue" : "Eswatini",
-  "information" : "Esvatyni\nKamentar: CLDR"
+  "information" : "Esvatyni\n\nKamentar:\nCLDR"
 }, {
   "id" : 385,
   "originalValue" : "Ethiopia",
-  "information" : "Efiopija\nKamentar: CLDR"
+  "information" : "Efiopija\n\nKamentar:\nCLDR"
 }, {
   "id" : 386,
   "originalValue" : "Europe",
-  "information" : "Eŭropa\nKamentar: CLDR"
+  "information" : "Eŭropa\n\nKamentar:\nCLDR"
 }, {
   "id" : 387,
   "originalValue" : "event",
@@ -1561,7 +1561,7 @@
 }, {
   "id" : 391,
   "originalValue" : "existing",
-  "information" : "isny\nKamentar: Samsung"
+  "information" : "isny\n\nKamentar:\nSamsung"
 }, {
   "id" : 392,
   "originalValue" : "exit",
@@ -1569,11 +1569,11 @@
 }, {
   "id" : 393,
   "originalValue" : "expand",
-  "information" : "razharnuć; razhortvańnie\nKamentar: Samsung, MS"
+  "information" : "razharnuć; razhortvańnie\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 394,
   "originalValue" : "expandable",
-  "information" : "razhortvaĺny\nKamentar: Google"
+  "information" : "razhortvaĺny\n\nKamentar:\nGoogle"
 }, {
   "id" : 395,
   "originalValue" : "expired",
@@ -1605,15 +1605,15 @@
 }, {
   "id" : 402,
   "originalValue" : "failure",
-  "information" : "zboj\nKamentar: failure to - nie ŭdalosia"
+  "information" : "zboj\n\nKamentar:\nfailure to - nie ŭdalosia"
 }, {
   "id" : 403,
   "originalValue" : "Falkland Islands (Malvinas)",
-  "information" : "Falkliendskija (Maĺvinskija) astravy\nKamentar: CLDR"
+  "information" : "Falkliendskija (Maĺvinskija) astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 404,
   "originalValue" : "Faroe Islands",
-  "information" : "Farerskija astravy\nKamentar: CLDR"
+  "information" : "Farerskija astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 405,
   "originalValue" : "favorite",
@@ -1625,19 +1625,19 @@
 }, {
   "id" : 407,
   "originalValue" : "feature",
-  "information" : "funkcyja\nKamentar: Google"
+  "information" : "funkcyja\n\nKamentar:\nGoogle"
 }, {
   "id" : 408,
   "originalValue" : "feature graphic",
-  "information" : "indyviduaĺnaja hrafika\nKamentar: Google"
+  "information" : "indyviduaĺnaja hrafika\n\nKamentar:\nGoogle"
 }, {
   "id" : 409,
   "originalValue" : "featured",
-  "information" : "vartaje ŭvahi\nKamentar: Google, Samsung — Vartaje ŭvahi\nMS — Vartaje ŭvahi; papuliarnaje"
+  "information" : "vartaje ŭvahi\n\nKamentar:\nGoogle, Samsung — Vartaje ŭvahi\nMS — Vartaje ŭvahi; papuliarnaje"
 }, {
   "id" : 410,
   "originalValue" : "feed",
-  "information" : "! kanal, naviny, lienta navin\nKamentar: Samsung, Google\nU Huhl jość radok channel feed — naviny kanala"
+  "information" : "! kanal, naviny, lienta navin\n\nKamentar:\nSamsung, Google\nU Huhl jość radok channel feed — naviny kanala"
 }, {
   "id" : 411,
   "originalValue" : "fetch",
@@ -1645,7 +1645,7 @@
 }, {
   "id" : 412,
   "originalValue" : "Fiji",
-  "information" : "Fidzy\nKamentar: CLDR"
+  "information" : "Fidzy\n\nKamentar:\nCLDR"
 }, {
   "id" : 413,
   "originalValue" : "file",
@@ -1653,7 +1653,7 @@
 }, {
   "id" : 414,
   "originalValue" : "file property",
-  "information" : "ulaścivaści fajla\nKamentar: MS"
+  "information" : "ulaścivaści fajla\n\nKamentar:\nMS"
 }, {
   "id" : 415,
   "originalValue" : "filesystem",
@@ -1661,11 +1661,11 @@
 }, {
   "id" : 416,
   "originalValue" : "fill",
-  "information" : "zapaŭniać; zapaŭnieńnie\nKamentar: Samsung, Google"
+  "information" : "zapaŭniać; zapaŭnieńnie\n\nKamentar:\nSamsung, Google"
 }, {
   "id" : 417,
   "originalValue" : "finalize",
-  "information" : "zakončyć\nKamentar: niama ŭ terminach"
+  "information" : "zakončyć\n\nKamentar:\nniama ŭ terminach"
 }, {
   "id" : 418,
   "originalValue" : "find",
@@ -1673,11 +1673,11 @@
 }, {
   "id" : 419,
   "originalValue" : "fingerprint",
-  "information" : "adbitak paĺca, ličbavy adbitak\nKamentar: Google, Samsung"
+  "information" : "adbitak paĺca, ličbavy adbitak\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 420,
   "originalValue" : "finish",
-  "information" : "skončyć; hatova\nKamentar: MS"
+  "information" : "skončyć; hatova\n\nKamentar:\nMS"
 }, {
   "id" : 421,
   "originalValue" : "finished",
@@ -1685,23 +1685,23 @@
 }, {
   "id" : 422,
   "originalValue" : "Finland",
-  "information" : "Finliandyja\nKamentar: CLDR"
+  "information" : "Finliandyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 423,
   "originalValue" : "firmware",
-  "information" : "ubudavanaja prahrama; ubudavanaje PZ; ! prašyŭka\nKamentar: ubudavanaja prahrama; ubudavanaje PZ — Samsung, Google"
+  "information" : "ubudavanaja prahrama; ubudavanaje PZ; ! prašyŭka\n\nKamentar:\nubudavanaja prahrama; ubudavanaje PZ — Samsung, Google"
 }, {
   "id" : 424,
   "originalValue" : "flip",
-  "information" : "adliustravać (image, view); adliustravańnie; pieraviarnuć (kali majecca na ŭvazie nie adliustravańnie); pieravarot\nKamentar: pieraviarnuć — Samsung\npieravarot — Google\nadliustravać — MS"
+  "information" : "adliustravać (image, view); adliustravańnie; pieraviarnuć (kali majecca na ŭvazie nie adliustravańnie); pieravarot\n\nKamentar:\npieraviarnuć — Samsung\npieravarot — Google\nadliustravać — MS"
 }, {
   "id" : 425,
   "originalValue" : "flipped",
-  "information" : "pieraviernuty\nKamentar: Samsung"
+  "information" : "pieraviernuty\n\nKamentar:\nSamsung"
 }, {
   "id" : 426,
   "originalValue" : "focus",
-  "information" : "fokus, fokusa\nKamentar: Google, MS"
+  "information" : "fokus, fokusa\n\nKamentar:\nGoogle, MS"
 }, {
   "id" : 427,
   "originalValue" : "folder",
@@ -1713,7 +1713,7 @@
 }, {
   "id" : 429,
   "originalValue" : "force",
-  "information" : "prymusova\nKamentar: Google, MS"
+  "information" : "prymusova\n\nKamentar:\nGoogle, MS"
 }, {
   "id" : 430,
   "originalValue" : "forever",
@@ -1725,39 +1725,39 @@
 }, {
   "id" : 432,
   "originalValue" : "formatting",
-  "information" : "farmaciravańnie\nNiapraviĺny pieraklad: farmatavańnie"
+  "information" : "farmaciravańnie\n\nNiapraviĺny pieraklad:\nfarmatavańnie"
 }, {
   "id" : 433,
   "originalValue" : "former",
-  "information" : "byly; papiaredni\nKamentar: MS"
+  "information" : "byly; papiaredni\n\nKamentar:\nMS"
 }, {
   "id" : 434,
   "originalValue" : "France",
-  "information" : "Francyja\nKamentar: CLDR"
+  "information" : "Francyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 435,
   "originalValue" : "french",
-  "information" : "francuzskaja\nKamentar: CLDR"
+  "information" : "francuzskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 436,
   "originalValue" : "French Guiana",
-  "information" : "Francuzskaja Hvijana\nKamentar: CLDR"
+  "information" : "Francuzskaja Hvijana\n\nKamentar:\nCLDR"
 }, {
   "id" : 437,
   "originalValue" : "French Polynesia",
-  "information" : "Francuzskaja Paliniezija\nKamentar: CLDR"
+  "information" : "Francuzskaja Paliniezija\n\nKamentar:\nCLDR"
 }, {
   "id" : 438,
   "originalValue" : "French Southern Territories",
-  "information" : "Francuzskija paŭdniovyja terytoryi\nKamentar: CLDR"
+  "information" : "Francuzskija paŭdniovyja terytoryi\n\nKamentar:\nCLDR"
 }, {
   "id" : 439,
   "originalValue" : "friends",
-  "information" : "siabry\nKamentar: MS, Samsung"
+  "information" : "siabry\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 440,
   "originalValue" : "Gabon",
-  "information" : "Habon\nKamentar: CLDR"
+  "information" : "Habon\n\nKamentar:\nCLDR"
 }, {
   "id" : 441,
   "originalValue" : "gallery",
@@ -1765,7 +1765,7 @@
 }, {
   "id" : 442,
   "originalValue" : "Gambia",
-  "information" : "Hambija\nKamentar: CLDR"
+  "information" : "Hambija\n\nKamentar:\nCLDR"
 }, {
   "id" : 443,
   "originalValue" : "game",
@@ -1773,15 +1773,15 @@
 }, {
   "id" : 444,
   "originalValue" : "GB",
-  "information" : "GB — HB; hihabajt; Gb — Hbit; hihabit\nKamentar: CLDR"
+  "information" : "GB — HB; hihabajt; Gb — Hbit; hihabit\n\nKamentar:\nCLDR"
 }, {
   "id" : 445,
   "originalValue" : "Gbit",
-  "information" : "Hbit\nKamentar: CLDR"
+  "information" : "Hbit\n\nKamentar:\nCLDR"
 }, {
   "id" : 446,
   "originalValue" : "GByte",
-  "information" : "HB\nKamentar: CLDR"
+  "information" : "HB\n\nKamentar:\nCLDR"
 }, {
   "id" : 447,
   "originalValue" : "general",
@@ -1793,19 +1793,19 @@
 }, {
   "id" : 449,
   "originalValue" : "Georgia",
-  "information" : "Hruzija\nKamentar: CLDR"
+  "information" : "Hruzija\n\nKamentar:\nCLDR"
 }, {
   "id" : 450,
   "originalValue" : "Germany",
-  "information" : "Hiermanija\nNiapraviĺny pieraklad: Niamieččyna\nKamentar: CLDR"
+  "information" : "Hiermanija\n\nNiapraviĺny pieraklad:\nNiamieččyna\n\nKamentar:\nCLDR"
 }, {
   "id" : 451,
   "originalValue" : "Ghana",
-  "information" : "Hana\nKamentar: CLDR"
+  "information" : "Hana\n\nKamentar:\nCLDR"
 }, {
   "id" : 452,
   "originalValue" : "Gibraltar",
-  "information" : "Hibraltar\nKamentar: CLDR"
+  "information" : "Hibraltar\n\nKamentar:\nCLDR"
 }, {
   "id" : 453,
   "originalValue" : "gift",
@@ -1813,31 +1813,31 @@
 }, {
   "id" : 454,
   "originalValue" : "gigabit",
-  "information" : "hihabit\nKamentar: CLDR"
+  "information" : "hihabit\n\nKamentar:\nCLDR"
 }, {
   "id" : 455,
   "originalValue" : "gigabits",
-  "information" : "hihabity\nKamentar: CLDR"
+  "information" : "hihabity\n\nKamentar:\nCLDR"
 }, {
   "id" : 456,
   "originalValue" : "gigabyte",
-  "information" : "hihabajt\nKamentar: CLDR"
+  "information" : "hihabajt\n\nKamentar:\nCLDR"
 }, {
   "id" : 457,
   "originalValue" : "gigabytes",
-  "information" : "hihabajty\nKamentar: CLDR"
+  "information" : "hihabajty\n\nKamentar:\nCLDR"
 }, {
   "id" : 458,
   "originalValue" : "given",
-  "information" : "! dadzieny, hety\nNiapraviĺny pieraklad: \n"
+  "information" : "! dadzieny, hety\n\nNiapraviĺny pieraklad:\n\n"
 }, {
   "id" : 459,
   "originalValue" : "GMT",
-  "information" : "GMT\nKamentar: CLDR"
+  "information" : "GMT\n\nKamentar:\nCLDR"
 }, {
   "id" : 460,
   "originalValue" : "GNOME desktop",
-  "information" : "Asiaroddzie GNOME\nKamentar: heta desktop environment, a nie pracoŭny stol"
+  "information" : "Asiaroddzie GNOME\n\nKamentar:\nheta desktop environment, a nie pracoŭny stol"
 }, {
   "id" : 461,
   "originalValue" : "GNOME Shell",
@@ -1849,7 +1849,7 @@
 }, {
   "id" : 463,
   "originalValue" : "gradient",
-  "information" : "hradyjent\nKamentar: MS"
+  "information" : "hradyjent\n\nKamentar:\nMS"
 }, {
   "id" : 464,
   "originalValue" : "grant",
@@ -1861,7 +1861,7 @@
 }, {
   "id" : 466,
   "originalValue" : "Greece",
-  "information" : "Hrecyja\nKamentar: CLDR"
+  "information" : "Hrecyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 467,
   "originalValue" : "greek",
@@ -1873,15 +1873,15 @@
 }, {
   "id" : 469,
   "originalValue" : "Greenland",
-  "information" : "Hrenlandyja\nKamentar: CLDR"
+  "information" : "Hrenlandyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 470,
   "originalValue" : "Grenada",
-  "information" : "Hrenada\nKamentar: CLDR"
+  "information" : "Hrenada\n\nKamentar:\nCLDR"
 }, {
   "id" : 471,
   "originalValue" : "grid view",
-  "information" : "vyhliad sietki\nKamentar: Samsung"
+  "information" : "vyhliad sietki\n\nKamentar:\nSamsung"
 }, {
   "id" : 472,
   "originalValue" : "group",
@@ -1889,31 +1889,31 @@
 }, {
   "id" : 473,
   "originalValue" : "Guadeloupe",
-  "information" : "Hvadelupa\nKamentar: CLDR"
+  "information" : "Hvadelupa\n\nKamentar:\nCLDR"
 }, {
   "id" : 474,
   "originalValue" : "Guam",
-  "information" : "Huam\nKamentar: CLDR"
+  "information" : "Huam\n\nKamentar:\nCLDR"
 }, {
   "id" : 475,
   "originalValue" : "Guatemala",
-  "information" : "Hvatemala\nKamentar: CLDR"
+  "information" : "Hvatemala\n\nKamentar:\nCLDR"
 }, {
   "id" : 476,
   "originalValue" : "Guernsey",
-  "information" : "Hierńsi\nKamentar: CLDR"
+  "information" : "Hierńsi\n\nKamentar:\nCLDR"
 }, {
   "id" : 477,
   "originalValue" : "Guinea",
-  "information" : "Hvinieja\nKamentar: CLDR"
+  "information" : "Hvinieja\n\nKamentar:\nCLDR"
 }, {
   "id" : 478,
   "originalValue" : "Guinea-Bissau",
-  "information" : "Hvinieja-Bisau\nKamentar: CLDR"
+  "information" : "Hvinieja-Bisau\n\nKamentar:\nCLDR"
 }, {
   "id" : 479,
   "originalValue" : "Guyana",
-  "information" : "Hajana\nKamentar: CLDR"
+  "information" : "Hajana\n\nKamentar:\nCLDR"
 }, {
   "id" : 480,
   "originalValue" : "h",
@@ -1921,15 +1921,15 @@
 }, {
   "id" : 481,
   "originalValue" : "Haiti",
-  "information" : "Haici\nKamentar: CLDR"
+  "information" : "Haici\n\nKamentar:\nCLDR"
 }, {
   "id" : 482,
   "originalValue" : "hard fail",
-  "information" : "krytyčnaja pamylka\nKamentar: MS"
+  "information" : "krytyčnaja pamylka\n\nKamentar:\nMS"
 }, {
   "id" : 483,
   "originalValue" : "hardware",
-  "information" : "aparatny; abstaliavańnie, ! aparatnaje zabiespiačeńnie\nKamentar: aparatnaje zabiespiačeńnie; aparatny — Google\naparatny; abstaliavańnie — Samsung"
+  "information" : "aparatny; abstaliavańnie, ! aparatnaje zabiespiačeńnie\n\nKamentar:\naparatnaje zabiespiačeńnie; aparatny — Google\naparatny; abstaliavańnie — Samsung"
 }, {
   "id" : 484,
   "originalValue" : "header",
@@ -1941,11 +1941,11 @@
 }, {
   "id" : 486,
   "originalValue" : "headset",
-  "information" : "harnitura\nKamentar: Samsung, Google, MS"
+  "information" : "harnitura\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 487,
   "originalValue" : "Hebrew",
-  "information" : "Jaŭrejskaje\nKamentar: CLDR"
+  "information" : "Jaŭrejskaje\n\nKamentar:\nCLDR"
 }, {
   "id" : 488,
   "originalValue" : "height",
@@ -1957,11 +1957,11 @@
 }, {
   "id" : 490,
   "originalValue" : "hide",
-  "information" : "chavać\nKamentar: Samsung"
+  "information" : "chavać\n\nKamentar:\nSamsung"
 }, {
   "id" : 491,
   "originalValue" : "hints",
-  "information" : "padkazki\nKamentar: Samsung\nMS — pakazaĺnik"
+  "information" : "padkazki\n\nKamentar:\nSamsung\nMS — pakazaĺnik"
 }, {
   "id" : 492,
   "originalValue" : "history",
@@ -1969,19 +1969,19 @@
 }, {
   "id" : 493,
   "originalValue" : "hold",
-  "information" : "utrymlivać; utrymańnie\nKamentar: Samsung, Google, MS"
+  "information" : "utrymlivać; utrymańnie\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 494,
   "originalValue" : "home",
-  "information" : "chatniaja papka (kali majecca na ŭvazie home folder); chatniaja staronka (astatnija vypadki); dadomu (knopka navihacyi)\nKamentar: u vypadku z papkaj, robim pa analohii z homepage"
+  "information" : "chatniaja papka (kali majecca na ŭvazie home folder); chatniaja staronka (astatnija vypadki); dadomu (knopka navihacyi)\n\nKamentar:\nu vypadku z papkaj, robim pa analohii z homepage"
 }, {
   "id" : 495,
   "originalValue" : "home phone",
-  "information" : "damašni teliefon\nNiapraviĺny pieraklad: chatni teliefon\nKamentar: paslia doŭhich abmierkavańniaŭ spynilisia na terminie \"damašni teliefon\""
+  "information" : "damašni teliefon\n\nNiapraviĺny pieraklad:\nchatni teliefon\n\nKamentar:\npaslia doŭhich abmierkavańniaŭ spynilisia na terminie \"damašni teliefon\""
 }, {
   "id" : 496,
   "originalValue" : "homepage",
-  "information" : "chatniaja staronka\nKamentar: Samsung, Google, MS"
+  "information" : "chatniaja staronka\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 497,
   "originalValue" : "Homyel'",
@@ -1989,15 +1989,15 @@
 }, {
   "id" : 498,
   "originalValue" : "Honduras",
-  "information" : "Handuras\nKamentar: CLDR"
+  "information" : "Handuras\n\nKamentar:\nCLDR"
 }, {
   "id" : 499,
   "originalValue" : "Hong Kong",
-  "information" : "Hankonh\nKamentar: CLDR"
+  "information" : "Hankonh\n\nKamentar:\nCLDR"
 }, {
   "id" : 500,
   "originalValue" : "Hong Kong SAR",
-  "information" : "SAR Hankonh\nKamentar: CLDR"
+  "information" : "SAR Hankonh\n\nKamentar:\nCLDR"
 }, {
   "id" : 501,
   "originalValue" : "horizontal",
@@ -2005,11 +2005,11 @@
 }, {
   "id" : 502,
   "originalValue" : "host",
-  "information" : "chost\nKamentar: MS"
+  "information" : "chost\n\nKamentar:\nMS"
 }, {
   "id" : 503,
   "originalValue" : "hot corners",
-  "information" : "haračyja kuty\nKamentar: heta čysta hnomaŭski termin, niama ŭ kaho hliadzieć\nSpačatku bylo aktyŭnyja kuty, alie vyrašyli pamianiać na haračyja, kab nie byo kalizij kštaltu hot corners are active"
+  "information" : "haračyja kuty\n\nKamentar:\nheta čysta hnomaŭski termin, niama ŭ kaho hliadzieć\nSpačatku bylo aktyŭnyja kuty, alie vyrašyli pamianiać na haračyja, kab nie byo kalizij kštaltu hot corners are active"
 }, {
   "id" : 504,
   "originalValue" : "hot keys",
@@ -2017,7 +2017,7 @@
 }, {
   "id" : 505,
   "originalValue" : "hotspot",
-  "information" : "chot-spot\nKamentar: Google, Samsung"
+  "information" : "chot-spot\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 506,
   "originalValue" : "hour",
@@ -2025,11 +2025,11 @@
 }, {
   "id" : 507,
   "originalValue" : "hover",
-  "information" : "navieści\nKamentar: Samsung"
+  "information" : "navieści\n\nKamentar:\nSamsung"
 }, {
   "id" : 508,
   "originalValue" : "How-to",
-  "information" : "Instrukcyi\nKamentar: MS"
+  "information" : "Instrukcyi\n\nKamentar:\nMS"
 }, {
   "id" : 509,
   "originalValue" : "Hrodna",
@@ -2037,15 +2037,15 @@
 }, {
   "id" : 510,
   "originalValue" : "Hungary",
-  "information" : "Vienhryja\nKamentar: CLDR"
+  "information" : "Vienhryja\n\nKamentar:\nCLDR"
 }, {
   "id" : 511,
   "originalValue" : "Iceland",
-  "information" : "Islandyja\nKamentar: CLDR"
+  "information" : "Islandyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 512,
   "originalValue" : "icon",
-  "information" : "značok\nNiapraviĺny pieraklad: ikonka"
+  "information" : "značok\n\nNiapraviĺny pieraklad:\nikonka"
 }, {
   "id" : 513,
   "originalValue" : "ID",
@@ -2053,7 +2053,7 @@
 }, {
   "id" : 514,
   "originalValue" : "identity",
-  "information" : "asoba; identyčnaść\nKamentar: asoba; identyčnaść — Samsung\nidentyčnaść, paśviedčańnie — MS"
+  "information" : "asoba; identyčnaść\n\nKamentar:\nasoba; identyčnaść — Samsung\nidentyčnaść, paśviedčańnie — MS"
 }, {
   "id" : 515,
   "originalValue" : "ignore",
@@ -2061,11 +2061,11 @@
 }, {
   "id" : 516,
   "originalValue" : "image",
-  "information" : "vidarys\nNiapraviĺny pieraklad: vyjava"
+  "information" : "vidarys\n\nNiapraviĺny pieraklad:\nvyjava"
 }, {
   "id" : 517,
   "originalValue" : "immediately",
-  "information" : "nieadkladna\nKamentar: Samsung"
+  "information" : "nieadkladna\n\nKamentar:\nSamsung"
 }, {
   "id" : 518,
   "originalValue" : "implementation",
@@ -2073,19 +2073,19 @@
 }, {
   "id" : 519,
   "originalValue" : "implemented",
-  "information" : "realizavany\nKamentar: MS"
+  "information" : "realizavany\n\nKamentar:\nMS"
 }, {
   "id" : 520,
   "originalValue" : "imprint",
-  "information" : "štamp\nKamentar: Samsung"
+  "information" : "štamp\n\nKamentar:\nSamsung"
 }, {
   "id" : 521,
   "originalValue" : "in a row",
-  "information" : "zapar\nKamentar: Samsung"
+  "information" : "zapar\n\nKamentar:\nSamsung"
 }, {
   "id" : 522,
   "originalValue" : "in progress",
-  "information" : "vykonvajecca\nKamentar: Samsung"
+  "information" : "vykonvajecca\n\nKamentar:\nSamsung"
 }, {
   "id" : 523,
   "originalValue" : "include",
@@ -2093,7 +2093,7 @@
 }, {
   "id" : 524,
   "originalValue" : "increase",
-  "information" : "pavialičyć\nKamentar: Samsung"
+  "information" : "pavialičyć\n\nKamentar:\nSamsung"
 }, {
   "id" : 525,
   "originalValue" : "independent",
@@ -2105,11 +2105,11 @@
 }, {
   "id" : 527,
   "originalValue" : "India",
-  "information" : "Indyja\nKamentar: CLDR"
+  "information" : "Indyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 528,
   "originalValue" : "Indonesia",
-  "information" : "Indaniezija\nKamentar: CLDR"
+  "information" : "Indaniezija\n\nKamentar:\nCLDR"
 }, {
   "id" : 529,
   "originalValue" : "info",
@@ -2129,11 +2129,11 @@
 }, {
   "id" : 533,
   "originalValue" : "inline",
-  "information" : "ubudavany\nKamentar: Samsung"
+  "information" : "ubudavany\n\nKamentar:\nSamsung"
 }, {
   "id" : 534,
   "originalValue" : "input",
-  "information" : "uvieści; uvod (praces); uvachod (fizičny razdym), aŭdyjaŭvachod (audio/sound input)\nKamentar: alie zvazajem na kantekst, moza być audio input - halasavy ŭvod i h.d."
+  "information" : "uvieści; uvod (praces); uvachod (fizičny razdym), aŭdyjaŭvachod (audio/sound input)\n\nKamentar:\nalie zvazajem na kantekst, moza być audio input - halasavy ŭvod i h.d."
 }, {
   "id" : 535,
   "originalValue" : "insert",
@@ -2173,11 +2173,11 @@
 }, {
   "id" : 544,
   "originalValue" : "internet",
-  "information" : "internet, internetu\nNiapraviĺny pieraklad: sieciva"
+  "information" : "internet, internetu\n\nNiapraviĺny pieraklad:\nsieciva"
 }, {
   "id" : 545,
   "originalValue" : "Internet address",
-  "information" : "internet-adras\nKamentar: MS"
+  "information" : "internet-adras\n\nKamentar:\nMS"
 }, {
   "id" : 546,
   "originalValue" : "Internet connection",
@@ -2185,7 +2185,7 @@
 }, {
   "id" : 547,
   "originalValue" : "Internet history",
-  "information" : "historyja braŭziera\nKamentar: Samsung"
+  "information" : "historyja braŭziera\n\nKamentar:\nSamsung"
 }, {
   "id" : 548,
   "originalValue" : "Internet Protocol",
@@ -2193,7 +2193,7 @@
 }, {
   "id" : 549,
   "originalValue" : "Internet sharing",
-  "information" : "supoĺny dostup da internetu\nKamentar: Samsung"
+  "information" : "supoĺny dostup da internetu\n\nKamentar:\nSamsung"
 }, {
   "id" : 550,
   "originalValue" : "introspection",
@@ -2201,7 +2201,7 @@
 }, {
   "id" : 551,
   "originalValue" : "invalid",
-  "information" : "pamylkovy\nKamentar: Samsung"
+  "information" : "pamylkovy\n\nKamentar:\nSamsung"
 }, {
   "id" : 552,
   "originalValue" : "invite",
@@ -2209,23 +2209,23 @@
 }, {
   "id" : 553,
   "originalValue" : "Iran",
-  "information" : "Iran\nKamentar: CLDR"
+  "information" : "Iran\n\nKamentar:\nCLDR"
 }, {
   "id" : 554,
   "originalValue" : "Iraq",
-  "information" : "Irak\nKamentar: CLDR"
+  "information" : "Irak\n\nKamentar:\nCLDR"
 }, {
   "id" : 555,
   "originalValue" : "Ireland",
-  "information" : "Irliandyja\nKamentar: CLDR"
+  "information" : "Irliandyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 556,
   "originalValue" : "Isle of Man",
-  "information" : "Vostraŭ Men\nKamentar: CLDR"
+  "information" : "Vostraŭ Men\n\nKamentar:\nCLDR"
 }, {
   "id" : 557,
   "originalValue" : "Israel",
-  "information" : "Izraiĺ\nKamentar: CLDR"
+  "information" : "Izraiĺ\n\nKamentar:\nCLDR"
 }, {
   "id" : 558,
   "originalValue" : "issue",
@@ -2233,63 +2233,63 @@
 }, {
   "id" : 559,
   "originalValue" : "Italy",
-  "information" : "Italija\nKamentar: CLDR"
+  "information" : "Italija\n\nKamentar:\nCLDR"
 }, {
   "id" : 560,
   "originalValue" : "item",
-  "information" : "eliemient\nKamentar: Google, Samsung, MS"
+  "information" : "eliemient\n\nKamentar:\nGoogle, Samsung, MS"
 }, {
   "id" : 561,
   "originalValue" : "Jamaica",
-  "information" : "Jamajka\nKamentar: CLDR"
+  "information" : "Jamajka\n\nKamentar:\nCLDR"
 }, {
   "id" : 562,
   "originalValue" : "Japan",
-  "information" : "Japonija\nKamentar: CLDR"
+  "information" : "Japonija\n\nKamentar:\nCLDR"
 }, {
   "id" : 563,
   "originalValue" : "Jersey",
-  "information" : "Dzersi\nKamentar: CLDR"
+  "information" : "Dzersi\n\nKamentar:\nCLDR"
 }, {
   "id" : 564,
   "originalValue" : "join",
-  "information" : "ab’jadnać; dalučyć; dalučycca\nKamentar: ab’jadnać; dalučyć — MS\ndalučyć, dalučycca — Samsung"
+  "information" : "ab’jadnać; dalučyć; dalučycca\n\nKamentar:\nab’jadnać; dalučyć — MS\ndalučyć, dalučycca — Samsung"
 }, {
   "id" : 565,
   "originalValue" : "Jordan",
-  "information" : "Iardanija\nKamentar: CLDR"
+  "information" : "Iardanija\n\nKamentar:\nCLDR"
 }, {
   "id" : 566,
   "originalValue" : "joystick",
-  "information" : "dzojstyk\nKamentar: MS"
+  "information" : "dzojstyk\n\nKamentar:\nMS"
 }, {
   "id" : 567,
   "originalValue" : "jump",
-  "information" : "pierajści\nKamentar: MS"
+  "information" : "pierajści\n\nKamentar:\nMS"
 }, {
   "id" : 568,
   "originalValue" : "Kazakhstan",
-  "information" : "Kazachstan\nKamentar: CLDR"
+  "information" : "Kazachstan\n\nKamentar:\nCLDR"
 }, {
   "id" : 569,
   "originalValue" : "kB",
-  "information" : "kB — KB; kilabajt; kb — kbit; kilabit\nKamentar: CLDR"
+  "information" : "kB — KB; kilabajt; kb — kbit; kilabit\n\nKamentar:\nCLDR"
 }, {
   "id" : 570,
   "originalValue" : "kbit",
-  "information" : "kbit\nKamentar: CLDR"
+  "information" : "kbit\n\nKamentar:\nCLDR"
 }, {
   "id" : 571,
   "originalValue" : "kByte",
-  "information" : "KB\nKamentar: CLDR"
+  "information" : "KB\n\nKamentar:\nCLDR"
 }, {
   "id" : 572,
   "originalValue" : "keep",
-  "information" : "zachavać\nKamentar: hl. save"
+  "information" : "zachavać\n\nKamentar:\nhl. save"
 }, {
   "id" : 573,
   "originalValue" : "Kenya",
-  "information" : "Kienija\nKamentar: CLDR"
+  "information" : "Kienija\n\nKamentar:\nCLDR"
 }, {
   "id" : 574,
   "originalValue" : "kernel",
@@ -2297,11 +2297,11 @@
 }, {
   "id" : 575,
   "originalValue" : "key",
-  "information" : "kliuč; klaviša\nKamentar: Samsung, MS"
+  "information" : "kliuč; klaviša\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 576,
   "originalValue" : "keybinding",
-  "information" : "pryznačeńnie klaviš; pryznačyć klavišy\nKamentar: hot key - haračyja klavišy = spalučeńni klaviš, jakija vyklikajuć kankretnaje dziejańnie, časta standartnyja (napr. Strl+Z dlia skasavańnia)\nkeybinding — praces ci vynik pryznačeńnia dziejańniaŭ na klavišy, napryklad, tych samym hot key-jaŭ"
+  "information" : "pryznačeńnie klaviš; pryznačyć klavišy\n\nKamentar:\nhot key - haračyja klavišy = spalučeńni klaviš, jakija vyklikajuć kankretnaje dziejańnie, časta standartnyja (napr. Strl+Z dlia skasavańnia)\nkeybinding — praces ci vynik pryznačeńnia dziejańniaŭ na klavišy, napryklad, tych samym hot key-jaŭ"
 }, {
   "id" : 577,
   "originalValue" : "keyboard",
@@ -2309,7 +2309,7 @@
 }, {
   "id" : 578,
   "originalValue" : "keyboard shortcut",
-  "information" : "spalučeńnie klaviš\nKamentar: MS"
+  "information" : "spalučeńnie klaviš\n\nKamentar:\nMS"
 }, {
   "id" : 579,
   "originalValue" : "keystroke",
@@ -2317,43 +2317,43 @@
 }, {
   "id" : 580,
   "originalValue" : "kilobit",
-  "information" : "kilabit\nKamentar: CLDR"
+  "information" : "kilabit\n\nKamentar:\nCLDR"
 }, {
   "id" : 581,
   "originalValue" : "kilobits",
-  "information" : "kilabity\nKamentar: CLDR"
+  "information" : "kilabity\n\nKamentar:\nCLDR"
 }, {
   "id" : 582,
   "originalValue" : "kilobyte",
-  "information" : "kilabajt\nKamentar: CLDR"
+  "information" : "kilabajt\n\nKamentar:\nCLDR"
 }, {
   "id" : 583,
   "originalValue" : "kilobytes",
-  "information" : "kilabajty\nKamentar: CLDR"
+  "information" : "kilabajty\n\nKamentar:\nCLDR"
 }, {
   "id" : 584,
   "originalValue" : "Kinshasa",
-  "information" : "Kinšasa\nKamentar: CLDR"
+  "information" : "Kinšasa\n\nKamentar:\nCLDR"
 }, {
   "id" : 585,
   "originalValue" : "Kiribati",
-  "information" : "Kirybaci\nKamentar: CLDR"
+  "information" : "Kirybaci\n\nKamentar:\nCLDR"
 }, {
   "id" : 586,
   "originalValue" : "Korean",
-  "information" : "Karejskaje\nKamentar: CLDR"
+  "information" : "Karejskaje\n\nKamentar:\nCLDR"
 }, {
   "id" : 587,
   "originalValue" : "Kosovo",
-  "information" : "Kosava\nKamentar: CLDR"
+  "information" : "Kosava\n\nKamentar:\nCLDR"
 }, {
   "id" : 588,
   "originalValue" : "Kuwait",
-  "information" : "Kuviejt\nKamentar: CLDR"
+  "information" : "Kuviejt\n\nKamentar:\nCLDR"
 }, {
   "id" : 589,
   "originalValue" : "Kyrgyzstan",
-  "information" : "Kyrhyzstan\nKamentar: CLDR"
+  "information" : "Kyrhyzstan\n\nKamentar:\nCLDR"
 }, {
   "id" : 590,
   "originalValue" : "language",
@@ -2361,11 +2361,11 @@
 }, {
   "id" : 591,
   "originalValue" : "Laos",
-  "information" : "Laos\nKamentar: CLDR"
+  "information" : "Laos\n\nKamentar:\nCLDR"
 }, {
   "id" : 592,
   "originalValue" : "laptop",
-  "information" : "noŭtbuk\nKamentar: MS"
+  "information" : "noŭtbuk\n\nKamentar:\nMS"
 }, {
   "id" : 593,
   "originalValue" : "large",
@@ -2377,7 +2377,7 @@
 }, {
   "id" : 595,
   "originalValue" : "Latvia",
-  "information" : "Latvija\nKamentar: CLDR"
+  "information" : "Latvija\n\nKamentar:\nCLDR"
 }, {
   "id" : 596,
   "originalValue" : "launch",
@@ -2405,23 +2405,23 @@
 }, {
   "id" : 602,
   "originalValue" : "Lebanon",
-  "information" : "Livan\nKamentar: CLDR"
+  "information" : "Livan\n\nKamentar:\nCLDR"
 }, {
   "id" : 603,
   "originalValue" : "legacy",
-  "information" : "sastarelaja versija; raniejšaja versija\nKamentar: MS — raniejšaja versija; sastarely"
+  "information" : "sastarelaja versija; raniejšaja versija\n\nKamentar:\nMS — raniejšaja versija; sastarely"
 }, {
   "id" : 604,
   "originalValue" : "Lesotho",
-  "information" : "Liesota\nKamentar: CLDR"
+  "information" : "Liesota\n\nKamentar:\nCLDR"
 }, {
   "id" : 605,
   "originalValue" : "letter",
-  "information" : "litara; list\nKamentar: Samsung"
+  "information" : "litara; list\n\nKamentar:\nSamsung"
 }, {
   "id" : 606,
   "originalValue" : "Liberia",
-  "information" : "Libieryja\nKamentar: CLDR"
+  "information" : "Libieryja\n\nKamentar:\nCLDR"
 }, {
   "id" : 607,
   "originalValue" : "library",
@@ -2437,7 +2437,7 @@
 }, {
   "id" : 610,
   "originalValue" : "Liechtenstein",
-  "information" : "Lichtenštejn\nKamentar: CLDR"
+  "information" : "Lichtenštejn\n\nKamentar:\nCLDR"
 }, {
   "id" : 611,
   "originalValue" : "light",
@@ -2449,15 +2449,15 @@
 }, {
   "id" : 613,
   "originalValue" : "linked",
-  "information" : "źviazany\nKamentar: Google, Samsung"
+  "information" : "źviazany\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 614,
   "originalValue" : "list",
-  "information" : "spis\nKamentar: Samsung, Google, MS"
+  "information" : "spis\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 615,
   "originalValue" : "Lithuania",
-  "information" : "Litva\nKamentar: CLDR"
+  "information" : "Litva\n\nKamentar:\nCLDR"
 }, {
   "id" : 616,
   "originalValue" : "load",
@@ -2473,7 +2473,7 @@
 }, {
   "id" : 619,
   "originalValue" : "lock",
-  "information" : "blakiravać; blakiravańnie\nNiapraviĺny pieraklad: blakavać; blakavańnie"
+  "information" : "blakiravać; blakiravańnie\n\nNiapraviĺny pieraklad:\nblakavać; blakavańnie"
 }, {
   "id" : 620,
   "originalValue" : "locked",
@@ -2481,7 +2481,7 @@
 }, {
   "id" : 621,
   "originalValue" : "log",
-  "information" : "zurnal\nNiapraviĺny pieraklad: časopis\nKamentar: MS, Samsung"
+  "information" : "zurnal\n\nNiapraviĺny pieraklad:\nčasopis\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 622,
   "originalValue" : "log in",
@@ -2505,11 +2505,11 @@
 }, {
   "id" : 627,
   "originalValue" : "lookup",
-  "information" : "pošuk; ahliad\nKamentar: MS"
+  "information" : "pošuk; ahliad\n\nKamentar:\nMS"
 }, {
   "id" : 628,
   "originalValue" : "Luxembourg",
-  "information" : "Liuksemburh\nKamentar: CLDR"
+  "information" : "Liuksemburh\n\nKamentar:\nCLDR"
 }, {
   "id" : 629,
   "originalValue" : "m",
@@ -2517,63 +2517,63 @@
 }, {
   "id" : 630,
   "originalValue" : "Macao",
-  "information" : "Makaa\nKamentar: CLDR"
+  "information" : "Makaa\n\nKamentar:\nCLDR"
 }, {
   "id" : 631,
   "originalValue" : "Macao SAR China",
-  "information" : "Makaa, SAR (Kitaj)\nKamentar: CLDR"
+  "information" : "Makaa, SAR (Kitaj)\n\nKamentar:\nCLDR"
 }, {
   "id" : 632,
   "originalValue" : "Macau",
-  "information" : "Makaa\nKamentar: CLDR"
+  "information" : "Makaa\n\nKamentar:\nCLDR"
 }, {
   "id" : 633,
   "originalValue" : "Macedonia",
-  "information" : "Paŭnočnaja Makiedonija; Makiedonija (kali majecca na ŭvazie rehijon)\nKamentar: CLDR"
+  "information" : "Paŭnočnaja Makiedonija; Makiedonija (kali majecca na ŭvazie rehijon)\n\nKamentar:\nCLDR"
 }, {
   "id" : 634,
   "originalValue" : "Madagascar",
-  "information" : "Madahaskar\nKamentar: CLDR"
+  "information" : "Madahaskar\n\nKamentar:\nCLDR"
 }, {
   "id" : 635,
   "originalValue" : "magnifier",
-  "information" : "lupa\nKamentar: Samsung"
+  "information" : "lupa\n\nKamentar:\nSamsung"
 }, {
   "id" : 636,
   "originalValue" : "magnify",
-  "information" : "pavialičyć\n\nKamentar: Samsung"
+  "information" : "pavialičyć\n\n\nKamentar:\nSamsung"
 }, {
   "id" : 637,
   "originalValue" : "Malawi",
-  "information" : "Malavi\nKamentar: CLDR"
+  "information" : "Malavi\n\nKamentar:\nCLDR"
 }, {
   "id" : 638,
   "originalValue" : "Malaysia",
-  "information" : "Malajzija\nKamentar: CLDR"
+  "information" : "Malajzija\n\nKamentar:\nCLDR"
 }, {
   "id" : 639,
   "originalValue" : "Maldives",
-  "information" : "Maĺdyvy\nKamentar: CLDR"
+  "information" : "Maĺdyvy\n\nKamentar:\nCLDR"
 }, {
   "id" : 640,
   "originalValue" : "Mali",
-  "information" : "Mali\nKamentar: CLDR"
+  "information" : "Mali\n\nKamentar:\nCLDR"
 }, {
   "id" : 641,
   "originalValue" : "Malta",
-  "information" : "Maĺta\nKamentar: CLDR"
+  "information" : "Maĺta\n\nKamentar:\nCLDR"
 }, {
   "id" : 642,
   "originalValue" : "manage",
-  "information" : "kiravać; kiravańnie\nKamentar: MS, Samsung"
+  "information" : "kiravać; kiravańnie\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 643,
   "originalValue" : "management",
-  "information" : "kiravańnie\nKamentar: MS, Google"
+  "information" : "kiravańnie\n\nKamentar:\nMS, Google"
 }, {
   "id" : 644,
   "originalValue" : "manager",
-  "information" : "mieniedzar (prahrama); kiraŭnik\nKamentar: MS, Google, Samsung"
+  "information" : "mieniedzar (prahrama); kiraŭnik\n\nKamentar:\nMS, Google, Samsung"
 }, {
   "id" : 645,
   "originalValue" : "manipulating",
@@ -2581,23 +2581,23 @@
 }, {
   "id" : 646,
   "originalValue" : "manual",
-  "information" : "ručny; uručnuju; dapamoznik\nKamentar: Samsung, MS, Google"
+  "information" : "ručny; uručnuju; dapamoznik\n\nKamentar:\nSamsung, MS, Google"
 }, {
   "id" : 647,
   "originalValue" : "manually",
-  "information" : "uručnuju\nKamentar: Samsung, MS"
+  "information" : "uručnuju\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 648,
   "originalValue" : "mark",
-  "information" : "paznačyć; znak; paznaka\nKamentar: Samsung(paznačyć), MS"
+  "information" : "paznačyć; znak; paznaka\n\nKamentar:\nSamsung(paznačyć), MS"
 }, {
   "id" : 649,
   "originalValue" : "Marshall Islands",
-  "information" : "Maršalavy astravy\nKamentar: CLDR"
+  "information" : "Maršalavy astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 650,
   "originalValue" : "Martinique",
-  "information" : "Marcinika\nKamentar: CLDR"
+  "information" : "Marcinika\n\nKamentar:\nCLDR"
 }, {
   "id" : 651,
   "originalValue" : "math",
@@ -2609,35 +2609,35 @@
 }, {
   "id" : 653,
   "originalValue" : "Mauritania",
-  "information" : "Maŭrytanija\nKamentar: CLDR"
+  "information" : "Maŭrytanija\n\nKamentar:\nCLDR"
 }, {
   "id" : 654,
   "originalValue" : "Mauritius",
-  "information" : "Maŭrykij\nKamentar: CLDR"
+  "information" : "Maŭrykij\n\nKamentar:\nCLDR"
 }, {
   "id" : 655,
   "originalValue" : "maximize",
-  "information" : "! razharnuć\nKamentar: MS\nheta kali my malieńkaje akno robim vieličynioj na ŭvieś ekran"
+  "information" : "! razharnuć\n\nKamentar:\nMS\nheta kali my malieńkaje akno robim vieličynioj na ŭvieś ekran"
 }, {
   "id" : 656,
   "originalValue" : "may",
-  "information" : "maj (miesiac)\nNiapraviĺny pieraklad: travień\nKamentar: Google, Sasung, MS\nNie budziem iści suprać sklaŭšajsia terminalohii, paŭsiuĺ uzyvajuć toĺki maj."
+  "information" : "maj (miesiac)\n\nNiapraviĺny pieraklad:\ntravień\n\nKamentar:\nGoogle, Sasung, MS\nNie budziem iści suprać sklaŭšajsia terminalohii, paŭsiuĺ uzyvajuć toĺki maj."
 }, {
   "id" : 657,
   "originalValue" : "Mayotte",
-  "information" : "Majota\nKamentar: CLDR"
+  "information" : "Majota\n\nKamentar:\nCLDR"
 }, {
   "id" : 658,
   "originalValue" : "MB",
-  "information" : "MB — MB; miehabajt; Mb — Mbit; miehabit\nKamentar: CLDR"
+  "information" : "MB — MB; miehabajt; Mb — Mbit; miehabit\n\nKamentar:\nCLDR"
 }, {
   "id" : 659,
   "originalValue" : "Mbits",
-  "information" : "Mbit\nKamentar: CLDR"
+  "information" : "Mbit\n\nKamentar:\nCLDR"
 }, {
   "id" : 660,
   "originalValue" : "MByte",
-  "information" : "MB\n\nKamentar: CLDR"
+  "information" : "MB\n\n\nKamentar:\nCLDR"
 }, {
   "id" : 661,
   "originalValue" : "measure",
@@ -2649,19 +2649,19 @@
 }, {
   "id" : 663,
   "originalValue" : "megabit",
-  "information" : "miehabit\nKamentar: CLDR"
+  "information" : "miehabit\n\nKamentar:\nCLDR"
 }, {
   "id" : 664,
   "originalValue" : "megabits",
-  "information" : "miehabity\nKamentar: CLDR"
+  "information" : "miehabity\n\nKamentar:\nCLDR"
 }, {
   "id" : 665,
   "originalValue" : "megabyte",
-  "information" : "miehabajt\nKamentar: CLDR"
+  "information" : "miehabajt\n\nKamentar:\nCLDR"
 }, {
   "id" : 666,
   "originalValue" : "megabytes",
-  "information" : "miehabajty\nKamentar: CLDR"
+  "information" : "miehabajty\n\nKamentar:\nCLDR"
 }, {
   "id" : 667,
   "originalValue" : "Melilla",
@@ -2685,15 +2685,15 @@
 }, {
   "id" : 672,
   "originalValue" : "method",
-  "information" : "mietad (prahramny); sposab\nKamentar: MS"
+  "information" : "mietad (prahramny); sposab\n\nKamentar:\nMS"
 }, {
   "id" : 673,
   "originalValue" : "Mexico",
-  "information" : "Mieksika\nKamentar: CLDR"
+  "information" : "Mieksika\n\nKamentar:\nCLDR"
 }, {
   "id" : 674,
   "originalValue" : "Micronesia, Federated States of",
-  "information" : "Fiederatyŭnyja Štaty Mikraniezii\nKamentar: niama ŭ CLDR"
+  "information" : "Fiederatyŭnyja Štaty Mikraniezii\n\nKamentar:\nniama ŭ CLDR"
 }, {
   "id" : 675,
   "originalValue" : "microphone",
@@ -2701,11 +2701,11 @@
 }, {
   "id" : 676,
   "originalValue" : "minimise",
-  "information" : "zharnuć\nKamentar:  = minimize"
+  "information" : "zharnuć\n\nKamentar:\n = minimize"
 }, {
   "id" : 677,
   "originalValue" : "minimize",
-  "information" : "zharnuć\nKamentar: MS\nSamsung — zharnuć\nheta kali my chavajem akno"
+  "information" : "zharnuć\n\nKamentar:\nMS\nSamsung — zharnuć\nheta kali my chavajem akno"
 }, {
   "id" : 678,
   "originalValue" : "Minsk",
@@ -2721,7 +2721,7 @@
 }, {
   "id" : 681,
   "originalValue" : "missing",
-  "information" : "adsutničaje, adsutničajuć; adsutnaje, adsutnyja\nNiapraviĺny pieraklad: prapuščany\nKamentar: MS"
+  "information" : "adsutničaje, adsutničajuć; adsutnaje, adsutnyja\n\nNiapraviĺny pieraklad:\nprapuščany\n\nKamentar:\nMS"
 }, {
   "id" : 682,
   "originalValue" : "mode",
@@ -2729,15 +2729,15 @@
 }, {
   "id" : 683,
   "originalValue" : "modem",
-  "information" : "madem\nKamentar: MS"
+  "information" : "madem\n\nKamentar:\nMS"
 }, {
   "id" : 684,
   "originalValue" : "moderator",
-  "information" : "maderatar\nKamentar: MS"
+  "information" : "maderatar\n\nKamentar:\nMS"
 }, {
   "id" : 685,
   "originalValue" : "Modern Standard Arabic",
-  "information" : "sučasnaja standartnaja arabskaja\nKamentar: CLDR"
+  "information" : "sučasnaja standartnaja arabskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 686,
   "originalValue" : "modification",
@@ -2749,31 +2749,31 @@
 }, {
   "id" : 688,
   "originalValue" : "modify",
-  "information" : "źmianiać\nKamentar: Samsung"
+  "information" : "źmianiać\n\nKamentar:\nSamsung"
 }, {
   "id" : 689,
   "originalValue" : "Moldova",
-  "information" : "Maldova\nKamentar: CLDR"
+  "information" : "Maldova\n\nKamentar:\nCLDR"
 }, {
   "id" : 690,
   "originalValue" : "Monaco",
-  "information" : "Manaka\nKamentar: CLDR"
+  "information" : "Manaka\n\nKamentar:\nCLDR"
 }, {
   "id" : 691,
   "originalValue" : "Mongolia",
-  "information" : "Manholija\nKamentar: CLDR"
+  "information" : "Manholija\n\nKamentar:\nCLDR"
 }, {
   "id" : 692,
   "originalValue" : "Montenegro",
-  "information" : "Čarnahoryja\nKamentar: CLDR"
+  "information" : "Čarnahoryja\n\nKamentar:\nCLDR"
 }, {
   "id" : 693,
   "originalValue" : "monthly",
-  "information" : "štomiesiac; štomiesiačny; za miesiac\nKamentar: MS, Samsung"
+  "information" : "štomiesiac; štomiesiačny; za miesiac\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 694,
   "originalValue" : "Montserrat",
-  "information" : "Mantsierat\nKamentar: CLDR"
+  "information" : "Mantsierat\n\nKamentar:\nCLDR"
 }, {
   "id" : 695,
   "originalValue" : "more information",
@@ -2781,11 +2781,11 @@
 }, {
   "id" : 696,
   "originalValue" : "Morocco",
-  "information" : "Maroka\nKamentar: CLDR"
+  "information" : "Maroka\n\nKamentar:\nCLDR"
 }, {
   "id" : 697,
   "originalValue" : "mount",
-  "information" : "padkliučyć\nKamentar: Google, Samsung"
+  "information" : "padkliučyć\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 698,
   "originalValue" : "mouse",
@@ -2797,27 +2797,27 @@
 }, {
   "id" : 700,
   "originalValue" : "mouse shortcut",
-  "information" : "kamanda myšy\nKamentar: MS"
+  "information" : "kamanda myšy\n\nKamentar:\nMS"
 }, {
   "id" : 701,
   "originalValue" : "mouseover",
-  "information" : "naviadzieńnie kursora\nKamentar: Google"
+  "information" : "naviadzieńnie kursora\n\nKamentar:\nGoogle"
 }, {
   "id" : 702,
   "originalValue" : "move",
-  "information" : "pieramiaścić\nKamentar: Samsung"
+  "information" : "pieramiaścić\n\nKamentar:\nSamsung"
 }, {
   "id" : 703,
   "originalValue" : "Mozambique",
-  "information" : "Mazambik\nKamentar: CLDR"
+  "information" : "Mazambik\n\nKamentar:\nCLDR"
 }, {
   "id" : 704,
   "originalValue" : "multimedia",
-  "information" : "muĺtymiedyja; muĺtymiedyjny\nKamentar: Samsung, MS"
+  "information" : "muĺtymiedyja; muĺtymiedyjny\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 705,
   "originalValue" : "multiple",
-  "information" : "niekaĺki\nKamentar: Samsung"
+  "information" : "niekaĺki\n\nKamentar:\nSamsung"
 }, {
   "id" : 706,
   "originalValue" : "music",
@@ -2829,47 +2829,47 @@
 }, {
   "id" : 708,
   "originalValue" : "mute",
-  "information" : "adkliučyć huk\nKamentar: MS"
+  "information" : "adkliučyć huk\n\nKamentar:\nMS"
 }, {
   "id" : 709,
   "originalValue" : "Myanmar",
-  "information" : "M’janma (Birma)\nKamentar: CLDR"
+  "information" : "M’janma (Birma)\n\nKamentar:\nCLDR"
 }, {
   "id" : 710,
   "originalValue" : "Namibia",
-  "information" : "Namibija\nKamentar: CLDR"
+  "information" : "Namibija\n\nKamentar:\nCLDR"
 }, {
   "id" : 711,
   "originalValue" : "Nauru",
-  "information" : "Nauru\nKamentar: CLDR"
+  "information" : "Nauru\n\nKamentar:\nCLDR"
 }, {
   "id" : 712,
   "originalValue" : "need",
-  "information" : "treba\nKamentar: Samsung"
+  "information" : "treba\n\nKamentar:\nSamsung"
 }, {
   "id" : 713,
   "originalValue" : "needed",
-  "information" : "nieabchodna; treba\nKamentar: Samsung"
+  "information" : "nieabchodna; treba\n\nKamentar:\nSamsung"
 }, {
   "id" : 714,
   "originalValue" : "negative",
-  "information" : "niehatyŭ; niehatyŭny\nKamentar: Samsung"
+  "information" : "niehatyŭ; niehatyŭny\n\nKamentar:\nSamsung"
 }, {
   "id" : 715,
   "originalValue" : "Nepal",
-  "information" : "Niepal\nKamentar: CLDR"
+  "information" : "Niepal\n\nKamentar:\nCLDR"
 }, {
   "id" : 716,
   "originalValue" : "Netherlands",
-  "information" : "Niderliandy\nKamentar: CLDR"
+  "information" : "Niderliandy\n\nKamentar:\nCLDR"
 }, {
   "id" : 717,
   "originalValue" : "Netherlands Antilles",
-  "information" : "Niderliandskija Antyĺskija astravy\nKamentar: bielen\nniama ŭ CLDR"
+  "information" : "Niderliandskija Antyĺskija astravy\n\nKamentar:\nbielen\nniama ŭ CLDR"
 }, {
   "id" : 718,
   "originalValue" : "network",
-  "information" : "sietka\nKamentar: MS"
+  "information" : "sietka\n\nKamentar:\nMS"
 }, {
   "id" : 719,
   "originalValue" : "Network Manager",
@@ -2885,19 +2885,19 @@
 }, {
   "id" : 722,
   "originalValue" : "New Caledonia",
-  "information" : "Novaja Kaliedonija\nKamentar: CLDR"
+  "information" : "Novaja Kaliedonija\n\nKamentar:\nCLDR"
 }, {
   "id" : 723,
   "originalValue" : "New Zealand",
-  "information" : "Novaja Zielandyja\nKamentar: CLDR"
+  "information" : "Novaja Zielandyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 724,
   "originalValue" : "Newest",
-  "information" : "Samaje novaje\nKamentar: MS"
+  "information" : "Samaje novaje\n\nKamentar:\nMS"
 }, {
   "id" : 725,
   "originalValue" : "News",
-  "information" : "Naviny\nKamentar: MS"
+  "information" : "Naviny\n\nKamentar:\nMS"
 }, {
   "id" : 726,
   "originalValue" : "next",
@@ -2905,15 +2905,15 @@
 }, {
   "id" : 727,
   "originalValue" : "Nicaragua",
-  "information" : "Nikarahua\nKamentar: CLDR"
+  "information" : "Nikarahua\n\nKamentar:\nCLDR"
 }, {
   "id" : 728,
   "originalValue" : "Niger",
-  "information" : "Nihier\nKamentar: CLDR"
+  "information" : "Nihier\n\nKamentar:\nCLDR"
 }, {
   "id" : 729,
   "originalValue" : "Nigeria",
-  "information" : "Nihieryja\nKamentar: CLDR"
+  "information" : "Nihieryja\n\nKamentar:\nCLDR"
 }, {
   "id" : 730,
   "originalValue" : "night blue",
@@ -2925,7 +2925,7 @@
 }, {
   "id" : 732,
   "originalValue" : "Niue",
-  "information" : "Niue\nKamentar: CLDR"
+  "information" : "Niue\n\nKamentar:\nCLDR"
 }, {
   "id" : 733,
   "originalValue" : "No Repeat",
@@ -2949,31 +2949,31 @@
 }, {
   "id" : 738,
   "originalValue" : "Norfolk Island",
-  "information" : "Vostraŭ Norfalk\nKamentar: CLDR"
+  "information" : "Vostraŭ Norfalk\n\nKamentar:\nCLDR"
 }, {
   "id" : 739,
   "originalValue" : "normal",
-  "information" : "zvyčajny\nKamentar: Samsung"
+  "information" : "zvyčajny\n\nKamentar:\nSamsung"
 }, {
   "id" : 740,
   "originalValue" : "North Korea",
-  "information" : "Paŭnočnaja Kareja\nKamentar: CLDR"
+  "information" : "Paŭnočnaja Kareja\n\nKamentar:\nCLDR"
 }, {
   "id" : 741,
   "originalValue" : "Northern Mariana Islands",
-  "information" : "Paŭnočnyja Maryjanskija astravy\nKamentar: CLDR"
+  "information" : "Paŭnočnyja Maryjanskija astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 742,
   "originalValue" : "Norway",
-  "information" : "Narviehija\nKamentar: CLDR"
+  "information" : "Narviehija\n\nKamentar:\nCLDR"
 }, {
   "id" : 743,
   "originalValue" : "not available",
-  "information" : "niedastupna\nKamentar: Samsung"
+  "information" : "niedastupna\n\nKamentar:\nSamsung"
 }, {
   "id" : 744,
   "originalValue" : "not enough",
-  "information" : "niedastatkova\nKamentar: Samsung"
+  "information" : "niedastatkova\n\nKamentar:\nSamsung"
 }, {
   "id" : 745,
   "originalValue" : "not found",
@@ -2981,19 +2981,19 @@
 }, {
   "id" : 746,
   "originalValue" : "not valid",
-  "information" : "niesapraŭdny; niapraviĺny\nKamentar: Samsung"
+  "information" : "niesapraŭdny; niapraviĺny\n\nKamentar:\nSamsung"
 }, {
   "id" : 747,
   "originalValue" : "note",
-  "information" : "natatka\nNiapraviĺny pieraklad: zapis\nKamentar: Google, MS"
+  "information" : "natatka\n\nNiapraviĺny pieraklad:\nzapis\n\nKamentar:\nGoogle, MS"
 }, {
   "id" : 748,
   "originalValue" : "notes",
-  "information" : "natatki\nNiapraviĺny pieraklad: zapisy"
+  "information" : "natatki\n\nNiapraviĺny pieraklad:\nzapisy"
 }, {
   "id" : 749,
   "originalValue" : "notification",
-  "information" : "apaviaščeńnie\nNiapraviĺny pieraklad: abviestka"
+  "information" : "apaviaščeńnie\n\nNiapraviĺny pieraklad:\nabviestka"
 }, {
   "id" : 750,
   "originalValue" : "number",
@@ -3001,11 +3001,11 @@
 }, {
   "id" : 751,
   "originalValue" : "occurred",
-  "information" : "adbylasia\nKamentar: Samsung"
+  "information" : "adbylasia\n\nKamentar:\nSamsung"
 }, {
   "id" : 752,
   "originalValue" : "Oceania",
-  "information" : "Akijanija\nKamentar: CLDR"
+  "information" : "Akijanija\n\nKamentar:\nCLDR"
 }, {
   "id" : 753,
   "originalValue" : "off",
@@ -3013,15 +3013,15 @@
 }, {
   "id" : 754,
   "originalValue" : "offline",
-  "information" : "pa-za sietkaj; pazasietkavy\nKamentar: Google"
+  "information" : "pa-za sietkaj; pazasietkavy\n\nKamentar:\nGoogle"
 }, {
   "id" : 755,
   "originalValue" : "offline area",
-  "information" : "pazasietkavaja voblaść\nKamentar: Google"
+  "information" : "pazasietkavaja voblaść\n\nKamentar:\nGoogle"
 }, {
   "id" : 756,
   "originalValue" : "offset",
-  "information" : "zruch; zrušeńnie (praces)\nKamentar: MS"
+  "information" : "zruch; zrušeńnie (praces)\n\nKamentar:\nMS"
 }, {
   "id" : 757,
   "originalValue" : "ok",
@@ -3029,7 +3029,7 @@
 }, {
   "id" : 758,
   "originalValue" : "Oman",
-  "information" : "Aman\nKamentar: CLDR"
+  "information" : "Aman\n\nKamentar:\nCLDR"
 }, {
   "id" : 759,
   "originalValue" : "on",
@@ -3037,7 +3037,7 @@
 }, {
   "id" : 760,
   "originalValue" : "on-screen",
-  "information" : "ekranny\nKamentar: Google"
+  "information" : "ekranny\n\nKamentar:\nGoogle"
 }, {
   "id" : 761,
   "originalValue" : "ongoing",
@@ -3049,7 +3049,7 @@
 }, {
   "id" : 763,
   "originalValue" : "online account",
-  "information" : "ulikovy zapis u sietcy\nKamentar: MS — ulikovy zapis u sietcy; ulikovy zapis internet-servisu"
+  "information" : "ulikovy zapis u sietcy\n\nKamentar:\nMS — ulikovy zapis u sietcy; ulikovy zapis internet-servisu"
 }, {
   "id" : 764,
   "originalValue" : "online accounts",
@@ -3057,27 +3057,27 @@
 }, {
   "id" : 765,
   "originalValue" : "opacity",
-  "information" : "nieprazrystaść\nKamentar: Samsung, MS"
+  "information" : "nieprazrystaść\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 766,
   "originalValue" : "open",
-  "information" : "adkryć (document, file, window, tab etc.)\nKamentar: Asobnyja vypadki kštaltu «adharnuć eliektronnuju knihu na 20-j staroncy» prapanoŭvaju vynosić na abmierkavańnie ŭ Telegram"
+  "information" : "adkryć (document, file, window, tab etc.)\n\nKamentar:\nAsobnyja vypadki kštaltu «adharnuć eliektronnuju knihu na 20-j staroncy» prapanoŭvaju vynosić na abmierkavańnie ŭ Telegram"
 }, {
   "id" : 767,
   "originalValue" : "open with",
-  "information" : "adkryć praz\nNiapraviĺny pieraklad: adkryć z"
+  "information" : "adkryć praz\n\nNiapraviĺny pieraklad:\nadkryć z"
 }, {
   "id" : 768,
   "originalValue" : "operation",
-  "information" : "apieracyja\nKamentar: Samsung, Google, MS"
+  "information" : "apieracyja\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 769,
   "originalValue" : "option",
-  "information" : "paramietar; varyjant\nKamentar: Google, Samsung"
+  "information" : "paramietar; varyjant\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 770,
   "originalValue" : "or",
-  "information" : "abo; ci\nNiapraviĺny pieraklad: aĺbo"
+  "information" : "abo; ci\n\nNiapraviĺny pieraklad:\naĺbo"
 }, {
   "id" : 771,
   "originalValue" : "orange",
@@ -3085,15 +3085,15 @@
 }, {
   "id" : 772,
   "originalValue" : "orientation",
-  "information" : "aryjentacyja\nKamentar: Google"
+  "information" : "aryjentacyja\n\nKamentar:\nGoogle"
 }, {
   "id" : 773,
   "originalValue" : "original",
-  "information" : "zychodny; aryhinaĺny\nKamentar: Samsung"
+  "information" : "zychodny; aryhinaĺny\n\nKamentar:\nSamsung"
 }, {
   "id" : 774,
   "originalValue" : "OTA",
-  "information" : "biespravadny\nKamentar: Google"
+  "information" : "biespravadny\n\nKamentar:\nGoogle"
 }, {
   "id" : 775,
   "originalValue" : "other",
@@ -3101,19 +3101,19 @@
 }, {
   "id" : 776,
   "originalValue" : "output",
-  "information" : "vyvad; vyvieści; vychad (aŭdyja)\nKamentar: Samsung, MS\nPra vychad padkazaŭ sp. Šumsk­i"
+  "information" : "vyvad; vyvieści; vychad (aŭdyja)\n\nKamentar:\nSamsung, MS\nPra vychad padkazaŭ sp. Šumsk­i"
 }, {
   "id" : 777,
   "originalValue" : "overlap",
-  "information" : "nakladacca\nKamentar: Samsung"
+  "information" : "nakladacca\n\nKamentar:\nSamsung"
 }, {
   "id" : 778,
   "originalValue" : "override",
-  "information" : "pieravyznačać; pieravyznačeńnie\nKamentar: MS"
+  "information" : "pieravyznačać; pieravyznačeńnie\n\nKamentar:\nMS"
 }, {
   "id" : 779,
   "originalValue" : "overview",
-  "information" : "ahliad\nKamentar: ms, google"
+  "information" : "ahliad\n\nKamentar:\nms, google"
 }, {
   "id" : 780,
   "originalValue" : "overwrite",
@@ -3125,11 +3125,11 @@
 }, {
   "id" : 782,
   "originalValue" : "package",
-  "information" : "pakiet\nNiapraviĺny pieraklad: pakunak"
+  "information" : "pakiet\n\nNiapraviĺny pieraklad:\npakunak"
 }, {
   "id" : 783,
   "originalValue" : "packaging",
-  "information" : "upakoŭka\nKamentar: Google"
+  "information" : "upakoŭka\n\nKamentar:\nGoogle"
 }, {
   "id" : 784,
   "originalValue" : "padding",
@@ -3141,23 +3141,23 @@
 }, {
   "id" : 786,
   "originalValue" : "pair",
-  "information" : "spalučyć\nKamentar: Google"
+  "information" : "spalučyć\n\nKamentar:\nGoogle"
 }, {
   "id" : 787,
   "originalValue" : "Pakistan",
-  "information" : "Pakistan\nKamentar: CLDR"
+  "information" : "Pakistan\n\nKamentar:\nCLDR"
 }, {
   "id" : 788,
   "originalValue" : "Palau",
-  "information" : "Palau\nKamentar: CLDR"
+  "information" : "Palau\n\nKamentar:\nCLDR"
 }, {
   "id" : 789,
   "originalValue" : "Palestine",
-  "information" : "Palieścina\nKamentar: CLDR"
+  "information" : "Palieścina\n\nKamentar:\nCLDR"
 }, {
   "id" : 790,
   "originalValue" : "Palestinian Territory",
-  "information" : "Palieścinskija Terytoryi\nKamentar: CLDR"
+  "information" : "Palieścinskija Terytoryi\n\nKamentar:\nCLDR"
 }, {
   "id" : 791,
   "originalValue" : "palete",
@@ -3165,11 +3165,11 @@
 }, {
   "id" : 792,
   "originalValue" : "pan",
-  "information" : "zruch; zrušvać\nKamentar: MS"
+  "information" : "zruch; zrušvać\n\nKamentar:\nMS"
 }, {
   "id" : 793,
   "originalValue" : "Panama",
-  "information" : "Panama\nKamentar: CLDR"
+  "information" : "Panama\n\nKamentar:\nCLDR"
 }, {
   "id" : 794,
   "originalValue" : "pane",
@@ -3181,11 +3181,11 @@
 }, {
   "id" : 796,
   "originalValue" : "Papua New Guinea",
-  "information" : "Papua-Novaja Hvinieja\nKamentar: CLDR"
+  "information" : "Papua-Novaja Hvinieja\n\nKamentar:\nCLDR"
 }, {
   "id" : 797,
   "originalValue" : "Paraguay",
-  "information" : "Parahvaj\nKamentar: CLDR"
+  "information" : "Parahvaj\n\nKamentar:\nCLDR"
 }, {
   "id" : 798,
   "originalValue" : "parallel",
@@ -3201,11 +3201,11 @@
 }, {
   "id" : 801,
   "originalValue" : "parse",
-  "information" : "analiz\nKamentar: Samsung"
+  "information" : "analiz\n\nKamentar:\nSamsung"
 }, {
   "id" : 802,
   "originalValue" : "parser",
-  "information" : "srodak analizu\nKamentar: MS"
+  "information" : "srodak analizu\n\nKamentar:\nMS"
 }, {
   "id" : 803,
   "originalValue" : "password",
@@ -3217,15 +3217,15 @@
 }, {
   "id" : 805,
   "originalValue" : "pause",
-  "information" : "paŭza; prypynić\nKamentar: Samsung"
+  "information" : "paŭza; prypynić\n\nKamentar:\nSamsung"
 }, {
   "id" : 806,
   "originalValue" : "PB",
-  "information" : "PB; pietabajt\nKamentar: CLDR"
+  "information" : "PB; pietabajt\n\nKamentar:\nCLDR"
 }, {
   "id" : 807,
   "originalValue" : "PByte",
-  "information" : "pbajt\nKamentar: CLDR"
+  "information" : "pbajt\n\nKamentar:\nCLDR"
 }, {
   "id" : 808,
   "originalValue" : "Peer-to-Peer",
@@ -3237,19 +3237,19 @@
 }, {
   "id" : 810,
   "originalValue" : "Peru",
-  "information" : "Pieru\nKamentar: CLDR"
+  "information" : "Pieru\n\nKamentar:\nCLDR"
 }, {
   "id" : 811,
   "originalValue" : "petabyte",
-  "information" : "pietabajt\nKamentar: CLDR"
+  "information" : "pietabajt\n\nKamentar:\nCLDR"
 }, {
   "id" : 812,
   "originalValue" : "petabytes",
-  "information" : "pietabajty; pietabajta\nKamentar: CLDR"
+  "information" : "pietabajty; pietabajta\n\nKamentar:\nCLDR"
 }, {
   "id" : 813,
   "originalValue" : "Philippines",
-  "information" : "Filipiny\nKamentar: CLDR"
+  "information" : "Filipiny\n\nKamentar:\nCLDR"
 }, {
   "id" : 814,
   "originalValue" : "photo",
@@ -3257,15 +3257,15 @@
 }, {
   "id" : 815,
   "originalValue" : "picker",
-  "information" : "vybar; srodak vybaru (eliemient interfiejsa)\nKamentar: vybar — MS, Google\nsrodak vybaru — MS"
+  "information" : "vybar; srodak vybaru (eliemient interfiejsa)\n\nKamentar:\nvybar — MS, Google\nsrodak vybaru — MS"
 }, {
   "id" : 816,
   "originalValue" : "picker",
-  "information" : "srodak vybaru (napr. color picker - srodak vybaru kolieru)\nKamentar: Google"
+  "information" : "srodak vybaru (napr. color picker - srodak vybaru kolieru)\n\nKamentar:\nGoogle"
 }, {
   "id" : 817,
   "originalValue" : "picture",
-  "information" : "vidarys; fota (kali heta fota); maliunak (kali jon namaliavany)\nNiapraviĺny pieraklad: vyjava"
+  "information" : "vidarys; fota (kali heta fota); maliunak (kali jon namaliavany)\n\nNiapraviĺny pieraklad:\nvyjava"
 }, {
   "id" : 818,
   "originalValue" : "picture frame",
@@ -3281,15 +3281,15 @@
 }, {
   "id" : 821,
   "originalValue" : "Pitcairn",
-  "information" : "Astravy Pitkern\nKamentar: CLDR"
+  "information" : "Astravy Pitkern\n\nKamentar:\nCLDR"
 }, {
   "id" : 822,
   "originalValue" : "pixel per inch",
-  "information" : "piksieĺ na caliu\nKamentar: CLDR"
+  "information" : "piksieĺ na caliu\n\nKamentar:\nCLDR"
 }, {
   "id" : 823,
   "originalValue" : "pixels per inch",
-  "information" : "piksieli na caliu\nKamentar: CLDR"
+  "information" : "piksieli na caliu\n\nKamentar:\nCLDR"
 }, {
   "id" : 824,
   "originalValue" : "placeholder color",
@@ -3297,7 +3297,7 @@
 }, {
   "id" : 825,
   "originalValue" : "plain text",
-  "information" : "zvyčajny tekst\nKamentar: Google"
+  "information" : "zvyčajny tekst\n\nKamentar:\nGoogle"
 }, {
   "id" : 826,
   "originalValue" : "play",
@@ -3313,7 +3313,7 @@
 }, {
   "id" : 829,
   "originalValue" : "playlist",
-  "information" : "plej-list\nKamentar: Google"
+  "information" : "plej-list\n\nKamentar:\nGoogle"
 }, {
   "id" : 830,
   "originalValue" : "plug",
@@ -3325,7 +3325,7 @@
 }, {
   "id" : 832,
   "originalValue" : "plugin",
-  "information" : "ubudova\nKamentar: MS, Samsung, Google"
+  "information" : "ubudova\n\nKamentar:\nMS, Samsung, Google"
 }, {
   "id" : 833,
   "originalValue" : "PM",
@@ -3337,7 +3337,7 @@
 }, {
   "id" : 835,
   "originalValue" : "Poland",
-  "information" : "Poĺšča\nKamentar: CLDR"
+  "information" : "Poĺšča\n\nKamentar:\nCLDR"
 }, {
   "id" : 836,
   "originalValue" : "portrait",
@@ -3345,7 +3345,7 @@
 }, {
   "id" : 837,
   "originalValue" : "Portugal",
-  "information" : "Partuhalija\nKamentar: CLDR"
+  "information" : "Partuhalija\n\nKamentar:\nCLDR"
 }, {
   "id" : 838,
   "originalValue" : "position",
@@ -3353,11 +3353,11 @@
 }, {
   "id" : 839,
   "originalValue" : "post",
-  "information" : "publikavać; publikacyja; dopis\nKamentar: Google"
+  "information" : "publikavać; publikacyja; dopis\n\nKamentar:\nGoogle"
 }, {
   "id" : 840,
   "originalValue" : "power",
-  "information" : "silkavańnie\nKamentar: kali nie zrazumiela - eliektrasilkavańnie"
+  "information" : "silkavańnie\n\nKamentar:\nkali nie zrazumiela - eliektrasilkavańnie"
 }, {
   "id" : 841,
   "originalValue" : "Power Off",
@@ -3365,7 +3365,7 @@
 }, {
   "id" : 842,
   "originalValue" : "power saving",
-  "information" : "enierhazbierazeńnie\nKamentar: Samsung"
+  "information" : "enierhazbierazeńnie\n\nKamentar:\nSamsung"
 }, {
   "id" : 843,
   "originalValue" : "powered by",
@@ -3373,11 +3373,11 @@
 }, {
   "id" : 844,
   "originalValue" : "PRC",
-  "information" : "KNR\nKamentar: CLDR"
+  "information" : "KNR\n\nKamentar:\nCLDR"
 }, {
   "id" : 845,
   "originalValue" : "pre-release",
-  "information" : "pieradfinaĺny\nKamentar: termin by A. Šumski)"
+  "information" : "pieradfinaĺny\n\nKamentar:\ntermin by A. Šumski)"
 }, {
   "id" : 846,
   "originalValue" : "preference",
@@ -3385,11 +3385,11 @@
 }, {
   "id" : 847,
   "originalValue" : "preset",
-  "information" : "pieradvyznačanaja nalada\nKamentar: Samsung"
+  "information" : "pieradvyznačanaja nalada\n\nKamentar:\nSamsung"
 }, {
   "id" : 848,
   "originalValue" : "press",
-  "information" : "naciśnicie; naciskać\nKamentar: MS"
+  "information" : "naciśnicie; naciskać\n\nKamentar:\nMS"
 }, {
   "id" : 849,
   "originalValue" : "prev",
@@ -3401,39 +3401,39 @@
 }, {
   "id" : 851,
   "originalValue" : "previous",
-  "information" : "papiaredni; nazad (kali biez nazoŭnika j pobač z next)\nKamentar: Samsung"
+  "information" : "papiaredni; nazad (kali biez nazoŭnika j pobač z next)\n\nKamentar:\nSamsung"
 }, {
   "id" : 852,
   "originalValue" : "print",
-  "information" : "druk\nKamentar: MS — druk; drukavańnie\nSamsung — druk\nGoogle — druk"
+  "information" : "druk\n\nKamentar:\nMS — druk; drukavańnie\nSamsung — druk\nGoogle — druk"
 }, {
   "id" : 853,
   "originalValue" : "print preview",
-  "information" : "prahliad voblaści druku\nKamentar: MS"
+  "information" : "prahliad voblaści druku\n\nKamentar:\nMS"
 }, {
   "id" : 854,
   "originalValue" : "printer",
-  "information" : "pryntar\nKamentar: MS"
+  "information" : "pryntar\n\nKamentar:\nMS"
 }, {
   "id" : 855,
   "originalValue" : "printing",
-  "information" : "druk\nKamentar: MS"
+  "information" : "druk\n\nKamentar:\nMS"
 }, {
   "id" : 856,
   "originalValue" : "privacy",
-  "information" : "pryvatnaść\nKamentar: Samsung"
+  "information" : "pryvatnaść\n\nKamentar:\nSamsung"
 }, {
   "id" : 857,
   "originalValue" : "private",
-  "information" : "pryvatny\nKamentar: Samsung, Google, MS"
+  "information" : "pryvatny\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 858,
   "originalValue" : "productivity",
-  "information" : "pradukcyjnaść\nKamentar: MS, Samsung"
+  "information" : "pradukcyjnaść\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 859,
   "originalValue" : "Profile",
-  "information" : "profiĺ\nKamentar: Google, Samsung, MS"
+  "information" : "profiĺ\n\nKamentar:\nGoogle, Samsung, MS"
 }, {
   "id" : 860,
   "originalValue" : "programming",
@@ -3441,27 +3441,27 @@
 }, {
   "id" : 861,
   "originalValue" : "programming language",
-  "information" : "mova prahramavańnia\nKamentar: MS"
+  "information" : "mova prahramavańnia\n\nKamentar:\nMS"
 }, {
   "id" : 862,
   "originalValue" : "progress",
-  "information" : "chod vykanańnia\nKamentar: Google"
+  "information" : "chod vykanańnia\n\nKamentar:\nGoogle"
 }, {
   "id" : 863,
   "originalValue" : "promotion",
-  "information" : "proma-akcyja\nKamentar: Google — proma-akcyi; pramocyja, proma-rolik; prasoŭvańnie\nSamsung — proma-akcyja\nMS — rekliama; raspaŭsiudzvańnie"
+  "information" : "proma-akcyja\n\nKamentar:\nGoogle — proma-akcyi; pramocyja, proma-rolik; prasoŭvańnie\nSamsung — proma-akcyja\nMS — rekliama; raspaŭsiudzvańnie"
 }, {
   "id" : 864,
   "originalValue" : "Promotions",
-  "information" : "Proma-akcyi\nKamentar: Google"
+  "information" : "Proma-akcyi\n\nKamentar:\nGoogle"
 }, {
   "id" : 865,
   "originalValue" : "property",
-  "information" : "ulaścivaść; ulaścivaści\nKamentar: MS"
+  "information" : "ulaścivaść; ulaścivaści\n\nKamentar:\nMS"
 }, {
   "id" : 866,
   "originalValue" : "protected",
-  "information" : "abaroniena; abaronieny\nKamentar: Samsung"
+  "information" : "abaroniena; abaronieny\n\nKamentar:\nSamsung"
 }, {
   "id" : 867,
   "originalValue" : "protocol",
@@ -3473,7 +3473,7 @@
 }, {
   "id" : 869,
   "originalValue" : "provider",
-  "information" : "pastaŭščyk; ! sluzba\nKamentar: Samsung — pastaŭščyk\nGoogle — sluzba"
+  "information" : "pastaŭščyk; ! sluzba\n\nKamentar:\nSamsung — pastaŭščyk\nGoogle — sluzba"
 }, {
   "id" : 870,
   "originalValue" : "provides",
@@ -3481,11 +3481,11 @@
 }, {
   "id" : 871,
   "originalValue" : "public",
-  "information" : "publičny; ahuĺnadastupny\nKamentar: Samsung"
+  "information" : "publičny; ahuĺnadastupny\n\nKamentar:\nSamsung"
 }, {
   "id" : 872,
   "originalValue" : "Puerto Rico",
-  "information" : "Puerta-Ryka\nKamentar: CLDR"
+  "information" : "Puerta-Ryka\n\nKamentar:\nCLDR"
 }, {
   "id" : 873,
   "originalValue" : "pull",
@@ -3501,7 +3501,7 @@
 }, {
   "id" : 876,
   "originalValue" : "Qatar",
-  "information" : "Katar\nKamentar: CLDR"
+  "information" : "Katar\n\nKamentar:\nCLDR"
 }, {
   "id" : 877,
   "originalValue" : "question",
@@ -3509,11 +3509,11 @@
 }, {
   "id" : 878,
   "originalValue" : "queue",
-  "information" : "čarha\nKamentar: Samsung, Google, MS"
+  "information" : "čarha\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 879,
   "originalValue" : "queuing",
-  "information" : "arhanizacyja čarhi\n\nKamentar: Treba praviarać kantekst, mabyć i nie padyjdzie"
+  "information" : "arhanizacyja čarhi\n\n\nKamentar:\nTreba praviarać kantekst, mabyć i nie padyjdzie"
 }, {
   "id" : 880,
   "originalValue" : "quit",
@@ -3521,11 +3521,11 @@
 }, {
   "id" : 881,
   "originalValue" : "radius",
-  "information" : "radyus\nKamentar: Anhla-biel"
+  "information" : "radyus\n\nKamentar:\nAnhla-biel"
 }, {
   "id" : 882,
   "originalValue" : "raw",
-  "information" : "nieapracavany\nKamentar: MS"
+  "information" : "nieapracavany\n\nKamentar:\nMS"
 }, {
   "id" : 883,
   "originalValue" : "read",
@@ -3533,35 +3533,35 @@
 }, {
   "id" : 884,
   "originalValue" : "read-only",
-  "information" : "toĺki dlia čytańnia\nKamentar: MS"
+  "information" : "toĺki dlia čytańnia\n\nKamentar:\nMS"
 }, {
   "id" : 885,
   "originalValue" : "reader",
-  "information" : "čytaĺnik\nKamentar: Samsung, MS"
+  "information" : "čytaĺnik\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 886,
   "originalValue" : "ready",
-  "information" : "hatova (prahrama), hatovy\nKamentar: Samsung"
+  "information" : "hatova (prahrama), hatovy\n\nKamentar:\nSamsung"
 }, {
   "id" : 887,
   "originalValue" : "reboot",
-  "information" : "pierazahruzka; pierazahruzać\nKamentar: Samsung"
+  "information" : "pierazahruzka; pierazahruzać\n\nKamentar:\nSamsung"
 }, {
   "id" : 888,
   "originalValue" : "record",
-  "information" : "zapis; zapisvać\nKamentar: MS, Google"
+  "information" : "zapis; zapisvać\n\nKamentar:\nMS, Google"
 }, {
   "id" : 889,
   "originalValue" : "recorder",
-  "information" : "zapis\nKamentar: MS"
+  "information" : "zapis\n\nKamentar:\nMS"
 }, {
   "id" : 890,
   "originalValue" : "rectangle",
-  "information" : "pramavuhoĺnik\nKamentar: Anhla-biel"
+  "information" : "pramavuhoĺnik\n\nKamentar:\nAnhla-biel"
 }, {
   "id" : 891,
   "originalValue" : "recurring",
-  "information" : "šmatrazovy; pieryjadyčny\nKamentar: Samsung — šmatrazovy\nMS — pieryjadyčny"
+  "information" : "šmatrazovy; pieryjadyčny\n\nKamentar:\nSamsung — šmatrazovy\nMS — pieryjadyčny"
 }, {
   "id" : 892,
   "originalValue" : "red",
@@ -3573,11 +3573,11 @@
 }, {
   "id" : 894,
   "originalValue" : "refresh",
-  "information" : "abnavić\nKamentar: MS, Samsung"
+  "information" : "abnavić\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 895,
   "originalValue" : "refreshed",
-  "information" : "abnoŭlieny\nKamentar: Samsung"
+  "information" : "abnoŭlieny\n\nKamentar:\nSamsung"
 }, {
   "id" : 896,
   "originalValue" : "region",
@@ -3597,39 +3597,39 @@
 }, {
   "id" : 900,
   "originalValue" : "reject",
-  "information" : "adchilić\nKamentar: Google"
+  "information" : "adchilić\n\nKamentar:\nGoogle"
 }, {
   "id" : 901,
   "originalValue" : "rejected",
-  "information" : "adchiliena\nKamentar: Google"
+  "information" : "adchiliena\n\nKamentar:\nGoogle"
 }, {
   "id" : 902,
   "originalValue" : "release",
-  "information" : "vypusk, vypusku\nKamentar: MS"
+  "information" : "vypusk, vypusku\n\nKamentar:\nMS"
 }, {
   "id" : 903,
   "originalValue" : "relevant",
-  "information" : "relievantny (vydača ŭ pošuku); adpaviedny; vazny; ! istotna\nKamentar: MS"
+  "information" : "relievantny (vydača ŭ pošuku); adpaviedny; vazny; ! istotna\n\nKamentar:\nMS"
 }, {
   "id" : 904,
   "originalValue" : "remind",
-  "information" : "napaminać; nahadać\nKamentar: MS — napomnić, nahadać"
+  "information" : "napaminać; nahadać\n\nKamentar:\nMS — napomnić, nahadać"
 }, {
   "id" : 905,
   "originalValue" : "reminder",
-  "information" : "napamin\nKamentar: Samsung, MS"
+  "information" : "napamin\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 906,
   "originalValue" : "reminders",
-  "information" : "napaminy\nKamentar: Google"
+  "information" : "napaminy\n\nKamentar:\nGoogle"
 }, {
   "id" : 907,
   "originalValue" : "remote",
-  "information" : "addalieny; addaliena\nKamentar: Google, Samsung, MS"
+  "information" : "addalieny; addaliena\n\nKamentar:\nGoogle, Samsung, MS"
 }, {
   "id" : 908,
   "originalValue" : "remote control",
-  "information" : "addalienaje kiravańnie\nKamentar: Google"
+  "information" : "addalienaje kiravańnie\n\nKamentar:\nGoogle"
 }, {
   "id" : 909,
   "originalValue" : "removable",
@@ -3645,7 +3645,7 @@
 }, {
   "id" : 912,
   "originalValue" : "rename",
-  "information" : "pierajmienavać\nNiapraviĺny pieraklad: pieranazvać"
+  "information" : "pierajmienavać\n\nNiapraviĺny pieraklad:\npieranazvać"
 }, {
   "id" : 913,
   "originalValue" : "repeat",
@@ -3665,19 +3665,19 @@
 }, {
   "id" : 917,
   "originalValue" : "require",
-  "information" : "patrabavać\nKamentar: MS, Samsung"
+  "information" : "patrabavać\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 918,
   "originalValue" : "required",
-  "information" : "patrabujecca; ! abaviazkova\nKamentar: patrabujecca — Samsung"
+  "information" : "patrabujecca; ! abaviazkova\n\nKamentar:\npatrabujecca — Samsung"
 }, {
   "id" : 919,
   "originalValue" : "reset",
-  "information" : "skinuć; skid\nKamentar: Samsung"
+  "information" : "skinuć; skid\n\nKamentar:\nSamsung"
 }, {
   "id" : 920,
   "originalValue" : "resize",
-  "information" : "źmianić pamier\nKamentar: Samsung, Google"
+  "information" : "źmianić pamier\n\nKamentar:\nSamsung, Google"
 }, {
   "id" : 921,
   "originalValue" : "resolving",
@@ -3689,19 +3689,19 @@
 }, {
   "id" : 923,
   "originalValue" : "restart",
-  "information" : "pierazapusk; pierazapuścić\nKamentar: Samsung"
+  "information" : "pierazapusk; pierazapuścić\n\nKamentar:\nSamsung"
 }, {
   "id" : 924,
   "originalValue" : "restart later",
-  "information" : "pierazapuścić paźniej\nKamentar: MS"
+  "information" : "pierazapuścić paźniej\n\nKamentar:\nMS"
 }, {
   "id" : 925,
   "originalValue" : "restart now",
-  "information" : "pierazapuścić\nKamentar: MS — Pierazapuścić, Pierazapuścić zaraz"
+  "information" : "pierazapuścić\n\nKamentar:\nMS — Pierazapuścić, Pierazapuścić zaraz"
 }, {
   "id" : 926,
   "originalValue" : "restore",
-  "information" : "adnavić\nKamentar: Samsung, Google, MS"
+  "information" : "adnavić\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 927,
   "originalValue" : "restoring",
@@ -3709,11 +3709,11 @@
 }, {
   "id" : 928,
   "originalValue" : "restrict",
-  "information" : "abmiezavać\nKamentar: Samsung"
+  "information" : "abmiezavać\n\nKamentar:\nSamsung"
 }, {
   "id" : 929,
   "originalValue" : "restricted",
-  "information" : "abmiezavana; abmiezavany\nKamentar: Samsung"
+  "information" : "abmiezavana; abmiezavany\n\nKamentar:\nSamsung"
 }, {
   "id" : 930,
   "originalValue" : "result",
@@ -3725,39 +3725,39 @@
 }, {
   "id" : 932,
   "originalValue" : "Réunion",
-  "information" : "Rejuńion\nKamentar: CLDR"
+  "information" : "Rejuńion\n\nKamentar:\nCLDR"
 }, {
   "id" : 933,
   "originalValue" : "revert",
-  "information" : "! sk­inuć\nKamentar: hl. reset"
+  "information" : "! sk­inuć\n\nKamentar:\nhl. reset"
 }, {
   "id" : 934,
   "originalValue" : "rights",
-  "information" : "pravy\nKamentar: MS"
+  "information" : "pravy\n\nKamentar:\nMS"
 }, {
   "id" : 935,
   "originalValue" : "Romania",
-  "information" : "Rumynija\nKamentar: CLDR"
+  "information" : "Rumynija\n\nKamentar:\nCLDR"
 }, {
   "id" : 936,
   "originalValue" : "rotate",
-  "information" : "paviarnuć\nKamentar: Google, Samsung, MS"
+  "information" : "paviarnuć\n\nKamentar:\nGoogle, Samsung, MS"
 }, {
   "id" : 937,
   "originalValue" : "rotation",
-  "information" : "pavarot\nKamentar: Samsung"
+  "information" : "pavarot\n\nKamentar:\nSamsung"
 }, {
   "id" : 938,
   "originalValue" : "router",
-  "information" : "maršrutyzatar\nKamentar: ms, samsung"
+  "information" : "maršrutyzatar\n\nKamentar:\nms, samsung"
 }, {
   "id" : 939,
   "originalValue" : "row",
-  "information" : "radok\nKamentar: Samsung"
+  "information" : "radok\n\nKamentar:\nSamsung"
 }, {
   "id" : 940,
   "originalValue" : "run",
-  "information" : "vykonvać; vykanać (kamandu); zapuścić (kamp’jutar)\nKamentar: Samsung, MS"
+  "information" : "vykonvać; vykanać (kamandu); zapuścić (kamp’jutar)\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 941,
   "originalValue" : "running",
@@ -3765,11 +3765,11 @@
 }, {
   "id" : 942,
   "originalValue" : "Russia",
-  "information" : "Rasija\nKamentar: CLDR"
+  "information" : "Rasija\n\nKamentar:\nCLDR"
 }, {
   "id" : 943,
   "originalValue" : "Rwanda",
-  "information" : "Ruanda\nKamentar: CLDR"
+  "information" : "Ruanda\n\nKamentar:\nCLDR"
 }, {
   "id" : 944,
   "originalValue" : "s",
@@ -3789,51 +3789,51 @@
 }, {
   "id" : 948,
   "originalValue" : "Saint Barthélemy",
-  "information" : "Sien-Barteĺmi\nKamentar: CLDR"
+  "information" : "Sien-Barteĺmi\n\nKamentar:\nCLDR"
 }, {
   "id" : 949,
   "originalValue" : "Saint Kitts and Nevis",
-  "information" : "Sient-Kits i Nievis\nKamentar: CLDR"
+  "information" : "Sient-Kits i Nievis\n\nKamentar:\nCLDR"
 }, {
   "id" : 950,
   "originalValue" : "Saint Lucia",
-  "information" : "Sient-Liusija\nKamentar: CLDR"
+  "information" : "Sient-Liusija\n\nKamentar:\nCLDR"
 }, {
   "id" : 951,
   "originalValue" : "Saint Martin",
-  "information" : "Sien-Marten\nKamentar: CLDR"
+  "information" : "Sien-Marten\n\nKamentar:\nCLDR"
 }, {
   "id" : 952,
   "originalValue" : "Saint Pierre and Miquelon",
-  "information" : "Sien-P’jer i Mikielon\nKamentar: CLDR"
+  "information" : "Sien-P’jer i Mikielon\n\nKamentar:\nCLDR"
 }, {
   "id" : 953,
   "originalValue" : "Saint Vincent and the Grenadines",
-  "information" : "Sient-Vińsient i Hrenadziny\nKamentar: CLDR"
+  "information" : "Sient-Vińsient i Hrenadziny\n\nKamentar:\nCLDR"
 }, {
   "id" : 954,
   "originalValue" : "Samoa",
-  "information" : "Samoa\nKamentar: CLDR"
+  "information" : "Samoa\n\nKamentar:\nCLDR"
 }, {
   "id" : 955,
   "originalValue" : "San Marino",
-  "information" : "San-Maryna\nKamentar: CLDR"
+  "information" : "San-Maryna\n\nKamentar:\nCLDR"
 }, {
   "id" : 956,
   "originalValue" : "São Tomé",
-  "information" : "San-Tame\nKamentar: CLDR"
+  "information" : "San-Tame\n\nKamentar:\nCLDR"
 }, {
   "id" : 957,
   "originalValue" : "Sao Tome and Principe",
-  "information" : "San-Tame j Pryńsipi\nKamentar: CLDR"
+  "information" : "San-Tame j Pryńsipi\n\nKamentar:\nCLDR"
 }, {
   "id" : 958,
   "originalValue" : "saturation\n",
-  "information" : "nasyčanaść\nKamentar: Samsung, Google"
+  "information" : "nasyčanaść\n\nKamentar:\nSamsung, Google"
 }, {
   "id" : 959,
   "originalValue" : "Saudi Arabia",
-  "information" : "Saudaŭskaja Aravija\nKamentar: CLDR"
+  "information" : "Saudaŭskaja Aravija\n\nKamentar:\nCLDR"
 }, {
   "id" : 960,
   "originalValue" : "save",
@@ -3865,7 +3865,7 @@
 }, {
   "id" : 967,
   "originalValue" : "Scotland",
-  "information" : "Šatlandyja\nKamentar: CLDR"
+  "information" : "Šatlandyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 968,
   "originalValue" : "screen",
@@ -3877,7 +3877,7 @@
 }, {
   "id" : 970,
   "originalValue" : "screen reader",
-  "information" : "čytańnie z ekrana\nKamentar: Samsung"
+  "information" : "čytańnie z ekrana\n\nKamentar:\nSamsung"
 }, {
   "id" : 971,
   "originalValue" : "screenshot",
@@ -3885,11 +3885,11 @@
 }, {
   "id" : 972,
   "originalValue" : "script",
-  "information" : "piśmo (arabskaje, kitajskaje); skrypt, ! scenaryj\nKamentar: MS — skrypt, scenaryj\nSamsung — scenaryj"
+  "information" : "piśmo (arabskaje, kitajskaje); skrypt, ! scenaryj\n\nKamentar:\nMS — skrypt, scenaryj\nSamsung — scenaryj"
 }, {
   "id" : 973,
   "originalValue" : "scroll",
-  "information" : "prahortvać; prahortka\nKamentar: Google, Samsung"
+  "information" : "prahortvać; prahortka\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 974,
   "originalValue" : "search",
@@ -3905,7 +3905,7 @@
 }, {
   "id" : 977,
   "originalValue" : "secure",
-  "information" : "abaronieny; biaspiečny\nKamentar: Samsung, MS"
+  "information" : "abaronieny; biaspiečny\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 978,
   "originalValue" : "security",
@@ -3913,23 +3913,23 @@
 }, {
   "id" : 979,
   "originalValue" : "select",
-  "information" : "vybrać; vybar\nKamentar: Samsung"
+  "information" : "vybrać; vybar\n\nKamentar:\nSamsung"
 }, {
   "id" : 980,
   "originalValue" : "selected",
-  "information" : "vybranaje\nKamentar: Samsung"
+  "information" : "vybranaje\n\nKamentar:\nSamsung"
 }, {
   "id" : 981,
   "originalValue" : "selected area",
-  "information" : "vybranaja voblaść\nKamentar: Samsung"
+  "information" : "vybranaja voblaść\n\nKamentar:\nSamsung"
 }, {
   "id" : 982,
   "originalValue" : "selection",
-  "information" : "vylučeńnie (praces); vylučanaje\nKamentar: MS — vylučanaje; Samsung — vylučeńnie"
+  "information" : "vylučeńnie (praces); vylučanaje\n\nKamentar:\nMS — vylučanaje; Samsung — vylučeńnie"
 }, {
   "id" : 983,
   "originalValue" : "selection mode",
-  "information" : "rezym vylučeńnia\nKamentar: Samsung"
+  "information" : "rezym vylučeńnia\n\nKamentar:\nSamsung"
 }, {
   "id" : 984,
   "originalValue" : "send",
@@ -3941,7 +3941,7 @@
 }, {
   "id" : 986,
   "originalValue" : "Senegal",
-  "information" : "Sieniehal\nKamentar: CLDR"
+  "information" : "Sieniehal\n\nKamentar:\nCLDR"
 }, {
   "id" : 987,
   "originalValue" : "separate",
@@ -3953,7 +3953,7 @@
 }, {
   "id" : 989,
   "originalValue" : "separator",
-  "information" : "raździaliaĺnik\nKamentar: MS"
+  "information" : "raździaliaĺnik\n\nKamentar:\nMS"
 }, {
   "id" : 990,
   "originalValue" : "sepia",
@@ -3961,7 +3961,7 @@
 }, {
   "id" : 991,
   "originalValue" : "Serbia",
-  "information" : "Sierbija\nKamentar: CLDR"
+  "information" : "Sierbija\n\nKamentar:\nCLDR"
 }, {
   "id" : 992,
   "originalValue" : "server",
@@ -3969,7 +3969,7 @@
 }, {
   "id" : 993,
   "originalValue" : "service",
-  "information" : "servis\nKamentar: Samsung, Google"
+  "information" : "servis\n\nKamentar:\nSamsung, Google"
 }, {
   "id" : 994,
   "originalValue" : "service agreement",
@@ -3989,31 +3989,31 @@
 }, {
   "id" : 998,
   "originalValue" : "set up",
-  "information" : "naladzić; naladka\nKamentar: Google, Samsung"
+  "information" : "naladzić; naladka\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 999,
   "originalValue" : "setting",
-  "information" : "nalada\nNiapraviĺny pieraklad: naladka, nastrojka"
+  "information" : "nalada\n\nNiapraviĺny pieraklad:\nnaladka, nastrojka"
 }, {
   "id" : 1000,
   "originalValue" : "settings",
-  "information" : "nalady, nalad\nNiapraviĺny pieraklad: nastrojki, naladki"
+  "information" : "nalady, nalad\n\nNiapraviĺny pieraklad:\nnastrojki, naladki"
 }, {
   "id" : 1001,
   "originalValue" : "setup",
-  "information" : "naladzvańnie (praces); ustaliavańnie (app setup), ustaliavać\nNiapraviĺny pieraklad: naladka"
+  "information" : "naladzvańnie (praces); ustaliavańnie (app setup), ustaliavać\n\nNiapraviĺny pieraklad:\nnaladka"
 }, {
   "id" : 1002,
   "originalValue" : "setup",
-  "information" : "naladzvańnie; naladka\nKamentar: Google, Samsung"
+  "information" : "naladzvańnie; naladka\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 1003,
   "originalValue" : "Seychelles",
-  "information" : "Siejšeĺskija astravy\nKamentar: CLDR"
+  "information" : "Siejšeĺskija astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 1004,
   "originalValue" : "share",
-  "information" : "abahulić\nKamentar: Samsung"
+  "information" : "abahulić\n\nKamentar:\nSamsung"
 }, {
   "id" : 1005,
   "originalValue" : "shared",
@@ -4021,7 +4021,7 @@
 }, {
   "id" : 1006,
   "originalValue" : "shelf",
-  "information" : "palica\nKamentar: Google"
+  "information" : "palica\n\nKamentar:\nGoogle"
 }, {
   "id" : 1007,
   "originalValue" : "shell",
@@ -4029,15 +4029,15 @@
 }, {
   "id" : 1008,
   "originalValue" : "shortcut",
-  "information" : "jarlyk; spalučeńnie klaviš\nKamentar: MS — jarlyk; cetlik\nGoogle — jarlyk; spalučeńnie klaviš\nSamsung — jarlyk"
+  "information" : "jarlyk; spalučeńnie klaviš\n\nKamentar:\nMS — jarlyk; cetlik\nGoogle — jarlyk; spalučeńnie klaviš\nSamsung — jarlyk"
 }, {
   "id" : 1009,
   "originalValue" : "shortcut menu",
-  "information" : "kantekstnaje mieniu\nKamentar: MS"
+  "information" : "kantekstnaje mieniu\n\nKamentar:\nMS"
 }, {
   "id" : 1010,
   "originalValue" : "shortcuts pane",
-  "information" : "voblaść jarlykoŭ\nKamentar: MS"
+  "information" : "voblaść jarlykoŭ\n\nKamentar:\nMS"
 }, {
   "id" : 1011,
   "originalValue" : "show",
@@ -4045,7 +4045,7 @@
 }, {
   "id" : 1012,
   "originalValue" : "Sierra Leone",
-  "information" : "Śiera-Lieone\nKamentar: CLDR"
+  "information" : "Śiera-Lieone\n\nKamentar:\nCLDR"
 }, {
   "id" : 1013,
   "originalValue" : "sign in",
@@ -4057,7 +4057,7 @@
 }, {
   "id" : 1015,
   "originalValue" : "signed",
-  "information" : "padpisany\nKamentar: Samsung"
+  "information" : "padpisany\n\nKamentar:\nSamsung"
 }, {
   "id" : 1016,
   "originalValue" : "significant",
@@ -4065,11 +4065,11 @@
 }, {
   "id" : 1017,
   "originalValue" : "Singapore",
-  "information" : "Sinhapur\nKamentar: CLDR"
+  "information" : "Sinhapur\n\nKamentar:\nCLDR"
 }, {
   "id" : 1018,
   "originalValue" : "site",
-  "information" : "sajt\nKamentar: Samsung — veb-sajt; sajt\nMS — sajt"
+  "information" : "sajt\n\nKamentar:\nSamsung — veb-sajt; sajt\nMS — sajt"
 }, {
   "id" : 1019,
   "originalValue" : "size",
@@ -4093,15 +4093,15 @@
 }, {
   "id" : 1024,
   "originalValue" : "slideshow",
-  "information" : "pakaz slajdaŭ\nKamentar: Samsung\nGoogle — slajd-šoŭ"
+  "information" : "pakaz slajdaŭ\n\nKamentar:\nSamsung\nGoogle — slajd-šoŭ"
 }, {
   "id" : 1025,
   "originalValue" : "Slovakia",
-  "information" : "Slavakija\nKamentar: CLDR"
+  "information" : "Slavakija\n\nKamentar:\nCLDR"
 }, {
   "id" : 1026,
   "originalValue" : "Slovenia",
-  "information" : "Slavienija\nKamentar: CLDR"
+  "information" : "Slavienija\n\nKamentar:\nCLDR"
 }, {
   "id" : 1027,
   "originalValue" : "Slow Keys",
@@ -4109,15 +4109,15 @@
 }, {
   "id" : 1028,
   "originalValue" : "soft fail",
-  "information" : "niekrytyčnaja pamylka\nKamentar: MS"
+  "information" : "niekrytyčnaja pamylka\n\nKamentar:\nMS"
 }, {
   "id" : 1029,
   "originalValue" : "software",
-  "information" : "prahramnaje zabiespiačeńnie; PZ\nKamentar: Samsung"
+  "information" : "prahramnaje zabiespiačeńnie; PZ\n\nKamentar:\nSamsung"
 }, {
   "id" : 1030,
   "originalValue" : "software update",
-  "information" : "abnaŭlieńnie PZ; abnaŭlieńnie prahramnaha zabiespiačeńnia\nKamentar: Samsung"
+  "information" : "abnaŭlieńnie PZ; abnaŭlieńnie prahramnaha zabiespiačeńnia\n\nKamentar:\nSamsung"
 }, {
   "id" : 1031,
   "originalValue" : "Software Updater",
@@ -4125,11 +4125,11 @@
 }, {
   "id" : 1032,
   "originalValue" : "Solomon Islands",
-  "information" : "Salamonavy astravy\nKamentar: CLDR"
+  "information" : "Salamonavy astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 1033,
   "originalValue" : "Somalia",
-  "information" : "Samali\nKamentar: CLDR"
+  "information" : "Samali\n\nKamentar:\nCLDR"
 }, {
   "id" : 1034,
   "originalValue" : "sorry",
@@ -4137,19 +4137,19 @@
 }, {
   "id" : 1035,
   "originalValue" : "sort",
-  "information" : "sartavać; sartavańnie\nKamentar: Samsung — sartavać\nMS — sartavać, uparadkoŭvać; uparadkavańnie, sartavańnie, sarciroŭka"
+  "information" : "sartavać; sartavańnie\n\nKamentar:\nSamsung — sartavać\nMS — sartavać, uparadkoŭvać; uparadkavańnie, sartavańnie, sarciroŭka"
 }, {
   "id" : 1036,
   "originalValue" : "sort by",
-  "information" : "sartavać\nKamentar: Samsung"
+  "information" : "sartavać\n\nKamentar:\nSamsung"
 }, {
   "id" : 1037,
   "originalValue" : "sound",
-  "information" : "huk\nKamentar: MS, Google, Samsung"
+  "information" : "huk\n\nKamentar:\nMS, Google, Samsung"
 }, {
   "id" : 1038,
   "originalValue" : "sound card",
-  "information" : "hukavaja karta\nKamentar: MS"
+  "information" : "hukavaja karta\n\nKamentar:\nMS"
 }, {
   "id" : 1039,
   "originalValue" : "source",
@@ -4157,35 +4157,35 @@
 }, {
   "id" : 1040,
   "originalValue" : "source file",
-  "information" : "zychodny fajl\nKamentar: MS"
+  "information" : "zychodny fajl\n\nKamentar:\nMS"
 }, {
   "id" : 1041,
   "originalValue" : "South Africa",
-  "information" : "Paŭdniova-Afrykanskaja Respublika\nKamentar: CLDR"
+  "information" : "Paŭdniova-Afrykanskaja Respublika\n\nKamentar:\nCLDR"
 }, {
   "id" : 1042,
   "originalValue" : "South Georgia and the South Sandwich Islands",
-  "information" : "Paŭdniovaja Hieorhija j Paŭdniovyja Sandvičavy astravy\nKamentar: CLDR"
+  "information" : "Paŭdniovaja Hieorhija j Paŭdniovyja Sandvičavy astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 1043,
   "originalValue" : "South Korea",
-  "information" : "Paŭdniovaja Kareja\nKamentar: CLDR"
+  "information" : "Paŭdniovaja Kareja\n\nKamentar:\nCLDR"
 }, {
   "id" : 1044,
   "originalValue" : "space",
-  "information" : "prabiel; prastora\nKamentar: Samsung"
+  "information" : "prabiel; prastora\n\nKamentar:\nSamsung"
 }, {
   "id" : 1045,
   "originalValue" : "spacing",
-  "information" : "interval\nKamentar: Samsung, MS"
+  "information" : "interval\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 1046,
   "originalValue" : "Spain",
-  "information" : "Ispanija\nNiapraviĺny pieraklad: Hišpanija\nKamentar: CLDR"
+  "information" : "Ispanija\n\nNiapraviĺny pieraklad:\nHišpanija\n\nKamentar:\nCLDR"
 }, {
   "id" : 1047,
   "originalValue" : "speed\n",
-  "information" : "chutkaść; chutki\nKamentar: MS"
+  "information" : "chutkaść; chutki\n\nKamentar:\nMS"
 }, {
   "id" : 1048,
   "originalValue" : "split",
@@ -4193,23 +4193,23 @@
 }, {
   "id" : 1049,
   "originalValue" : "split bar",
-  "information" : "raździaliaĺnaja paneĺ\nKamentar: Samsung"
+  "information" : "raździaliaĺnaja paneĺ\n\nKamentar:\nSamsung"
 }, {
   "id" : 1050,
   "originalValue" : "split view",
-  "information" : "padzielieny ekran\nKamentar: Samsung"
+  "information" : "padzielieny ekran\n\nKamentar:\nSamsung"
 }, {
   "id" : 1051,
   "originalValue" : "splitter",
-  "information" : "raździaliaĺnaja paneĺ\nKamentar: sinonim split bar"
+  "information" : "raździaliaĺnaja paneĺ\n\nKamentar:\nsinonim split bar"
 }, {
   "id" : 1052,
   "originalValue" : "Sri Lanka",
-  "information" : "Šry-Lanka\nKamentar: CLDR"
+  "information" : "Šry-Lanka\n\nKamentar:\nCLDR"
 }, {
   "id" : 1053,
   "originalValue" : "St. Helena",
-  "information" : "Vostraŭ Śviatoj Alieny\nKamentar: CLDR"
+  "information" : "Vostraŭ Śviatoj Alieny\n\nKamentar:\nCLDR"
 }, {
   "id" : 1054,
   "originalValue" : "starred",
@@ -4217,7 +4217,7 @@
 }, {
   "id" : 1055,
   "originalValue" : "start",
-  "information" : "zapuścić; pusk\nKamentar: MS — Pusk, Zapusk"
+  "information" : "zapuścić; pusk\n\nKamentar:\nMS — Pusk, Zapusk"
 }, {
   "id" : 1056,
   "originalValue" : "startup",
@@ -4237,15 +4237,15 @@
 }, {
   "id" : 1060,
   "originalValue" : "storage",
-  "information" : "schovišča\nKamentar: Samsung"
+  "information" : "schovišča\n\nKamentar:\nSamsung"
 }, {
   "id" : 1061,
   "originalValue" : "store",
-  "information" : "krama\nKamentar: MS"
+  "information" : "krama\n\nKamentar:\nMS"
 }, {
   "id" : 1062,
   "originalValue" : "store page",
-  "information" : "staronka vykanaŭcy (muz.)\nKamentar: Google"
+  "information" : "staronka vykanaŭcy (muz.)\n\nKamentar:\nGoogle"
 }, {
   "id" : 1063,
   "originalValue" : "storing",
@@ -4257,15 +4257,15 @@
 }, {
   "id" : 1065,
   "originalValue" : "stream",
-  "information" : "plyń\nKamentar: Google"
+  "information" : "plyń\n\nKamentar:\nGoogle"
 }, {
   "id" : 1066,
   "originalValue" : "subfolder",
-  "information" : "padpapka\n\nKamentar: Samsung"
+  "information" : "padpapka\n\n\nKamentar:\nSamsung"
 }, {
   "id" : 1067,
   "originalValue" : "subscription",
-  "information" : "padpiska\nKamentar: Samsung"
+  "information" : "padpiska\n\nKamentar:\nSamsung"
 }, {
   "id" : 1068,
   "originalValue" : "subsequent",
@@ -4277,23 +4277,23 @@
 }, {
   "id" : 1070,
   "originalValue" : "subtitle",
-  "information" : "subcitr\nKamentar: Google, Samsung"
+  "information" : "subcitr\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 1071,
   "originalValue" : "subtitles",
-  "information" : "subcitry\nKamentar: MS, Google"
+  "information" : "subcitry\n\nKamentar:\nMS, Google"
 }, {
   "id" : 1072,
   "originalValue" : "successfully",
-  "information" : "\nKamentar: zvyčajna apuskajecca. Pierakladajcie tady, kali ŭ tekście jość raźmiezavańnie na vykanańnie apieracyi z pamylkami j, ulasna, paspiachovaje (biespamylkovaje) vykanańnie.\n"
+  "information" : "\n\nKamentar:\nzvyčajna apuskajecca. Pierakladajcie tady, kali ŭ tekście jość raźmiezavańnie na vykanańnie apieracyi z pamylkami j, ulasna, paspiachovaje (biespamylkovaje) vykanańnie.\n"
 }, {
   "id" : 1073,
   "originalValue" : "Sudan",
-  "information" : "Sudan\nKamentar: CLDR"
+  "information" : "Sudan\n\nKamentar:\nCLDR"
 }, {
   "id" : 1074,
   "originalValue" : "summary",
-  "information" : "zvodka\nKamentar: MS"
+  "information" : "zvodka\n\nKamentar:\nMS"
 }, {
   "id" : 1075,
   "originalValue" : "support",
@@ -4301,43 +4301,43 @@
 }, {
   "id" : 1076,
   "originalValue" : "support team",
-  "information" : "hrupa padtrymki\nKamentar: MS"
+  "information" : "hrupa padtrymki\n\nKamentar:\nMS"
 }, {
   "id" : 1077,
   "originalValue" : "supported",
-  "information" : "što padtrymlivajecca\nNiapraviĺny pieraklad: padtrymlivajemy\nKamentar: U kantekście mozna j pierafarmuliavać. N-d: \"Padtrymlivajucca movy:\""
+  "information" : "što padtrymlivajecca\n\nNiapraviĺny pieraklad:\npadtrymlivajemy\n\nKamentar:\nU kantekście mozna j pierafarmuliavać. N-d: \"Padtrymlivajucca movy:\""
 }, {
   "id" : 1078,
   "originalValue" : "Suriname",
-  "information" : "Surynam\nKamentar: CLDR"
+  "information" : "Surynam\n\nKamentar:\nCLDR"
 }, {
   "id" : 1079,
   "originalValue" : "suspend",
-  "information" : "prypynić [pracu kampjutara]; prypynieńnie [pracy kampjutara]\nNiapraviĺny pieraklad: supynak\nKamentar: prypynić — Google, MS\nPobač z pierazahruzić i vykliučyć budzie naturaĺniej vyhliadać prosta prypynić.\nDlia inšych vypadkaŭ, dzie ŭmiaščajecca pišam poŭnaściu try abo dva(biez \"pracu\") slovy z pieravahaj u bok pieršaj formy."
+  "information" : "prypynić [pracu kampjutara]; prypynieńnie [pracy kampjutara]\n\nNiapraviĺny pieraklad:\nsupynak\n\nKamentar:\nprypynić — Google, MS\nPobač z pierazahruzić i vykliučyć budzie naturaĺniej vyhliadać prosta prypynić.\nDlia inšych vypadkaŭ, dzie ŭmiaščajecca pišam poŭnaściu try abo dva(biez \"pracu\") slovy z pieravahaj u bok pieršaj formy."
 }, {
   "id" : 1080,
   "originalValue" : "Svalbard and Jan Mayen",
-  "information" : "Špicbierhien i Jan-Majen\nKamentar: CLDR"
+  "information" : "Špicbierhien i Jan-Majen\n\nKamentar:\nCLDR"
 }, {
   "id" : 1081,
   "originalValue" : "Swaziland",
-  "information" : "Esvatyni (kali niama pareby zachoŭvać staruju nazvu); Svaziliend\nKamentar: CLDR"
+  "information" : "Esvatyni (kali niama pareby zachoŭvać staruju nazvu); Svaziliend\n\nKamentar:\nCLDR"
 }, {
   "id" : 1082,
   "originalValue" : "Sweden",
-  "information" : "Švecyja\nKamentar: CLDR"
+  "information" : "Švecyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 1083,
   "originalValue" : "swipe",
-  "information" : "pravieści paĺcam; prahartać\nKamentar: MS — stuknuć, vybrać, čyrkańnie, čyrknuć, prakrutka, adzinkavaje pastukvańnie\nGoogle — pravieści paĺcam, prahartać\nSamsung — praviadzieńnie"
+  "information" : "pravieści paĺcam; prahartać\n\nKamentar:\nMS — stuknuć, vybrać, čyrkańnie, čyrknuć, prakrutka, adzinkavaje pastukvańnie\nGoogle — pravieści paĺcam, prahartać\nSamsung — praviadzieńnie"
 }, {
   "id" : 1084,
   "originalValue" : "switch",
-  "information" : "pierakliučycca, pierakliučyć; pierakliučaĺnik\nKamentar: pierakliučycca — Samsung\npierakliučaĺnik — Samsung, Google, MS"
+  "information" : "pierakliučycca, pierakliučyć; pierakliučaĺnik\n\nKamentar:\npierakliučycca — Samsung\npierakliučaĺnik — Samsung, Google, MS"
 }, {
   "id" : 1085,
   "originalValue" : "Switzerland",
-  "information" : "Švajcaryja\nKamentar: CLDR"
+  "information" : "Švajcaryja\n\nKamentar:\nCLDR"
 }, {
   "id" : 1086,
   "originalValue" : "symmetry",
@@ -4357,7 +4357,7 @@
 }, {
   "id" : 1090,
   "originalValue" : "Syria",
-  "information" : "Siryja\nKamentar: CLDR"
+  "information" : "Siryja\n\nKamentar:\nCLDR"
 }, {
   "id" : 1091,
   "originalValue" : "system",
@@ -4365,7 +4365,7 @@
 }, {
   "id" : 1092,
   "originalValue" : "tab",
-  "information" : "ukladka (eliemient interfiejsa); tabuliacyja (indent)\nNiapraviĺny pieraklad: kartka"
+  "information" : "ukladka (eliemient interfiejsa); tabuliacyja (indent)\n\nNiapraviĺny pieraklad:\nkartka"
 }, {
   "id" : 1093,
   "originalValue" : "table",
@@ -4373,23 +4373,23 @@
 }, {
   "id" : 1094,
   "originalValue" : "tag",
-  "information" : "cetlik (kliučavoje slova); teh (eliemient raźmietki)\nKamentar: cetlik — Samsung"
+  "information" : "cetlik (kliučavoje slova); teh (eliemient raźmietki)\n\nKamentar:\ncetlik — Samsung"
 }, {
   "id" : 1095,
   "originalValue" : "Taiwan",
-  "information" : "Tajvań\nKamentar: CLDR"
+  "information" : "Tajvań\n\nKamentar:\nCLDR"
 }, {
   "id" : 1096,
   "originalValue" : "Taiwan",
-  "information" : "Tajvań\nKamentar: CLDR"
+  "information" : "Tajvań\n\nKamentar:\nCLDR"
 }, {
   "id" : 1097,
   "originalValue" : "Tajikistan",
-  "information" : "Tadzykistan\nKamentar: CLDR"
+  "information" : "Tadzykistan\n\nKamentar:\nCLDR"
 }, {
   "id" : 1098,
   "originalValue" : "Tanzania",
-  "information" : "Tanzanija\nKamentar: CLDR"
+  "information" : "Tanzanija\n\nKamentar:\nCLDR"
 }, {
   "id" : 1099,
   "originalValue" : "target",
@@ -4397,23 +4397,23 @@
 }, {
   "id" : 1100,
   "originalValue" : "targeting",
-  "information" : "tarhietynh\nKamentar: Google"
+  "information" : "tarhietynh\n\nKamentar:\nGoogle"
 }, {
   "id" : 1101,
   "originalValue" : "task",
-  "information" : "! zadača, zadańnie\nKamentar: Google, Samsung — zadańnie(zadača — todo)\nMS — zadača, zadańnie"
+  "information" : "! zadača, zadańnie\n\nKamentar:\nGoogle, Samsung — zadańnie(zadača — todo)\nMS — zadača, zadańnie"
 }, {
   "id" : 1102,
   "originalValue" : "TB\n",
-  "information" : "TB — TB; terabajt; Tb — Tbit; terabit\nKamentar: CLDR"
+  "information" : "TB — TB; terabajt; Tb — Tbit; terabit\n\nKamentar:\nCLDR"
 }, {
   "id" : 1103,
   "originalValue" : "Tbit\n",
-  "information" : "Tbit\nKamentar: CLDR"
+  "information" : "Tbit\n\nKamentar:\nCLDR"
 }, {
   "id" : 1104,
   "originalValue" : "TByte",
-  "information" : "TB\nKamentar: CLDR"
+  "information" : "TB\n\nKamentar:\nCLDR"
 }, {
   "id" : 1105,
   "originalValue" : "teal",
@@ -4425,35 +4425,35 @@
 }, {
   "id" : 1107,
   "originalValue" : "temporary",
-  "information" : "časovy; nierehuliarny\nKamentar: MS, Samsung"
+  "information" : "časovy; nierehuliarny\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 1108,
   "originalValue" : "temporary error",
-  "information" : "nierehuliarnaja pamylka\nKamentar: Samsung"
+  "information" : "nierehuliarnaja pamylka\n\nKamentar:\nSamsung"
 }, {
   "id" : 1109,
   "originalValue" : "terabit",
-  "information" : "terabit\nKamentar: CLDR"
+  "information" : "terabit\n\nKamentar:\nCLDR"
 }, {
   "id" : 1110,
   "originalValue" : "terabits",
-  "information" : "terabity\nKamentar: CLDR"
+  "information" : "terabity\n\nKamentar:\nCLDR"
 }, {
   "id" : 1111,
   "originalValue" : "terabyte",
-  "information" : "terabajt\nKamentar: CLDR"
+  "information" : "terabajt\n\nKamentar:\nCLDR"
 }, {
   "id" : 1112,
   "originalValue" : "terabytes",
-  "information" : "terabajty\nKamentar: CLDR"
+  "information" : "terabajty\n\nKamentar:\nCLDR"
 }, {
   "id" : 1113,
   "originalValue" : "Thai",
-  "information" : "Tajskaje\nKamentar: CLDR"
+  "information" : "Tajskaje\n\nKamentar:\nCLDR"
 }, {
   "id" : 1114,
   "originalValue" : "Thailand",
-  "information" : "Tajland\nKamentar: CLDR"
+  "information" : "Tajland\n\nKamentar:\nCLDR"
 }, {
   "id" : 1115,
   "originalValue" : "theme",
@@ -4461,11 +4461,11 @@
 }, {
   "id" : 1116,
   "originalValue" : "third-party",
-  "information" : "starońni; starońni subjekt\nKamentar: Za vykliučyńniem vypadkaŭ, kali ŭ tekście jaŭna pieraličvajucca pieršy, druhi j treci baki"
+  "information" : "starońni; starońni subjekt\n\nKamentar:\nZa vykliučyńniem vypadkaŭ, kali ŭ tekście jaŭna pieraličvajucca pieršy, druhi j treci baki"
 }, {
   "id" : 1117,
   "originalValue" : "this",
-  "information" : "hetaja, hetaje, hetyja, hety (aznačeńnie); heta (častka vykaźnika)\nKamentar: Ubuntu - heta svabodnaja apieracyjnaja systema. Hetaje abnaŭlieńnie patrabuje 2MB miesca na dysku. Hetaja prylada nie padtrymlivajecca."
+  "information" : "hetaja, hetaje, hetyja, hety (aznačeńnie); heta (častka vykaźnika)\n\nKamentar:\nUbuntu - heta svabodnaja apieracyjnaja systema. Hetaje abnaŭlieńnie patrabuje 2MB miesca na dysku. Hetaja prylada nie padtrymlivajecca."
 }, {
   "id" : 1118,
   "originalValue" : "threat",
@@ -4477,15 +4477,15 @@
 }, {
   "id" : 1120,
   "originalValue" : "thumbnail",
-  "information" : "minijaciura\nKamentar: Google, Samsung"
+  "information" : "minijaciura\n\nKamentar:\nGoogle, Samsung"
 }, {
   "id" : 1121,
   "originalValue" : "tilde",
-  "information" : "tyĺda\nKamentar: Samsung"
+  "information" : "tyĺda\n\nKamentar:\nSamsung"
 }, {
   "id" : 1122,
   "originalValue" : "tile",
-  "information" : "plitka; razbić na plitki\nKamentar: Google"
+  "information" : "plitka; razbić na plitki\n\nKamentar:\nGoogle"
 }, {
   "id" : 1123,
   "originalValue" : "tiling",
@@ -4493,15 +4493,15 @@
 }, {
   "id" : 1124,
   "originalValue" : "Timor-Leste",
-  "information" : "Tymor-Liešci\nKamentar: CLDR, TNPA"
+  "information" : "Tymor-Liešci\n\nKamentar:\nCLDR, TNPA"
 }, {
   "id" : 1125,
   "originalValue" : "tip",
-  "information" : "padkazka\nKamentar: Samsung"
+  "information" : "padkazka\n\nKamentar:\nSamsung"
 }, {
   "id" : 1126,
   "originalValue" : "title",
-  "information" : "zahalovak; nazva\nKamentar: MS, Google — zahalovak\nSamsung — zahalovak, nazva"
+  "information" : "zahalovak; nazva\n\nKamentar:\nMS, Google — zahalovak\nSamsung — zahalovak, nazva"
 }, {
   "id" : 1127,
   "originalValue" : "to do",
@@ -4513,7 +4513,7 @@
 }, {
   "id" : 1129,
   "originalValue" : "to-dos",
-  "information" : "zadačy\nKamentar: Google"
+  "information" : "zadačy\n\nKamentar:\nGoogle"
 }, {
   "id" : 1130,
   "originalValue" : "today",
@@ -4521,11 +4521,11 @@
 }, {
   "id" : 1131,
   "originalValue" : "todo",
-  "information" : "zadača; TODO (kamentar u kodzie)\nKamentar: MS"
+  "information" : "zadača; TODO (kamentar u kodzie)\n\nKamentar:\nMS"
 }, {
   "id" : 1132,
   "originalValue" : "toggle",
-  "information" : "pierakliučyć\nKamentar: Google, MS"
+  "information" : "pierakliučyć\n\nKamentar:\nGoogle, MS"
 }, {
   "id" : 1133,
   "originalValue" : "toggle blur",
@@ -4537,11 +4537,11 @@
 }, {
   "id" : 1135,
   "originalValue" : "Togo",
-  "information" : "Toha\nKamentar: CLDR"
+  "information" : "Toha\n\nKamentar:\nCLDR"
 }, {
   "id" : 1136,
   "originalValue" : "Tokelau",
-  "information" : "Takielau\nKamentar: CLDR"
+  "information" : "Takielau\n\nKamentar:\nCLDR"
 }, {
   "id" : 1137,
   "originalValue" : "tomorrow",
@@ -4549,7 +4549,7 @@
 }, {
   "id" : 1138,
   "originalValue" : "Tonga",
-  "information" : "Tonha\nKamentar: CLDR"
+  "information" : "Tonha\n\nKamentar:\nCLDR"
 }, {
   "id" : 1139,
   "originalValue" : "tool",
@@ -4557,11 +4557,11 @@
 }, {
   "id" : 1140,
   "originalValue" : "Top Free",
-  "information" : "Top biasplatnych\nKamentar: Google"
+  "information" : "Top biasplatnych\n\nKamentar:\nGoogle"
 }, {
   "id" : 1141,
   "originalValue" : "Top Paid",
-  "information" : "Top platnych\nKamentar: Google"
+  "information" : "Top platnych\n\nKamentar:\nGoogle"
 }, {
   "id" : 1142,
   "originalValue" : "touchpad",
@@ -4577,7 +4577,7 @@
 }, {
   "id" : 1145,
   "originalValue" : "Trinidad and Tobago",
-  "information" : "Trynidad i Tabaha\nKamentar: CLDR"
+  "information" : "Trynidad i Tabaha\n\nKamentar:\nCLDR"
 }, {
   "id" : 1146,
   "originalValue" : "try a different search",
@@ -4585,19 +4585,19 @@
 }, {
   "id" : 1147,
   "originalValue" : "Tunisia",
-  "information" : "Tunis\nKamentar: CLDR"
+  "information" : "Tunis\n\nKamentar:\nCLDR"
 }, {
   "id" : 1148,
   "originalValue" : "Turkey",
-  "information" : "Turcyja\nKamentar: CLDR"
+  "information" : "Turcyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 1149,
   "originalValue" : "Turkmenistan",
-  "information" : "Turkmienistan\nKamentar: CLDR"
+  "information" : "Turkmienistan\n\nKamentar:\nCLDR"
 }, {
   "id" : 1150,
   "originalValue" : "Turks and Caicos Islands",
-  "information" : "Astravy Ciorks i Kajkas\nKamentar: CLDR"
+  "information" : "Astravy Ciorks i Kajkas\n\nKamentar:\nCLDR"
 }, {
   "id" : 1151,
   "originalValue" : "turn off",
@@ -4613,7 +4613,7 @@
 }, {
   "id" : 1154,
   "originalValue" : "Tuvalu",
-  "information" : "Tuvalu\nKamentar: CLDR"
+  "information" : "Tuvalu\n\nKamentar:\nCLDR"
 }, {
   "id" : 1155,
   "originalValue" : "tween",
@@ -4629,27 +4629,27 @@
 }, {
   "id" : 1158,
   "originalValue" : "Ubuntu Software",
-  "information" : "Prahramy Ubuntu\nKamentar: Časam pišuć prosta Software ź vialikaj litary jak nazvu instrumenta, tady pierakladajem \"Prahramy\". software jak ahuĺnaje imia tak NIE pierakladajem"
+  "information" : "Prahramy Ubuntu\n\nKamentar:\nČasam pišuć prosta Software ź vialikaj litary jak nazvu instrumenta, tady pierakladajem \"Prahramy\". software jak ahuĺnaje imia tak NIE pierakladajem"
 }, {
   "id" : 1159,
   "originalValue" : "Uganda",
-  "information" : "Uhanda\nKamentar: CLDR"
+  "information" : "Uhanda\n\nKamentar:\nCLDR"
 }, {
   "id" : 1160,
   "originalValue" : "UK",
-  "information" : "Vialikabrytanija\nKamentar: CLDR"
+  "information" : "Vialikabrytanija\n\nKamentar:\nCLDR"
 }, {
   "id" : 1161,
   "originalValue" : "UK English",
-  "information" : "vialikabrytanskaja anhlijskaja; anhlijskaja (Vialikabrytanija)\nKamentar: CLDR"
+  "information" : "vialikabrytanskaja anhlijskaja; anhlijskaja (Vialikabrytanija)\n\nKamentar:\nCLDR"
 }, {
   "id" : 1162,
   "originalValue" : "Ukraine",
-  "information" : "Ukraina\nKamentar: CLDR"
+  "information" : "Ukraina\n\nKamentar:\nCLDR"
 }, {
   "id" : 1163,
   "originalValue" : "Ukrainian",
-  "information" : "Ukrainskaja\nKamentar: CLDR"
+  "information" : "Ukrainskaja\n\nKamentar:\nCLDR"
 }, {
   "id" : 1164,
   "originalValue" : "unable",
@@ -4661,7 +4661,7 @@
 }, {
   "id" : 1166,
   "originalValue" : "uncompressing",
-  "information" : "raspakavańnie\nKamentar: hl. decompressing"
+  "information" : "raspakavańnie\n\nKamentar:\nhl. decompressing"
 }, {
   "id" : 1167,
   "originalValue" : "undo",
@@ -4673,7 +4673,7 @@
 }, {
   "id" : 1169,
   "originalValue" : "unexpected",
-  "information" : "niečakany\nKamentar: niama ŭ terminach"
+  "information" : "niečakany\n\nKamentar:\nniama ŭ terminach"
 }, {
   "id" : 1170,
   "originalValue" : "unimplimented",
@@ -4681,31 +4681,31 @@
 }, {
   "id" : 1171,
   "originalValue" : "unit",
-  "information" : "adzinka\nKamentar: Samsung"
+  "information" : "adzinka\n\nKamentar:\nSamsung"
 }, {
   "id" : 1172,
   "originalValue" : "United Arab Emirates",
-  "information" : "Ab’jadnanyja Arabskija Emiraty\nKamentar: CLDR"
+  "information" : "Ab’jadnanyja Arabskija Emiraty\n\nKamentar:\nCLDR"
 }, {
   "id" : 1173,
   "originalValue" : "United Kingdom",
-  "information" : "Vialikabrytanija\nKamentar: CLDR"
+  "information" : "Vialikabrytanija\n\nKamentar:\nCLDR"
 }, {
   "id" : 1174,
   "originalValue" : "United States",
-  "information" : "Zlučanyja Štaty Ameryki\nKamentar: CLDR"
+  "information" : "Zlučanyja Štaty Ameryki\n\nKamentar:\nCLDR"
 }, {
   "id" : 1175,
   "originalValue" : "United States Minor Outlying Islands",
-  "information" : "Malyja Addalienyja astravy ZŠA\nKamentar: CLDR"
+  "information" : "Malyja Addalienyja astravy ZŠA\n\nKamentar:\nCLDR"
 }, {
   "id" : 1176,
   "originalValue" : "United States Virgin Islands",
-  "information" : "Amerykanskija Virhinskija astravy\nKamentar: CLDR"
+  "information" : "Amerykanskija Virhinskija astravy\n\nKamentar:\nCLDR"
 }, {
   "id" : 1177,
   "originalValue" : "unknown",
-  "information" : "nieviadomy\nKamentar: Samsung"
+  "information" : "nieviadomy\n\nKamentar:\nSamsung"
 }, {
   "id" : 1178,
   "originalValue" : "unlock",
@@ -4713,15 +4713,15 @@
 }, {
   "id" : 1179,
   "originalValue" : "unmanaged",
-  "information" : "niekirujemy\nKamentar: MS"
+  "information" : "niekirujemy\n\nKamentar:\nMS"
 }, {
   "id" : 1180,
   "originalValue" : "unmaximize",
-  "information" : "! skasavać razhortvańnie, pamienšyć\nKamentar: heta kali my razhornutaje akno robim malieńkim"
+  "information" : "! skasavać razhortvańnie, pamienšyć\n\nKamentar:\nheta kali my razhornutaje akno robim malieńkim"
 }, {
   "id" : 1181,
   "originalValue" : "unmount",
-  "information" : "adkliučać\nKamentar: Samsung"
+  "information" : "adkliučać\n\nKamentar:\nSamsung"
 }, {
   "id" : 1182,
   "originalValue" : "unnamed",
@@ -4733,23 +4733,23 @@
 }, {
   "id" : 1184,
   "originalValue" : "unsupported",
-  "information" : "nie padtrymlivajecca\nKamentar: Samsung"
+  "information" : "nie padtrymlivajecca\n\nKamentar:\nSamsung"
 }, {
   "id" : 1185,
   "originalValue" : "unzip",
-  "information" : "raspakavać\nKamentar: Samsung"
+  "information" : "raspakavać\n\nKamentar:\nSamsung"
 }, {
   "id" : 1186,
   "originalValue" : "up",
-  "information" : "uvierch\nKamentar: MS"
+  "information" : "uvierch\n\nKamentar:\nMS"
 }, {
   "id" : 1187,
   "originalValue" : "up to date",
-  "information" : "abnoŭlieny (kali maje miesca abnaŭlieńnie); aktualizavany (kali maje miesca aktualizacyja)\nKamentar: MS"
+  "information" : "abnoŭlieny (kali maje miesca abnaŭlieńnie); aktualizavany (kali maje miesca aktualizacyja)\n\nKamentar:\nMS"
 }, {
   "id" : 1188,
   "originalValue" : "upcoming",
-  "information" : "budučy\nKamentar: Samsung"
+  "information" : "budučy\n\nKamentar:\nSamsung"
 }, {
   "id" : 1189,
   "originalValue" : "update",
@@ -4761,7 +4761,7 @@
 }, {
   "id" : 1191,
   "originalValue" : "upgrade",
-  "information" : "abnavić; abnaŭlieńnie\nKamentar: MS, Samsung — abnavić\nMS, Google — abnaŭlieńnie"
+  "information" : "abnavić; abnaŭlieńnie\n\nKamentar:\nMS, Samsung — abnavić\nMS, Google — abnaŭlieńnie"
 }, {
   "id" : 1192,
   "originalValue" : "upload",
@@ -4769,7 +4769,7 @@
 }, {
   "id" : 1193,
   "originalValue" : "uploader",
-  "information" : "zapampoŭščyk; ! zahruzčyk\nNiapraviĺny pieraklad: zahruźnik\nKamentar: Liepš zapampoŭščyk, bo upload — zapampavać"
+  "information" : "zapampoŭščyk; ! zahruzčyk\n\nNiapraviĺny pieraklad:\nzahruźnik\n\nKamentar:\nLiepš zapampoŭščyk, bo upload — zapampavać"
 }, {
   "id" : 1194,
   "originalValue" : "uploading",
@@ -4777,15 +4777,15 @@
 }, {
   "id" : 1195,
   "originalValue" : "Uruguay",
-  "information" : "Uruhvaj\nKamentar: CLDR"
+  "information" : "Uruhvaj\n\nKamentar:\nCLDR"
 }, {
   "id" : 1196,
   "originalValue" : "US",
-  "information" : "ZŠA\nKamentar: CLDR"
+  "information" : "ZŠA\n\nKamentar:\nCLDR"
 }, {
   "id" : 1197,
   "originalValue" : "US English",
-  "information" : "anhlijskaja (ZŠA)\nKamentar: CLDR"
+  "information" : "anhlijskaja (ZŠA)\n\nKamentar:\nCLDR"
 }, {
   "id" : 1198,
   "originalValue" : "usage",
@@ -4813,27 +4813,27 @@
 }, {
   "id" : 1204,
   "originalValue" : "utility",
-  "information" : "utylita\nKamentar: utylita — Samsung, Google\nsluzbovaja prahrama, dapamoznaja prahrama — MS"
+  "information" : "utylita\n\nKamentar:\nutylita — Samsung, Google\nsluzbovaja prahrama, dapamoznaja prahrama — MS"
 }, {
   "id" : 1205,
   "originalValue" : "Uzbekistan",
-  "information" : "Uzbiekistan\nKamentar: CLDR"
+  "information" : "Uzbiekistan\n\nKamentar:\nCLDR"
 }, {
   "id" : 1206,
   "originalValue" : "valid",
-  "information" : "sapraŭdny; praviĺny\nKamentar: Samsung"
+  "information" : "sapraŭdny; praviĺny\n\nKamentar:\nSamsung"
 }, {
   "id" : 1207,
   "originalValue" : "validate",
-  "information" : "pravieryć\nKamentar: Google"
+  "information" : "pravieryć\n\nKamentar:\nGoogle"
 }, {
   "id" : 1208,
   "originalValue" : "validation",
-  "information" : "! pravierka, paćvierdzańnie\nKamentar: MS"
+  "information" : "! pravierka, paćvierdzańnie\n\nKamentar:\nMS"
 }, {
   "id" : 1209,
   "originalValue" : "Validator",
-  "information" : "Srodak pravierki\nKamentar: Google"
+  "information" : "Srodak pravierki\n\nKamentar:\nGoogle"
 }, {
   "id" : 1210,
   "originalValue" : "value",
@@ -4841,31 +4841,31 @@
 }, {
   "id" : 1211,
   "originalValue" : "Vanuatu",
-  "information" : "Vanuatu\nKamentar: CLDR"
+  "information" : "Vanuatu\n\nKamentar:\nCLDR"
 }, {
   "id" : 1212,
   "originalValue" : "Vatican",
-  "information" : "Vatykan\nKamentar: CLDR"
+  "information" : "Vatykan\n\nKamentar:\nCLDR"
 }, {
   "id" : 1213,
   "originalValue" : "Vatican City",
-  "information" : "Vatykan\nKamentar: CLDR"
+  "information" : "Vatykan\n\nKamentar:\nCLDR"
 }, {
   "id" : 1214,
   "originalValue" : "Venezuela",
-  "information" : "Vieniesuela\nKamentar: CLDR"
+  "information" : "Vieniesuela\n\nKamentar:\nCLDR"
 }, {
   "id" : 1215,
   "originalValue" : "verified",
-  "information" : "spraŭdzany\nKamentar: Google"
+  "information" : "spraŭdzany\n\nKamentar:\nGoogle"
 }, {
   "id" : 1216,
   "originalValue" : "verify",
-  "information" : "spraŭdzić\nKamentar: Google"
+  "information" : "spraŭdzić\n\nKamentar:\nGoogle"
 }, {
   "id" : 1217,
   "originalValue" : "variable",
-  "information" : "pieramiennaja\nKamentar: MS"
+  "information" : "pieramiennaja\n\nKamentar:\nMS"
 }, {
   "id" : 1218,
   "originalValue" : "version",
@@ -4885,11 +4885,11 @@
 }, {
   "id" : 1222,
   "originalValue" : "Viet Nam",
-  "information" : "V’jetnam\nKamentar: CLDR"
+  "information" : "V’jetnam\n\nKamentar:\nCLDR"
 }, {
   "id" : 1223,
   "originalValue" : "view",
-  "information" : "rezym; vyhliad (ulaścivaść, ab’jekt); prahliad (dziejańnie)\nKamentar: Samsung, Google — rezym, vyhliad, pakaz, prahliad\nMS — vyhliad, prahliad, prahliadać"
+  "information" : "rezym; vyhliad (ulaścivaść, ab’jekt); prahliad (dziejańnie)\n\nKamentar:\nSamsung, Google — rezym, vyhliad, pakaz, prahliad\nMS — vyhliad, prahliad, prahliadać"
 }, {
   "id" : 1224,
   "originalValue" : "violet",
@@ -4901,15 +4901,15 @@
 }, {
   "id" : 1226,
   "originalValue" : "visit",
-  "information" : "naviedajcie; naviedać; naviedańnie\nKamentar: MS — naviedajcie, naviedać, pierajści, naviedvańnie\nSamsung — naviedańnie"
+  "information" : "naviedajcie; naviedać; naviedańnie\n\nKamentar:\nMS — naviedajcie, naviedać, pierajści, naviedvańnie\nSamsung — naviedańnie"
 }, {
   "id" : 1227,
   "originalValue" : "visitor\n",
-  "information" : "naviedvaĺnik\nKamentar: Google"
+  "information" : "naviedvaĺnik\n\nKamentar:\nGoogle"
 }, {
   "id" : 1228,
   "originalValue" : "visitors",
-  "information" : "naviedvaĺniki\nKamentar: Google"
+  "information" : "naviedvaĺniki\n\nKamentar:\nGoogle"
 }, {
   "id" : 1229,
   "originalValue" : "Vitsyebsk",
@@ -4917,11 +4917,11 @@
 }, {
   "id" : 1230,
   "originalValue" : "Voice Recorder",
-  "information" : "Dyktafon\nKamentar: Samsung"
+  "information" : "Dyktafon\n\nKamentar:\nSamsung"
 }, {
   "id" : 1231,
   "originalValue" : "volume",
-  "information" : "hučnaść\nKamentar: Samsung, Google, MS"
+  "information" : "hučnaść\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 1232,
   "originalValue" : "wait",
@@ -4933,15 +4933,15 @@
 }, {
   "id" : 1234,
   "originalValue" : "Wales",
-  "information" : "Ueĺs\nKamentar: CLDR"
+  "information" : "Ueĺs\n\nKamentar:\nCLDR"
 }, {
   "id" : 1235,
   "originalValue" : "Wallis and Futuna",
-  "information" : "Uolis i Futuna\nKamentar: CLDR"
+  "information" : "Uolis i Futuna\n\nKamentar:\nCLDR"
 }, {
   "id" : 1236,
   "originalValue" : "wallpaper",
-  "information" : "špaliery\nKamentar: Špalier — MS, Samsung, Google"
+  "information" : "špaliery\n\nKamentar:\nŠpalier — MS, Samsung, Google"
 }, {
   "id" : 1237,
   "originalValue" : "want",
@@ -4957,11 +4957,11 @@
 }, {
   "id" : 1240,
   "originalValue" : "web",
-  "information" : "veb; internet, internetu\nKamentar: Samsung — veb\nMS — veb; internet"
+  "information" : "veb; internet, internetu\n\nKamentar:\nSamsung — veb\nMS — veb; internet"
 }, {
   "id" : 1241,
   "originalValue" : "web address",
-  "information" : "veb-adras\nKamentar: mss"
+  "information" : "veb-adras\n\nKamentar:\nmss"
 }, {
   "id" : 1242,
   "originalValue" : "Web browser",
@@ -4969,27 +4969,27 @@
 }, {
   "id" : 1243,
   "originalValue" : "Web browsing",
-  "information" : "Prahliad veb-staronak\nKamentar: MS"
+  "information" : "Prahliad veb-staronak\n\nKamentar:\nMS"
 }, {
   "id" : 1244,
   "originalValue" : "web feed",
-  "information" : "veb-kanal\nKamentar: MS"
+  "information" : "veb-kanal\n\nKamentar:\nMS"
 }, {
   "id" : 1245,
   "originalValue" : "web filtering",
-  "information" : "veb-fiĺtracyja\nKamentar: MS"
+  "information" : "veb-fiĺtracyja\n\nKamentar:\nMS"
 }, {
   "id" : 1246,
   "originalValue" : "Web hosting",
-  "information" : "Veb-chostynh\nKamentar: MS"
+  "information" : "Veb-chostynh\n\nKamentar:\nMS"
 }, {
   "id" : 1247,
   "originalValue" : "web package",
-  "information" : "veb-pakiet\nKamentar: MS"
+  "information" : "veb-pakiet\n\nKamentar:\nMS"
 }, {
   "id" : 1248,
   "originalValue" : "web page",
-  "information" : "veb-staronka\nKamentar: MS"
+  "information" : "veb-staronka\n\nKamentar:\nMS"
 }, {
   "id" : 1249,
   "originalValue" : "web portal",
@@ -4997,11 +4997,11 @@
 }, {
   "id" : 1250,
   "originalValue" : "Web query",
-  "information" : "veb-zapyt\nKamentar: MS"
+  "information" : "veb-zapyt\n\nKamentar:\nMS"
 }, {
   "id" : 1251,
   "originalValue" : "Web Runtime",
-  "information" : "Web Runtime\nKamentar: Samsung"
+  "information" : "Web Runtime\n\nKamentar:\nSamsung"
 }, {
   "id" : 1252,
   "originalValue" : "Web server",
@@ -5017,27 +5017,27 @@
 }, {
   "id" : 1255,
   "originalValue" : "web site",
-  "information" : "veb-sajt; sajt\nKamentar: Samsung, MS"
+  "information" : "veb-sajt; sajt\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 1256,
   "originalValue" : "webpage",
-  "information" : "veb-staronka\nKamentar: Samsung"
+  "information" : "veb-staronka\n\nKamentar:\nSamsung"
 }, {
   "id" : 1257,
   "originalValue" : "website",
-  "information" : "veb-sajt; sajt\nNiapraviĺny pieraklad: veb-staronka\nKamentar: Samsung — veb-sajt; sajt\nMS — veb-staronka"
+  "information" : "veb-sajt; sajt\n\nNiapraviĺny pieraklad:\nveb-staronka\n\nKamentar:\nSamsung — veb-sajt; sajt\nMS — veb-staronka"
 }, {
   "id" : 1258,
   "originalValue" : "Webview",
-  "information" : "Veb-vyhliad\nKamentar: Samsung"
+  "information" : "Veb-vyhliad\n\nKamentar:\nSamsung"
 }, {
   "id" : 1259,
   "originalValue" : "weekly",
-  "information" : "štotydzień; štotydniovy; za tydzień\nKamentar: MS, Samsung"
+  "information" : "štotydzień; štotydniovy; za tydzień\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 1260,
   "originalValue" : "Western Sahara",
-  "information" : "Zachodniaja Sachara\nKamentar: CLDR"
+  "information" : "Zachodniaja Sachara\n\nKamentar:\nCLDR"
 }, {
   "id" : 1261,
   "originalValue" : "while connected to",
@@ -5065,7 +5065,7 @@
 }, {
   "id" : 1267,
   "originalValue" : "wireless",
-  "information" : "biespravadny\nKamentar: Samsung, Google, MS"
+  "information" : "biespravadny\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 1268,
   "originalValue" : "wishlist",
@@ -5077,7 +5077,7 @@
 }, {
   "id" : 1270,
   "originalValue" : "workspace",
-  "information" : "pracoŭnaja prastora\nKamentar: MS"
+  "information" : "pracoŭnaja prastora\n\nKamentar:\nMS"
 }, {
   "id" : 1271,
   "originalValue" : "world clocks",
@@ -5089,7 +5089,7 @@
 }, {
   "id" : 1273,
   "originalValue" : "yearly",
-  "information" : "štohod; štohadovy; za hod\nKamentar: MS, Samsung"
+  "information" : "štohod; štohadovy; za hod\n\nKamentar:\nMS, Samsung"
 }, {
   "id" : 1274,
   "originalValue" : "yellow",
@@ -5097,7 +5097,7 @@
 }, {
   "id" : 1275,
   "originalValue" : "Yemen",
-  "information" : "Jemien\nKamentar: CLDR"
+  "information" : "Jemien\n\nKamentar:\nCLDR"
 }, {
   "id" : 1276,
   "originalValue" : "yes",
@@ -5109,25 +5109,25 @@
 }, {
   "id" : 1278,
   "originalValue" : "your",
-  "information" : "vaš, vašy\nNiapraviĺny pieraklad: vašyja"
+  "information" : "vaš, vašy\n\nNiapraviĺny pieraklad:\nvašyja"
 }, {
   "id" : 1279,
   "originalValue" : "Zambia",
-  "information" : "Zambija\nKamentar: CLDR"
+  "information" : "Zambija\n\nKamentar:\nCLDR"
 }, {
   "id" : 1280,
   "originalValue" : "Zimbabwe",
-  "information" : "Zimbabve\nKamentar: CLDR"
+  "information" : "Zimbabve\n\nKamentar:\nCLDR"
 }, {
   "id" : 1281,
   "originalValue" : "zoom",
-  "information" : "! pavieličeńnie; maštab; maštabavańnie (ekrana)\nKamentar: Samsung — zum, maštab\nGoogle — pavieličeńnie, maštabavańnie\nMS — pavieličeńnie, maštab, maštabavańnie"
+  "information" : "! pavieličeńnie; maštab; maštabavańnie (ekrana)\n\nKamentar:\nSamsung — zum, maštab\nGoogle — pavieličeńnie, maštabavańnie\nMS — pavieličeńnie, maštab, maštabavańnie"
 }, {
   "id" : 1282,
   "originalValue" : "zoom in",
-  "information" : "pavialičyć\nKamentar: Samsung"
+  "information" : "pavialičyć\n\nKamentar:\nSamsung"
 }, {
   "id" : 1283,
   "originalValue" : "zoom out",
-  "information" : "pamienšyć\nKamentar: Samsung"
+  "information" : "pamienšyć\n\nKamentar:\nSamsung"
 } ]

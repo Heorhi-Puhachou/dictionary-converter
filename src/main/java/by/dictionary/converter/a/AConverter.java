@@ -109,10 +109,10 @@ public class AConverter implements Converter {
     private String getInformationString(String value, String wrong, String comment) {
         String result = value;
         if (wrong != null && !wrong.isEmpty()) {
-            result = result + "\nНяправільны пераклад: " + wrong;
+            result = result + "\n\nНяправільны пераклад:\n" + wrong;
         }
         if (comment != null && !comment.isEmpty()) {
-            result = result + "\nКаментарый: " + comment;
+            result = result + "\n\nКаментарый:\n" + comment;
         }
         return result;
     }
