@@ -83,7 +83,7 @@ public class CConverter implements Converter {
 
                 record = new Record(id,
                         originalValue,
-                        translate + "\n" + desc);
+                        translate + " - " + desc);
                 lstCustomers.add(record);
             }
 
@@ -94,9 +94,5 @@ public class CConverter implements Converter {
         } catch (IOException e) {
             throw new RuntimeException("FAIL! -> message = " + e.getMessage());
         }
-    }
-
-    private String getInformationString(String desc1, String desc2, String value) {
-        return desc1 + " " + desc2 + "\n" + value;
     }
 }

@@ -1,9 +1,9 @@
 [ {
   "id" : 2022031301,
   "originalValue" : "BFD",
-  "information" : "Biblijateka deskryptaraŭ binarnych fajlaŭ, DBF (The Binary File Descriptor library)\nAsnoŭny miechanizm prajekta GNU dlia pracy z ab“jektnymi fajlami roznych farmataŭ."
+  "information" : "Biblijateka deskryptaraŭ binarnych fajlaŭ, DBF (The Binary File Descriptor library) - asnoŭny miechanizm prajekta GNU dlia pracy z abjektnymi fajlami roznych farmataŭ."
 }, {
   "id" : 2022031302,
   "originalValue" : "relocation",
-  "information" : "prysvajeńnie adrasu\nPraces prysvajennia adrasoŭ nahruzki dlia zalieznaha ad pazicyi kodu j dadzienych prahramy.\n\nhttps://en.wikipedia.org/wiki/Relocation_(computing)"
+  "information" : "prysvajeńnie adrasu - praces prysvajeńnia adrasoŭ zahruzki dlia koda j dadzienych prahramy, jakija zaliezać ad pazicyi, i karekciroŭki koda j danych dlia adliustravańnia prysvojenych adrasoŭ. "
 } ]
