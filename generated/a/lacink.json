@@ -13,7 +13,7 @@
 }, {
   "id" : 4,
   "originalValue" : "accessibility",
-  "information" : "spiecyjaĺnyja mahčymaści\n\nKamentar:\nSamsung, Google, MS"
+  "information" : "śpiecyjaĺnyja mahčymaści\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 5,
   "originalValue" : "account",
@@ -1089,7 +1089,7 @@
 }, {
   "id" : 273,
   "originalValue" : "danger",
-  "information" : "niebiaspieka"
+  "information" : "niebiaśpieka"
 }, {
   "id" : 274,
   "originalValue" : "dark",
@@ -1129,7 +1129,7 @@
 }, {
   "id" : 283,
   "originalValue" : "decline",
-  "information" : "adchilić\n\nKamentar:\nČasam kab pazbiehnuć blytanicy patrebny asobny pieraklad kštaltu \"vyjści, nie zachoŭvajučy\". Hl. cancel"
+  "information" : "adchilić\n\nKamentar:\nČasam kab paźbiehnuć blytanicy patrebny asobny pieraklad kštaltu \"vyjści, nie zachoŭvajučy\". Hl. cancel"
 }, {
   "id" : 284,
   "originalValue" : "decode",
@@ -1209,7 +1209,7 @@
 }, {
   "id" : 303,
   "originalValue" : "desktop",
-  "information" : "pracoŭny stol; asiaroddzie (desktop environment, e.g. GNOME, KDE)"
+  "information" : "pracoŭny stol; asiarodździe (desktop environment, e.g. GNOME, KDE)"
 }, {
   "id" : 304,
   "originalValue" : "details",
@@ -1837,7 +1837,7 @@
 }, {
   "id" : 460,
   "originalValue" : "GNOME desktop",
-  "information" : "Asiaroddzie GNOME\n\nKamentar:\nheta desktop environment, a nie pracoŭny stol"
+  "information" : "Asiarodździe GNOME\n\nKamentar:\nheta desktop environment, a nie pracoŭny stol"
 }, {
   "id" : 461,
   "originalValue" : "GNOME Shell",
@@ -1929,7 +1929,7 @@
 }, {
   "id" : 483,
   "originalValue" : "hardware",
-  "information" : "aparatny; abstaliavańnie, ! aparatnaje zabiespiačeńnie\n\nKamentar:\naparatnaje zabiespiačeńnie; aparatny — Google\naparatny; abstaliavańnie — Samsung"
+  "information" : "aparatny; abstaliavańnie, ! aparatnaje zabieśpiačeńnie\n\nKamentar:\naparatnaje zabieśpiačeńnie; aparatny — Google\naparatny; abstaliavańnie — Samsung"
 }, {
   "id" : 484,
   "originalValue" : "header",
@@ -2197,7 +2197,7 @@
 }, {
   "id" : 550,
   "originalValue" : "introspection",
-  "information" : "! intraspiekcyja, analiz"
+  "information" : "! intraśpiekcyja, analiz"
 }, {
   "id" : 551,
   "originalValue" : "invalid",
@@ -2453,7 +2453,7 @@
 }, {
   "id" : 614,
   "originalValue" : "list",
-  "information" : "spis\n\nKamentar:\nSamsung, Google, MS"
+  "information" : "śpis\n\nKamentar:\nSamsung, Google, MS"
 }, {
   "id" : 615,
   "originalValue" : "Lithuania",
@@ -2629,11 +2629,11 @@
 }, {
   "id" : 658,
   "originalValue" : "MB",
-  "information" : "MB — MB; miehabajt; Mb — Mbit; miehabit\n\nKamentar:\nCLDR"
+  "information" : "MB — MB; miehabajt; Mb — Nullbit; miehabit\n\nKamentar:\nCLDR"
 }, {
   "id" : 659,
   "originalValue" : "Mbits",
-  "information" : "Mbit\n\nKamentar:\nCLDR"
+  "information" : "Nullbit\n\nKamentar:\nCLDR"
 }, {
   "id" : 660,
   "originalValue" : "MByte",
@@ -3365,7 +3365,7 @@
 }, {
   "id" : 842,
   "originalValue" : "power saving",
-  "information" : "enierhazbierazeńnie\n\nKamentar:\nSamsung"
+  "information" : "enierhaźbierazeńnie\n\nKamentar:\nSamsung"
 }, {
   "id" : 843,
   "originalValue" : "powered by",
@@ -3477,7 +3477,7 @@
 }, {
   "id" : 870,
   "originalValue" : "provides",
-  "information" : "zabiaspiečvaje"
+  "information" : "zabiaśpiečvaje"
 }, {
   "id" : 871,
   "originalValue" : "public",
@@ -3777,15 +3777,15 @@
 }, {
   "id" : 945,
   "originalValue" : "safe",
-  "information" : "biaspiečny"
+  "information" : "biaśpiečny"
 }, {
   "id" : 946,
   "originalValue" : "safely",
-  "information" : "biaspiečna"
+  "information" : "biaśpiečna"
 }, {
   "id" : 947,
   "originalValue" : "safety\n",
-  "information" : "biaspieka"
+  "information" : "biaśpieka"
 }, {
   "id" : 948,
   "originalValue" : "Saint Barthélemy",
@@ -3905,11 +3905,11 @@
 }, {
   "id" : 977,
   "originalValue" : "secure",
-  "information" : "abaronieny; biaspiečny\n\nKamentar:\nSamsung, MS"
+  "information" : "abaronieny; biaśpiečny\n\nKamentar:\nSamsung, MS"
 }, {
   "id" : 978,
   "originalValue" : "security",
-  "information" : "biaspieka"
+  "information" : "biaśpieka"
 }, {
   "id" : 979,
   "originalValue" : "select",
@@ -4113,11 +4113,11 @@
 }, {
   "id" : 1029,
   "originalValue" : "software",
-  "information" : "prahramnaje zabiespiačeńnie; PZ\n\nKamentar:\nSamsung"
+  "information" : "prahramnaje zabieśpiačeńnie; PZ\n\nKamentar:\nSamsung"
 }, {
   "id" : 1030,
   "originalValue" : "software update",
-  "information" : "abnaŭlieńnie PZ; abnaŭlieńnie prahramnaha zabiespiačeńnia\n\nKamentar:\nSamsung"
+  "information" : "abnaŭlieńnie PZ; abnaŭlieńnie prahramnaha zabieśpiačeńnia\n\nKamentar:\nSamsung"
 }, {
   "id" : 1031,
   "originalValue" : "Software Updater",
@@ -4285,7 +4285,7 @@
 }, {
   "id" : 1072,
   "originalValue" : "successfully",
-  "information" : "\n\nKamentar:\nzvyčajna apuskajecca. Pierakladajcie tady, kali ŭ tekście jość raźmiezavańnie na vykanańnie apieracyi z pamylkami j, ulasna, paspiachovaje (biespamylkovaje) vykanańnie.\n"
+  "information" : "\n\nKamentar:\nzvyčajna apuskajecca. Pierakladajcie tady, kali ŭ tekście jość raźmiezavańnie na vykanańnie apieracyi z pamylkami j, ulasna, paśpiachovaje (biespamylkovaje) vykanańnie.\n"
 }, {
   "id" : 1073,
   "originalValue" : "Sudan",
@@ -4313,11 +4313,11 @@
 }, {
   "id" : 1079,
   "originalValue" : "suspend",
-  "information" : "prypynić [pracu kampjutara]; prypynieńnie [pracy kampjutara]\n\nNiapraviĺny pieraklad:\nsupynak\n\nKamentar:\nprypynić — Google, MS\nPobač z pierazahruzić i vykliučyć budzie naturaĺniej vyhliadać prosta prypynić.\nDlia inšych vypadkaŭ, dzie ŭmiaščajecca pišam poŭnaściu try abo dva(biez \"pracu\") slovy z pieravahaj u bok pieršaj formy."
+  "information" : "prypynić [pracu kampjutara]; prypynieńnie [pracy kampjutara]\n\nNiapraviĺny pieraklad:\nsupynak\n\nKamentar:\nprypynić — Google, MS\nPobač ź pierazahruzić i vykliučyć budzie naturaĺniej vyhliadać prosta prypynić.\nDlia inšych vypadkaŭ, dzie ŭmiaščajecca pišam poŭnaściu try abo dva(biez \"pracu\") slovy ź pieravahaj u bok pieršaj formy."
 }, {
   "id" : 1080,
   "originalValue" : "Svalbard and Jan Mayen",
-  "information" : "Špicbierhien i Jan-Majen\n\nKamentar:\nCLDR"
+  "information" : "Špićbierhien i Jan-Majen\n\nKamentar:\nCLDR"
 }, {
   "id" : 1081,
   "originalValue" : "Swaziland",
@@ -4485,11 +4485,11 @@
 }, {
   "id" : 1122,
   "originalValue" : "tile",
-  "information" : "plitka; razbić na plitki\n\nKamentar:\nGoogle"
+  "information" : "plitka; raźbić na plitki\n\nKamentar:\nGoogle"
 }, {
   "id" : 1123,
   "originalValue" : "tiling",
-  "information" : "razbićcio na plitki"
+  "information" : "raźbićcio na plitki"
 }, {
   "id" : 1124,
   "originalValue" : "Timor-Leste",
@@ -4817,7 +4817,7 @@
 }, {
   "id" : 1205,
   "originalValue" : "Uzbekistan",
-  "information" : "Uzbiekistan\n\nKamentar:\nCLDR"
+  "information" : "Uźbiekistan\n\nKamentar:\nCLDR"
 }, {
   "id" : 1206,
   "originalValue" : "valid",
@@ -5069,7 +5069,7 @@
 }, {
   "id" : 1268,
   "originalValue" : "wishlist",
-  "information" : "spis pazadańniaŭ"
+  "information" : "śpis pazadańniaŭ"
 }, {
   "id" : 1269,
   "originalValue" : "word",

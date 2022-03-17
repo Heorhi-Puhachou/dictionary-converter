@@ -54,9 +54,9 @@ public class ConvertExcel2Json {
     public static void convertLabels() {
         String userDir = System.getProperty("user.dir");
 
-        String pathToNarkamFile = userDir + "\\generated\\labels\\narkam.js";
-        String pathToTaraskFile = userDir + "\\generated\\labels\\tarask.js";
-        String pathToLacinkFile = userDir + "\\generated\\labels\\lacink.js";
+        String pathToNarkamFile = userDir + "/generated/labels/narkam.js";
+        String pathToTaraskFile = userDir + "/generated/labels/tarask.js";
+        String pathToLacinkFile = userDir + "/generated/labels/lacink.js";
 
         String narkamText = readTextFromFile(pathToNarkamFile);
 

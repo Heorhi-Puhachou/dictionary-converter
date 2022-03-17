@@ -13,7 +13,7 @@
 }, {
   "id" : 4,
   "originalValue" : "accessibility",
-  "information" : "спецыяльныя магчымасьці\n\nКамэнтар:\nSamsung, Google, MS"
+  "information" : "сьпецыяльныя магчымасьці\n\nКамэнтар:\nSamsung, Google, MS"
 }, {
   "id" : 5,
   "originalValue" : "account",
@@ -121,7 +121,7 @@
 }, {
   "id" : 31,
   "originalValue" : "alert",
-  "information" : "абвестка; сыгнал\n\nКамэнтар:\nSamsung, Google, MS"
+  "information" : "абьвестка; сыгнал\n\nКамэнтар:\nSamsung, Google, MS"
 }, {
   "id" : 32,
   "originalValue" : "Algeria",
@@ -877,7 +877,7 @@
 }, {
   "id" : 220,
   "originalValue" : "clipboard",
-  "information" : "буфер абмену\n\nНяправільны пераклад:\nкішэня\n\nКамэнтар:\nMS, Google, Samsung"
+  "information" : "буфер абьмену\n\nНяправільны пераклад:\nкішэня\n\nКамэнтар:\nMS, Google, Samsung"
 }, {
   "id" : 221,
   "originalValue" : "close",
@@ -897,7 +897,7 @@
 }, {
   "id" : 225,
   "originalValue" : "Colombia",
-  "information" : "Калумбія\n\nКамэнтар:\nCLDR"
+  "information" : "Калумьбія\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 226,
   "originalValue" : "color",
@@ -1089,7 +1089,7 @@
 }, {
   "id" : 273,
   "originalValue" : "danger",
-  "information" : "небяспека"
+  "information" : "небясьпека"
 }, {
   "id" : 274,
   "originalValue" : "dark",
@@ -1129,7 +1129,7 @@
 }, {
   "id" : 283,
   "originalValue" : "decline",
-  "information" : "адхіліць\n\nКамэнтар:\nЧасам каб пазбегнуць блытаніцы патрэбны асобны пераклад кшталту \"выйсьці, не захоўваючы\". Гл. cancel"
+  "information" : "адхіліць\n\nКамэнтар:\nЧасам каб пазьбегнуць блытаніцы патрэбны асобны пераклад кшталту \"выйсьці, не захоўваючы\". Гл. cancel"
 }, {
   "id" : 284,
   "originalValue" : "decode",
@@ -1209,7 +1209,7 @@
 }, {
   "id" : 303,
   "originalValue" : "desktop",
-  "information" : "працоўны стол; асяроддзе (desktop environment, e.g. GNOME, KDE)"
+  "information" : "працоўны стол; асяродзьдзе (desktop environment, e.g. GNOME, KDE)"
 }, {
   "id" : 304,
   "originalValue" : "details",
@@ -1765,7 +1765,7 @@
 }, {
   "id" : 442,
   "originalValue" : "Gambia",
-  "information" : "Гамбія\n\nКамэнтар:\nCLDR"
+  "information" : "Гамьбія\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 443,
   "originalValue" : "game",
@@ -1837,7 +1837,7 @@
 }, {
   "id" : 460,
   "originalValue" : "GNOME desktop",
-  "information" : "Асяроддзе GNOME\n\nКамэнтар:\nгэта desktop environment, а не працоўны стол"
+  "information" : "Асяродзьдзе GNOME\n\nКамэнтар:\nгэта desktop environment, а не працоўны стол"
 }, {
   "id" : 461,
   "originalValue" : "GNOME Shell",
@@ -1929,7 +1929,7 @@
 }, {
   "id" : 483,
   "originalValue" : "hardware",
-  "information" : "апаратны; абсталяваньне, ! апаратнае забеспячэньне\n\nКамэнтар:\nапаратнае забеспячэньне; апаратны — Google\nапаратны; абсталяваньне — Samsung"
+  "information" : "апаратны; абсталяваньне, ! апаратнае забесьпячэньне\n\nКамэнтар:\nапаратнае забесьпячэньне; апаратны — Google\nапаратны; абсталяваньне — Samsung"
 }, {
   "id" : 484,
   "originalValue" : "header",
@@ -1977,7 +1977,7 @@
 }, {
   "id" : 495,
   "originalValue" : "home phone",
-  "information" : "дамашні тэлефон\n\nНяправільны пераклад:\nхатні тэлефон\n\nКамэнтар:\nпасля доўгіх абмеркаваньняў спыніліся на тэрміне \"дамашні тэлефон\""
+  "information" : "дамашні тэлефон\n\nНяправільны пераклад:\nхатні тэлефон\n\nКамэнтар:\nпасля доўгіх абьмеркаваньняў спыніліся на тэрміне \"дамашні тэлефон\""
 }, {
   "id" : 496,
   "originalValue" : "homepage",
@@ -2197,7 +2197,7 @@
 }, {
   "id" : 550,
   "originalValue" : "introspection",
-  "information" : "! інтраспекцыя, аналіз"
+  "information" : "! інтрасьпекцыя, аналіз"
 }, {
   "id" : 551,
   "originalValue" : "invalid",
@@ -2453,7 +2453,7 @@
 }, {
   "id" : 614,
   "originalValue" : "list",
-  "information" : "спіс\n\nКамэнтар:\nSamsung, Google, MS"
+  "information" : "сьпіс\n\nКамэнтар:\nSamsung, Google, MS"
 }, {
   "id" : 615,
   "originalValue" : "Lithuania",
@@ -2629,11 +2629,11 @@
 }, {
   "id" : 658,
   "originalValue" : "MB",
-  "information" : "MB — МБ; мегабайт; Mb — Мбіт; мегабіт\n\nКамэнтар:\nCLDR"
+  "information" : "MB — МБ; мегабайт; Mb — Мьбіт; мегабіт\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 659,
   "originalValue" : "Mbits",
-  "information" : "Мбіт\n\nКамэнтар:\nCLDR"
+  "information" : "Мьбіт\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 660,
   "originalValue" : "MByte",
@@ -2809,7 +2809,7 @@
 }, {
   "id" : 703,
   "originalValue" : "Mozambique",
-  "information" : "Мазамбік\n\nКамэнтар:\nCLDR"
+  "information" : "Мазамьбік\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 704,
   "originalValue" : "multimedia",
@@ -2993,7 +2993,7 @@
 }, {
   "id" : 749,
   "originalValue" : "notification",
-  "information" : "апавяшчэньне\n\nНяправільны пераклад:\nабвестка"
+  "information" : "апавяшчэньне\n\nНяправільны пераклад:\nабьвестка"
 }, {
   "id" : 750,
   "originalValue" : "number",
@@ -3061,7 +3061,7 @@
 }, {
   "id" : 766,
   "originalValue" : "open",
-  "information" : "адкрыць (document, file, window, tab etc.)\n\nКамэнтар:\nАсобныя выпадкі кшталту «адгарнуць электронную кнігу на 20-й старонцы» прапаноўваю выносіць на абмеркаваньне ў Telegram"
+  "information" : "адкрыць (document, file, window, tab etc.)\n\nКамэнтар:\nАсобныя выпадкі кшталту «адгарнуць электронную кнігу на 20-й старонцы» прапаноўваю выносіць на абьмеркаваньне ў Telegram"
 }, {
   "id" : 767,
   "originalValue" : "open with",
@@ -3365,7 +3365,7 @@
 }, {
   "id" : 842,
   "originalValue" : "power saving",
-  "information" : "энергазберажэньне\n\nКамэнтар:\nSamsung"
+  "information" : "энергазьберажэньне\n\nКамэнтар:\nSamsung"
 }, {
   "id" : 843,
   "originalValue" : "powered by",
@@ -3477,7 +3477,7 @@
 }, {
   "id" : 870,
   "originalValue" : "provides",
-  "information" : "забяспечвае"
+  "information" : "забясьпечвае"
 }, {
   "id" : 871,
   "originalValue" : "public",
@@ -3709,11 +3709,11 @@
 }, {
   "id" : 928,
   "originalValue" : "restrict",
-  "information" : "абмежаваць\n\nКамэнтар:\nSamsung"
+  "information" : "абьмежаваць\n\nКамэнтар:\nSamsung"
 }, {
   "id" : 929,
   "originalValue" : "restricted",
-  "information" : "абмежавана; абмежаваны\n\nКамэнтар:\nSamsung"
+  "information" : "абьмежавана; абьмежаваны\n\nКамэнтар:\nSamsung"
 }, {
   "id" : 930,
   "originalValue" : "result",
@@ -3777,15 +3777,15 @@
 }, {
   "id" : 945,
   "originalValue" : "safe",
-  "information" : "бяспечны"
+  "information" : "бясьпечны"
 }, {
   "id" : 946,
   "originalValue" : "safely",
-  "information" : "бяспечна"
+  "information" : "бясьпечна"
 }, {
   "id" : 947,
   "originalValue" : "safety\n",
-  "information" : "бяспека"
+  "information" : "бясьпека"
 }, {
   "id" : 948,
   "originalValue" : "Saint Barthélemy",
@@ -3905,11 +3905,11 @@
 }, {
   "id" : 977,
   "originalValue" : "secure",
-  "information" : "абаронены; бяспечны\n\nКамэнтар:\nSamsung, MS"
+  "information" : "абаронены; бясьпечны\n\nКамэнтар:\nSamsung, MS"
 }, {
   "id" : 978,
   "originalValue" : "security",
-  "information" : "бяспека"
+  "information" : "бясьпека"
 }, {
   "id" : 979,
   "originalValue" : "select",
@@ -4113,11 +4113,11 @@
 }, {
   "id" : 1029,
   "originalValue" : "software",
-  "information" : "праграмнае забеспячэньне; ПЗ\n\nКамэнтар:\nSamsung"
+  "information" : "праграмнае забесьпячэньне; ПЗ\n\nКамэнтар:\nSamsung"
 }, {
   "id" : 1030,
   "originalValue" : "software update",
-  "information" : "абнаўленьне ПЗ; абнаўленьне праграмнага забеспячэньня\n\nКамэнтар:\nSamsung"
+  "information" : "абнаўленьне ПЗ; абнаўленьне праграмнага забесьпячэньня\n\nКамэнтар:\nSamsung"
 }, {
   "id" : 1031,
   "originalValue" : "Software Updater",
@@ -4277,15 +4277,15 @@
 }, {
   "id" : 1070,
   "originalValue" : "subtitle",
-  "information" : "субцітр\n\nКамэнтар:\nGoogle, Samsung"
+  "information" : "субьцітр\n\nКамэнтар:\nGoogle, Samsung"
 }, {
   "id" : 1071,
   "originalValue" : "subtitles",
-  "information" : "субцітры\n\nКамэнтар:\nMS, Google"
+  "information" : "субьцітры\n\nКамэнтар:\nMS, Google"
 }, {
   "id" : 1072,
   "originalValue" : "successfully",
-  "information" : "\n\nКамэнтар:\nзвычайна апускаецца. Перакладайце тады, калі ў тэксьце ёсьць разьмежаваньне на выкананьне аперацыі з памылкамі й, уласна, паспяховае (беспамылковае) выкананьне.\n"
+  "information" : "\n\nКамэнтар:\nзвычайна апускаецца. Перакладайце тады, калі ў тэксьце ёсьць разьмежаваньне на выкананьне аперацыі з памылкамі й, уласна, пасьпяховае (беспамылковае) выкананьне.\n"
 }, {
   "id" : 1073,
   "originalValue" : "Sudan",
@@ -4313,11 +4313,11 @@
 }, {
   "id" : 1079,
   "originalValue" : "suspend",
-  "information" : "прыпыніць [працу камп'ютара]; прыпыненьне [працы камп'ютара]\n\nНяправільны пераклад:\nсупынак\n\nКамэнтар:\nпрыпыніць — Google, MS\nПобач з перазагрузіць і выключыць будзе натуральней выглядаць проста прыпыніць.\nДля іншых выпадкаў, дзе ўмяшчаецца пішам поўнасьцю тры або два(без \"працу\") словы з перавагай у бок першай формы."
+  "information" : "прыпыніць [працу камп'ютара]; прыпыненьне [працы камп'ютара]\n\nНяправільны пераклад:\nсупынак\n\nКамэнтар:\nпрыпыніць — Google, MS\nПобач зь перазагрузіць і выключыць будзе натуральней выглядаць проста прыпыніць.\nДля іншых выпадкаў, дзе ўмяшчаецца пішам поўнасьцю тры або два(без \"працу\") словы зь перавагай у бок першай формы."
 }, {
   "id" : 1080,
   "originalValue" : "Svalbard and Jan Mayen",
-  "information" : "Шпіцберген і Ян-Маен\n\nКамэнтар:\nCLDR"
+  "information" : "Шпіцьберген і Ян-Маен\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 1081,
   "originalValue" : "Swaziland",
@@ -4485,11 +4485,11 @@
 }, {
   "id" : 1122,
   "originalValue" : "tile",
-  "information" : "плітка; разбіць на пліткі\n\nКамэнтар:\nGoogle"
+  "information" : "плітка; разьбіць на пліткі\n\nКамэнтар:\nGoogle"
 }, {
   "id" : 1123,
   "originalValue" : "tiling",
-  "information" : "разбіцьцё на пліткі"
+  "information" : "разьбіцьцё на пліткі"
 }, {
   "id" : 1124,
   "originalValue" : "Timor-Leste",
@@ -4817,7 +4817,7 @@
 }, {
   "id" : 1205,
   "originalValue" : "Uzbekistan",
-  "information" : "Узбекістан\n\nКамэнтар:\nCLDR"
+  "information" : "Узьбекістан\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 1206,
   "originalValue" : "valid",
@@ -5069,7 +5069,7 @@
 }, {
   "id" : 1268,
   "originalValue" : "wishlist",
-  "information" : "спіс пажаданьняў"
+  "information" : "сьпіс пажаданьняў"
 }, {
   "id" : 1269,
   "originalValue" : "word",
@@ -5113,7 +5113,7 @@
 }, {
   "id" : 1279,
   "originalValue" : "Zambia",
-  "information" : "Замбія\n\nКамэнтар:\nCLDR"
+  "information" : "Замьбія\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 1280,
   "originalValue" : "Zimbabwe",

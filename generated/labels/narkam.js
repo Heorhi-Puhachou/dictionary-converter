@@ -13,4 +13,7 @@ export const NARKAM = {
     narkam: "narkam",
     tarask: "tarask",
     lacink: "lacink",
+    a_dictionary: "Гласарый перакладчыкаў Ubuntu",
+    b_dictionary: "Тэрміны Proton. Кошаль і Турок",
+    c_dictionary: "Слоўнік Пугачова",
 };

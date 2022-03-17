@@ -77,7 +77,7 @@
 }, {
   "id" : 20,
   "originalValue" : "alias",
-  "information" : "псеўданім\n\nAn alternative email address for receiving email in addition to a user's primary address. At Proton, an alias is created by adding \"+\" and an alias term to the end of the username and before the @ symbol.  \n\nMore info: https://protonmail.com/support/knowledge-base/addresses-and-aliases/#protonmail-aliases\n\nNOUN"
+  "information" : "пьсеўданім\n\nAn alternative email address for receiving email in addition to a user's primary address. At Proton, an alias is created by adding \"+\" and an alias term to the end of the username and before the @ symbol.  \n\nMore info: https://protonmail.com/support/knowledge-base/addresses-and-aliases/#protonmail-aliases\n\nNOUN"
 }, {
   "id" : 21,
   "originalValue" : "All Mail",
@@ -85,7 +85,7 @@
 }, {
   "id" : 22,
   "originalValue" : "Allow List",
-  "information" : "спіс дазволеных\n\nA list of email addresses that will always be delivered to your inbox and not to spam. All email addresses stored in contacts are automatically placed on an Allow List; other addresses can be put on the list manually. See Block List.    \n\nMore info: https://protonmail.com/support/knowledge-base/spam-filtering/\n\nNOUN"
+  "information" : "сьпіс дазволеных\n\nA list of email addresses that will always be delivered to your inbox and not to spam. All email addresses stored in contacts are automatically placed on an Allow List; other addresses can be put on the list manually. See Block List.    \n\nMore info: https://protonmail.com/support/knowledge-base/spam-filtering/\n\nNOUN"
 }, {
   "id" : 23,
   "originalValue" : "alpha",
@@ -285,15 +285,15 @@
 }, {
   "id" : 72,
   "originalValue" : "blacklist",
-  "information" : "чорны спіс\n\nList of people barred access, esp. email addresses that are blocked. Same as Block List. See Allow List.\n\nNOUN"
+  "information" : "чорны сьпіс\n\nList of people barred access, esp. email addresses that are blocked. Same as Block List. See Allow List.\n\nNOUN"
 }, {
   "id" : 73,
   "originalValue" : "blacklist",
-  "information" : "дадаць у чорны спіс\n\nTo put someone on a blacklist or Block List.\n\nVERB"
+  "information" : "дадаць у чорны сьпіс\n\nTo put someone on a blacklist or Block List.\n\nVERB"
 }, {
   "id" : 74,
   "originalValue" : "Block List",
-  "information" : "спіс заблакіраваных\n\nA list of specific email addresses from which messages will be delivered to a user's spam folder and not their Inbox. Addresses can be manually added to the Block List. See Allow List. \n\nMore info: https://protonmail.com/support/knowledge-base/spam-filtering/\n\nNOUN"
+  "information" : "сьпіс заблакіраваных\n\nA list of specific email addresses from which messages will be delivered to a user's spam folder and not their Inbox. Addresses can be manually added to the Block List. See Allow List. \n\nMore info: https://protonmail.com/support/knowledge-base/spam-filtering/\n\nNOUN"
 }, {
   "id" : 75,
   "originalValue" : "blog",
@@ -389,7 +389,7 @@
 }, {
   "id" : 98,
   "originalValue" : "character limit",
-  "information" : "абмежаваньне па колькасьці сімвалаў\n\nLimit on the number of characters that can be entered in an online field.\n\nNOUN"
+  "information" : "абьмежаваньне па колькасьці сімвалаў\n\nLimit on the number of characters that can be entered in an online field.\n\nNOUN"
 }, {
   "id" : 99,
   "originalValue" : "chargeback",
@@ -417,7 +417,7 @@
 }, {
   "id" : 105,
   "originalValue" : "clipboard",
-  "information" : "буфер абмену\n\nA location on computer, phone, and tablet memory that temporarily stores cut or copied text or other data until it is pasted to another location, such as into an email. \n\nNOUN"
+  "information" : "буфер абьмену\n\nA location on computer, phone, and tablet memory that temporarily stores cut or copied text or other data until it is pasted to another location, such as into an email. \n\nNOUN"
 }, {
   "id" : 106,
   "originalValue" : "close",
@@ -793,7 +793,7 @@
 }, {
   "id" : 199,
   "originalValue" : "dropdown",
-  "information" : "спіс\n\nToggleable, contextual overlays for displaying lists, options, etc.\n\nNOUN"
+  "information" : "сьпіс\n\nToggleable, contextual overlays for displaying lists, options, etc.\n\nNOUN"
 }, {
   "id" : 200,
   "originalValue" : "early access",
@@ -969,7 +969,7 @@
 }, {
   "id" : 243,
   "originalValue" : "file sharing ",
-  "information" : "абмен файламі\n\nDistributing or providing access to digital content, such as computer programs, multimedia files, documents, presentations, or electronic books, e.g. via Proton Drive.\n\nMore info: https://www.wikiwand.com/en/Multimedia\nMore info: https://www.wikiwand.com/en/E-book\n\nNOUN"
+  "information" : "абьмен файламі\n\nDistributing or providing access to digital content, such as computer programs, multimedia files, documents, presentations, or electronic books, e.g. via Proton Drive.\n\nMore info: https://www.wikiwand.com/en/Multimedia\nMore info: https://www.wikiwand.com/en/E-book\n\nNOUN"
 }, {
   "id" : 244,
   "originalValue" : "filter",
@@ -1157,7 +1157,7 @@
 }, {
   "id" : 290,
   "originalValue" : "high-security",
-  "information" : "высокі ўзровень бяспекі\n\nBeing or having the quality of being very secure. Within ProtonMail, it is associated with RSA key sizes of 2048 bits, which is the size and security level ProtonMail recommends for most users.\n\nADJECTIVE"
+  "information" : "высокі ўзровень бясьпекі\n\nBeing or having the quality of being very secure. Within ProtonMail, it is associated with RSA key sizes of 2048 bits, which is the size and security level ProtonMail recommends for most users.\n\nADJECTIVE"
 }, {
   "id" : 291,
   "originalValue" : "hint",
@@ -1401,7 +1401,7 @@
 }, {
   "id" : 351,
   "originalValue" : "mailing list",
-  "information" : "спіс рассыланьня\n\nA list of names and addresses to which a person or organization can send information or advertisement. ProtonMail's Contact Groups works similarly to a mailing list, and is a way to group names and addresses to send one email to multiple people at once. \n\nNOUN"
+  "information" : "сьпіс рассыланьня\n\nA list of names and addresses to which a person or organization can send information or advertisement. ProtonMail's Contact Groups works similarly to a mailing list, and is a way to group names and addresses to send one email to multiple people at once. \n\nNOUN"
 }, {
   "id" : 352,
   "originalValue" : "malware",
@@ -1557,7 +1557,7 @@
 }, {
   "id" : 390,
   "originalValue" : "nickname",
-  "information" : "псеўданім\n\nAn informal name that is used usually affectionately or familiarly.\n\nNOUN"
+  "information" : "пьсеўданім\n\nAn informal name that is used usually affectionately or familiarly.\n\nNOUN"
 }, {
   "id" : 391,
   "originalValue" : "no-logs policy",
@@ -2121,7 +2121,7 @@
 }, {
   "id" : 531,
   "originalValue" : "runtime support library",
-  "information" : "падтрымка бібліятэкі асяроддзя выкананьня\n\nA library file that contains the source for the runtime-support functions.\n\nNOUN"
+  "information" : "падтрымка бібліятэкі асяродзьдзя выкананьня\n\nA library file that contains the source for the runtime-support functions.\n\nNOUN"
 }, {
   "id" : 532,
   "originalValue" : "s",
@@ -2185,27 +2185,27 @@
 }, {
   "id" : 547,
   "originalValue" : "secure internet anywhere",
-  "information" : "бяспечны інтэрнэт у любым месцы\n\nProtonVPN tagline\n\nPHRASE"
+  "information" : "бясьпечны інтэрнэт у любым месцы\n\nProtonVPN tagline\n\nPHRASE"
 }, {
   "id" : 548,
   "originalValue" : "secure link",
-  "information" : "бяспечная спасылка\n\nThis refers to a feature on Proton Drive that allows users to share a link (an HTML object that allows you to jump to a new location when you click or tap it) to an encrypted file.\n\nNOUN"
+  "information" : "бясьпечная спасылка\n\nThis refers to a feature on Proton Drive that allows users to share a link (an HTML object that allows you to jump to a new location when you click or tap it) to an encrypted file.\n\nNOUN"
 }, {
   "id" : 549,
   "originalValue" : "secure streaming",
-  "information" : "бяспечная перадача плыньню\n\na safe, private method (in our case, this method is protected by the encryption of our VPN service) of transmitting or receiving data (especially video and audio material) over a computer network as a steady, continuous flow, allowing playback to start while the rest of the data is still being received.\n\nNOUN"
+  "information" : "бясьпечная перадача плыньню\n\na safe, private method (in our case, this method is protected by the encryption of our VPN service) of transmitting or receiving data (especially video and audio material) over a computer network as a steady, continuous flow, allowing playback to start while the rest of the data is still being received.\n\nNOUN"
 }, {
   "id" : 550,
   "originalValue" : "security",
-  "information" : "бяспека\n\nthe state of being free from danger or threat.\n\nNOUN"
+  "information" : "бясьпека\n\nthe state of being free from danger or threat.\n\nNOUN"
 }, {
   "id" : 551,
   "originalValue" : "security code",
-  "information" : "код бяспекі\n\nA code users need to provide to verify their identity, e.g., in two-factor authentication, often received via mobile or email or generated by an authentication app. Can also refer to the card security code (or CSC, CVC) on the back of a credit card. \n\nNOUN"
+  "information" : "код бясьпекі\n\nA code users need to provide to verify their identity, e.g., in two-factor authentication, often received via mobile or email or generated by an authentication app. Can also refer to the card security code (or CSC, CVC) on the back of a credit card. \n\nNOUN"
 }, {
   "id" : 552,
   "originalValue" : "security settings",
-  "information" : "налады бяспекі\n\nUser options for managing account settings related to security (e.g., passwords)\n\nNOUN"
+  "information" : "налады бясьпекі\n\nUser options for managing account settings related to security (e.g., passwords)\n\nNOUN"
 }, {
   "id" : 553,
   "originalValue" : "seed",
@@ -2229,7 +2229,7 @@
 }, {
   "id" : 558,
   "originalValue" : "sending limit",
-  "information" : "абмежаваньне на адпраўку\n\nrestriction or limit imposed on the sending of emails to prevent bulk or spam mail and to keep mail from being delivered directly to spam folders. https://protonmail.com/support/knowledge-base/sending-limit/\n\nNOUN"
+  "information" : "абьмежаваньне на адпраўку\n\nrestriction or limit imposed on the sending of emails to prevent bulk or spam mail and to keep mail from being delivered directly to spam folders. https://protonmail.com/support/knowledge-base/sending-limit/\n\nNOUN"
 }, {
   "id" : 559,
   "originalValue" : "sent email",
@@ -2349,7 +2349,7 @@
 }, {
   "id" : 588,
   "originalValue" : "software",
-  "information" : "праграмнае забеспячэньне\n\nthe programs and other operating information used by a computer or other smart device\n\nNOUN"
+  "information" : "праграмнае забесьпячэньне\n\nthe programs and other operating information used by a computer or other smart device\n\nNOUN"
 }, {
   "id" : 589,
   "originalValue" : "spam",
@@ -2365,7 +2365,7 @@
 }, {
   "id" : 592,
   "originalValue" : "special offer",
-  "information" : "спецыяльная прапанова\n\nUsually means something is being sold at a lower price than usual or is coming with some other kind of perk\n\nNOUN"
+  "information" : "сьпецыяльная прапанова\n\nUsually means something is being sold at a lower price than usual or is coming with some other kind of perk\n\nNOUN"
 }, {
   "id" : 593,
   "originalValue" : "SPF",
@@ -2873,7 +2873,7 @@
 }, {
   "id" : 719,
   "originalValue" : "whitelist",
-  "information" : "белы спіс\n\nA list that allows identified entities to gain access to a service. A list of email addresses that will always be delivered to your inbox and not to spam. All email addresses stored in contacts are automatically placed on an Allow List; other addresses can be put on the list manually. See Allow List.\n\nNOUN"
+  "information" : "белы сьпіс\n\nA list that allows identified entities to gain access to a service. A list of email addresses that will always be delivered to your inbox and not to spam. All email addresses stored in contacts are automatically placed on an Allow List; other addresses can be put on the list manually. See Allow List.\n\nNOUN"
 }, {
   "id" : 720,
   "originalValue" : "widget",
