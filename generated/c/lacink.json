@@ -14,4 +14,24 @@
   "id" : 2022031304,
   "originalValue" : "Variation Axes",
   "information" : "Vosi varyjacyj - dyjapazon likaŭ dlia značeńnia, jakoje apisvaje vyznačany aspiekt dyzajnu kankretnaha eliemienta."
+}, {
+  "id" : 2022032001,
+  "originalValue" : "CJK Symbols and Punctuation",
+  "information" : "CJK symbali j punktuacyja - Unicode-blok, jaki źmiaščaje symbali j znaki prypynku dlia Kitajskaj, Japonskaj i Karejskaj moŭ (Chinese, Japanese and Korean)"
+}, {
+  "id" : 2022032002,
+  "originalValue" : "mkmk, Mark to Mark Positioning",
+  "information" : "Pazicyjavannie akcentaŭ adnosna akcentaŭ - asablivaść OpenType, jakaja dazvaliaje pazicyjanavać akcenty adnosna inšych akcentaŭ"
+}, {
+  "id" : 2022032003,
+  "originalValue" : "Reverse engineering",
+  "information" : "Zvarotny inzynirynh - praces analizu sistemy z metaj zrazumieć, jak jana pracuje. Dlia fizičnych abjektaŭ moza ŭkliučać ich razborku."
+}, {
+  "id" : 2022032004,
+  "originalValue" : "Object-oriented programming, OOP",
+  "information" : "Abjektna-aryjentavanaje prahramiravańnie - padychod da napisańnia kodu, pry jakim sistema apisvajecca praz abjekty i ich uzajemadziejańnie. Mietady j pali z infarmacyjaj u hetym vypadku nia mohuć isnavać pa-za abjektam."
+}, {
+  "id" : 2022032005,
+  "originalValue" : "Software design pattern",
+  "information" : "Šabliony prahramiravańnia, patterny prahramiravańnia - ahuĺnyja padychody dlia rašeńnia časta sustrakajemych zadač, jakija mohuć vykarystoŭvacca ŭ roznych sistemach. Nie źiaŭliajucca kankretnymi prykladami kodu, a apisvajuć alharytm rašeńnia typovaj zadačy."
 } ]

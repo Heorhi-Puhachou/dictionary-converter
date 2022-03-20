@@ -406,6 +406,10 @@
     "dictionaryId" : "b",
     "termId" : 97
   } ],
+  "CJK Symbols and Punctuation" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032001
+  } ],
   "CSS" : [ {
     "dictionaryId" : "b",
     "termId" : 138
@@ -1337,6 +1341,10 @@
     "dictionaryId" : "a",
     "termId" : 774
   } ],
+  "Object-oriented programming, OOP" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032004
+  } ],
   "Oceania" : [ {
     "dictionaryId" : "a",
     "termId" : 752
@@ -1601,6 +1609,10 @@
     "dictionaryId" : "b",
     "termId" : 503
   } ],
+  "Reverse engineering" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032003
+  } ],
   "Romania" : [ {
     "dictionaryId" : "a",
     "termId" : 935
@@ -1760,6 +1772,10 @@
   "Software Updater" : [ {
     "dictionaryId" : "a",
     "termId" : 1031
+  } ],
+  "Software design pattern" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032005
   } ],
   "Solomon Islands" : [ {
     "dictionaryId" : "a",
@@ -5145,6 +5161,10 @@
   "missing" : [ {
     "dictionaryId" : "a",
     "termId" : 681
+  } ],
+  "mkmk, Mark to Mark Positioning" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032002
   } ],
   "mobile device" : [ {
     "dictionaryId" : "b",
