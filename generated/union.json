@@ -7656,6 +7656,10 @@
     "dictionaryId" : "b",
     "termId" : 699
   } ],
+  "vCard, VCF, Virtual Contact File" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032902
+  } ],
   "valid" : [ {
     "dictionaryId" : "a",
     "termId" : 1206

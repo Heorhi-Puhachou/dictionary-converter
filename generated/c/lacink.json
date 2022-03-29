@@ -66,4 +66,8 @@
   "id" : 2022032901,
   "originalValue" : "nonce",
   "information" : "adnarazovaja spasylka - zvyčajna vykarystoŭvajecca dlia vykanańnia niejkaj apieracyi, patrebnaj u dadzieny momant. Najboĺš raspaŭsiudzana ŭ kantekscie praviadzieńnia placiazoŭ, tamu dlia takich vypadkaŭ moza mieć miesca boĺš razhornuty pieraklad - adnarazovaja spasylka dlia aplaty."
+}, {
+  "id" : 2022032902,
+  "originalValue" : "vCard, VCF, Virtual Contact File",
+  "information" : "vCard, VCF, virtuaĺny fajl kantaktu, eliektronnaja vizitoŭka - standart dlia farmatu fajla eliektronnaj vizitoŭki. vCard moza być prymacavana da lista, daslanaha z eliektronnac pošty, MMS ci QR-koda. Moza źmiaščać u sabie imia, adkras, numar teliefonu, eliektronnuju poštu j h.d."
 } ]
