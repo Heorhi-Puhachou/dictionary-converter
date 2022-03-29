@@ -163,6 +163,14 @@
     "dictionaryId" : "a",
     "termId" : 78
   } ],
+  "Authentication" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032105
+  } ],
+  "Authorization" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032106
+  } ],
   "Azerbaijan" : [ {
     "dictionaryId" : "a",
     "termId" : 87
@@ -922,6 +930,10 @@
     "dictionaryId" : "a",
     "termId" : 511
   } ],
+  "Identification" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032104
+  } ],
   "Import Assistant" : [ {
     "dictionaryId" : "b",
     "termId" : 308
@@ -1232,6 +1244,10 @@
   "Mozambique" : [ {
     "dictionaryId" : "a",
     "termId" : 703
+  } ],
+  "Multi-Factor Authentication (MFA)" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032301
   } ],
   "My files" : [ {
     "dictionaryId" : "b",
@@ -1656,6 +1672,18 @@
   "SRP verifier" : [ {
     "dictionaryId" : "b",
     "termId" : 598
+  } ],
+  "SSH (Secure Shel)" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032101
+  } ],
+  "SSH Key Authentication" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032103
+  } ],
+  "SSH keys" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032102
   } ],
   "Safari" : [ {
     "dictionaryId" : "b",
@@ -5351,6 +5379,10 @@
   "non-private" : [ {
     "dictionaryId" : "b",
     "termId" : 392
+  } ],
+  "nonce" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022032901
   } ],
   "none" : [ {
     "dictionaryId" : "a",

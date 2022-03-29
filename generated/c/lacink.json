@@ -34,4 +34,36 @@
   "id" : 2022032005,
   "originalValue" : "Software design pattern",
   "information" : "Šabliony prahramiravańnia, patterny prahramiravańnia - ahuĺnyja padychody dlia rašeńnia časta sustrakajemych zadač, jakija mohuć vykarystoŭvacca ŭ roznych sistemach. Nie źiaŭliajucca kankretnymi prykladami kodu, a apisvajuć alharytm rašeńnia typovaj zadačy."
+}, {
+  "id" : 2022032101,
+  "originalValue" : "SSH (Secure Shel)",
+  "information" : "SSH (Secure Shel) - zašyfravany pratakol, jaki šyroka vykarystoŭvajecca dlia uzajemadziejańnia j udalionnaha kiravańnia siervierami."
+}, {
+  "id" : 2022032102,
+  "originalValue" : "SSH keys",
+  "information" : "SSH-kliučy - para z adkrytaha j zakrytaha kliučoŭ. Šyroka vykarystoŭvajucca dlia aŭtaryzacyi."
+}, {
+  "id" : 2022032103,
+  "originalValue" : "SSH Key Authentication",
+  "information" : "Aŭtentyfkacyja z dapamohaj kliučoŭ SSH - boĺš biaspiečnaja aĺternatyva kliasyčnaj aŭtentyfikacyi praz imia j paroĺ z vykarystańniem kliučoŭ SSH. Na serviery raźmiaščajecca adkryty kliuč, z dapamohaj jakoha zašyfroŭvajecca paviedamlieńnie j dasylajecca klijentu. Klijent z dapamohaj zakrytaha kliuča moza rasšyfravać paviedamlieńnie j daslać servieru adkaz. U hetaj schiemie haloŭnaje kab nichto nie zavalodaŭ zakrytym kliučom klijenta, inakš jon zmoza prajści aŭtentyfikacyju zamiest jaho."
+}, {
+  "id" : 2022032104,
+  "originalValue" : "Identification",
+  "information" : "Identyfikacyja - praces raspaznavańnia karystaĺnika pa jaho identyfikataru. Zvyčajna papiaredničaje aŭtentyfikacyi."
+}, {
+  "id" : 2022032105,
+  "originalValue" : "Authentication",
+  "information" : "Aŭtentyfkacyja - praces pravierki taho, što karystaĺnik źiaŭliajecca tym, za kaho siabie vydaje. Napryklad praz uvod paroliu dlia zadadzienaha lahina."
+}, {
+  "id" : 2022032106,
+  "originalValue" : "Authorization",
+  "information" : "Aŭtaryzacyja - praces pradstaŭlieńnia karystaĺniku peŭnych pravoŭ u sistemie. Dlia niekatorych sistem nieabchodna prajści aŭtentyfikacyju dlia atrymańnia pravoŭ. Niekatoryja sistemy dazvaliajuć liubym karystaĺnikam vykonvać peŭnyja dziejańni (to bok biez aŭtentyfikacyi)."
+}, {
+  "id" : 2022032301,
+  "originalValue" : "Multi-Factor Authentication (MFA)",
+  "information" : "Šmatfaktarnaja aŭtentyfikacyja - praces pravierki taho, što karystaĺnik źiaŭliajecca tym, za kaho siabie vydaje praz boĺš čym adzin faktar. Napryklad praz dasylańnie kodu ŭ SMS i uvod paroliu dlia zadadzienaha lahina."
+}, {
+  "id" : 2022032901,
+  "originalValue" : "nonce",
+  "information" : "adnarazovaja spasylka - zvyčajna vykarystoŭvajecca dlia vykanańnia niejkaj apieracyi, patrebnaj u dadzieny momant. Najboĺš raspaŭsiudzana ŭ kantekscie praviadzieńnia placiazoŭ, tamu dlia takich vypadkaŭ moza mieć miesca boĺš razhornuty pieraklad - adnarazovaja spasylka dlia aplaty."
 } ]
