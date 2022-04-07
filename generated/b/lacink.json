@@ -77,7 +77,7 @@
 }, {
   "id" : 20,
   "originalValue" : "alias",
-  "information" : "nullsieŭdanim\n\nAn alternative email address for receiving email in addition to a users primary address. At Proton, an alias is created by adding \"+\" and an alias term to the end of the username and before the @ symbol.  \n\nMore info: https://protonmail.com/support/knowledge-base/addresses-and-aliases/#protonmail-aliases\n\nNOUN"
+  "information" : "psieŭdanim\n\nAn alternative email address for receiving email in addition to a users primary address. At Proton, an alias is created by adding \"+\" and an alias term to the end of the username and before the @ symbol.  \n\nMore info: https://protonmail.com/support/knowledge-base/addresses-and-aliases/#protonmail-aliases\n\nNOUN"
 }, {
   "id" : 21,
   "originalValue" : "All Mail",
@@ -1557,7 +1557,7 @@
 }, {
   "id" : 390,
   "originalValue" : "nickname",
-  "information" : "nullsieŭdanim\n\nAn informal name that is used usually affectionately or familiarly.\n\nNOUN"
+  "information" : "psieŭdanim\n\nAn informal name that is used usually affectionately or familiarly.\n\nNOUN"
 }, {
   "id" : 391,
   "originalValue" : "no-logs policy",
@@ -2429,7 +2429,7 @@
 }, {
   "id" : 608,
   "originalValue" : "streaming",
-  "information" : "transliacyja\n\na method of transmitting or receiving data (especially video and audio material) over a computer network as a steady, continuous flow, allowing playback to start while the rest of the data is still being received.\n\nNOUN"
+  "information" : "trańśliacyja\n\na method of transmitting or receiving data (especially video and audio material) over a computer network as a steady, continuous flow, allowing playback to start while the rest of the data is still being received.\n\nNOUN"
 }, {
   "id" : 609,
   "originalValue" : "string",

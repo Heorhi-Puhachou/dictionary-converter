@@ -121,7 +121,7 @@
 }, {
   "id" : 31,
   "originalValue" : "alert",
-  "information" : "абьвестка; сыгнал\n\nКамэнтар:\nSamsung, Google, MS"
+  "information" : "абвестка; сыгнал\n\nКамэнтар:\nSamsung, Google, MS"
 }, {
   "id" : 32,
   "originalValue" : "Algeria",
@@ -281,7 +281,7 @@
 }, {
   "id" : 71,
   "originalValue" : "at least",
-  "information" : "прынамьсі\n\nКамэнтар:\nу гэтым сэньсе коскамі не адасабляецца"
+  "information" : "прынамсі\n\nКамэнтар:\nу гэтым сэньсе коскамі не адасабляецца"
 }, {
   "id" : 72,
   "originalValue" : "attach",
@@ -877,7 +877,7 @@
 }, {
   "id" : 220,
   "originalValue" : "clipboard",
-  "information" : "буфер абьмену\n\nНяправільны пераклад:\nкішэня\n\nКамэнтар:\nMS, Google, Samsung"
+  "information" : "буфер абмену\n\nНяправільны пераклад:\nкішэня\n\nКамэнтар:\nMS, Google, Samsung"
 }, {
   "id" : 221,
   "originalValue" : "close",
@@ -897,7 +897,7 @@
 }, {
   "id" : 225,
   "originalValue" : "Colombia",
-  "information" : "Калумьбія\n\nКамэнтар:\nCLDR"
+  "information" : "Калумбія\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 226,
   "originalValue" : "color",
@@ -1133,7 +1133,7 @@
 }, {
   "id" : 284,
   "originalValue" : "decode",
-  "information" : "! раскадзіраваць(так пасляоўней), раскадаваць\n\nКамэнтар:\nSamsung — раскадаваць"
+  "information" : "! раскадзіраваць(так пасьляоўней), раскадаваць\n\nКамэнтар:\nSamsung — раскадаваць"
 }, {
   "id" : 285,
   "originalValue" : "decompress",
@@ -1685,7 +1685,7 @@
 }, {
   "id" : 422,
   "originalValue" : "Finland",
-  "information" : "Фінляндыя\n\nКамэнтар:\nCLDR"
+  "information" : "Фіньляндыя\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 423,
   "originalValue" : "firmware",
@@ -1765,7 +1765,7 @@
 }, {
   "id" : 442,
   "originalValue" : "Gambia",
-  "information" : "Гамьбія\n\nКамэнтар:\nCLDR"
+  "information" : "Гамбія\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 443,
   "originalValue" : "game",
@@ -1977,7 +1977,7 @@
 }, {
   "id" : 495,
   "originalValue" : "home phone",
-  "information" : "дамашні тэлефон\n\nНяправільны пераклад:\nхатні тэлефон\n\nКамэнтар:\nпасля доўгіх абьмеркаваньняў спыніліся на тэрміне \"дамашні тэлефон\""
+  "information" : "дамашні тэлефон\n\nНяправільны пераклад:\nхатні тэлефон\n\nКамэнтар:\nпасьля доўгіх абмеркаваньняў спыніліся на тэрміне \"дамашні тэлефон\""
 }, {
   "id" : 496,
   "originalValue" : "homepage",
@@ -2629,11 +2629,11 @@
 }, {
   "id" : 658,
   "originalValue" : "MB",
-  "information" : "MB — МБ; мегабайт; Mb — Мьбіт; мегабіт\n\nКамэнтар:\nCLDR"
+  "information" : "MB — МБ; мегабайт; Mb — Мбіт; мегабіт\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 659,
   "originalValue" : "Mbits",
-  "information" : "Мьбіт\n\nКамэнтар:\nCLDR"
+  "information" : "Мбіт\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 660,
   "originalValue" : "MByte",
@@ -2673,7 +2673,7 @@
 }, {
   "id" : 669,
   "originalValue" : "merge",
-  "information" : "аб'яднаць; зліцьцё; merge(Git)"
+  "information" : "аб'яднаць; зьліцьцё; merge(Git)"
 }, {
   "id" : 670,
   "originalValue" : "message",
@@ -2809,7 +2809,7 @@
 }, {
   "id" : 703,
   "originalValue" : "Mozambique",
-  "information" : "Мазамьбік\n\nКамэнтар:\nCLDR"
+  "information" : "Мазамбік\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 704,
   "originalValue" : "multimedia",
@@ -2993,7 +2993,7 @@
 }, {
   "id" : 749,
   "originalValue" : "notification",
-  "information" : "апавяшчэньне\n\nНяправільны пераклад:\nабьвестка"
+  "information" : "апавяшчэньне\n\nНяправільны пераклад:\nабвестка"
 }, {
   "id" : 750,
   "originalValue" : "number",
@@ -3061,7 +3061,7 @@
 }, {
   "id" : 766,
   "originalValue" : "open",
-  "information" : "адкрыць (document, file, window, tab etc.)\n\nКамэнтар:\nАсобныя выпадкі кшталту «адгарнуць электронную кнігу на 20-й старонцы» прапаноўваю выносіць на абьмеркаваньне ў Telegram"
+  "information" : "адкрыць (document, file, window, tab etc.)\n\nКамэнтар:\nАсобныя выпадкі кшталту «адгарнуць электронную кнігу на 20-й старонцы» прапаноўваю выносіць на абмеркаваньне ў Telegram"
 }, {
   "id" : 767,
   "originalValue" : "open with",
@@ -3613,7 +3613,7 @@
 }, {
   "id" : 904,
   "originalValue" : "remind",
-  "information" : "напамінаць; нагадаць\n\nКамэнтар:\nMS — напомьніць, нагадаць"
+  "information" : "напамінаць; нагадаць\n\nКамэнтар:\nMS — напомніць, нагадаць"
 }, {
   "id" : 905,
   "originalValue" : "reminder",
@@ -3709,11 +3709,11 @@
 }, {
   "id" : 928,
   "originalValue" : "restrict",
-  "information" : "абьмежаваць\n\nКамэнтар:\nSamsung"
+  "information" : "абмежаваць\n\nКамэнтар:\nSamsung"
 }, {
   "id" : 929,
   "originalValue" : "restricted",
-  "information" : "абьмежавана; абьмежаваны\n\nКамэнтар:\nSamsung"
+  "information" : "абмежавана; абмежаваны\n\nКамэнтар:\nSamsung"
 }, {
   "id" : 930,
   "originalValue" : "result",
@@ -4277,11 +4277,11 @@
 }, {
   "id" : 1070,
   "originalValue" : "subtitle",
-  "information" : "субьцітр\n\nКамэнтар:\nGoogle, Samsung"
+  "information" : "субцітр\n\nКамэнтар:\nGoogle, Samsung"
 }, {
   "id" : 1071,
   "originalValue" : "subtitles",
-  "information" : "субьцітры\n\nКамэнтар:\nMS, Google"
+  "information" : "субцітры\n\nКамэнтар:\nMS, Google"
 }, {
   "id" : 1072,
   "originalValue" : "successfully",
@@ -5113,7 +5113,7 @@
 }, {
   "id" : 1279,
   "originalValue" : "Zambia",
-  "information" : "Замьбія\n\nКамэнтар:\nCLDR"
+  "information" : "Замбія\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 1280,
   "originalValue" : "Zimbabwe",

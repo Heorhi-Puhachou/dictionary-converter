@@ -1133,7 +1133,7 @@
 }, {
   "id" : 284,
   "originalValue" : "decode",
-  "information" : "! raskadziravać(tak pasliaoŭniej), raskadavać\n\nKamentar:\nSamsung — raskadavać"
+  "information" : "! raskadziravać(tak paśliaoŭniej), raskadavać\n\nKamentar:\nSamsung — raskadavać"
 }, {
   "id" : 285,
   "originalValue" : "decompress",
@@ -1685,7 +1685,7 @@
 }, {
   "id" : 422,
   "originalValue" : "Finland",
-  "information" : "Finliandyja\n\nKamentar:\nCLDR"
+  "information" : "Fińliandyja\n\nKamentar:\nCLDR"
 }, {
   "id" : 423,
   "originalValue" : "firmware",
@@ -1977,7 +1977,7 @@
 }, {
   "id" : 495,
   "originalValue" : "home phone",
-  "information" : "damašni teliefon\n\nNiapraviĺny pieraklad:\nchatni teliefon\n\nKamentar:\npaslia doŭhich abmierkavańniaŭ spynilisia na terminie \"damašni teliefon\""
+  "information" : "damašni teliefon\n\nNiapraviĺny pieraklad:\nchatni teliefon\n\nKamentar:\npaślia doŭhich abmierkavańniaŭ spynilisia na terminie \"damašni teliefon\""
 }, {
   "id" : 496,
   "originalValue" : "homepage",
@@ -2629,11 +2629,11 @@
 }, {
   "id" : 658,
   "originalValue" : "MB",
-  "information" : "MB — MB; miehabajt; Mb — Nullbit; miehabit\n\nKamentar:\nCLDR"
+  "information" : "MB — MB; miehabajt; Mb — Mbit; miehabit\n\nKamentar:\nCLDR"
 }, {
   "id" : 659,
   "originalValue" : "Mbits",
-  "information" : "Nullbit\n\nKamentar:\nCLDR"
+  "information" : "Mbit\n\nKamentar:\nCLDR"
 }, {
   "id" : 660,
   "originalValue" : "MByte",
@@ -2673,7 +2673,7 @@
 }, {
   "id" : 669,
   "originalValue" : "merge",
-  "information" : "abjadnać; zlićcio; merge(Git)"
+  "information" : "abjadnać; źlićcio; merge(Git)"
 }, {
   "id" : 670,
   "originalValue" : "message",
