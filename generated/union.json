@@ -6397,6 +6397,10 @@
     "dictionaryId" : "b",
     "termId" : 523
   } ],
+  "revoke session" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022040701
+  } ],
   "revoke sessions" : [ {
     "dictionaryId" : "b",
     "termId" : 524

@@ -70,4 +70,8 @@
   "id" : 2022032902,
   "originalValue" : "vCard, VCF, Virtual Contact File",
   "information" : "vCard, VCF, virtuaĺny fajl kantaktu, eliektronnaja vizitoŭka - standart dlia farmatu fajla eliektronnaj vizitoŭki. vCard moza być prymacavana da lista, daslanaha z eliektronnac pošty, MMS ci QR-koda. Moza źmiaščać u sabie imia, adkras, numar teliefonu, eliektronnuju poštu j h.d."
+}, {
+  "id" : 2022040701,
+  "originalValue" : "revoke session",
+  "information" : "skončyć siesiju - praces u vyniku jakoha dlia admianiajecca aŭtaryzacyja karystaĺnika. Moza adbyvacca jak dlia prylady, z jakoj niepasredna ŭzajemadziejničaje karystaĺnik, tak i dlia addalienych prylad. Dlia pierakladaŭ sustrakajucca varyjanty «zakončyć siesiju» abo «zakryć siesiju». Varyjant «adklikać siesiju» źiaŭliajecca sumnieŭnym."
 } ]
