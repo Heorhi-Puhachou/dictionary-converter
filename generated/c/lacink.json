@@ -74,4 +74,8 @@
   "id" : 2022040701,
   "originalValue" : "revoke session",
   "information" : "skončyć siesiju - pravieści admienu aŭtaryzacyi karystaĺnika. Mozna zrabić dlia prylady, ź jakoj niepasredna ŭzajemadziejničaje karystaĺnik, abo dlia addalienych prylad.\n\nDlia pierakladaŭ sustrakajucca varyjanty «zakončyć siesiju» abo «zakryć siesiju». Varyjant «adklikać siesiju» źiaŭliajecca sumnieŭnym."
+}, {
+  "id" : 2022040702,
+  "originalValue" : "referral link",
+  "information" : "zaprašaĺnaja spasylka - spiecyjaĺny vid spasylki, jakuju adzin karystaĺnik moza daslać inšamu čalavieku dlia rehistracyi ŭ peŭnaj prahramie/sistemie, a paślia, jak pravila, atrymać bonusy za rehistracyju pa svajoj spasylcy."
 } ]
