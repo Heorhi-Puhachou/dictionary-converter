@@ -181,7 +181,7 @@
 }, {
   "id" : 46,
   "originalValue" : "Anguilla",
-  "information" : "Ангілья\n\nКамэнтар:\nCLDR"
+  "information" : "Ангільля\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 47,
   "originalValue" : "answer",
@@ -781,7 +781,7 @@
 }, {
   "id" : 196,
   "originalValue" : "Ceuta and Melilla",
-  "information" : "Сеута й Мелілья\n\nКамэнтар:\nCLDR"
+  "information" : "Сеута й Мелільля\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 197,
   "originalValue" : "Chad",
@@ -841,11 +841,11 @@
 }, {
   "id" : 211,
   "originalValue" : "Chinese (simplified)",
-  "information" : "Кітайская (спрошчаныя ерогліфы)\n\nКамэнтар:\nCLDR"
+  "information" : "Кітайская (спрошчаныя герогліфы)\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 212,
   "originalValue" : "Chinese (traditional)",
-  "information" : "Кітайская (традыцыйныя ерогліфы)\n\nКамэнтар:\nCLDR"
+  "information" : "Кітайская (традыцыйныя герогліфы)\n\nКамэнтар:\nCLDR"
 }, {
   "id" : 213,
   "originalValue" : "Chinese, Cantonese",
@@ -2665,7 +2665,7 @@
 }, {
   "id" : 667,
   "originalValue" : "Melilla",
-  "information" : "Мелілья"
+  "information" : "Мелільля"
 }, {
   "id" : 668,
   "originalValue" : "menu",

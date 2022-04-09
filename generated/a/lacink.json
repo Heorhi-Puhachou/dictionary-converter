@@ -181,7 +181,7 @@
 }, {
   "id" : 46,
   "originalValue" : "Anguilla",
-  "information" : "Anhiĺia\n\nKamentar:\nCLDR"
+  "information" : "Anhiĺlia\n\nKamentar:\nCLDR"
 }, {
   "id" : 47,
   "originalValue" : "answer",
@@ -781,7 +781,7 @@
 }, {
   "id" : 196,
   "originalValue" : "Ceuta and Melilla",
-  "information" : "Sieuta j Mieliĺia\n\nKamentar:\nCLDR"
+  "information" : "Sieuta j Mieliĺlia\n\nKamentar:\nCLDR"
 }, {
   "id" : 197,
   "originalValue" : "Chad",
@@ -841,11 +841,11 @@
 }, {
   "id" : 211,
   "originalValue" : "Chinese (simplified)",
-  "information" : "Kitajskaja (sproščanyja jerohlify)\n\nKamentar:\nCLDR"
+  "information" : "Kitajskaja (sproščanyja hierohlify)\n\nKamentar:\nCLDR"
 }, {
   "id" : 212,
   "originalValue" : "Chinese (traditional)",
-  "information" : "Kitajskaja (tradycyjnyja jerohlify)\n\nKamentar:\nCLDR"
+  "information" : "Kitajskaja (tradycyjnyja hierohlify)\n\nKamentar:\nCLDR"
 }, {
   "id" : 213,
   "originalValue" : "Chinese, Cantonese",
@@ -2665,7 +2665,7 @@
 }, {
   "id" : 667,
   "originalValue" : "Melilla",
-  "information" : "Mieliĺia"
+  "information" : "Mieliĺlia"
 }, {
   "id" : 668,
   "originalValue" : "menu",
