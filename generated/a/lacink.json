@@ -1269,7 +1269,7 @@
 }, {
   "id" : 318,
   "originalValue" : "discard",
-  "information" : "skasavać; admovicca ad\n\nNiapraviĺny pieraklad:\nadkinuć\n\nKamentar:\nSamsung — skasavać\nGoogle — skasavać\nMS — skasavać\n\"skasavać\"(časta pobač z cancel atrymlivajem situacyju \"skasavać/skasavać\", ci \"Skasavać? skasavać/OK\")\n"
+  "information" : "skasavać; admovicca ad\n\nNiapraviĺny pieraklad:\nadkinuć\n\nKamentar:\nSamsung — skasavać\nGoogle — skasavać\nMS — skasavać\n\"skasavać\"(časta pobač z cancel atrymlivajem sytuacyju \"skasavać/skasavać\", ci \"Skasavać? skasavać/OK\")\n"
 }, {
   "id" : 319,
   "originalValue" : "discard changes",
@@ -1549,7 +1549,7 @@
 }, {
   "id" : 388,
   "originalValue" : "exception",
-  "information" : "vykliučeńnie; vykliučnaja situacyja"
+  "information" : "vykliučeńnie; vykliučnaja sytuacyja"
 }, {
   "id" : 389,
   "originalValue" : "execution",

@@ -61,7 +61,7 @@
 }, {
   "id" : 2022032301,
   "originalValue" : "Multi-Factor Authentication (MFA)",
-  "information" : "Šmatfaktarnaja aŭtentyfikacyja - praces pravierki taho, što karystaĺnik źiaŭliajecca tym, za kaho siabie vydaje praz boĺš čym adzin faktar. Napryklad praz dasylańnie kodu ŭ SMS i uvod paroliu dlia zadadzienaha lahina."
+  "information" : "Šmatfaktarnaja aŭtentyfikacyja - praces pravierki taho, što karystaĺnik źiaŭliajecca tym, za kaho siabie vydaje praz boĺš čym adzin faktar. \n\nAsnoŭnyja hrupy faktaraŭ:\n1) Niešta, što čalaviek viedaje (paroĺ, asabistaja danyja j h.d.)\n2) Niešta, što čalaviek maje (inšy akaŭnt, prylada j h.d.)\n3) Niešta, što źiaŭliajecca častkaj čalavieka (adbitak paĺca, skan sietčatki hlaza j h.d.)"
 }, {
   "id" : 2022032901,
   "originalValue" : "nonce",
@@ -69,7 +69,7 @@
 }, {
   "id" : 2022032902,
   "originalValue" : "vCard, VCF, Virtual Contact File",
-  "information" : "vCard, VCF, virtuaĺny fajl kantaktu, eliektronnaja vizitoŭka - standart dlia farmatu fajla eliektronnaj vizitoŭki. vCard moza być prymacavana da lista, daslanaha z eliektronnac pošty, MMS ci QR-koda. Moza źmiaščać u sabie imia, adkras, numar teliefonu, eliektronnuju poštu j h.d."
+  "information" : "vCard, VCF, virtuaĺny fajl kantaktu, eliektronnaja vizitoŭka - standart dlia farmatu fajla eliektronnaj vizitoŭki. vCard moza być prymacavana da lista, daslanaha z eliektronnaj pošty, MMS ci QR-koda. Moza źmiaščać u sabie imia, adras, numar teliefonu j h.d."
 }, {
   "id" : 2022040701,
   "originalValue" : "revoke session",
@@ -77,9 +77,13 @@
 }, {
   "id" : 2022040702,
   "originalValue" : "referral link",
-  "information" : "zaprašaĺnaja spasylka - spiecyjaĺny vid spasylki, jakuju adzin karystaĺnik moza daslać inšamu čalavieku dlia rehistracyi ŭ peŭnaj prahramie/sistemie, a paślia, jak pravila, atrymać bonusy za rehistracyju pa svajoj spasylcy."
+  "information" : "partniorskaja spasylka - spiecyjaĺny vid spasylki, jakuju adzin karystaĺnik moza daslać inšamu čalavieku dlia rehistracyi ŭ peŭnaj prahramie/sistemie, a paślia, jak pravila, atrymać bonusy za rehistracyju pa svajoj spasylcy."
 }, {
   "id" : 2022040901,
   "originalValue" : "referral program",
-  "information" : "prahrama zaprašeńniaŭ - aktyŭnaść pry jakoj adzin čalaviek sprabuje spryjać dalučeńniu inšych liudziej da jakoj-niebudź prahramy ci kampanii. Zvyčajna za koznaha dalučanaha čalavieka pradstaŭliajucca hrošy abo inšyja bonusy."
+  "information" : "partniorskaja prahrama - aktyŭnaść pry jakoj adzin čalaviek sprabuje spryjać dalučeńniu inšych liudziej da jakoj-niebudź prahramy ci kampanii. Zvyčajna za koznaha dalučanaha čalavieka pradstaŭliajucca hrošy abo inšyja bonusy."
+}, {
+  "id" : 2022042301,
+  "originalValue" : "invite link",
+  "information" : "zaprašaĺnaja spasylka - spiecyjaĺny vid spasylki, jakuju adzin karystaĺnik moza daslać inšamu čalavieku dlia rehistracyi ŭ peŭnaj, jak pravila niedastupnaj dlia šyrokaha kola, prahramie/sistemie. U adroźnieńnie ad partniorskaj spasylki bonusy za zaprošanych liudziej nie naličvajucca. Moza mieć miesca adkaznaść za nieprymaĺnyja pavodziny zaprošanych karystaĺnikaŭ."
 } ]
