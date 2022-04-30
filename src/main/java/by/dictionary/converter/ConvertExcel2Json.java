@@ -25,7 +25,6 @@ public class ConvertExcel2Json {
                     links.add(newDoubleId);
                     union.put(record.getOriginalValue(), links);
                 } else {
-                    System.out.println(record.getOriginalValue());
                     union.get(record.getOriginalValue()).add(newDoubleId);
                 }
             });

@@ -769,7 +769,7 @@
 }, {
   "id" : 193,
   "originalValue" : "draft",
-  "information" : "склясьці\n\nTo compose an email message.\n\nVERB"
+  "information" : "скласьці\n\nTo compose an email message.\n\nVERB"
 }, {
   "id" : 194,
   "originalValue" : "Drafts",
@@ -1085,7 +1085,7 @@
 }, {
   "id" : 272,
   "originalValue" : "GDPR",
-  "information" : "Агульны рэгламент ЕС па абароне даных (GDPR)\n\nGeneral Data Protection Regulation\n\nNOUN"
+  "information" : "Агульны рэглямэнт ЕС па абароне даных (GDPR)\n\nGeneral Data Protection Regulation\n\nNOUN"
 }, {
   "id" : 273,
   "originalValue" : "GDPR-compliant",
@@ -2265,7 +2265,7 @@
 }, {
   "id" : 567,
   "originalValue" : "shard",
-  "information" : "сегмент\n\na partition of data, usually of a database or search engine\n\nNOUN"
+  "information" : "сэгмэнт\n\na partition of data, usually of a database or search engine\n\nNOUN"
 }, {
   "id" : 568,
   "originalValue" : "share",
@@ -2345,7 +2345,7 @@
 }, {
   "id" : 587,
   "originalValue" : "snooze",
-  "information" : "адклясьці\n\nAn option that sets an alarm or other serivce to repeat after a short interval\n\nVERB"
+  "information" : "адкласьці\n\nAn option that sets an alarm or other serivce to repeat after a short interval\n\nVERB"
 }, {
   "id" : 588,
   "originalValue" : "software",

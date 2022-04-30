@@ -1117,7 +1117,7 @@
 }, {
   "id" : 280,
   "originalValue" : "day classic",
-  "information" : " Kliasičnaja dzionnaja (kolieravaja tema)"
+  "information" : " Kliasyčnaja dzionnaja (kolieravaja tema)"
 }, {
   "id" : 281,
   "originalValue" : "debug",
@@ -2237,7 +2237,7 @@
 }, {
   "id" : 560,
   "originalValue" : "item",
-  "information" : "eliemient\n\nKamentar:\nGoogle, Samsung, MS"
+  "information" : "eliement\n\nKamentar:\nGoogle, Samsung, MS"
 }, {
   "id" : 561,
   "originalValue" : "Jamaica",
@@ -3257,7 +3257,7 @@
 }, {
   "id" : 815,
   "originalValue" : "picker",
-  "information" : "vybar; srodak vybaru (eliemient interfiejsa)\n\nKamentar:\nvybar — MS, Google\nsrodak vybaru — MS"
+  "information" : "vybar; srodak vybaru (eliement interfiejsa)\n\nKamentar:\nvybar — MS, Google\nsrodak vybaru — MS"
 }, {
   "id" : 816,
   "originalValue" : "picker",
@@ -4365,7 +4365,7 @@
 }, {
   "id" : 1092,
   "originalValue" : "tab",
-  "information" : "ukladka (eliemient interfiejsa); tabuliacyja (indent)\n\nNiapraviĺny pieraklad:\nkartka"
+  "information" : "ukladka (eliement interfiejsa); tabuliacyja (indent)\n\nNiapraviĺny pieraklad:\nkartka"
 }, {
   "id" : 1093,
   "originalValue" : "table",
@@ -4373,7 +4373,7 @@
 }, {
   "id" : 1094,
   "originalValue" : "tag",
-  "information" : "cetlik (kliučavoje slova); teh (eliemient raźmietki)\n\nKamentar:\ncetlik — Samsung"
+  "information" : "cetlik (kliučavoje slova); teh (eliement raźmietki)\n\nKamentar:\ncetlik — Samsung"
 }, {
   "id" : 1095,
   "originalValue" : "Taiwan",

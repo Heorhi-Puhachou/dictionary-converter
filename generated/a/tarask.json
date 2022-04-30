@@ -1117,7 +1117,7 @@
 }, {
   "id" : 280,
   "originalValue" : "day classic",
-  "information" : " Клясічная дзённая (колеравая тэма)"
+  "information" : " Клясычная дзённая (колеравая тэма)"
 }, {
   "id" : 281,
   "originalValue" : "debug",
@@ -2237,7 +2237,7 @@
 }, {
   "id" : 560,
   "originalValue" : "item",
-  "information" : "элемент\n\nКамэнтар:\nGoogle, Samsung, MS"
+  "information" : "элемэнт\n\nКамэнтар:\nGoogle, Samsung, MS"
 }, {
   "id" : 561,
   "originalValue" : "Jamaica",
@@ -3257,7 +3257,7 @@
 }, {
   "id" : 815,
   "originalValue" : "picker",
-  "information" : "выбар; сродак выбару (элемент інтэрфейса)\n\nКамэнтар:\nвыбар — MS, Google\nсродак выбару — MS"
+  "information" : "выбар; сродак выбару (элемэнт інтэрфейса)\n\nКамэнтар:\nвыбар — MS, Google\nсродак выбару — MS"
 }, {
   "id" : 816,
   "originalValue" : "picker",
@@ -4365,7 +4365,7 @@
 }, {
   "id" : 1092,
   "originalValue" : "tab",
-  "information" : "укладка (элемент інтэрфейса); табуляцыя (indent)\n\nНяправільны пераклад:\nкартка"
+  "information" : "укладка (элемэнт інтэрфейса); табуляцыя (indent)\n\nНяправільны пераклад:\nкартка"
 }, {
   "id" : 1093,
   "originalValue" : "table",
@@ -4373,7 +4373,7 @@
 }, {
   "id" : 1094,
   "originalValue" : "tag",
-  "information" : "цэтлік (ключавое слова); тэг (элемент разьметкі)\n\nКамэнтар:\nцэтлік — Samsung"
+  "information" : "цэтлік (ключавое слова); тэг (элемэнт разьметкі)\n\nКамэнтар:\nцэтлік — Samsung"
 }, {
   "id" : 1095,
   "originalValue" : "Taiwan",
