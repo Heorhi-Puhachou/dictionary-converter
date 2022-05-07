@@ -7387,6 +7387,10 @@
     "dictionaryId" : "b",
     "termId" : 653
   } ],
+  "transaction" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022050701
+  } ],
   "trash" : [ {
     "dictionaryId" : "a",
     "termId" : 1144

@@ -61,7 +61,7 @@
 }, {
   "id" : 2022032301,
   "originalValue" : "Multi-Factor Authentication (MFA)",
-  "information" : "Šmatfaktarnaja aŭtentyfikacyja - praces pravierki taho, što karystaĺnik źiaŭliajecca tym, za kaho siabie vydaje praz boĺš čym adzin faktar. \n\nAsnoŭnyja hrupy faktaraŭ:\n1) Niešta, što čalaviek viedaje (paroĺ, asabistaja danyja j h.d.)\n2) Niešta, što čalaviek maje (inšy akaŭnt, prylada j h.d.)\n3) Niešta, što źiaŭliajecca častkaj čalavieka (adbitak paĺca, skan sietčatki hlaza j h.d.)"
+  "information" : "Šmatfaktarnaja aŭtentyfikacyja - praces pravierki taho, što karystaĺnik źiaŭliajecca tym, za kaho siabie vydaje praz boĺš čym adzin faktar.\n\nAsnoŭnyja hrupy faktaraŭ:\n1) Niešta, što čalaviek viedaje (paroĺ, asabistaja danyja j h.d.)\n2) Niešta, što čalaviek maje (inšy akaŭnt, prylada j h.d.)\n3) Niešta, što źiaŭliajecca častkaj čalavieka (adbitak paĺca, skan siatčatki voka j h.d.)"
 }, {
   "id" : 2022032901,
   "originalValue" : "nonce",
@@ -77,7 +77,7 @@
 }, {
   "id" : 2022040702,
   "originalValue" : "referral link",
-  "information" : "partniorskaja spasylka - spiecyjaĺny vid spasylki, jakuju adzin karystaĺnik moza daslać inšamu čalavieku dlia rehistracyi ŭ peŭnaj prahramie/sistemie, a paślia, jak pravila, atrymać bonusy za rehistracyju pa svajoj spasylcy."
+  "information" : "partniorskaja spasylka - specyjaĺny vid spasylki, jakuju adzin karystaĺnik moza daslać inšamu čalavieku dlia rehistracyi ŭ peŭnaj prahramie/systemie, a paślia, jak pravila, atrymać bonusy za rehistracyju pa svajoj spasylcy."
 }, {
   "id" : 2022040901,
   "originalValue" : "referral program",
@@ -86,4 +86,8 @@
   "id" : 2022042301,
   "originalValue" : "invite link",
   "information" : "zaprašaĺnaja spasylka - spiecyjaĺny vid spasylki, jakuju adzin karystaĺnik moza daslać inšamu čalavieku dlia rehistracyi ŭ peŭnaj, jak pravila niedastupnaj dlia šyrokaha kola, prahramie/sistemie. U adroźnieńnie ad partniorskaj spasylki bonusy za zaprošanych liudziej nie naličvajucca. Moza mieć miesca adkaznaść za nieprymaĺnyja pavodziny zaprošanych karystaĺnikaŭ."
+}, {
+  "id" : 2022050701,
+  "originalValue" : "transaction",
+  "information" : "transakcyja - nabor dziejańniaŭ, jakija abo vykonvajucca ŭsie razam, abo nie vykonvajecca ni adno ź ich.\n\nPryklad: pieravod hrošaj z adnaho rachunka ŭ adnoj valiucie na druhi ŭ druhoj. Paśpiachovaje vykanańnie skladajecca z śpisańnia hrošaj ź pieršaha rachunka, kanvertacyi j zaličeńnia na druhi rachunak. Scenar pry jakim hrošy śpišucca z pieršaha rachunka, a paślia z-za pamylki jany nia buduć skanvertavany j zaličany na druhi źiaŭliajecca niedapuščaĺnym. U vypadku pamylki padčas transakcyi stan abjektaŭ transakcyi nie źmianiajecca."
 } ]
