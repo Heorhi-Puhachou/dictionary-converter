@@ -213,7 +213,7 @@
 }, {
   "id" : 54,
   "originalValue" : "BAA",
-  "information" : "пагадненьне аб дзелавым партнёрстве (BAA)\n\nAbbreviation for Business Associate Agreement, a legal contract that describes how ProtonMail is compliant with HIPAA.\n\nNOUN"
+  "information" : "пагадненьне аб дзелавым партнэрстве (BAA)\n\nAbbreviation for Business Associate Agreement, a legal contract that describes how ProtonMail is compliant with HIPAA.\n\nNOUN"
 }, {
   "id" : 55,
   "originalValue" : "back button",
@@ -873,7 +873,7 @@
 }, {
   "id" : 219,
   "originalValue" : "end-to-end encrypted",
-  "information" : "зашыфравана скразным метадам\n\nSomething that has undergone end-to-end encryption and cannot be decrypted or read by even the email service provider.\n\nADJECTIVE"
+  "information" : "зашыфравана скразным мэтадам\n\nSomething that has undergone end-to-end encryption and cannot be decrypted or read by even the email service provider.\n\nADJECTIVE"
 }, {
   "id" : 220,
   "originalValue" : "end-to-end encryption",
@@ -1257,7 +1257,7 @@
 }, {
   "id" : 315,
   "originalValue" : "input method",
-  "information" : "метад уводу\n\nProgram that allows users to type in a language that have more graphemes than there are keys on the keyboard by using sequences of characters (or mouse operations) to generate the characters.\n\nNOUN"
+  "information" : "мэтад уводу\n\nProgram that allows users to type in a language that have more graphemes than there are keys on the keyboard by using sequences of characters (or mouse operations) to generate the characters.\n\nNOUN"
 }, {
   "id" : 316,
   "originalValue" : "inquiry",
@@ -1389,7 +1389,7 @@
 }, {
   "id" : 348,
   "originalValue" : "mail server",
-  "information" : "паштовы сервер\n\nA computer system that transmits, sends, and receives email over a network.\n\nSee \"server\"\n\nNOUN"
+  "information" : "паштовы сэрвэр\n\nA computer system that transmits, sends, and receives email over a network.\n\nSee \"server\"\n\nNOUN"
 }, {
   "id" : 349,
   "originalValue" : "mailbox",
@@ -1465,7 +1465,7 @@
 }, {
   "id" : 367,
   "originalValue" : "metadata",
-  "information" : "метаданыя \n\nData about other data, used to summarize basic information which can make tracking and working with specific data easier, e.g. tags. One of Proton's USPs is that it does not collect metadata, such as IP addresses used to log into accounts.\n\nNOUN"
+  "information" : "мэтаданыя \n\nData about other data, used to summarize basic information which can make tracking and working with specific data easier, e.g. tags. One of Proton's USPs is that it does not collect metadata, such as IP addresses used to log into accounts.\n\nNOUN"
 }, {
   "id" : 368,
   "originalValue" : "migration",
@@ -2237,7 +2237,7 @@
 }, {
   "id" : 560,
   "originalValue" : "server",
-  "information" : "сервер\n\nA software or hardware device that accepts and responds to requests made over a network\n\nNOUN"
+  "information" : "сэрвэр\n\nA software or hardware device that accepts and responds to requests made over a network\n\nNOUN"
 }, {
   "id" : 561,
   "originalValue" : "service plans",

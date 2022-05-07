@@ -2681,11 +2681,11 @@
 }, {
   "id" : 671,
   "originalValue" : "metadata",
-  "information" : "метаданыя"
+  "information" : "мэтаданыя"
 }, {
   "id" : 672,
   "originalValue" : "method",
-  "information" : "метад (праграмны); спосаб\n\nКамэнтар:\nMS"
+  "information" : "мэтад (праграмны); спосаб\n\nКамэнтар:\nMS"
 }, {
   "id" : 673,
   "originalValue" : "Mexico",
@@ -3965,7 +3965,7 @@
 }, {
   "id" : 992,
   "originalValue" : "server",
-  "information" : "сервер"
+  "information" : "сэрвэр"
 }, {
   "id" : 993,
   "originalValue" : "service",
@@ -5005,7 +5005,7 @@
 }, {
   "id" : 1252,
   "originalValue" : "Web server",
-  "information" : "вэб-сервер"
+  "information" : "вэб-сэрвэр"
 }, {
   "id" : 1253,
   "originalValue" : "Web service",

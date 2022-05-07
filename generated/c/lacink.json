@@ -1,19 +1,19 @@
 [ {
   "id" : 2022031301,
   "originalValue" : "BFD",
-  "information" : "Biblijateka deskryptaraŭ binarnych fajlaŭ, DBF (The Binary File Descriptor library) - asnoŭny miechanizm prajekta GNU dlia pracy z abjektnymi fajlami roznych farmataŭ."
+  "information" : "Biblijateka deskryptaraŭ binarnych fajlaŭ, DBF (The Binary File Descriptor library) - asnoŭny mechanizm prajekta GNU dlia pracy z abjektnymi fajlami roznych farmataŭ."
 }, {
   "id" : 2022031302,
   "originalValue" : "relocation",
-  "information" : "prysvajeńnie adrasu - praces prysvajeńnia adrasoŭ zahruzki dlia koda j dadzienych prahramy, jakija zaliezać ad pazicyi, i karekciroŭki koda j danych dlia adliustravańnia prysvojenych adrasoŭ. "
+  "information" : "prysvajeńnie adrasu - praces prysvajeńnia adrasoŭ zahruzki dlia koda j dadzienych prahramy, jakija zaliezać ad pazycyi, i karekciroŭki koda j danych dlia adliustravańnia prysvojenych adrasoŭ."
 }, {
   "id" : 2022031303,
   "originalValue" : "Layout features",
-  "information" : "Instrumenty raźmietki - ukliučajuć u siabie tlusty tekst, padkreslivańnie, roznyja šryfty j vialikija/zahaloŭnyja litary. Typovyja instrumenty raźmietki zaliezać ad typu tekstu. Vialikija teksty zvyčajna razbivajucca na razdziely, kab spraścić usprymańnie infarmacyi. "
+  "information" : "Instrumenty raźmietki - ukliučajuć u siabie tlusty tekst, padkreślivańnie, roznyja šryfty j vialikija/zahaloŭnyja litary. Typovyja instrumenty raźmietki zaliezać ad typu tekstu. Vialikija teksty zvyčajna raźbivajucca na raździely, kab spraścić usprymańnie infarmacyi."
 }, {
   "id" : 2022031304,
   "originalValue" : "Variation Axes",
-  "information" : "Vosi varyjacyj - dyjapazon likaŭ dlia značeńnia, jakoje apisvaje vyznačany aspiekt dyzajnu kankretnaha eliemienta."
+  "information" : "Vosi varyjacyj - dyjapazon likaŭ dlia značeńnia, jakoje apisvaje vyznačany aspekt dyzajnu kankretnaha eliementa."
 }, {
   "id" : 2022032001,
   "originalValue" : "CJK Symbols and Punctuation",
@@ -21,7 +21,7 @@
 }, {
   "id" : 2022032002,
   "originalValue" : "mkmk, Mark to Mark Positioning",
-  "information" : "Pazicyjavannie akcentaŭ adnosna akcentaŭ - asablivaść OpenType, jakaja dazvaliaje pazicyjanavać akcenty adnosna inšych akcentaŭ"
+  "information" : "Pazycyjavannie akcentaŭ adnosna akcentaŭ - asablivaść OpenType, jakaja dazvaliaje pazycyjanavać akcenty adnosna inšych akcentaŭ"
 }, {
   "id" : 2022032003,
   "originalValue" : "Reverse engineering",
@@ -29,7 +29,7 @@
 }, {
   "id" : 2022032004,
   "originalValue" : "Object-oriented programming, OOP",
-  "information" : "Abjektna-aryjentavanaje prahramiravańnie - padychod da napisańnia kodu, pry jakim sistema apisvajecca praz abjekty i ich uzajemadziejańnie. Mietady j pali z infarmacyjaj u hetym vypadku nia mohuć isnavać pa-za abjektam."
+  "information" : "Abjektna-aryjentavanaje prahramiravańnie - padychod da napisańnia kodu, pry jakim systema apisvajecca praz abjekty i ich uzajemadziejańnie. Metady j pali z infarmacyjaj u hetym vypadku nia mohuć isnavać pa-za abnulliektam."
 }, {
   "id" : 2022032005,
   "originalValue" : "Software design pattern",
@@ -45,7 +45,7 @@
 }, {
   "id" : 2022032103,
   "originalValue" : "SSH Key Authentication",
-  "information" : "Aŭtentyfkacyja z dapamohaj kliučoŭ SSH - boĺš biaspiečnaja aĺternatyva kliasyčnaj aŭtentyfikacyi praz imia j paroĺ z vykarystańniem kliučoŭ SSH. Na serviery raźmiaščajecca adkryty kliuč, z dapamohaj jakoha zašyfroŭvajecca paviedamlieńnie j dasylajecca klijentu. Klijent z dapamohaj zakrytaha kliuča moza rasšyfravać paviedamlieńnie j daslać servieru adkaz. U hetaj schiemie haloŭnaje kab nichto nie zavalodaŭ zakrytym kliučom klijenta, inakš jon zmoza prajści aŭtentyfikacyju zamiest jaho."
+  "information" : "Aŭtentyfkacyja z dapamohaj kliučoŭ SSH - boĺš biaśpiečnaja aĺternatyva kliasyčnaj aŭtentyfikacyi praz imia j paroĺ z vykarystańniem kliučoŭ SSH. Na servery raźmiaščajecca adkryty kliuč, z dapamohaj jakoha zašyfroŭvajecca paviedamlieńnie j dasylajecca klijentu. Klijent z dapamohaj zakrytaha kliuča moza rasšyfravać paviedamlieńnie j daslać serveru adkaz. U hetaj schiemie haloŭnaje kab nichto nie zavalodaŭ zakrytym kliučom klijenta, inakš jon zmoza prajści aŭtentyfikacyju zamiest jaho."
 }, {
   "id" : 2022032104,
   "originalValue" : "Identification",
@@ -57,7 +57,7 @@
 }, {
   "id" : 2022032106,
   "originalValue" : "Authorization",
-  "information" : "Aŭtaryzacyja - praces pradstaŭlieńnia karystaĺniku peŭnych pravoŭ u sistemie. Dlia niekatorych sistem nieabchodna prajści aŭtentyfikacyju dlia atrymańnia pravoŭ. Niekatoryja sistemy dazvaliajuć liubym karystaĺnikam vykonvać peŭnyja dziejańni (to bok biez aŭtentyfikacyi)."
+  "information" : "Aŭtaryzacyja - praces pradstaŭlieńnia karystaĺniku peŭnych pravoŭ u systemie. Dlia niekatorych system nieabchodna prajści aŭtentyfikacyju dlia atrymańnia pravoŭ. Niekatoryja systemy dazvaliajuć liubym karystaĺnikam vykonvać peŭnyja dziejańni (to bok biez aŭtentyfikacyi)."
 }, {
   "id" : 2022032301,
   "originalValue" : "Multi-Factor Authentication (MFA)",
@@ -69,11 +69,11 @@
 }, {
   "id" : 2022032902,
   "originalValue" : "vCard, VCF, Virtual Contact File",
-  "information" : "vCard, VCF, virtuaĺny fajl kantaktu, eliektronnaja vizitoŭka - standart dlia farmatu fajla eliektronnaj vizitoŭki. vCard moza być prymacavana da lista, daslanaha z eliektronnaj pošty, MMS ci QR-koda. Moza źmiaščać u sabie imia, adras, numar teliefonu j h.d."
+  "information" : "vCard, VCF, virtuaĺny fajl kantaktu, eliektronnaja vizitoŭka - standart dlia farmatu fajla eliektronnaj vizytoŭki. vCard moza być prymacavana da lista, daslanaha z eliektronnaj pošty, MMS ci QR-koda. Moza źmiaščać u sabie imia, adras, numar teliefonu j h.d."
 }, {
   "id" : 2022040701,
   "originalValue" : "revoke session",
-  "information" : "skončyć siesiju - pravieści admienu aŭtaryzacyi karystaĺnika. Mozna zrabić dlia prylady, ź jakoj niepasredna ŭzajemadziejničaje karystaĺnik, abo dlia addalienych prylad.\n\nDlia pierakladaŭ sustrakajucca varyjanty «zakončyć siesiju» abo «zakryć siesiju». Varyjant «adklikać siesiju» źiaŭliajecca sumnieŭnym."
+  "information" : "skončyć siesiju - pravieści admienu aŭtaryzacyi karystaĺnika. Mozna zrabić dlia prylady, ź jakoj niepasredna ŭzajemadziejničaje karystaĺnik, abo dlia addalienych prylad."
 }, {
   "id" : 2022040702,
   "originalValue" : "referral link",
@@ -85,7 +85,7 @@
 }, {
   "id" : 2022042301,
   "originalValue" : "invite link",
-  "information" : "zaprašaĺnaja spasylka - spiecyjaĺny vid spasylki, jakuju adzin karystaĺnik moza daslać inšamu čalavieku dlia rehistracyi ŭ peŭnaj, jak pravila niedastupnaj dlia šyrokaha kola, prahramie/sistemie. U adroźnieńnie ad partniorskaj spasylki bonusy za zaprošanych liudziej nie naličvajucca. Moza mieć miesca adkaznaść za nieprymaĺnyja pavodziny zaprošanych karystaĺnikaŭ."
+  "information" : "zaprašaĺnaja spasylka - specyjaĺny vid spasylki, jakuju adzin karystaĺnik moza daslać inšamu čalavieku dlia rehistracyi ŭ peŭnaj, jak pravila niedastupnaj dlia šyrokaha kola, prahramie/systemie. U adroźnieńnie ad partnerskaj spasylki bonusy za zaprošanych liudziej nie naličvajucca. Moza mieć miesca adkaznaść za nieprymaĺnyja pavodziny zaprošanych karystaĺnikaŭ."
 }, {
   "id" : 2022050701,
   "originalValue" : "transaction",
