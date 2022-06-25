@@ -16,7 +16,7 @@ public enum Dictonary {
     PUHACHOU("c",
             "Слоўнік Пугачова.xlsx",
             new CConverter()),
-    COLOR("c",
+    COLOR("d",
                      "Колеры.xlsx",
                      new DConverter());
 
