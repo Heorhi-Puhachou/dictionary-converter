@@ -2513,6 +2513,10 @@
     "dictionaryId" : "b",
     "termId" : 35
   } ],
+  "apple" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062526
+  } ],
   "application" : [ {
     "dictionaryId" : "a",
     "termId" : 52
@@ -2667,6 +2671,10 @@
     "dictionaryId" : "a",
     "termId" : 86
   } ],
+  "azureish white" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062515
+  } ],
   "back button" : [ {
     "dictionaryId" : "b",
     "termId" : 55
@@ -2787,6 +2795,10 @@
     "dictionaryId" : "b",
     "termId" : 73
   } ],
+  "blanched almond" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062529
+  } ],
   "block" : [ {
     "dictionaryId" : "a",
     "termId" : 133
@@ -2798,6 +2810,10 @@
   "blue" : [ {
     "dictionaryId" : "a",
     "termId" : 134
+  } ],
+  "blue-gray" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062517
   } ],
   "bluetooth\n" : [ {
     "dictionaryId" : "a",
@@ -2969,6 +2985,10 @@
     "dictionaryId" : "a",
     "termId" : 190
   } ],
+  "caramel" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062530
+  } ],
   "card holder" : [ {
     "dictionaryId" : "b",
     "termId" : 92
@@ -3048,6 +3068,10 @@
   "choose" : [ {
     "dictionaryId" : "a",
     "termId" : 215
+  } ],
+  "cinnabar" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062511
   } ],
   "clear" : [ {
     "dictionaryId" : "a",
@@ -3373,6 +3397,10 @@
     "dictionaryId" : "a",
     "termId" : 268
   } ],
+  "cyan-blue azure" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062518
+  } ],
   "cyrillic" : [ {
     "dictionaryId" : "a",
     "termId" : 270
@@ -3384,6 +3412,10 @@
     "dictionaryId" : "b",
     "termId" : 153
   } ],
+  "dandelion" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062531
+  } ],
   "danger" : [ {
     "dictionaryId" : "a",
     "termId" : 273
@@ -3391,6 +3423,14 @@
   "dark" : [ {
     "dictionaryId" : "a",
     "termId" : 274
+  } ],
+  "dark cerulean" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062520
+  } ],
+  "dark midnight blue" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062521
   } ],
   "dark mode" : [ {
     "dictionaryId" : "b",
@@ -4140,6 +4180,10 @@
     "dictionaryId" : "b",
     "termId" : 241
   } ],
+  "field drab" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062535
+  } ],
   "file" : [ {
     "dictionaryId" : "a",
     "termId" : 413
@@ -4755,6 +4799,10 @@
     "dictionaryId" : "a",
     "termId" : 560
   } ],
+  "japanese laurel" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062527
+  } ],
   "join" : [ {
     "dictionaryId" : "a",
     "termId" : 564
@@ -4842,6 +4890,10 @@
     "dictionaryId" : "a",
     "termId" : 583
   } ],
+  "kiwi" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062525
+  } ],
   "knowledge base" : [ {
     "dictionaryId" : "b",
     "termId" : 332
@@ -4907,6 +4959,10 @@
     "dictionaryId" : "b",
     "termId" : 337
   } ],
+  "lemon yellow" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062532
+  } ],
   "letter" : [ {
     "dictionaryId" : "a",
     "termId" : 605
@@ -4922,6 +4978,14 @@
   "light" : [ {
     "dictionaryId" : "a",
     "termId" : 611
+  } ],
+  "light carmine pink" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062510
+  } ],
+  "light moss green" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062523
   } ],
   "light red" : [ {
     "dictionaryId" : "d",
@@ -5041,6 +5105,10 @@
   "mailing list" : [ {
     "dictionaryId" : "b",
     "termId" : 351
+  } ],
+  "maize" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062533
   } ],
   "malware" : [ {
     "dictionaryId" : "b",
@@ -5288,6 +5356,10 @@
   "move to archive" : [ {
     "dictionaryId" : "b",
     "termId" : 377
+  } ],
+  "mughal green" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062528
   } ],
   "multi-user" : [ {
     "dictionaryId" : "b",
@@ -5634,6 +5706,14 @@
     "dictionaryId" : "a",
     "termId" : 786
   } ],
+  "palatinate blue" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062519
+  } ],
+  "pale cerulean" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062516
+  } ],
   "palete" : [ {
     "dictionaryId" : "a",
     "termId" : 791
@@ -5707,6 +5787,10 @@
     "dictionaryId" : "a",
     "termId" : 804
   } ],
+  "pastel gray" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062522
+  } ],
   "path" : [ {
     "dictionaryId" : "b",
     "termId" : 422
@@ -5729,6 +5813,14 @@
   "pending" : [ {
     "dictionaryId" : "a",
     "termId" : 809
+  } ],
+  "persian plum" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062514
+  } ],
+  "persian red" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062512
   } ],
   "personal data" : [ {
     "dictionaryId" : "b",
@@ -5792,6 +5884,10 @@
   "pinned" : [ {
     "dictionaryId" : "a",
     "termId" : 820
+  } ],
+  "pistachio" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062524
   } ],
   "pixel per inch" : [ {
     "dictionaryId" : "a",
@@ -6480,6 +6576,10 @@
     "dictionaryId" : "a",
     "termId" : 939
   } ],
+  "ruddy pink" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062509
+  } ],
   "run" : [ {
     "dictionaryId" : "a",
     "termId" : 940
@@ -6514,6 +6614,10 @@
   "salt" : [ {
     "dictionaryId" : "b",
     "termId" : 534
+  } ],
+  "satin sheen gold" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062534
   } ],
   "saturation\n" : [ {
     "dictionaryId" : "a",
@@ -7797,6 +7901,10 @@
   "visitors" : [ {
     "dictionaryId" : "a",
     "termId" : 1228
+  } ],
+  "vivid auburn" : [ {
+    "dictionaryId" : "d",
+    "termId" : 2022062513
   } ],
   "volume" : [ {
     "dictionaryId" : "a",

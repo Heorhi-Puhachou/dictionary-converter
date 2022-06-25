@@ -17,7 +17,7 @@
 }, {
   "id" : 2022062505,
   "originalValue" : "dim gray",
-  "information" : "???\n\n6B6B6B"
+  "information" : "???\n\n#6B6B6B"
 }, {
   "id" : 2022062506,
   "originalValue" : "outer space",
@@ -30,4 +30,112 @@
   "id" : 2022062508,
   "originalValue" : "light red",
   "information" : "śvietla-čyrvony\n\n#F6CBCB"
+}, {
+  "id" : 2022062509,
+  "originalValue" : "ruddy pink",
+  "information" : "???\n\n#EC9798"
+}, {
+  "id" : 2022062510,
+  "originalValue" : "light carmine pink",
+  "information" : "???\n\n#E36667"
+}, {
+  "id" : 2022062511,
+  "originalValue" : "cinnabar",
+  "information" : "???\n\n#ED4139"
+}, {
+  "id" : 2022062512,
+  "originalValue" : "persian red",
+  "information" : "???\n\n#CF3932"
+}, {
+  "id" : 2022062513,
+  "originalValue" : "vivid auburn",
+  "information" : "???\n\n#9A2B25"
+}, {
+  "id" : 2022062514,
+  "originalValue" : "persian plum",
+  "information" : "???\n\n#681D19"
+}, {
+  "id" : 2022062515,
+  "originalValue" : "azureish white",
+  "information" : "???\n\n#CDE1F2"
+}, {
+  "id" : 2022062516,
+  "originalValue" : "pale cerulean",
+  "information" : "???\n\n#9CC3E5"
+}, {
+  "id" : 2022062517,
+  "originalValue" : "blue-gray",
+  "information" : "???\n\n#6CA6D9"
+}, {
+  "id" : 2022062518,
+  "originalValue" : "cyan-blue azure",
+  "information" : "???\n\n#3B83C2"
+}, {
+  "id" : 2022062519,
+  "originalValue" : "palatinate blue",
+  "information" : "???\n\n#2A47F6"
+}, {
+  "id" : 2022062520,
+  "originalValue" : "dark cerulean",
+  "information" : "???\n\n#145390"
+}, {
+  "id" : 2022062521,
+  "originalValue" : "dark midnight blue",
+  "information" : "???\n\n#0F3A62"
+}, {
+  "id" : 2022062522,
+  "originalValue" : "pastel gray",
+  "information" : "???\n\n#D7EAD3"
+}, {
+  "id" : 2022062523,
+  "originalValue" : "light moss green",
+  "information" : "???\n\n#B3D6A9"
+}, {
+  "id" : 2022062524,
+  "originalValue" : "pistachio",
+  "information" : "???\n\n#8FC380"
+}, {
+  "id" : 2022062525,
+  "originalValue" : "kiwi",
+  "information" : "???\n\n#77F241"
+}, {
+  "id" : 2022062526,
+  "originalValue" : "apple",
+  "information" : "???\n\n#66A657"
+}, {
+  "id" : 2022062527,
+  "originalValue" : "japanese laurel",
+  "information" : "???\n\n#3A762B"
+}, {
+  "id" : 2022062528,
+  "originalValue" : "mughal green",
+  "information" : "???\n\n#29501F"
+}, {
+  "id" : 2022062529,
+  "originalValue" : "blanched almond",
+  "information" : "???\n\n#FFF2CD"
+}, {
+  "id" : 2022062530,
+  "originalValue" : "caramel",
+  "information" : "???\n\n#FEE59C"
+}, {
+  "id" : 2022062531,
+  "originalValue" : "dandelion",
+  "information" : "???\n\n#FCD86F"
+}, {
+  "id" : 2022062532,
+  "originalValue" : "lemon yellow",
+  "information" : "???\n\n#FDF84E"
+}, {
+  "id" : 2022062533,
+  "originalValue" : "maize",
+  "information" : "???\n\n#F2C246"
+}, {
+  "id" : 2022062534,
+  "originalValue" : "satin sheen gold",
+  "information" : "???\n\n#BE8F35"
+}, {
+  "id" : 2022062535,
+  "originalValue" : "field drab",
+  "information" : "???\n\n#7F6124"
 } ]
