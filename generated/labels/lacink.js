@@ -16,4 +16,5 @@ export const LACINK = {
     a_dictionary: "Hliasaryj pierakladčykaŭ Ubuntu",
     b_dictionary: "Terminy Proton. Košaĺ i Turok",
     c_dictionary: "Sloŭnik Puhačova",
+    d_dictionary: "Koliery",
 };

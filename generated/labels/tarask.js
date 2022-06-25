@@ -16,4 +16,5 @@ export const TARASK = {
     a_dictionary: "Глясарый перакладчыкаў Ubuntu",
     b_dictionary: "Тэрміны Proton. Кошаль і Турок",
     c_dictionary: "Слоўнік Пугачова",
+    d_dictionary: "Колеры",
 };
