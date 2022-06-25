@@ -3,6 +3,7 @@ package by.dictionary.converter;
 import by.dictionary.converter.a.AConverter;
 import by.dictionary.converter.b.BConverter;
 import by.dictionary.converter.c.CConverter;
+import by.dictionary.converter.d.DConverter;
 
 public enum Dictonary {
 
@@ -14,7 +15,10 @@ public enum Dictonary {
             new BConverter()),
     PUHACHOU("c",
             "Слоўнік Пугачова.xlsx",
-            new CConverter());
+            new CConverter()),
+    COLOR("c",
+                     "Колеры.xlsx",
+                     new DConverter());
 
     public final String id;
     public final String inputPath;

@@ -3607,6 +3607,10 @@
     "dictionaryId" : "a",
     "termId" : 314
   } ],
+  "dim gray" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022062505
+  } ],
   "directory" : [ {
     "dictionaryId" : "a",
     "termId" : 315
@@ -4308,6 +4312,10 @@
     "dictionaryId" : "b",
     "termId" : 265
   } ],
+  "gainsboro" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022062502
+  } ],
   "gallery" : [ {
     "dictionaryId" : "a",
     "termId" : 441
@@ -4914,6 +4922,10 @@
   "light" : [ {
     "dictionaryId" : "a",
     "termId" : 611
+  } ],
+  "light red" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022062508
   } ],
   "link" : [ {
     "dictionaryId" : "a",
@@ -5554,6 +5566,10 @@
     "dictionaryId" : "b",
     "termId" : 404
   } ],
+  "outer space" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022062506
+  } ],
   "output" : [ {
     "dictionaryId" : "a",
     "termId" : 776
@@ -5729,6 +5745,14 @@
   "petabytes" : [ {
     "dictionaryId" : "a",
     "termId" : 812
+  } ],
+  "philippine gray" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022062504
+  } ],
+  "philippine silver" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022062503
   } ],
   "phishing" : [ {
     "dictionaryId" : "b",
@@ -6083,6 +6107,10 @@
   "radius" : [ {
     "dictionaryId" : "a",
     "termId" : 881
+  } ],
+  "raisin black" : [ {
+    "dictionaryId" : "c",
+    "termId" : 2022062507
   } ],
   "raw" : [ {
     "dictionaryId" : "a",
@@ -7878,6 +7906,9 @@
   "white" : [ {
     "dictionaryId" : "a",
     "termId" : 1262
+  }, {
+    "dictionaryId" : "c",
+    "termId" : 2022062501
   } ],
   "whitelist" : [ {
     "dictionaryId" : "b",
