@@ -138,4 +138,496 @@
   "id" : 2022062535,
   "originalValue" : "field drab",
   "information" : "???\n\n#7F6124"
+}, {
+  "id" : 2022062600,
+  "originalValue" : "almond",
+  "information" : "mindaĺny\n\n???"
+}, {
+  "id" : 2022062601,
+  "originalValue" : "amber",
+  "information" : "burštynavy\n\n???"
+}, {
+  "id" : 2022062602,
+  "originalValue" : "amethyst",
+  "information" : "amietystavy\n\n???"
+}, {
+  "id" : 2022062603,
+  "originalValue" : "asparagus",
+  "information" : "sparzavy\n\n???"
+}, {
+  "id" : 2022062604,
+  "originalValue" : "beige",
+  "information" : "bezavy\n\n???"
+}, {
+  "id" : 2022062605,
+  "originalValue" : "black",
+  "information" : "čorny\n\n???"
+}, {
+  "id" : 2022062606,
+  "originalValue" : "blue",
+  "information" : "sini\n\n???"
+}, {
+  "id" : 2022062607,
+  "originalValue" : "bronze",
+  "information" : "bronzavy\n\n???"
+}, {
+  "id" : 2022062608,
+  "originalValue" : "brown",
+  "information" : "karyčnievy\n\n???"
+}, {
+  "id" : 2022062609,
+  "originalValue" : "canary",
+  "information" : "kanareječny\n\n???"
+}, {
+  "id" : 2022062610,
+  "originalValue" : "carrot",
+  "information" : "markoŭny\n\n???"
+}, {
+  "id" : 2022062611,
+  "originalValue" : "chocolate",
+  "information" : "šakaladny\n\n???"
+}, {
+  "id" : 2022062612,
+  "originalValue" : "cobalt",
+  "information" : "kobaĺtavy\n\n???"
+}, {
+  "id" : 2022062613,
+  "originalValue" : "crimson",
+  "information" : "malinavy\n\n???"
+}, {
+  "id" : 2022062614,
+  "originalValue" : "cyan",
+  "information" : "blakitny\n\n???"
+}, {
+  "id" : 2022062615,
+  "originalValue" : "dark blue",
+  "information" : "ciomna-sini\n\n???"
+}, {
+  "id" : 2022062616,
+  "originalValue" : "dark brown",
+  "information" : "ciomna-karyčnievy\n\n???"
+}, {
+  "id" : 2022062617,
+  "originalValue" : "dark green",
+  "information" : "ciomna-zialiony\n\n???"
+}, {
+  "id" : 2022062618,
+  "originalValue" : "dark pink",
+  "information" : "ciomna-ruzovy\n\n???"
+}, {
+  "id" : 2022062619,
+  "originalValue" : "dark salmon",
+  "information" : "ciomna-lasasiovy\n\n???"
+}, {
+  "id" : 2022062620,
+  "originalValue" : "dark turquoise",
+  "information" : "ciomna-biruzovy\n\n???"
+}, {
+  "id" : 2022062621,
+  "originalValue" : "emerald",
+  "information" : "smarahdavy\n\n???"
+}, {
+  "id" : 2022062622,
+  "originalValue" : "eggplant",
+  "information" : "baklazanavy\n\n???"
+}, {
+  "id" : 2022062623,
+  "originalValue" : "gold",
+  "information" : "zalaty\n\n???"
+}, {
+  "id" : 2022062624,
+  "originalValue" : "gray",
+  "information" : "šery\n\n???"
+}, {
+  "id" : 2022062625,
+  "originalValue" : "green",
+  "information" : "zialiony\n\n???"
+}, {
+  "id" : 2022062626,
+  "originalValue" : "hot pink",
+  "information" : "jarka-ruzovy\n\n???"
+}, {
+  "id" : 2022062627,
+  "originalValue" : "indigo",
+  "information" : "indyha\n\n???"
+}, {
+  "id" : 2022062628,
+  "originalValue" : "jade",
+  "information" : "niefrytavy\n\n???"
+}, {
+  "id" : 2022062629,
+  "originalValue" : "lemon",
+  "information" : "limonny\n\n???"
+}, {
+  "id" : 2022062630,
+  "originalValue" : "lilac",
+  "information" : "bezavy\n\n???"
+}, {
+  "id" : 2022062631,
+  "originalValue" : "olive",
+  "information" : "aliŭkavy\n\n???"
+}, {
+  "id" : 2022062632,
+  "originalValue" : "orange",
+  "information" : "aranzavy\n\n???"
+}, {
+  "id" : 2022062633,
+  "originalValue" : "orchid",
+  "information" : "archidejny\n\n???"
+}, {
+  "id" : 2022062634,
+  "originalValue" : "peach",
+  "information" : "piersikavy\n\n???"
+}, {
+  "id" : 2022062635,
+  "originalValue" : "pear",
+  "information" : "hrušavy\n\n???"
+}, {
+  "id" : 2022062636,
+  "originalValue" : "pink",
+  "information" : "ruzovy\n\n???"
+}, {
+  "id" : 2022062637,
+  "originalValue" : "pomegranate",
+  "information" : "hranatavy\n\n???"
+}, {
+  "id" : 2022062638,
+  "originalValue" : "pumpkin",
+  "information" : "harbuzovy\n\n???"
+}, {
+  "id" : 2022062639,
+  "originalValue" : "red",
+  "information" : "čyrvony\n\n???"
+}, {
+  "id" : 2022062640,
+  "originalValue" : "ruby",
+  "information" : "rubinavy\n\n???"
+}, {
+  "id" : 2022062641,
+  "originalValue" : "rosy brown",
+  "information" : "ruzava-karyčnievy\n\n???"
+}, {
+  "id" : 2022062642,
+  "originalValue" : "sepia",
+  "information" : "siepija\n\n???"
+}, {
+  "id" : 2022062643,
+  "originalValue" : "silver",
+  "information" : "sierabrysty\n\n???"
+}, {
+  "id" : 2022062644,
+  "originalValue" : "spring green",
+  "information" : "jarka-zialiony\n\n???"
+}, {
+  "id" : 2022062645,
+  "originalValue" : "steel blue",
+  "information" : "staliova-sini\n\n???"
+}, {
+  "id" : 2022062646,
+  "originalValue" : "turquoise",
+  "information" : "biruzovy\n\n???"
+}, {
+  "id" : 2022062647,
+  "originalValue" : "tomato",
+  "information" : "tamatny\n\n???"
+}, {
+  "id" : 2022062648,
+  "originalValue" : "white",
+  "information" : "biely\n\n???"
+}, {
+  "id" : 2022062649,
+  "originalValue" : "wisteria",
+  "information" : "hlicynijevy\n\n???"
+}, {
+  "id" : 2022062650,
+  "originalValue" : "wine",
+  "information" : "vino\n\n???"
+}, {
+  "id" : 2022062651,
+  "originalValue" : "yellow",
+  "information" : "zoŭty\n\n???"
+}, {
+  "id" : 2022062652,
+  "originalValue" : "copper",
+  "information" : "miedny\n\n???"
+}, {
+  "id" : 2022062653,
+  "originalValue" : "apricot",
+  "information" : "abrykosavy\n\n???"
+}, {
+  "id" : 2022062654,
+  "originalValue" : "american rose",
+  "information" : "amierykanskaja ruza\n\n???"
+}, {
+  "id" : 2022062655,
+  "originalValue" : "antique white",
+  "information" : "antyčny biely\n\n???"
+}, {
+  "id" : 2022062656,
+  "originalValue" : "apple green",
+  "information" : "jablyčna-zialiony\n\n???"
+}, {
+  "id" : 2022062657,
+  "originalValue" : "aquamarine",
+  "information" : "akvamarynavy\n\n???"
+}, {
+  "id" : 2022062658,
+  "originalValue" : "army green",
+  "information" : "armiejski zialiony\n\n???"
+}, {
+  "id" : 2022062659,
+  "originalValue" : "arsenic",
+  "information" : "myšjakovy\n\n???"
+}, {
+  "id" : 2022062660,
+  "originalValue" : "azure",
+  "information" : "lazurkovy\n\n???"
+}, {
+  "id" : 2022062661,
+  "originalValue" : "brass",
+  "information" : "latunievy\n\n???"
+}, {
+  "id" : 2022062662,
+  "originalValue" : "bright green",
+  "information" : "jarka-zialiony\n\n???"
+}, {
+  "id" : 2022062663,
+  "originalValue" : "bright turquoise",
+  "information" : "jarka-biruzovy\n\n???"
+}, {
+  "id" : 2022062664,
+  "originalValue" : "carmine",
+  "information" : "karminavy\n\n???"
+}, {
+  "id" : 2022062665,
+  "originalValue" : "chestnut",
+  "information" : "kaštanavy\n\n???"
+}, {
+  "id" : 2022062666,
+  "originalValue" : "corn",
+  "information" : "kukuruzny\n\n???"
+}, {
+  "id" : 2022062667,
+  "originalValue" : "cornflower blue",
+  "information" : "vasiĺkovy\n\n???"
+}, {
+  "id" : 2022062668,
+  "originalValue" : "dark chestnut",
+  "information" : "ciomna-kaštanavy\n\n???"
+}, {
+  "id" : 2022062669,
+  "originalValue" : "dark coral",
+  "information" : "ciomna-karalavy\n\n???"
+}, {
+  "id" : 2022062670,
+  "originalValue" : "dark indigo",
+  "information" : "ciomny indyha\n\n???"
+}, {
+  "id" : 2022062671,
+  "originalValue" : "dark khaki",
+  "information" : "ciomny chaki\n\n???"
+}, {
+  "id" : 2022062672,
+  "originalValue" : "dark olive",
+  "information" : "ciomna-aliŭkavy\n\n???"
+}, {
+  "id" : 2022062673,
+  "originalValue" : "dark peach",
+  "information" : "ciomna-piersikavy\n\n???"
+}, {
+  "id" : 2022062674,
+  "originalValue" : "dark tangerine",
+  "information" : "ciomna-mandarynavy\n\n???"
+}, {
+  "id" : 2022062675,
+  "originalValue" : "fire brick",
+  "information" : "karyčnievata-čyrvony\n\n???"
+}, {
+  "id" : 2022062676,
+  "originalValue" : "heliotrope",
+  "information" : "hielijatrop\n\n???"
+}, {
+  "id" : 2022062677,
+  "originalValue" : "indian red",
+  "information" : "indyjski čyrvony\n\n???"
+}, {
+  "id" : 2022062678,
+  "originalValue" : "khaki",
+  "information" : "chaki\n\n???"
+}, {
+  "id" : 2022062679,
+  "originalValue" : "light brown",
+  "information" : "svietla-karyčnievy\n\n???"
+}, {
+  "id" : 2022062680,
+  "originalValue" : "magenta, fuchsia",
+  "information" : "purpurny, purpurovy\n\n???"
+}, {
+  "id" : 2022062681,
+  "originalValue" : "malachite",
+  "information" : "malachitavy\n\n???"
+}, {
+  "id" : 2022062682,
+  "originalValue" : "mustard",
+  "information" : "harčyčny\n\n???"
+}, {
+  "id" : 2022062683,
+  "originalValue" : "ochre",
+  "information" : "vochravy\n\n???"
+}, {
+  "id" : 2022062684,
+  "originalValue" : "old gold",
+  "information" : "staroje zolata\n\n???"
+}, {
+  "id" : 2022062685,
+  "originalValue" : "pale blue",
+  "information" : "bliedna-sini\n\n???"
+}, {
+  "id" : 2022062686,
+  "originalValue" : "pale brown",
+  "information" : "bliedna-karyčnievy\n\n???"
+}, {
+  "id" : 2022062687,
+  "originalValue" : "pale carmine",
+  "information" : "bliedna-karminavy\n\n???"
+}, {
+  "id" : 2022062688,
+  "originalValue" : "pale chestnut",
+  "information" : "bliedna-kaštanavy\n\n???"
+}, {
+  "id" : 2022062689,
+  "originalValue" : "pale cornflower blue",
+  "information" : "bliedna-vasiĺkovy\n\n???"
+}, {
+  "id" : 2022062690,
+  "originalValue" : "pale magenta",
+  "information" : "bliedna-purpurny\n\n???"
+}, {
+  "id" : 2022062691,
+  "originalValue" : "pale pink",
+  "information" : "bliedna-ruzavy\n\n???"
+}, {
+  "id" : 2022062692,
+  "originalValue" : "persian blue",
+  "information" : "piersidski sini\n\n???"
+}, {
+  "id" : 2022062693,
+  "originalValue" : "pistacia",
+  "information" : "fistaškavy\n\n???"
+}, {
+  "id" : 2022062694,
+  "originalValue" : "saffron, crocus",
+  "information" : "šafranavy\n\n???"
+}, {
+  "id" : 2022062695,
+  "originalValue" : "sapphire",
+  "information" : "sapfiravy\n\n???"
+}, {
+  "id" : 2022062696,
+  "originalValue" : "swamp green",
+  "information" : "balotny\n\n???"
+}, {
+  "id" : 2022062697,
+  "originalValue" : "terracota",
+  "information" : "terakotavy\n\n???"
+}, {
+  "id" : 2022062698,
+  "originalValue" : "dark terra cotta",
+  "information" : "ciomna-terakotavy\n\n???"
+}, {
+  "id" : 2022062699,
+  "originalValue" : "ultramarine",
+  "information" : "uĺtramarynavy\n\n???"
+}, {
+  "id" : 2022062700,
+  "originalValue" : "vanilla",
+  "information" : "vaniĺny\n\n???"
+}, {
+  "id" : 2022062701,
+  "originalValue" : "vermilion",
+  "information" : "kinavarny\n\n???"
+}, {
+  "id" : 2022062702,
+  "originalValue" : "zaffre",
+  "information" : "kobaĺtavaja blakić\n\n???"
+}, {
+  "id" : 2022062703,
+  "originalValue" : "burnt umber",
+  "information" : "palienaja umbra\n\n???"
+}, {
+  "id" : 2022062704,
+  "originalValue" : "coral",
+  "information" : "karalavy\n\n???"
+}, {
+  "id" : 2022062705,
+  "originalValue" : "maroon",
+  "information" : "ciomna-bardovy\n\n???"
+}, {
+  "id" : 2022062706,
+  "originalValue" : "mauve",
+  "information" : "ruzavata-lilovy\n\n???"
+}, {
+  "id" : 2022062707,
+  "originalValue" : "pale yellow",
+  "information" : "bliedna-zoŭty\n\n???"
+}, {
+  "id" : 2022062708,
+  "originalValue" : "tan",
+  "information" : "rudavata-karyčnievy\n\n???"
+}, {
+  "id" : 2022062709,
+  "originalValue" : "tangerine",
+  "information" : "mandarynavy\n\n???"
+}, {
+  "id" : 2022062710,
+  "originalValue" : "salmon",
+  "information" : "lasasiovy\n\n???"
+}, {
+  "id" : 2022062711,
+  "originalValue" : "teal",
+  "information" : "sinie-zialiony\n\n???"
+}, {
+  "id" : 2022062712,
+  "originalValue" : "plum",
+  "information" : "sinie-fijalietavy\n\n???"
+}, {
+  "id" : 2022062713,
+  "originalValue" : "violet",
+  "information" : "fijalietavy\n\n???"
+}, {
+  "id" : 2022062714,
+  "originalValue" : "purple",
+  "information" : "lilovy\n\n???"
+}, {
+  "id" : 2022062715,
+  "originalValue" : "ivory",
+  "information" : "slanovaja kosć\n\n???"
+}, {
+  "id" : 2022062716,
+  "originalValue" : "denim",
+  "information" : "dzynsavy\n\n???"
+}, {
+  "id" : 2022062717,
+  "originalValue" : "chartreuse",
+  "information" : "šartrez\n\n???"
+}, {
+  "id" : 2022062718,
+  "originalValue" : "deep sky blue",
+  "information" : "niabiesna-sini\n\n???"
+}, {
+  "id" : 2022062719,
+  "originalValue" : "fuchsia",
+  "information" : "purpurovy\n\n???"
+}, {
+  "id" : 2022062720,
+  "originalValue" : "deep pink",
+  "information" : "nasyčany ruzovy\n\n???"
+}, {
+  "id" : 2022062721,
+  "originalValue" : "burgundy",
+  "information" : "bardovy\n\n???"
+}, {
+  "id" : 2022062722,
+  "originalValue" : "blond",
+  "information" : "bialiavy\n\n???"
 } ]
