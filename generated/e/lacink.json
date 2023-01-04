@@ -1,0 +1,205 @@
+[ {
+  "id" : 2023010401,
+  "originalValue" : "Point",
+  "information" : "Adzinka"
+}, {
+  "id" : 2023010402,
+  "originalValue" : "Perk",
+  "information" : "Admietka, Navyk"
+}, {
+  "id" : 2023010403,
+  "originalValue" : "Resistance",
+  "information" : "Adpornaść, Tryvalaść "
+}, {
+  "id" : 2023010404,
+  "originalValue" : "HP",
+  "information" : "AZ, adzinki zdaroŭia, punkty zdaroŭia"
+}, {
+  "id" : 2023010405,
+  "originalValue" : "Fighter",
+  "information" : "Bajec"
+}, {
+  "id" : 2023010406,
+  "originalValue" : "Berserker",
+  "information" : "Biersierk"
+}, {
+  "id" : 2023010407,
+  "originalValue" : "Warior",
+  "information" : "Vajar, vajaka"
+}, {
+  "id" : 2023010408,
+  "originalValue" : "Lore",
+  "information" : "Vučonaść"
+}, {
+  "id" : 2023010409,
+  "originalValue" : "Explosion",
+  "information" : "Vybuch"
+}, {
+  "id" : 2023010410,
+  "originalValue" : "Explosives",
+  "information" : "Vybuchoŭka"
+}, {
+  "id" : 2023010411,
+  "originalValue" : "Sorcerer",
+  "information" : "Viadźmak"
+}, {
+  "id" : 2023010412,
+  "originalValue" : "Cannon",
+  "information" : "Harmata"
+}, {
+  "id" : 2023010413,
+  "originalValue" : "Gnome",
+  "information" : "hnom"
+}, {
+  "id" : 2023010414,
+  "originalValue" : "Player",
+  "information" : "Huliec"
+}, {
+  "id" : 2023010415,
+  "originalValue" : "Dwarf ",
+  "information" : "Dvorf"
+}, {
+  "id" : 2023010416,
+  "originalValue" : "Sword hilt",
+  "information" : "Dziarzaĺna miača"
+}, {
+  "id" : 2023010417,
+  "originalValue" : "Party",
+  "information" : "Druzyna"
+}, {
+  "id" : 2023010418,
+  "originalValue" : "Druid",
+  "information" : "Druid"
+}, {
+  "id" : 2023010419,
+  "originalValue" : "Party",
+  "information" : "Źviaz"
+}, {
+  "id" : 2023010420,
+  "originalValue" : "Ability",
+  "information" : "Zdatnaść"
+}, {
+  "id" : 2023010421,
+  "originalValue" : "Thief",
+  "information" : "Zlodziej"
+}, {
+  "id" : 2023010422,
+  "originalValue" : "Intelligence",
+  "information" : "Inteliekt (piersa), razumovaść (pačvary)"
+}, {
+  "id" : 2023010423,
+  "originalValue" : "Halfling",
+  "information" : "karuźlik"
+}, {
+  "id" : 2023010424,
+  "originalValue" : "Die roll",
+  "information" : "Kidok kości"
+}, {
+  "id" : 2023010425,
+  "originalValue" : "Dice",
+  "information" : "Kość (n-hrańnik)"
+}, {
+  "id" : 2023010426,
+  "originalValue" : "Сrusader",
+  "information" : "Kryzak"
+}, {
+  "id" : 2023010427,
+  "originalValue" : "Bullet",
+  "information" : "Kulia"
+}, {
+  "id" : 2023010428,
+  "originalValue" : "Headhunter",
+  "information" : "Laviec"
+}, {
+  "id" : 2023010429,
+  "originalValue" : "Ammo",
+  "information" : "Ladunak"
+}, {
+  "id" : 2023010430,
+  "originalValue" : "Healer",
+  "information" : "Liekar"
+}, {
+  "id" : 2023010431,
+  "originalValue" : "Mage",
+  "information" : "Mah"
+}, {
+  "id" : 2023010432,
+  "originalValue" : "Modificier",
+  "information" : "Madyfikatar"
+}, {
+  "id" : 2023010433,
+  "originalValue" : "Monk",
+  "information" : "Manach, mnich"
+}, {
+  "id" : 2023010434,
+  "originalValue" : "Wisdom",
+  "information" : "Mudraść"
+}, {
+  "id" : 2023010435,
+  "originalValue" : "Charge",
+  "information" : "Naboj - Zarad porachu sa šrotam, karciečču abo kuliaj"
+}, {
+  "id" : 2023010436,
+  "originalValue" : "NPC",
+  "information" : "Niehuĺniavy piersanaz"
+}, {
+  "id" : 2023010437,
+  "originalValue" : "Immunity (to) ",
+  "information" : "Nieparazaĺnaść"
+}, {
+  "id" : 2023010438,
+  "originalValue" : "Orc",
+  "information" : "Ork"
+}, {
+  "id" : 2023010439,
+  "originalValue" : "Paladin",
+  "information" : "Paladyn"
+}, {
+  "id" : 2023010440,
+  "originalValue" : "Buff/debuff",
+  "information" : "pasiliennie/zniasiliennie"
+}, {
+  "id" : 2023010441,
+  "originalValue" : "Half-elf, half-orc",
+  "information" : "Paŭeĺf, paŭork"
+}, {
+  "id" : 2023010442,
+  "originalValue" : "Damage",
+  "information" : "Paškodzańnie, uškodzańnie"
+}, {
+  "id" : 2023010443,
+  "originalValue" : "Character ",
+  "information" : "Piersanaz"
+}, {
+  "id" : 2023010444,
+  "originalValue" : "Easter egg",
+  "information" : "Pisanka"
+}, {
+  "id" : 2023010445,
+  "originalValue" : "Pistol",
+  "information" : "Pistolia"
+}, {
+  "id" : 2023010446,
+  "originalValue" : "Bonus",
+  "information" : "Premnullia"
+}, {
+  "id" : 2023010447,
+  "originalValue" : "XP",
+  "information" : "Punkty dośviedu, dośvied"
+}, {
+  "id" : 2023010448,
+  "originalValue" : "Bard",
+  "information" : "Piaśniar, Dudar"
+}, {
+  "id" : 2023010449,
+  "originalValue" : "Rpg",
+  "information" : "Rolievaja huĺnia"
+}, {
+  "id" : 2023010450,
+  "originalValue" : "Gun",
+  "information" : "Rulia"
+}, {
+  "id" : 2023010451,
+  "originalValue" : "Adventurer",
+  "information" : "Ryzykaniec"
+} ]

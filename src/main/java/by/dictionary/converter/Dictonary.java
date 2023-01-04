@@ -4,6 +4,7 @@ import by.dictionary.converter.a.AConverter;
 import by.dictionary.converter.b.BConverter;
 import by.dictionary.converter.c.CConverter;
 import by.dictionary.converter.d.DConverter;
+import by.dictionary.converter.e.EConverter;
 
 public enum Dictonary {
 
@@ -17,8 +18,11 @@ public enum Dictonary {
             "Слоўнік Пугачова.xlsx",
             new CConverter()),
     COLOR("d",
-                     "Колеры.xlsx",
-                     new DConverter());
+            "Колеры.xlsx",
+            new DConverter()),
+    SKALKOVIC("e",
+            "Слоўнік гульнявых тэрмінаў.xlsx",
+            new EConverter());
 
     public final String id;
     public final String inputPath;

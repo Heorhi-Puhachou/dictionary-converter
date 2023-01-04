@@ -1,0 +1,205 @@
+[ {
+  "id" : 2023010401,
+  "originalValue" : "Point",
+  "information" : "Адзінка"
+}, {
+  "id" : 2023010402,
+  "originalValue" : "Perk",
+  "information" : "Адметка, Навык"
+}, {
+  "id" : 2023010403,
+  "originalValue" : "Resistance",
+  "information" : "Адпорнасьць, Трываласьць "
+}, {
+  "id" : 2023010404,
+  "originalValue" : "HP",
+  "information" : "АЗ, адзінкі здароўя, пункты здароўя"
+}, {
+  "id" : 2023010405,
+  "originalValue" : "Fighter",
+  "information" : "Баец"
+}, {
+  "id" : 2023010406,
+  "originalValue" : "Berserker",
+  "information" : "Берсерк"
+}, {
+  "id" : 2023010407,
+  "originalValue" : "Warior",
+  "information" : "Ваяр, ваяка"
+}, {
+  "id" : 2023010408,
+  "originalValue" : "Lore",
+  "information" : "Вучонасьць"
+}, {
+  "id" : 2023010409,
+  "originalValue" : "Explosion",
+  "information" : "Выбух"
+}, {
+  "id" : 2023010410,
+  "originalValue" : "Explosives",
+  "information" : "Выбухоўка"
+}, {
+  "id" : 2023010411,
+  "originalValue" : "Sorcerer",
+  "information" : "Вядзьмак"
+}, {
+  "id" : 2023010412,
+  "originalValue" : "Cannon",
+  "information" : "Гармата"
+}, {
+  "id" : 2023010413,
+  "originalValue" : "Gnome",
+  "information" : "гном"
+}, {
+  "id" : 2023010414,
+  "originalValue" : "Player",
+  "information" : "Гулец"
+}, {
+  "id" : 2023010415,
+  "originalValue" : "Dwarf ",
+  "information" : "Дворф"
+}, {
+  "id" : 2023010416,
+  "originalValue" : "Sword hilt",
+  "information" : "Дзяржальна мяча"
+}, {
+  "id" : 2023010417,
+  "originalValue" : "Party",
+  "information" : "Дружына"
+}, {
+  "id" : 2023010418,
+  "originalValue" : "Druid",
+  "information" : "Друід"
+}, {
+  "id" : 2023010419,
+  "originalValue" : "Party",
+  "information" : "Зьвяз"
+}, {
+  "id" : 2023010420,
+  "originalValue" : "Ability",
+  "information" : "Здатнасьць"
+}, {
+  "id" : 2023010421,
+  "originalValue" : "Thief",
+  "information" : "Злодзей"
+}, {
+  "id" : 2023010422,
+  "originalValue" : "Intelligence",
+  "information" : "Інтэлект (перса), разумовасьць (пачвары)"
+}, {
+  "id" : 2023010423,
+  "originalValue" : "Halfling",
+  "information" : "карузьлік"
+}, {
+  "id" : 2023010424,
+  "originalValue" : "Die roll",
+  "information" : "Кідок косьці"
+}, {
+  "id" : 2023010425,
+  "originalValue" : "Dice",
+  "information" : "Косьць (n-граньнік)"
+}, {
+  "id" : 2023010426,
+  "originalValue" : "Сrusader",
+  "information" : "Крыжак"
+}, {
+  "id" : 2023010427,
+  "originalValue" : "Bullet",
+  "information" : "Куля"
+}, {
+  "id" : 2023010428,
+  "originalValue" : "Headhunter",
+  "information" : "Лавец"
+}, {
+  "id" : 2023010429,
+  "originalValue" : "Ammo",
+  "information" : "Ладунак"
+}, {
+  "id" : 2023010430,
+  "originalValue" : "Healer",
+  "information" : "Лекар"
+}, {
+  "id" : 2023010431,
+  "originalValue" : "Mage",
+  "information" : "Маг"
+}, {
+  "id" : 2023010432,
+  "originalValue" : "Modificier",
+  "information" : "Мадыфікатар"
+}, {
+  "id" : 2023010433,
+  "originalValue" : "Monk",
+  "information" : "Манах, мніх"
+}, {
+  "id" : 2023010434,
+  "originalValue" : "Wisdom",
+  "information" : "Мудрасьць"
+}, {
+  "id" : 2023010435,
+  "originalValue" : "Charge",
+  "information" : "Набой - Зарад пораху са шротам, карцеччу або куляй"
+}, {
+  "id" : 2023010436,
+  "originalValue" : "NPC",
+  "information" : "Негульнявы персанаж"
+}, {
+  "id" : 2023010437,
+  "originalValue" : "Immunity (to) ",
+  "information" : "Непаражальнасьць"
+}, {
+  "id" : 2023010438,
+  "originalValue" : "Orc",
+  "information" : "Орк"
+}, {
+  "id" : 2023010439,
+  "originalValue" : "Paladin",
+  "information" : "Паладын"
+}, {
+  "id" : 2023010440,
+  "originalValue" : "Buff/debuff",
+  "information" : "ПасілЕнне/знясілЕнне"
+}, {
+  "id" : 2023010441,
+  "originalValue" : "Half-elf, half-orc",
+  "information" : "Паўэльф, паўорк"
+}, {
+  "id" : 2023010442,
+  "originalValue" : "Damage",
+  "information" : "Пашкоджаньне, ушкоджаньне"
+}, {
+  "id" : 2023010443,
+  "originalValue" : "Character ",
+  "information" : "Персанаж"
+}, {
+  "id" : 2023010444,
+  "originalValue" : "Easter egg",
+  "information" : "Пісанка"
+}, {
+  "id" : 2023010445,
+  "originalValue" : "Pistol",
+  "information" : "Пістоля"
+}, {
+  "id" : 2023010446,
+  "originalValue" : "Bonus",
+  "information" : "Прэмия"
+}, {
+  "id" : 2023010447,
+  "originalValue" : "XP",
+  "information" : "Пункты досьведу, досьвед"
+}, {
+  "id" : 2023010448,
+  "originalValue" : "Bard",
+  "information" : "Пясьняр, Дудар"
+}, {
+  "id" : 2023010449,
+  "originalValue" : "Rpg",
+  "information" : "Ролевая гульня"
+}, {
+  "id" : 2023010450,
+  "originalValue" : "Gun",
+  "information" : "Руля"
+}, {
+  "id" : 2023010451,
+  "originalValue" : "Adventurer",
+  "information" : "Рызыканец"
+} ]
