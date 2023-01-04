@@ -17,4 +17,5 @@ export const LACINK = {
     b_dictionary: "Terminy Proton. Košaĺ i Turok",
     c_dictionary: "Sloŭnik Puhačova",
     d_dictionary: "Koliery",
+    e_dictionary: "Sloŭnik Skalkoviča",
 };

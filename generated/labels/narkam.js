@@ -17,4 +17,5 @@ export const NARKAM = {
     b_dictionary: "Тэрміны Proton. Кошаль і Турок",
     c_dictionary: "Слоўнік Пугачова",
     d_dictionary: "Колеры",
+    e_dictionary: "Слоўнік Скалковіча",
 };
